@@ -1,9 +1,0 @@
-Dear colleagues,&#10;
-&#10;Please be informed about the upcoming monthly OMV wide IT TEST maintenance window which impacts Plan2Value Testsystems &#10;
-&#10;This maintenance window is scheduled from&#10;
-&#10;Start:&#9;Thursday,&#9;12.12.2024 06:00 (CET) until 
-&#10;End:  &#9;Thursday,&#9;12.12.2024 15:00 (CET). &#10;
-&#10;During this Test maintenance windows the Plan2Value test environments (both 16.5. and 20.4) might face degraded availability. &#10;
-&#10;
-kind regards&#10;
-Plan2Value team

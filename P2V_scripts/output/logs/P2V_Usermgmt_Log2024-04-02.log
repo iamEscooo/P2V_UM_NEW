@@ -1,7 +1,0 @@
-﻿[2024-04-02 10:22:11] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01000587
-[2024-04-02 10:22:11] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
-[2024-04-02 12:38:56] - [INFO] [WW/adminx449222] started P2V_lock_inactive_users 
-[2024-04-02 12:38:56] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_lock_inactive_users]
-[2024-04-02 12:39:04] - [INFO] loading userlist from tenant P2V_PRODTEST
-[2024-04-02 14:36:51] - [INFO] [WW/adminx449222] started check_userprofile -xkey ALEXEY6
-[2024-04-02 14:36:51] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]

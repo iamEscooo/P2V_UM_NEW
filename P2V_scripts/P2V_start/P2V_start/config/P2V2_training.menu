@@ -1,5 +1,0 @@
-Section,Method,Command,Arguments,Name,Description
-Plan2Value Training 20.x,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,https://ips20-test.ww.omv.com/TRAINING,Plan2Value<LineBreak />Planningspace 20.4<LineBreak />WEB,Plan2Value Training<LineBreak />Planningspace 20.4 WEB<LineBreak />(Microsoft 365)
-Plan2Value Training 20.x,cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-test.ww.omv.com/TRAINING, Plan2Value<LineBreak />Planningspace 20.4<LineBreak />DESKTOP,Plan2Value Training<LineBreak />Planningspace 20.4 DESKTOP<LineBreak/>(Microsoft 365)
-EXIT,exit,exit,,EXIT,exit this menu
-EXIT,cmd,logoff,,EXIT,closes all PROD P2V sessions and exit

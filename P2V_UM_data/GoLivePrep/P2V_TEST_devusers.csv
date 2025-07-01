@@ -1,8 +1,0 @@
-﻿LogonId,authenticationMethod,Domain,DisplayName,Description,IsDeactivated,IsAccountLocked
-svc.ww.ro.testagent1@petrom.com,SAML2,,TEST-AGENT 1 (s.ro.testagent1),Interface testuser (GeoX) - contact Sterre Dortland -used for automated API testing,FALSE,FALSE
-svc.ww.ro.testagent2@petrom.com,SAML2,,TEST-AGENT 2 (s.ro.testagent2),Interface testuser (GeoX) - contact Sterre Dortland -used for automated API testing,FALSE,FALSE
-svc.ww.ro.testagent3@petrom.com,SAML2,,TEST-AGENT 3 (s.ro.testagent3),Interface testuser (GeoX) - contact Sterre Dortland -used for automated API testing,FALSE,FALSE
-svc.ww.ro.testagent4@petrom.com,SAML2,,TEST-AGENT 4 (s.ro.testagent4),Interface testuser (GeoX) - contact Sterre Dortland -used for automated API testing,FALSE,FALSE
-svc.ww.ro.testagent5@petrom.com,SAML2,,TEST-AGENT 5 (s.ro.testagent5),Interface testuser (GeoX) - contact Sterre Dortland -used for automated API testing,FALSE,FALSE
-Sterre.Dortland@omv.com,SAML2,,Dortland Sterre (STERRE1),EETE-L Data Liberation & AI,FALSE,FALSE
-BJORG1@ww.omv.com,SAML2,,Fredriksen Bjorg (BJORG1),EDPS-S Surface Technical Services,FALSE,FALSE

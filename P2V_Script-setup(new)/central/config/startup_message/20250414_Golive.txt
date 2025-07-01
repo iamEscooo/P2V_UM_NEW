@@ -1,8 +1,0 @@
-Dear colleagues,&#10;
-&#10;Plan2Value was successfully upgraded to Quorum Planningspace 20.4 !&#10;
-&#10;&#10;Please make sure that you are only using the new version from now onwards.&#10;
-&#10;
-&#10;The former Plan2Value(Planningspace 16.5) data is still accessible but any changes there will be discarded! &#10;
-&#10;
-kind regards&#10;
-Plan2Value team

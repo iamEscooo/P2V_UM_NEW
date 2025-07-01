@@ -1,4 +1,0 @@
-Section,Method,Command,Arguments,Name,Description
-NAMR Report,cmd,C:\OMV_NAMR_Report_App\debug\Aucerna.PSEconExtractor.Gui.exe,,NAMR report,only for RO (connected to P2V-PROD)
-EXIT,exit,exit,,EXIT,exit this menu
-

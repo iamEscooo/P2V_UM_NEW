@@ -1,4 +1,0 @@
-Section,Method,Command,Arguments,Name,Description
-Plan2Value UPDATE Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-update.ww.omv.com/P2V_UPDATE,Planningspace UPDATE,Aucerna Planningspace P2V-UPDATE (ips-update)
-Plan2Value UPDATE Environment,cmd,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe ,-app=https://tsomvat502033.ww.omv.com:444/OMVUPDATE,Reserves UPDATE,Reserves tenant: UPDATE
-EXIT,cmd,logoff,,EXIT,closes all UPDATE P2V sessions and exit

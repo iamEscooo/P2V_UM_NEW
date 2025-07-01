@@ -1,6 +1,0 @@
-﻿[2024-11-13 10:05:48] - [INFO] [WW/adminx449222] started check_userprofile -xkey SERGII1
-[2024-11-13 10:05:48] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
-[2024-11-13 10:06:03] - [INFO] [WW/adminx449222] started check_P2V_user -xkey SERGII1
-[2024-11-13 10:06:03] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
-[2024-11-13 10:06:07] - [INFO] [P2V-PROD] , [] , [11/13/2024 10:06:07] , [] 
-[2024-11-13 10:06:15] - [INFO] loading userlist from tenant P2V-PROD  [7.4853812 s]

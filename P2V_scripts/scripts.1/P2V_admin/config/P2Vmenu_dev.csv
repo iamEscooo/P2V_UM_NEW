@@ -1,5 +1,0 @@
-Section,Method,Command,Arguments,Name,Description
-Plan2Value DEVELOPMENT Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502898.ww.omv.com/PPS_DEV,Planningspace DEV,Development tenant (Aucerna only)
-Plan2Value DEVELOPMENT Environment,cmd,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe ,-app=https://tsomvat502899.ww.omv.com/OMVDEV,Reserves DEV,Reserves Development system
-Plan2Value DEVELOPMENT Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502898.ww.omv.com/P2V_DEV_2,Planningspace DEV 2,Development2 system (for merging DEV-PROD)
-EXIT,cmd,logoff,,EXIT,closes all DEV P2V sessions and exit

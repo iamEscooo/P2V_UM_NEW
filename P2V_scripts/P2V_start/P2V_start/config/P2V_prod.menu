@@ -1,6 +1,0 @@
-Section,Method,Command,Arguments,Name,Description
-Plan2Value PRODUCTION,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe ,https://ips20-prod.ww.omv.com/PROD ,Plan2Value<LineBreak />Planningspace 20.4<LineBreak />WEB,Plan2Value Production<LineBreak />Planningspace 20.4 WEB<LineBreak />(MS Office 2016)
-Plan2Value PRODUCTION,cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-prod.ww.omv.com/PROD,Plan2Value<LineBreak />Planningspace 20.4<LineBreak />DESKTOP,Plan2Value Production<LineBreak />Planningspace 20.4 DESKTOP<LineBreak />(MS Office 2016)
-Plan2Value Archive,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TEST,Plan2Value<LineBreak />Planningspace 16.5<LineBreak />Archive,Planningspace 16.5 copy <LineBreak />of latest productive data <LineBreak />(status 10.April 2025)<LineBreak />any changes in this system will be discarded
-EXIT,exit,exit,,EXIT,exit this menu
-EXIT,cmd,logoff,,EXIT,closes all PROD P2V sessions and exit

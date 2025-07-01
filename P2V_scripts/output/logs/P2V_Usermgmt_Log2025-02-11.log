@@ -1,9 +1,0 @@
-﻿[2025-02-11 09:30:31] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
-[2025-02-11 09:30:32] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
-[2025-02-11 09:31:08] - [INFO] [P2V-PROD] , [] , [02/11/2025 09:31:08] , [] 
-[2025-02-11 09:31:18] - [INFO] loading userlist from tenant P2V-PROD  [9.4979624 s]
-[2025-02-11 09:31:53] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove remove Sonnleitner Gabriele (X450774) Schumacher Georg (X01SCHGEO) - done
-[2025-02-11 09:31:54] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add add Sonnleitner Gabriele (X450774) Schumacher Georg (X01SCHGEO) - done
-[2025-02-11 09:31:55] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove remove Sonnleitner Gabriele (X450774) Schumacher Georg (X01SCHGEO) - done
-[2025-02-11 09:31:56] - [INFO] [P2V-PROD]-[bd.base] : add Sonnleitner Gabriele (X450774) - done
-[2025-02-11 09:31:56] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add add Sonnleitner Gabriele (X450774) Schumacher Georg (X01SCHGEO) - done

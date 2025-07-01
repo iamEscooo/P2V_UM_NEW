@@ -1,7 +1,0 @@
-tenant,ADgroup
-PPS_DEV,dlg.WW.ADM-Services.P2V.developer
-P2V_TEST,dlg.WW.ADM-Services.P2V.testusers
-P2V_DEMO,dlg.WW.ADM-Services.P2V.testusers
-P2V_TRAINING,dlg.WW.ADM-Services.P2V.testusers
-P2V-PROD,dlg.WW.ADM-Services.P2V.users
-P2V_TRAINING,dlg.WW.ADM-Services.PetroVR

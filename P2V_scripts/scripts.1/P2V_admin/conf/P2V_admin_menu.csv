@@ -1,5 +1,0 @@
-Section,Method,Command,Arguments,Name,Description
-central checks,powershell_inline,& .\central_uptime.ps1,,check uptime,check Server uptime
-central checks,powershell_inline,& .\central_check_user_session.ps1,,check user sessions
-central checks,powershell_inline,& .\central_uptime.ps1,,check uptime,check Server uptime
-EXIT,cmd,logoff,,EXIT,closes all TEST P2V sessions and exit
