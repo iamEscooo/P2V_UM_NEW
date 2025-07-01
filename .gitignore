@@ -1,0 +1,11 @@
+# Ignore log files
+*.log
+
+# Ignore Visual Studio folders
+.vs/
+
+# Ignore compiled executables
+*.exe
+
+# Ignore generated data
+P2V_UM_data/output/
