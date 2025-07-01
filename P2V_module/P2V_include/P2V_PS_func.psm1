@@ -134,16 +134,16 @@ Function P2V_get_userlist($tenant)
 		$user_list=Invoke-RestMethod -Uri $API_URL -Method GET -Headers @{'Authorization' = "Basic $base64AuthInfo"}
         if (!$user_list) {$form_err -f "[ERROR]", "cannot contact $t !" ;exit}
 		write-progress -Activity "loading userlist from tenant $t" -completed
-		$($P2V_userlist[$t])=New-Object PSObject -Property @{
+		$P2V_userlist[$t]=New-Object PSObject -Property @{
 		                               createdate = $cur_date
 									   list       = $user_list 
 									   }
    }
    write-output "checking Tenant-lists"
    foreach ($i in $P2V_userlist.keys)
-   {
-	 $($P2V_userlist[$i].list)|$outgrid-view -wait -title "$i/$($P2V_userlist[$i].createdate)"  
-   }
+	{
+    $P2V_userlist[$i].list | Out-GridView -Wait -Title "$i/$($P2V_userlist[$i].createdate)"
+	}
 
    # return $user_list
    return $($P2V_userlist[$t].list)

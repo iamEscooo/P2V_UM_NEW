@@ -1,13 +1,14 @@
 ﻿#-------------------------------------------------
 Add-Type -AssemblyName System.Windows.Forms
 
-$Env:PSModulePath = $Env:PSModulePath+";$PSScriptRoot\P2V_module;P2V_module"
+$scriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
 
-import-module -name "P2V_config.psd1" -global    # -verbose
-import-module -name "P2V_include.psd1" -global    -verbose
-import-module -name "P2V_dialog_func.psd1" -global # -verbose 
-import-module -name "P2V_AD_func.psd1" -global #-verbose
-import-module -name "P2V_PS_func.psd1" -global -verbose
+Import-Module "$scriptRoot\P2V_module\P2V_config.psd1" -Global -verbose
+Import-Module "$scriptRoot\P2V_module\P2V_include.psd1" -Global -verbose
+Import-Module "$scriptRoot\P2V_module\P2V_dialog_func.psd1" -Global -verbose
+Import-Module "$scriptRoot\P2V_module\P2V_AD_func.psd1" -Global -verbose
+Import-Module "$scriptRoot\P2V_module\P2V_PS_func.psd1" -Global -verbose
+
 
 #"-- PSModulePath:"|out-host
 #$env:PSModulePath -split ';' |out-host
@@ -25,12 +26,6 @@ else
   #   $PWD.Path 
 	$my_root = $PWD.Path
 }
-
-#import-module -name "$PSScriptRoot\P2V_config.psd1" -global    # -verbose
-#import-module -name "$PSScriptRoot\P2V_include.psd1" -global      -verbose
-#import-module -name "$PSScriptRoot\P2V_dialog_func.psd1" -global # -verbose 
-#import-module -name "$PSScriptRoot\P2V_AD_func.psd1" -global -verbose
-#import-module -name "$PSScriptRoot\P2V_PS_func.psd1" -global -verbose
 
 
 #import-module -name "$PSScriptRoot\P2V_module.psd1" -verbose
