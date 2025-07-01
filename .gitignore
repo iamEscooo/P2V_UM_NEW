@@ -7,5 +7,11 @@
 # Ignore compiled executables
 *.exe
 
+# Ignore zipped archives
+*.zip
+
+# Ignore Power BI files
+*.pbix
+
 # Ignore generated data
-P2V_UM_data/output/
+P2V_UM_data/**/output/
