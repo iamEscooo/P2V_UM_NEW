@@ -199,4 +199,8 @@ Export-ModuleMember -Variable @('date','output_path_base','dashboard_path','log_
 Export-ModuleMember -Variable @('workdir','spec_accounts')
 Export-ModuleMember -Function * -Alias *
 
+if ($workdir -eq 'DIR_NOT_SET') {
+    P2V_init -root $PSScriptRoot
+}
+
 
