@@ -7,7 +7,7 @@
 # Ignore compiled executables
 *.exe
 
-# Ignore zipped archives
+# Ignore zip archives
 *.zip
 
 # Ignore Power BI files
