@@ -15,15 +15,15 @@ import-module -name "P2V_PS_func.psd1" -global -verbose
 if ($PSScriptRoot)
 {
   #	 "-- PSScriptRoot:"|out-host
-  #   $global:PSScriptRoot
-	$my_root= $global:PSScriptRoot
+  #   $PSScriptRoot
+	$my_root = $PSScriptRoot
 	
 }
 else
 {
   #	 "-- PWD:"|out-host
   #   $PWD.Path 
-	$my_root=   $PWD.Path
+	$my_root = $PWD.Path
 }
 
 #import-module -name "$PSScriptRoot\P2V_config.psd1" -global    # -verbose
