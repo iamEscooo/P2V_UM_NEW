@@ -114,7 +114,10 @@ Function P2V_get_userlist($tenant)
    $max_age_minutes = 10     # max age of list in minutes
    $user_list       = @{}
    
-   write-log "[$t] , [$($P2V_userlist[$t].createdate)] , [$cur_date] , [$(($cur_date - $($P2V_userlist[$t].createdate)).totalminutes)] "
+   $ageMinutes = if ($P2V_userlist[$t]) {
+       ($cur_date - $P2V_userlist[$t].createdate).TotalMinutes
+   } else { 0 }
+   write-log "[$t] , [$($P2V_userlist[$t].createdate)] , [$cur_date] , [$ageMinutes]"
    #write-output ($form3 -f  $t ,$($P2V_userlist[$t].createdate))
    if ($P2V_userlist.Keys -contains $t)
    {
