@@ -180,13 +180,31 @@ $spec_accounts = @("adminx449222@ww.omv.com",
 #=================================================================
 
 Function P2V_init
-{ 
+{
   param (
-    [string]  $root=$PSscriptroot
-	)
-	
-	$script:workdir="$root"
-	$script:libdir = $workdir + "\lib"
+    [string]  $root=$PSScriptRoot
+        )
+
+        $script:workdir = "$root"
+        $script:output_path_base = Join-Path $workdir "P2V_scripts\output"
+        $script:dashboard_path   = $output_path_base + "\dashboard"
+        $script:log_path         = $output_path_base + "\logs"
+        $script:logfile          = $log_path + ("\P2V_Usermgmt_Log" + $filedate + ".log")
+        $script:config_path      = Join-Path $workdir "P2V_scripts\config"
+        $script:adgroupfile      = $config_path + "\P2V_adgroups.csv"
+        $script:tenantfile       = $config_path + "\P2V_tenants.csv"
+        $script:profile_file     = $config_path + "\P2V_profiles.csv"
+        $script:menu_file        = $config_path + "\P2V_menu.csv"
+        $script:data_groups      = $config_path + "\data_groups.csv"
+        $script:tag_conf         = $config_path + "\TAG_config.csv"
+        $script:bd_assign_file   = $config_path + "\P2V_BD.csv"
+        $script:bd_project_file  = $config_path + "\P2V_BD_projects.csv"
+        $script:libdir           = $workdir + "\lib"
+
+        if (Get-Command createdir_ifnotexists -ErrorAction SilentlyContinue) {
+            createdir_ifnotexists -check_path $log_path
+            createdir_ifnotexists -check_path $dashboard_path
+        }
 }
 
 #=================================================================
