@@ -1,0 +1,147 @@
+NEW,Login ID,Name,Authentication method,Domain,Email,Description,Expiry date,Locked
+D,AARON6,Johnson Aaron,WINDOWS_AD,ww,aaron.johnson@aucerna.com,ETDA F Surface DDAM,,FALSE
+,ADRIAN18,Jones Adrian,WINDOWS_AD,ww,Adrian.Jones@omv.com,EN X Expl   Development   Production,,FALSE
+,ALEXANDER47,Domnanovich Alexander Martin,WINDOWS_AD,ww,AlexanderMartin.Domnanovich@omv.com,ED P Project Mgmt    Growth Project,,FALSE
+,ALEXEY6,Bychkov Alexey,WINDOWS_AD,ww,alexey.bychkov@aucerna.com,ETDA F Surface DDAM,,FALSE
+,ANDREA7,Payer-Moser Andrea,WINDOWS_AD,ww,Andrea.Payer-Moser@omv.com,EP R Reserves Assurance,,FALSE
+,ANDREW14,Deacon Andrew Charles,WINDOWS_AD,ww,Andrew.Deacon@omv.com,ED RU Projects RU,,FALSE
+,ANNA39,Krüger Anna,WINDOWS_AD,ww,Anna.Krueger@omv.com,EFV C Controlling A,,FALSE
+,ARMANDO1,Carrasco Armando,WINDOWS_AD,ww,armando.carrasco@aucerna.com,ETDA F Surface DDAM,,FALSE
+,ARUN05,Shaw Arun,WINDOWS_AD,ww,arun.shaw@aucerna.com,ETDA F Surface DDAM,,FALSE
+,CARINA21,Dirtl Carina,WINDOWS_AD,ww,Carina.Dirtl@omv.com,EP S Performance   Services,,FALSE
+,CHLOE1,Asmar Chloe,WINDOWS_AD,ww,Chloe.Asmar@omv.com,EF E Economics   M A Finance,,FALSE
+,CHRISTIAN130,Scholz Christian,WINDOWS_AD,ww,Christian.Scholz@omv.com,EP AT Perf  Portf  Planning   BS AUT,,FALSE
+,CHRISTIAN87,Sledz Christian,WINDOWS_AD,ww,Christian.Sledz@omv.com,EF E Economics   M A Finance,,FALSE
+,CORINA9,Moza Corina,WINDOWS_AD,ww,Corina.Moza@omv.com,EFC O Operational Controlling,,FALSE
+,DANIEL51,Kressnik Daniel,WINDOWS_AD,ww,Daniel.Kressnik@omv.com,EDS C Project Controls,,FALSE
+,DOUG03,MacDonald Doug,WINDOWS_AD,ww,doug.macdonald@aucerna.com,ETDA F Surface DDAM,,FALSE
+,DOUG04,Brocklebank Doug,WINDOWS_AD,ww,doug.brockelbank@aucerna.com,ETDA F Surface DDAM,,FALSE
+,EKATERINA3,Melnikova Ekaterina,WINDOWS_AD,ww,Ekaterina.Melnikova@omv.com,ED RU Projects RU,,FALSE
+,ELIN01,Skeie Elin,WINDOWS_AD,ww,Elin.Skeie@omv.com,ENX P Production   Engineering NOS,,FALSE
+,FABIAN37,Pinzon Fabian,WINDOWS_AD,ww,fabian.pinzon@aucerna.com,ETDA F Surface DDAM,,FALSE
+,FELIX3,Lipp Felix,WINDOWS_AD,ww,Felix.Lipp@omv.com,EP P Portfolio   Planning,,FALSE
+,FLORIAN109,Dutzler Florian,WINDOWS_AD,ww,Florian.Dutzler@omv.com,EF S SAP S 4HANA Upstream,,FALSE
+,GAEL04,Carlier Gael,WINDOWS_AD,ww,gael.carlier@aucerna.com,ETDA F Surface DDAM,,FALSE
+,GEORG2,Seidl Georg,WINDOWS_AD,ww,Georg.Seidl@omv.com,ETP P Production Optimization,,FALSE
+,GREGORY1,Rock Gregory John,WINDOWS_AD,ww,GregoryJohn.Rock@omv.com,ETXV N Exploration Appraisal NOS,,FALSE
+,JENNIFER11,Skeete Jennifer,WINDOWS_AD,ww,Jennifer.Skeete@Aucerna.com,ETDA F Surface DDAM,,FALSE
+,KEVIN32,Rooney Kevin,WINDOWS_AD,ww,kevin.rooney@aucerna.com,ETDA F Surface DDAM,,FALSE
+,LARS1,Drage Lars,WINDOWS_AD,ww,Lars.Drage@omv.com,ERU X Expl   Development   Production,,FALSE
+,LARS3,Bruset Lars,WINDOWS_AD,ww,Lars.Bruset@omv.com,EF N Finance NOS,,FALSE
+,LEONARDO1,Umani Leonardo,WINDOWS_AD,ww,Leonardo.Umani@omv.com,EFC O Operational Controlling,,FALSE
+,LUCA09,Garzonio Luca,WINDOWS_AD,ww,Luca.Garzonio@omv.com,ENX P Production   Engineering NOS,,FALSE
+,LUKAS80,Volker Lukas Johannes,WINDOWS_AD,ww,Lukas.Volker@omv.com,EATTP T Production Technology,,FALSE
+,MANFRED5,Leitner Manfred,WINDOWS_AD,ww,Manfred.Leitner1@omv.com,EAT T Expl   Development   Production,,FALSE
+,MARC23,Swales Marc Steven,WINDOWS_AD,ww,MarcSteven.Swales@omv.com,EF E Economics   M A Finance,,FALSE
+,MARCO9,Bresciani Marco,WINDOWS_AD,ww,Marco.Bresciani@omv.com,EF N Finance NOS,,FALSE
+,MARTIN26,Hubbig Martin,WINDOWS_AD,ww,Martin.Hubbig@omv.com,EP R Reserves Assurance,,FALSE
+,MATTHEW9,Coughlin Matthew Kent,WINDOWS_AD,ww,MatthewKent.Coughlin@omv.com,EMXR R Reservoir Engineering,,FALSE
+,MICHAEL139,Eichinger Michael Stefan,WINDOWS_AD,ww,MichaelStefan.Eichinger@omv.com,ETR D Development,,FALSE
+,MIHAELA37,Dobre Mihaela-Nicoleta,WINDOWS_AD,ww,MihaelaNicoleta.Dobre@petrom.com,FGPIU U Surface DDAM,,FALSE
+,NEIL08,Ementon Neil Andrew,WINDOWS_AD,ww,Neil.Ementon@omv.com,ETX S Exploration Appr,,FALSE
+,NINA35,Romich Nina,WINDOWS_AD,ww,Nina.Romich@omv.com,EP AT Perf  Portf  Planning   BS AUT,,FALSE
+,PAUL77,Führmann Paul,WINDOWS_AD,ww,Paul.Fuehrmann@omv.com,EP P Portfolio   Planning,,FALSE
+,RADE01,Kalas Rade,WINDOWS_AD,ww,Rade.Kalas@omv.com,EFC O Operational Controlling,,FALSE
+,RADU50,Luchian Radu-Ovidiu,WINDOWS_AD,ww,RaduOvidiu.Luchian@petrom.com,FGPIU S Subsurface DDAM,,FALSE
+,REIDAR1,Haver Reidar,WINDOWS_AD,ww,Reidar.Haver@omv.com,EP N Perf  Portf    Planning NOS,,FALSE
+,RICHARD44,McCurdy Richard,WINDOWS_AD,ww,Richard.McCurdy@Aucerna.com,ETDA F Surface DDAM,,FALSE
+,RU000017,Safiullin Eduard,WINDOWS_AD,ww,Eduard.Safiullin@omv.com,ERU X Expl   Development   Production,,FALSE
+,RU000040,Galyautdinov Marsel,WINDOWS_AD,ww,Marsel.Galyautdinov@omv.com,EF RU Finance Russia,,FALSE
+,RU000051,Orlova Tatiana,WINDOWS_AD,ww,Tatiana.Orlova@omv.com,EP RU Perf  Portf    Planning RU,,FALSE
+,RU000076,Fedorov Pavel,WINDOWS_AD,ww,Pavel.Fedorov@omv.com,ERU X Expl   Development   Production,,FALSE
+,SANCHECA,Sanchez Paez Camilo Andres,WINDOWS_AD,ww,Camilo.Sanchez@omv.com,PEIK F Finance,,FALSE
+,SANDRA18,Culjak Sandra,WINDOWS_AD,ww,Sandra.Culjak@omv.com,EFC O Operational Controlling,,FALSE
+,SEBASTIAN15,Buha Sebastian,WINDOWS_AD,ww,Sebastian.Buha@omv.com,EATT P Prod Technology   Optimization,,FALSE
+,SEMRA1,Kocyigit Semra,WINDOWS_AD,ww,Semra.Kocyigit@omv.com,EF V Finance A   Venture Mgmt,,FALSE
+,SIMON30,Rossak Simon,WINDOWS_AD,ww,Simon.Rossak@omv.com,EFV C Controlling A,,FALSE
+,SIMONA10,Iancu Simona-Nicoleta,WINDOWS_AD,ww,Simona.Iancu@omv.com,EP P Portfolio   Planning,,FALSE
+,SIRI02,Berge Siri,WINDOWS_AD,ww,Siri.Berge@omv.com,ENX R Development   Reservoir Eng NOS,,FALSE
+,STANISLAV7,Kozlov Stanislav,WINDOWS_AD,ww,stanislav.kozlov@aucerna.com,ETDA F Surface DDAM,,FALSE
+,STEFAN42,Weber Stefan,WINDOWS_AD,ww,Stefan.Weber1@omv.com,EML X Exploration  Develop    Prod LY,,FALSE
+,STEPHANIE3,Lukesch Stephanie,WINDOWS_AD,ww,Stephanie.Lukesch@omv.com,EP S Performance   Services,,FALSE
+,SUSAN2,Ellis Susan,WINDOWS_AD,ww,Susan.Ellis@omv.com,EF E Economics   M A Finance,,FALSE
+,THOMAS191,Rottler Thomas,WINDOWS_AD,ww,Thomas.Rottler@external.omv.com,EFC O Operational Controlling,,FALSE
+,TREVOR4,Mann Trevor,WINDOWS_AD,ww,Trevor.Mann@Aucerna.com,ETDA F Surface DDAM,,FALSE
+,VICTOR8,Balomiri Victor-Emanuel,WINDOWS_AD,ww,Victor.Balomiri@omv.com,EP RU Perf  Portf    Planning RU,,FALSE
+,VLADISLAV9,Arekhov Vladislav,WINDOWS_AD,ww,Vladislav.Arekhov@omv.com,ERU X Expl   Development   Production,,FALSE
+,WUILMER1,Ponte Pineda Wuilmer Jose,WINDOWS_AD,ww,Wuilmer.Ponte@omv.com,ENX R Development   Reservoir Eng NOS,,FALSE
+,X01000582,Catu-Sascioreanu Roxana,WINDOWS_AD,ww,Roxana.Catu-Sascioreanu@petrom.com,PFE F Project Finance   Economics,,FALSE
+,X01000584,Dinu Irene Claudia,WINDOWS_AD,ww,Irene.Dinu@petrom.com,PEPP A Portfolio Analysis   Planning,,FALSE
+,X01000587,Duta Gabriela-Georgeta,WINDOWS_AD,ww,Gabriela-Georgeta.Duta@petrom.com,PFE F Project Finance   Economics,,FALSE
+,X01000648,Stancu Nicoleta,WINDOWS_AD,ww,Nicoleta.Stancu@petrom.com,PED R Reserves,,FALSE
+,X01000651,Barbu Ionica,WINDOWS_AD,ww,Ionica.Barbu@petrom.com,PED R Reserves,,FALSE
+,X01001437,Toma Gerasel,WINDOWS_AD,ww,Gerasel.Toma@petrom.com,PFE M Finance Controlling Asset Moldo,,FALSE
+,X01001805,Bulgariu Razvan,WINDOWS_AD,ww,Razvan.Bulgariu@omv.com,EP P Portfolio   Planning,,FALSE
+,X01003515,Bunescu Florina,WINDOWS_AD,ww,Loredana.Bunescu@petrom.com,PEPP A Portfolio Analysis   Planning,,FALSE
+,X01005176,Paraschiv Catalin,WINDOWS_AD,ww,Catalin.Paraschiv@petrom.com,EP R Reserves Assurance,,FALSE
+,X01007916,Prisnel Tatiana-Mirela,WINDOWS_AD,ww,Tatiana.Prisnel@petrom.com,PFE N Finance Controlling Asset Munte,,FALSE
+,X01008921,Schlager Ramona Florentina,WINDOWS_AD,ww,Ramona.Schlager@petrom.com,PFE O Upstream Controlling,,FALSE
+,X01010854,Pop Alina Simona,WINDOWS_AD,ww,AlinaSimona.Pop@petrom.com,PFE 1 Finance Controlling Asset Crisa,,FALSE
+,X01013355,Audochii Nona-Alice,WINDOWS_AD,ww,Nona.Audochii@petrom.com,PFE F Project Finance   Economics,,FALSE
+,X01015140,Dumitriu Mihaela,WINDOWS_AD,ww,Mihaela.Dumitriu@petrom.com,PEA7M T Technical Engineering Support,,FALSE
+,X01021703,Chiru Alexandru,WINDOWS_AD,ww,alexandru.chiru@omv.com,PFE O Upstream Controlling,,FALSE
+,X01022380,Pasca Iulia-Gabriela,WINDOWS_AD,ww,Iulia_Gabriela.Pasca@petrom.com,EP P Portfolio   Planning,,FALSE
+,X01022417,Dinu Bogdan-Marius,WINDOWS_AD,ww,BogdanMarius.Dinu@omv.com,EF S SAP S 4HANA Upstream,,FALSE
+,X01022493,Chis Nicoleta-Marinela,WINDOWS_AD,ww,Nicoleta.Chis@petrom.com,PFE 1 Finance Controlling Asset Crisa,,FALSE
+,X01024152,Iovita Beatrice,WINDOWS_AD,ww,Beatrice.Iovita@petrom.com,PEPP A Portfolio Analysis   Planning,,FALSE
+,X01024526,Coada-Petre Madalina,WINDOWS_AD,ww,Madalina.CoadaPetre@omv.com,EP N Perf  Portf    Planning NOS,,FALSE
+,X01026000,Davidescu Bogdan-George,WINDOWS_AD,ww,BogdanGeorge.Davidescu@omv.com,EATT R Dev   Reservoir Engineering,,FALSE
+,X01026348,Makar Ivan,WINDOWS_AD,ww,Ivan.Makar@omv.com,ETR R Reservoir Engineering,,FALSE
+,X01026769,Krcmarik Vladimir,WINDOWS_AD,ww,Vladimir.Krcmarik@omv.com,ERU X Expl   Development   Production,,FALSE
+,X011450,Behrend Jens,WINDOWS_AD,ww,Jens.Behrend@omv.com,EAT T Expl   Development   Production,,FALSE
+,X011451,Blazekovic Sasa,WINDOWS_AD,ww,Sasa.Blazekovic@omv.com,EATT P Prod Technology   Optimization,,FALSE
+,X011462,Puettmann Jost R,WINDOWS_AD,ww,Jost.Puettmann@omv.com,ETR D Development,,FALSE
+,X011798,Nolte Frank,WINDOWS_AD,ww,Frank.Nolte@omv.com,ETR D Development,,FALSE
+,X012779,Weber Stefan,WINDOWS_AD,ww,Stefan.Weber@omv.com,E BD Business Development,,FALSE
+,X01PEROSC,Perez Oscar Alberto,WINDOWS_AD,ww,OscarAlberto.Perez@omv.com,EDM L Projects LY,,FALSE
+,X01SAVRAL,Sava Raluca Maria,WINDOWS_AD,ww,Raluca.Sava@petrom.com,PEP P Performance   Portfolio Mgmt ,,FALSE
+,X01SCHGEO,Schumacher Georg,WINDOWS_AD,ww,Georg.Schumacher@petrom.com,E P Perf  Portf  Gov   Assurance,,FALSE
+,X370957,Danek Susanne,WINDOWS_AD,ww,Susanne.Danek@omv.com,ETX S Exploration Appr,,FALSE
+,X409094,Klein Eduard,WINDOWS_AD,ww,Eduard.Klein@omv.com,EP R Reserves Assurance,,FALSE
+,X427575,Hummer Thomas,WINDOWS_AD,ww,Thomas.Hummer@omv.com,ED E Concept   Project Fac  Eng ,,FALSE
+,X430454,Astl Christian,WINDOWS_AD,ww,Christian.Astl@omv.com,EP S Performance   Services,,FALSE
+,X437426,Enzendorfer Christian,WINDOWS_AD,ww,Christian.Enzendorfer@omv.com,EAT T Expl   Development   Production,,FALSE
+,X444646,Fuchs Lea Gertrud,WINDOWS_AD,ww,Lea.Fuchs@omv.com,EF RU Finance Russia,,FALSE
+,X446583,Eder Thomas,WINDOWS_AD,ww,Thomas.Eder@omv.com,ETX V Exploration Ventures,,FALSE
+,X448827,Gäbler Thomas,WINDOWS_AD,ww,Thomas.Gaebler@omv.com,EATA X Operations Support,,FALSE
+,X449077,Antes Gerald,WINDOWS_AD,ww,Gerald.Antes@omv.com,ETR D Development,,FALSE
+,X449156,Pertl Maria,WINDOWS_AD,ww,Maria.Pertl@omv.com,EF C Controlling,,FALSE
+,X449157,Waldner Martina,WINDOWS_AD,ww,Martina.Waldner@omv.com,EF C Controlling,,FALSE
+,X449194,Tauschitz Christian,WINDOWS_AD,ww,Christian.Tauschitz@omv.com,PFE O Upstream Controlling,,FALSE
+,X449222,Kufner Martin,WINDOWS_AD,ww,Martin.Kufner@omv.com,ETDA F Surface DDAM,,FALSE
+,X449282,Gerstner Alexander,WINDOWS_AD,ww,Alexander.Gerstner@omv.com,ETW C Well Construction,,FALSE
+,X449344,Paul Jan,WINDOWS_AD,ww,Jan.Paul@omv.com,ERUR Y Yuzhno Russkoye,,FALSE
+,X449362,Piller Peter,WINDOWS_AD,ww,Peter.Piller@omv.com,ED P Project Mgmt    Growth Project,,FALSE
+,X449381,Jacobs Bas,WINDOWS_AD,ww,Bas.Jacobs@omv.com,ETR R Reservoir Engineering,,FALSE
+,X449596,Hollerer Andrea,WINDOWS_AD,ww,Andrea.Blanzano@omv.com,ETRF O Geolog Well Delivery Operations,,FALSE
+,X449602,Posch Wolfgang,WINDOWS_AD,ww,Wolfgang.Posch@omv.com,EF E Economics   M A Finance,,FALSE
+,X449810,Stoiser Birgit,WINDOWS_AD,ww,Birgit.Stoiser@omv.com,EF E Economics   M A Finance,,FALSE
+,X449890,Rodgers Emma,WINDOWS_AD,ww,Emma.Rodgers@omv.com,EMY C CEO SapuraOMV,,FALSE
+,X449891,Gaber Christina Maria,WINDOWS_AD,ww,Christina.Gaber@omv.com,ETX S Exploration Appr,,FALSE
+,X450118,Malle Christian,WINDOWS_AD,ww,Christian.Malle@omv.com,ETDA S Subsurface DDAM,,FALSE
+,X450246,Hütter Kurt,WINDOWS_AD,ww,Kurt.Huetter@omv.com,ED P Project Mgmt    Growth Project,,FALSE
+,X450313,Nüsslein Markus,WINDOWS_AD,ww,markus.nuesslein@omv.com,EP P Portfolio   Planning,,FALSE
+,X450582,Blecha Christian,WINDOWS_AD,ww,Christian.Blecha@omv.com,EP P Portfolio   Planning,,FALSE
+,X450683,Bauer Franz,WINDOWS_AD,ww,Franz.Bauer@omv.com,PEPP A Portfolio Analysis   Planning,,FALSE
+,X450696,Staber Stephan,WINDOWS_AD,ww,Stephan.Staber@omv.com,ETR D Development,,FALSE
+,X451062,Donner Josef,WINDOWS_AD,ww,Josef.Donner@omv.com,EFV C Controlling A,,FALSE
+,X451207,Mitterlehner Paul,WINDOWS_AD,ww,Paul.Mitterlehner@omv.com,EFV C Controlling A,,FALSE
+,X451555,Six Jörg,WINDOWS_AD,ww,Joerg_Michael.Six@omv.com,EML X Exploration  Develop    Prod LY,,FALSE
+,X451558,Weber Tanja Maria,WINDOWS_AD,ww,Tanja.Weber@omv.com,EP P Portfolio   Planning,,FALSE
+,X451624,Verient Gery,WINDOWS_AD,ww,Gery.Verient@omv.com,ETR D Development,,FALSE
+,X451645,Male-Pirker Barbara,WINDOWS_AD,ww,Barbara.Male-Pirker@omv.com,ETR R Reservoir Engineering,,FALSE
+,X451671,Rodriguez Chavez Mario-Luis,WINDOWS_AD,ww,Mario-Luis.Rodriguez_Chavez@omv.com,EF E Economics   M A Finance,,FALSE
+,X451684,Florian Thomas,WINDOWS_AD,ww,Thomas.Florian@omv.com,PEAE M EOR IOR Pilot and Field Project,,FALSE
+,X451731,Paces Nicole,WINDOWS_AD,ww,Nicole.Paces@omv.com,ED E Concept   Project Fac  Eng ,,FALSE
+,X451775,Northover Ross,WINDOWS_AD,ww,Ross.Northover@omv.com,ED E Concept   Project Fac  Eng ,,FALSE
+,X452074,Giden Ilhami,WINDOWS_AD,ww,Ilhami.Giden@omv.com,EATT R Dev   Reservoir Engineering,,FALSE
+,X452077,Kirchgasser Christine,WINDOWS_AD,ww,Christine.Kirchgasser@omv.com,EFN C Controlling NOS,,FALSE
+,X452085,Illek Horst,WINDOWS_AD,ww,Horst.Illek@omv.com,ETDA F Surface DDAM,,FALSE
+,X452111,Renkema Wietse Joost,WINDOWS_AD,ww,Wietse.Renkema@omv.com,PED D Development,,FALSE
+,XALEXAN,Alexandru Andreea,WINDOWS_AD,ww,Andreea.Alexandru@omv.com,EF RU Finance Russia,,FALSE
+,XANDREEV,Andreev Andrey,WINDOWS_AD,ww,Andrey.Andreev@omv.com,ETD RU Digital Excellence RU,,FALSE
+,XBERGHOKA,Berghofer Karl,WINDOWS_AD,ww,Karl.Berghofer@omv.com,EMT X Expl  Development   Production,,FALSE
+,XBRUNSDI,Bruns Dimitri,WINDOWS_AD,ww,Dimitri.Bruns@omv.com,ETD I Digital Excellence NOS,,FALSE
+,XHERCUSSA,Hercus Sam,WINDOWS_AD,ww,Samuel.Hercus@omv.com,EMTX R Development   Reservoir Eng TUN,,FALSE
+,XHUSSAIFI,Hussain Fida,WINDOWS_AD,ww,Fida.Hussain@omv.com,EF E Economics   M A Finance,,FALSE
+,XMAKNINYO,Maknine Yosri,WINDOWS_AD,ww,Yosri.Maknine@omv.com,EFC O Operational Controlling,,FALSE

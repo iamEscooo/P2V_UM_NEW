@@ -1,0 +1,7 @@
+app,severity,msgfile,action
+PROD,information,info_contact.txt,CONT
+TEST,information,info_contact.txt,CONT
+TRAINING,information,info_contact.txt,CONT
+UPDATE,information,info_contact.txt,CONT
+CASH,information,info_contact.txt,CONT
+PETROVR,information,PetroVR_2024.txt,CONT

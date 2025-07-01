@@ -1,0 +1,5 @@
+﻿[2021-07-06 11:07:11] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_update_groups.ps1]
+[2021-07-06 11:09:36] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_update_groups.ps1]
+[2021-07-06 17:00:57] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_profile_manager_file]
+[2021-07-06 17:26:25] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_update_tenantusers]
+[2021-07-06 17:30:14] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_update_users.ps1]

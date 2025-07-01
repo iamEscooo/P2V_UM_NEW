@@ -1,0 +1,22 @@
+LogonId,DisplayName,Description,IsDeactivated,IsAccountLocked,EmailAddress,authenticationMethod
+Sandra.Culjak@omv.com,Culjak Sandra (SANDRA18),EFC-O Operational Controlling,False,False,,SAML2
+Rade.Kalas@omv.com,Kalas Rade (RADE01),EFC-O Operational Controlling,False,False,,SAML2
+Mathias.Etz@omv.com,Etz Mathias (X450761),EF-M Finance MEA,False,False,,SAML2
+Teodor_Vladut.Nastase@petrom.com,Nastase Teodor-Vladut (X01022484),EFM-C Controlling,False,False,,SAML2
+Abhinav.Patwardhan@omv.com,Patwardhan Abhinav (ABHINAV1),EFM-C Controlling,False,False,,SAML2
+Waqas.Qureshi@omv.com,Qureshi Waqas (XQURESHWA),EFM-C Controlling,False,False,,SAML2
+Andrew.Redford@omv.com,Redford Andrew (XREDFORD),EFM-E Project Finance & Economics,False,False,,SAML2
+khwajah.basem@omv.com,Hasan Khawaja Basem (XBASEMKH),EFM-E Project Finance & Economics,False,False,,SAML2
+hisham.dukaly@omv.com,Dukaly Hisham (XDUKALY),EFM-L Finance LY,False,False,,SAML2
+Ozge.Koksal@omv.com,Köksal Özge Aygerim (X012773),EFMT-C Controlling,False,False,,SAML2
+Elisabeth.Lehner@omv.com,Lehner Elisabeth (X450621),EF-C Controlling,False,False,,SAML2
+Michal.Griac@omv.com,Griac Michal (MICHAL29),EFC-O Operational Controlling,False,False,,SAML2
+Yosri.Maknine@omv.com,Maknine Yosri (XMAKNINYO),EFC-O Operational Controlling,False,False,,SAML2
+Victoria.Lampret@omv.com,Lampret Victoria (VICTORIA2),EF-C Controlling,False,False,,SAML2
+Corina.Moza@omv.com,Moza Corina (CORINA9),EFC-O Operational Controlling,False,False,,SAML2
+Enikoe.Bencsik@omv.com,Bencsik Enikö (ENIKOE1),EFM-L Finance LY,False,False,,SAML2
+Andreas.Stockinger@omv.com,Stockinger Andreas (ANDREAS60),EFA-C Controlling,False,False,,SAML2
+Martina.Waldner@omv.com,Waldner Martina (X449157),EF-C Controlling,False,False,,SAML2
+Josef.Hlavacek@omv.com,Hlavacek Josef (X450149),EF-C Controlling,False,False,,SAML2
+Maria.Pertl@omv.com,Pertl Maria (X449156),EF-C Controlling,False,False,,SAML2
+Andreea.Alexandru@omv.com,Alexandru Andreea (XALEXAN),EF-RU Finance Russia,False,False,,SAML2

@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"139580","PlanningSpace","The user [Hamish.Bracegirdle@omv.com] has logged in.","Hamish.Bracegirdle@omv.com","User","Login","Hamish.Bracegirdle@omv.com","10.12.205.21","2020-11-16T18:54:45.233Z"
+"139579","PlanningSpace","The user [JENNIFER11@ww.omv.com] has logged in.","JENNIFER11@ww.omv.com","User","Login","JENNIFER11@ww.omv.com","10.12.205.19","2020-11-16T18:51:19.543Z"
+"139578","PlanningSpace Financials","Set user permissions for entity : Hierarchy and instance id: 66","data.Corporate.Economics","Hierarchy","Created","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-11-16T18:33:32.467Z"
+"139577","PlanningSpace Financials","Set user permissions for entity : Hierarchy and instance id: 66","ALEXEY6@ww.omv.com","Hierarchy","Created","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-11-16T18:33:32.460Z"
+"139576","PlanningSpace Financials","Cloned hierarchy <zzz AB2> from the source hierarchy <zzz AB>.","zzz AB2","Hierarchy","Created","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-11-16T18:33:32.460Z"
+"139575","PlanningSpace Financials","Set user permissions for entity : Hierarchy Folder and instance id: 2462","data.Corporate.Economics","Hierarchy Folder","Created","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-11-16T18:33:32.120Z"
+"139574","PlanningSpace Financials","Set user permissions for entity : Hierarchy Folder and instance id: 2462","ALEXEY6@ww.omv.com","Hierarchy Folder","Created","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-11-16T18:33:32.110Z"
+"139573","PlanningSpace Financials","Set user permissions for entity : Hierarchy and instance id: 65","data.Corporate.Economics","Hierarchy","Created","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-11-16T18:18:19.080Z"
+"139572","PlanningSpace Financials","Set user permissions for entity : Hierarchy and instance id: 65","ALEXEY6@ww.omv.com","Hierarchy","Created","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-11-16T18:18:19.073Z"
+"139571","PlanningSpace Financials","Hierarchy <zzz AB> created.","zzz AB","Hierarchy","Created","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-11-16T18:18:18.967Z"

@@ -1,0 +1,16 @@
+﻿[2024-04-17 13:41:10] - [INFO] [WW/adminx449222] started check_userprofile -xkey STERRE1
+[2024-04-17 13:41:10] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-04-17 13:41:23] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey STERRE1
+[2024-04-17 13:41:29] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-04-17 13:41:39] - [INFO] loading userlist from tenant P2V-PROD
+[2024-04-17 13:41:54] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-04-17 13:42:03] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-04-17 13:42:13] - [INFO] loading userlist from tenant P2V_TEST
+[2024-04-17 13:42:22] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-04-17 13:42:32] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-04-17 13:53:52] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X01000587
+[2024-04-17 13:53:57] - [INFO] loading userlist from tenant P2V-PROD
+[2024-04-17 15:34:35] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X451558
+[2024-04-17 15:34:39] - [INFO] loading userlist from tenant P2V-PROD
+[2024-04-17 15:34:58] - [INFO] [WW/adminx449222] started check_userprofile -xkey X451558
+[2024-04-17 15:34:58] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]

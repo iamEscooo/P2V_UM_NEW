@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"104397","PlanningSpace Economics","The user <Susan.Ellis@omv.com> has logged in. ","Susan.Ellis@omv.com","User","Login","Susan.Ellis@omv.com","TSOMVAT423002","2020-07-10T10:52:08.543Z"
+"104396","PlanningSpace Dataflow","The user <Susan.Ellis@omv.com> has logged in. ","Susan.Ellis@omv.com","User","Login","Susan.Ellis@omv.com","TSOMVAT423002","2020-07-10T10:52:03.713Z"
+"104395","PlanningSpace","The user [Susan.Ellis@omv.com] has logged in.","Susan.Ellis@omv.com","User","Login","Susan.Ellis@omv.com","10.12.205.19","2020-07-10T10:51:56.510Z"
+"104394","PlanningSpace","Workgroup updated","BD_deny","Workgroup","Updated","useradmin","10.12.205.21","2020-07-09T12:56:55.817Z"
+"104393","PlanningSpace","The user [useradmin] has logged in.","useradmin","User","Login","useradmin","10.12.205.19","2020-07-09T12:55:26.267Z"
+"104392","PlanningSpace Dataflow","The user <martin.kufner@omv.com> has logged out.","martin.kufner@omv.com","User","Logout","martin.kufner@omv.com","TSOMVAT423002","2020-07-09T12:49:49.503Z"
+"94644","PlanningSpace","Workgroup updated","BD_full_access","Workgroup","Updated","martin.kufner@omv.com","10.12.205.20","2020-07-09T10:30:45.023Z"
+"94643","PlanningSpace","Added User to Workgroup <BD_deny>","ww\X01001805","Workgroup","Created","martin.kufner@omv.com","10.12.205.19","2020-07-09T10:11:00.230Z"
+"94642","PlanningSpace","Added User to Workgroup <BD_deny>","Simon.Hobbs@omv.com","Workgroup","Created","martin.kufner@omv.com","10.12.205.19","2020-07-09T10:11:00.230Z"
+"94641","PlanningSpace","Added User to Workgroup <BD_deny>","Pablo_Antonio.Torres_Jauregui@omv.com","Workgroup","Created","martin.kufner@omv.com","10.12.205.19","2020-07-09T10:11:00.230Z"

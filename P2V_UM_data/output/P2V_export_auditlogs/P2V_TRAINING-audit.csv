@@ -1,0 +1,12 @@
+﻿#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"323109","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.205.20","2021-07-19T08:08:56.463Z"
+"323108","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.205.21","2021-07-16T13:26:55.567Z"
+"323107","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.205.20","2021-07-16T12:53:16.740Z"
+"323105","PlanningSpace Dataflow","The user <MarcSteven.Swales@omv.com> has logged out.","MarcSteven.Swales@omv.com","User","Logout","MarcSteven.Swales@omv.com","TSOMVAT423006","2021-07-16T08:38:16.800Z"
+"323103","PlanningSpace Dataflow","The user <MarcSteven.Swales@omv.com> has logged in. ","MarcSteven.Swales@omv.com","User","Login","MarcSteven.Swales@omv.com","TSOMVAT423006","2021-07-16T08:37:37.130Z"
+"323102","PlanningSpace","The user [MarcSteven.Swales@omv.com] has logged in.","MarcSteven.Swales@omv.com","User","Login","MarcSteven.Swales@omv.com","10.12.205.20","2021-07-16T08:37:28.453Z"
+"323101","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.205.21","2021-07-15T12:23:32.597Z"
+"323100","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.205.21","2021-07-14T10:24:40.950Z"
+"323099","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.205.19","2021-07-14T07:10:55.620Z"
+"323098","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.205.19","2021-07-14T04:40:20.933Z"

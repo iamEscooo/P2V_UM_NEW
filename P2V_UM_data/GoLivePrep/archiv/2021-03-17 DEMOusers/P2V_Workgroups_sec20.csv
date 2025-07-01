@@ -1,0 +1,111 @@
+Id,Name,Description,Comments
+,data.ArabEmirates,Data access to country UnitedArabEmirates,[DATA] PRMS read-update
+,data.ArabEmirates.Economics,Data access to country UnitedArabEmirates (economist),[DATA] PRMS create-read-update-delete 
+,data.ArabEmirates.Finance,Data access to country UnitedArabEmirates (financials),[DATA] PRMS create-read-update-delete 
+,data.ArabEmirates.key,Data access to country UnitedArabEmirates (full access),[DATA] PRMS full access
+,data.Australia,Data access to country Australia,[DATA] PRMS read-update
+,data.Australia.Economics,Data access to country Australia (economist),[DATA] PRMS create-read-update-delete 
+,data.Australia.Finance,Data access to country Australia (financials),[DATA] PRMS create-read-update-delete 
+,data.Australia.key,Data access to country Australia (full access),[DATA] PRMS full access
+,data.Austria,Data access to country Austria,[DATA] PRMS read-update
+,data.Austria.Economics,Data access to country Austria (economist),[DATA] PRMS create-read-update-delete 
+,data.Austria.Finance,Data access to country Austria (financials),[DATA] PRMS create-read-update-delete 
+,data.Austria.key,Data access to country Austria (full access),[DATA] PRMS full access
+,data.Bulgaria,Data access to country Bulgaria,[DATA] PRMS read-update
+,data.Bulgaria.Economics,Data access to country Bulgaria (economist),[DATA] PRMS create-read-update-delete 
+,data.Bulgaria.Finance,Data access to country Bulgaria (financials),[DATA] PRMS create-read-update-delete 
+,data.Bulgaria.key,Data access to country Bulgaria (full access),[DATA] PRMS full access
+,data.Corporate,Data access to ALL countries,[DATA] PRMS read-update
+,data.Corporate.Economics,Data access to ALL countries (economist),[DATA] PRMS create-read-update-delete 
+,data.Corporate.Finance,Data access to ALL countries (financials),[DATA] PRMS create-read-update-delete 
+,data.Corporate.key,Data access to ALL countries (full access),[DATA] PRMS full access
+,data.Georgia,Data access to country Georgia,[DATA] PRMS read-update
+,data.Georgia.Economics,Data access to country Georgia (economist),[DATA] PRMS create-read-update-delete 
+,data.Georgia.Finance,Data access to country Georgia (financials),[DATA] PRMS create-read-update-delete 
+,data.Georgia.key,Data access to country Georgia (full access),[DATA] PRMS full access
+,data.Kurdistan,Data access to country Kurdistan,[DATA] PRMS read-update
+,data.Kurdistan.Economics,Data access to country Kurdistan (economist),[DATA] PRMS create-read-update-delete 
+,data.Kurdistan.Finance,Data access to country Kurdistan (financials),[DATA] PRMS create-read-update-delete 
+,data.Kurdistan.key,Data access to country Kurdistan (full access),[DATA] PRMS full access
+,data.Libya,Data access to country Libya,[DATA] PRMS read-update
+,data.Libya.Economics,Data access to country Libya (economist),[DATA] PRMS create-read-update-delete 
+,data.Libya.Finance,Data access to country Libya (financials),[DATA] PRMS create-read-update-delete 
+,data.Libya.key,Data access to country Libya (full access),[DATA] PRMS full access
+,data.Malaysia,Data access to country Malaysia,[DATA] PRMS read-update
+,data.Malaysia.Economics,Data access to country Malaysia (economist),[DATA] PRMS create-read-update-delete 
+,data.Malaysia.Finance,Data access to country Malaysia (financials),[DATA] PRMS create-read-update-delete 
+,data.Malaysia.key,Data access to country Malaysia (full access),[DATA] PRMS full access
+,data.Mexico,Data access to country Mexico,[DATA] PRMS read-update
+,data.Mexico.Economics,Data access to country Mexico (economist),[DATA] PRMS create-read-update-delete 
+,data.Mexico.Finance,Data access to country Mexico (financials),[DATA] PRMS create-read-update-delete 
+,data.Mexico.key,Data access to country Mexico (full access),[DATA] PRMS full access
+,data.NewZealand,Data access to country NewZealand,[DATA] PRMS read-update
+,data.NewZealand.Economics,Data access to country NewZealand (economist),[DATA] PRMS create-read-update-delete 
+,data.NewZealand.Finance,Data access to country NewZealand (financials),[DATA] PRMS create-read-update-delete 
+,data.NewZealand.key,Data access to country NewZealand (full access),[DATA] PRMS full access
+,data.Norway,Data access to country Norway,[DATA] PRMS read-update
+,data.Norway.Economics,Data access to country Norway (economist),[DATA] PRMS create-read-update-delete 
+,data.Norway.Finance,Data access to country Norway (financials),[DATA] PRMS create-read-update-delete 
+,data.Norway.Key,Data access to country Norway (full access),[DATA] PRMS full access
+,data.Romania,Data access to country Romania,[DATA] PRMS read-update
+,data.Romania.Economics,Data access to country Romania (economist),[DATA] PRMS create-read-update-delete 
+,data.Romania.Finance,Data access to country Romania (financials),[DATA] PRMS create-read-update-delete 
+,data.Romania.key,Data access to country Romania (full access),[DATA] PRMS full access
+,data.Russia,Data access to country Russia,[DATA] PRMS read-update
+,data.Russia.Economics,Data access to country Russia (economist),[DATA] PRMS create-read-update-delete 
+,data.Russia.Finance,Data access to country Russia (financials),[DATA] PRMS create-read-update-delete 
+,data.Russia.Key,Data access to country Russia (full access),[DATA] PRMS full access
+,data.Tunisia,Data access to country Tunisia,[DATA] PRMS read-update
+,data.Tunisia.Economics,Data access to country Tunisia (economist),[DATA] PRMS create-read-update-delete 
+,data.Tunisia.Finance,Data access to country Tunisia (financials),[DATA] PRMS create-read-update-delete 
+,data.Tunisia.Key,Data access to country Tunisia (full access),[DATA] PRMS full access
+,data.Yemen,Data access to country Yemen,[DATA] PRMS read-update
+,data.Yemen.Economics,Data access to country Yemen (economist),[DATA] PRMS create-read-update-delete 
+,data.Yemen.Finance,Data access to country Yemen (financials),[DATA] PRMS create-read-update-delete 
+,data.Yemen.key,Data access to country Yemen (full access),[DATA] PRMS full access
+,Economics.unlock,Economics.unlock,
+,Financials.unlock,Financials.unlock,
+,license.heavy,Heavy license users,to manage the license-requirments
+,license.light,Light licences users,to manage the license-requirments
+,Objects.unlock,Objects.unlock,
+,profile.Admin.Developer,profile.Admin.Developer,
+,profile.Admin.Headoffice,profile.Admin.Headoffice,
+,profile.Economics.Headoffice,profile.Economics.Headoffice,
+,profile.Economics.local,profile.Economics.local,
+,profile.Finance.Headoffice,profile.Finance.Headoffice,
+,profile.Finance.local,profile.Finance.local,
+,profile.Finance.Regimes,profile.Finance.Regimes,
+,profile.LightUser.Headoffice,profile.LightUser.Headoffice,
+,profile.LightUser.local,profile.LightUser.local,
+,profile.PetroVR,profile.PetroVR,
+,profile.PP.Headoffice,profile.PP.Headoffice,
+,profile.PP.Headoffice.Power,profile.PP.Headoffice.Power,
+,profile.PP.local,profile.PP.local,
+,profile.Projectmanager,profile.Projectmanager,
+,profile.Reserves.Headoffice,profile.Reserves.Headoffice,
+,profile.Reserves.Headoffice.Approve,profile.Reserves.Headoffice.Approve,
+,profile.Reserves.Headoffice.Power,profile.Reserves.Headoffice.Power,
+,profile.Reserves.local.Approve,profile.Reserves.local.Approve,
+,profile.Reserves.local.QRE,profile.Reserves.local.QRE,
+,profile.Reserves.readonly,profile.Reserves.readonly,
+,profile.Resources.Headoffice,profile.Resources.Headoffice,
+,profile.Resources.local,profile.Resources.local,
+,profile.Student.local,profile.Student.local,
+,Reserves.Administrator,Reserves.Administrator,
+,Reserves.Approver.bo,Reserves.Approver.bo,
+,Reserves.Approver.ho,Reserves.Approver.ho,
+,Reserves.base,Reserves.base,
+,Reserves.key,Reserves.key,
+,Reserves.power,Reserves.power,
+,Reserves.Submitter,Reserves.Submitter,
+,PetroVR,PetroVR user,Users are allowed to use Economics as a Service via PetroVR
+,data.Everyone.Economics,combining all data.country.Economics,combining all data.country.Economics
+,Economics.regimes.readonly,readonly access to the regimes lib,readonly access to the regimes lib
+,data.Sapura.Australia,Data access to country Australia,[DATA] PRMS read-update
+,data.Sapura.Australia.Economics,Data access to country Australia (economist),[DATA] PRMS create-read-update-delete 
+,data.Sapura.Australia.Finance,Data access to country Australia (financials),[DATA] PRMS create-read-update-delete 
+,data.Sapura.Australia.key,Data access to country Australia (full access),[DATA] PRMS full access
+,data.Sapura.NewZealand,Data access to country NewZealand,[DATA] PRMS read-update
+,data.Sapura.NewZealand.Economics,Data access to country NewZealand (economist),[DATA] PRMS create-read-update-delete 
+,data.Sapura.NewZealand.Finance,Data access to country NewZealand (financials),[DATA] PRMS create-read-update-delete 
+,data.Sapura.NewZealand.key,Data access to country NewZealand (full access),[DATA] PRMS full access

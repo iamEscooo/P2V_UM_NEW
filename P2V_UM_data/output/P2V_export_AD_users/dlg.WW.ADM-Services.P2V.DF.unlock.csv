@@ -1,0 +1,4 @@
+﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
+Culjak Sandra,SANDRA18,SAML2,,sandra.culjak@omv.com,sandra.culjak@omv.com,PFE-C E&P Controlling,,FALSE,
+Bulgariu Razvan,X01001805,SAML2,,Razvan.Bulgariu@omv.com,Razvan.Bulgariu@omv.com,FEE-P Planning & Portfolio,,FALSE,
+Nüsslein Markus,X450313,SAML2,,markus.nuesslein@omv.com,markus.nuesslein@omv.com,FEE-P Planning & Portfolio,,FALSE,

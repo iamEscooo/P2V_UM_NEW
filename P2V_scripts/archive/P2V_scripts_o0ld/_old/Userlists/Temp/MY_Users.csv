@@ -1,0 +1,20 @@
+Name,Login ID,Authentication method,Domain,Expiry date,Deactivated,Locked,Description,Email,Last login date,Locked date,Deactivated date,Workgroups
+Aaron Johnson,AARON6,WINDOWS_AD,ww,,False,False,AUCERNA,aaron.johnson@aucerna.com,,,,Everyone
+Administrator,Administrator,LOCAL,,,False,False,Administrator,,2019-05-31T11:17:18.467Z,,,Administrators
+Arun Shaw,ARUN05@ww.omv.com,SAML2,,,False,False,AUCERNA,arun.shaw@aucerna.com,2019-05-28T13:47:24.570Z,,,Everyone
+Arun Shaw (Aucerna),adminarun05,WINDOWS_AD,ww,,False,False,Arun Shaw (Aucerna),,2019-05-14T14:42:11.740Z,,,Administrators;Everyone
+Camilo Sanchez,sancheca,WINDOWS_AD,ww,,False,False,core team,Camilo.Sanchez@omv.com,,,,Everyone;OMV_CoreTeam
+Catalin Paraschiv,X01005176,WINDOWS_AD,ww,,False,False,core team,Catalin.Paraschiv@petrom.com,,,,Everyone;OMV_CoreTeam
+Fida Hussain,xhussaifi,WINDOWS_AD,ww,,False,False,OMV core team,,,,,Everyone;OMV_CoreTeam
+Florian Dutzler,FLORIAN109,WINDOWS_AD,ww,,False,False,core team,Florian.Dutzler@omv.com,,,,Everyone;OMV_CoreTeam;User_heavy
+Gael Carlier,gael04,LOCAL,,,False,False,AUCERNA,gael.carlier@aucerna.com,2019-06-04T07:58:08.890Z,,,Administrators;Everyone
+Georg Schumacher,X01schgeo,WINDOWS_AD,ww,,False,False,core team,Georg.Schumacher@petrom.com,2019-06-04T06:37:07.907Z,,,Everyone;OMV_CoreTeam
+Ioan Alexandru Tataru (Admin),admintataruioa@ww.omv.com,SAML2,,,False,False,Ioan Alexandru Tataru (Admin),,2019-05-16T09:21:58.453Z,,,Administrators;Everyone
+Kevin Rooney,KEVIN32,WINDOWS_AD,ww,,False,False,AUCERNA,kevin.rooney@aucerna.com,,,,Everyone
+Markus Nuesslein,X450313,WINDOWS_AD,ww,,False,False,core team,,2019-06-03T15:34:24.840Z,,,Everyone;OMV_CoreTeam
+Martin Kufner,X449222,WINDOWS_AD,ww,,False,False,MKR,,2019-06-04T06:40:05.463Z,,,Administrators;Everyone;User_heavy
+Martin Kufner (Admin),adminx449222@ww.omv.com,SAML2,,,False,False,Martin Kufner (Admin),,,,,Administrators;Everyone
+Shilpa  Taylor,SHILPA1,WINDOWS_AD,ww,,False,True,AUCERNA,shilpa.taylor@aucerna.com,,2019-05-31T11:12:44.727Z,,Everyone
+Stanislav Kozlov,STANISLAV7,WINDOWS_AD,ww,,False,False,AUCERNA,stanislav.kozlov@aucerna.com,,,,Administrators;Everyone
+Susan Ellis,SUSAN2,WINDOWS_AD,ww,,False,False,core team,Susan.Ellis@omv.com,2019-06-04T07:30:38.597Z,,,Everyone;OMV_CoreTeam
+User Administrator,useradmin,LOCAL,,,False,False,local User administrator,martin.kufner@omv.com,2019-06-04T06:30:18.747Z,,,Administrators;Everyone;User_heavy

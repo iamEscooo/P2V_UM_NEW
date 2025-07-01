@@ -1,0 +1,2 @@
+﻿id,displayName,logOnId,authenticationMethod,domain,accountExpirationDate,isDeactivated,isAccountLocked,description,authenticationType,enforcePasswordPolicy,enforcePasswordExpiration,userMustChangePassword,userCanChangePassword,isAdministrator,isInAdministratorGroup,emailAddress,useADEmailAddress,changePassword,password,lastLogin,accountLockedDate,deactivatedDate,userWorkgroups,apiKey
+,,,,,,,,,,,,,,,,,,,,,,,,

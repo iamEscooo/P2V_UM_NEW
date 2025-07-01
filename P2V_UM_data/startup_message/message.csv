@@ -1,0 +1,6 @@
+app,severity,msgfile,action
+P2V_DEV,information,welcome_DEV.txt,CONT
+P2V_PROD,information,welcome_PROD.txt,CONT
+P2V_TEST,information,welcome_TEST.txt,CONT
+P2V_TRAINING,information,welcome_TRAINING.txt,CONT
+P2V_UPDATE,information,welcome_UPDATE.txt,CONT

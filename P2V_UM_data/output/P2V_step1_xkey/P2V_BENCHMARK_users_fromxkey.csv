@@ -1,0 +1,42 @@
+﻿xkey,LogonId,authenticationMethod,Domain,DisplayName,EmailAddress,Description,IsDeactivated,IsAccountLocked
+X01024526,Madalina.CoadaPetre@omv.com,SAML2,,Coada-Petre Madalina (X01024526),Madalina.CoadaPetre@omv.com,FEE-O Economics & Planning - Ops.,FALSE,FALSE
+REIDAR1,Reidar.Haver@omv.com,SAML2,,Haver Reidar (REIDAR1),Reidar.Haver@omv.com,EON-V Asset Management NO,FALSE,FALSE
+MARCO9,Marco.Bresciani@omv.com,SAML2,,Bresciani Marco (MARCO9),Marco.Bresciani@omv.com,FEE-D Economics & Planning - Dev.,FALSE,FALSE
+LARS3,Lars.Bruset@omv.com,SAML2,,Bruset Lars (LARS3),Lars.Bruset@omv.com,FEE-D Economics & Planning - Dev.,FALSE,FALSE
+X452077,Christine.Kirchgasser@omv.com,SAML2,,Kirchgasser Christine (X452077),Christine.Kirchgasser@omv.com,FEF-R Finance Russia,FALSE,FALSE
+SIRI02,Siri.Berge@omv.com,SAML2,,Berge Siri (SIRI02),Siri.Berge@omv.com,ENX-R Development & Reservoir Eng.NOS,FALSE,FALSE
+ANDRE11,Andre.Kruger@omv.com,SAML2,,Kruger André (ANDRE11),Andre.Kruger@omv.com,FEF-N Finance Norway,FALSE,FALSE
+MARICEL10,Maricel.Obiacoro@omv.com,SAML2,,Obiacoro Maricel (MARICEL10),Maricel.Obiacoro@omv.com,FEF-N Finance Norway,FALSE,FALSE
+OEIVIND1,Oivind.Overland@omv.com,SAML2,,Øverland Øivind (OEIVIND1),Oivind.Overland@omv.com,FEF-N Finance Norway,FALSE,FALSE
+SANCHECA,Camilo.Sanchez@omv.com,SAML2,,Sanchez Paez Camilo Andres (SANCHECA),Camilo.Sanchez@omv.com,FE-C Controlling,FALSE,FALSE
+X451691,Stefan.Wanjek@omv.com,SAML2,,Wanjek Stefan (X451691),Stefan.Wanjek@omv.com,FEF-M Finance MEA,FALSE,FALSE
+XTREIAN,Andreas.Treichel@omv.com,SAML2,,Treichel Andreas (XTREIAN),Andreas.Treichel@omv.com,EON-V Asset Management NO,FALSE,FALSE
+XDOBBINRO,Rob.Dobbins@omv.com,SAML2,,Dobbins Robert Shane (XDOBBINRO),Rob.Dobbins@omv.com,EON-V Asset Management NO,FALSE,FALSE
+SIGBJOERN1,sigbjorn.birkenes@omv.com,SAML2,,Birkenes Sigbjørn (SIGBJOERN1),sigbjorn.birkenes@omv.com,EDP-W Wisting,FALSE,FALSE
+ELISABETH3,Elisabeth.Svane@omv.com,SAML2,,Svane Elisabeth (ELISABETH3),Elisabeth.Svane@omv.com,EON-V Asset Management NO,FALSE,FALSE
+MORTEN2,Morten.Krogh@omv.com,SAML2,,Krogh Morten (MORTEN2),Morten.Krogh@omv.com,EON-V Asset Management NO,FALSE,FALSE
+GREGORY1,GregoryJohn.Rock@omv.com,SAML2,,Rock Gregory John (GREGORY1),GregoryJohn.Rock@omv.com,ED-E Exploration,FALSE,FALSE
+WUILMER1,Wuilmer.Ponte@omv.com,SAML2,,Ponte Pineda Wuilmer Jose (WUILMER1),Wuilmer.Ponte@omv.com,EON-V Asset Management NO,FALSE,FALSE
+KARINE1,Karine.GuibertDAmore@omv.com,SAML2,,Guibert D Amore Karine (KARINE1),Karine.GuibertDAmore@omv.com,EDPS-U Subsurface Technical Services,FALSE,FALSE
+TOR001,TorOskar.Holmgard@omv.com,SAML2,,Holmgard Tor Oskar Haukland (TOR001),TorOskar.Holmgard@omv.com,EON-V Asset Management NO,FALSE,FALSE
+HELENE2,Helene.Daae@omv.com,SAML2,,Daae Helene Virkesdal (HELENE2),Helene.Daae@omv.com,EDPM-I Iris / Hades,FALSE,FALSE
+XHAMDI_HE,Hela.Hamdi@omv.com,SAML2,,Hamdi Hela (XHAMDI_HE),Hela.Hamdi@omv.com,EDEN-B Exploration NOV and Barents Sea,FALSE,FALSE
+XABDOLI,Mostafa.Abdoli@omv.com,SAML2,,Abdoli Mostafa (XABDOLI),Mostafa.Abdoli@omv.com,EDEN-S Exploration Norwegian Sea,FALSE,FALSE
+THOMAS15,Thomas.Melgaard@omv.com,SAML2,,Melgaard Thomas (THOMAS15),Thomas.Melgaard@omv.com,EDEN-N Exploration North Sea,FALSE,FALSE
+XRYDNINHE,Heidi.Rydningen@omv.com,SAML2,,Rydningen Heidi (XRYDNINHE),Heidi.Rydningen@omv.com,EDEN-B Exploration NOV and Barents Sea,FALSE,FALSE
+X451420,Johannes.Ladenhauf@omv.com,SAML2,,Ladenhauf Johannes (X451420),Johannes.Ladenhauf@omv.com,EDE-N Exploration Norway,FALSE,FALSE
+LUCA09,Luca.Garzonio@omv.com,SAML2,,Garzonio Luca (LUCA09),Luca.Garzonio@omv.com,EDPM-I Iris / Hades,FALSE,FALSE
+ELIN01,Elin.Skeie@omv.com,SAML2,,Skeie Elin (ELIN01),Elin.Skeie@omv.com,EON-V Asset Management NO,FALSE,FALSE
+JENS11,JensRune.Thomassen@omv.com,SAML2,,Thomassen Jens Rune (JENS11),JensRune.Thomassen@omv.com,EO-N Norway,FALSE,FALSE
+TROND1,Trond.Boe@omv.com,SAML2,,Bøe Trond (TROND1),Trond.Boe@omv.com,EDB-N Integrated Studies Norway,FALSE,FALSE
+KATHINKA1,Kathinka.Tysnes@omv.com,SAML2,,Tysnes Kathinka (KATHINKA1),Kathinka.Tysnes@omv.com,EDB-N Integrated Studies Norway,FALSE,FALSE
+LARS05,LarsHenrik.Henriksen@omv.com,SAML2,,Henriksen Lars Henrik (LARS05),LarsHenrik.Henriksen@omv.com,EON-V Asset Management NO,FALSE,FALSE
+FRANK4,Frank.Sanden@omv.com,SAML2,,Sanden Frank (FRANK4),Frank.Sanden@omv.com,EDP-E Execution,FALSE,FALSE
+ODD004,OddArne.Hansen@omv.com,SAML2,,Hansen Odd Arne (ODD004),OddArne.Hansen@omv.com,EDP-W Wisting,FALSE,FALSE
+ADRIAN18,Adrian.Jones@omv.com,SAML2,,Jones Adrian (ADRIAN18),Adrian.Jones@omv.com,EONV-O Wisting Operations,FALSE,FALSE
+XHAALANPA,pmhaaland@omv.com,SAML2,,Haaland Pål Marius (XHAALANPA),pmhaaland@omv.com,EON-V Asset Management NO,FALSE,FALSE
+MATHIAS32,Mathias.Idsoee@external.omv.com,SAML2,,Idsøe Mathias (MATHIAS32),Mathias.Idsoee@external.omv.com,EDP-E Execution,FALSE,FALSE
+LARS1,Lars.Drage@omv.com,SAML2,,Drage Lars (LARS1),Lars.Drage@omv.com,EDPM-I Iris / Hades,FALSE,FALSE
+PAUL32,PaulArne.Aaserud@omv.com,SAML2,,Aaserud Paul Arne (PAUL32),PaulArne.Aaserud@omv.com,EDPM-I Iris / Hades,FALSE,FALSE
+HEATHER4,Heather.Baily@omv.com,SAML2,,Baily Heather (HEATHER4),Heather.Baily@omv.com,EDB-N Integrated Studies Norway,FALSE,FALSE
+MICHAELA5,Michaela.Hoy1@omv.com,SAML2,,Hoy Michaela (MICHAELA5),Michaela.Hoy1@omv.com,EON-V Asset Management NO,FALSE,FALSE

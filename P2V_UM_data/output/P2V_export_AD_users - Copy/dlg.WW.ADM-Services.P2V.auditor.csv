@@ -1,0 +1,3 @@
+﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
+Ellis Susan,SUSAN2,SAML2,,Susan.Ellis@omv.com,Susan.Ellis@omv.com,FE-E Economics & Planning,,FALSE,
+Nüsslein Markus,X450313,SAML2,,markus.nuesslein@omv.com,markus.nuesslein@omv.com,EEP-P Portfolio,,FALSE,

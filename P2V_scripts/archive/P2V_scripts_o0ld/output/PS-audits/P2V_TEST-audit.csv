@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"80712","PlanningSpace Economics","The user <Susan.Ellis@omv.com> has logged out.","Susan.Ellis@omv.com","User","Logout","Susan.Ellis@omv.com","TSOMVAT423003","2020-07-10T10:51:02.230Z"
+"80711","PlanningSpace Dataflow","The user <Susan.Ellis@omv.com> has logged out.","Susan.Ellis@omv.com","User","Logout","Susan.Ellis@omv.com","TSOMVAT423003","2020-07-10T10:51:02.213Z"
+"80710","PlanningSpace Economics","The user <Susan.Ellis@omv.com> has logged in. ","Susan.Ellis@omv.com","User","Login","Susan.Ellis@omv.com","TSOMVAT423003","2020-07-10T10:47:28.367Z"
+"80709","PlanningSpace Dataflow","The user <Susan.Ellis@omv.com> has logged in. ","Susan.Ellis@omv.com","User","Login","Susan.Ellis@omv.com","TSOMVAT423003","2020-07-10T10:47:24.273Z"
+"80708","PlanningSpace","The user [Susan.Ellis@omv.com] has logged in.","Susan.Ellis@omv.com","User","Login","Susan.Ellis@omv.com","10.12.205.19","2020-07-10T10:47:18.303Z"
+"80707","PlanningSpace Economics","Updated result set settings <ARL_ELIOS_WM_NEHO TERMS>.","ARL_ELIOS_WM_NEHO TERMS","Result Set","Updated","MarcSteven.Swales@omv.com","TSOMVAT423003","2020-07-10T10:25:22.233Z"
+"80706","PlanningSpace Economics","Updated project <WM_Development_A>.","WM_Development_A","Project","Updated","MarcSteven.Swales@omv.com","TSOMVAT423003","2020-07-10T10:25:09.657Z"
+"80705","PlanningSpace Economics","Updated project <WM_Development_B>.","WM_Development_B","Project","Updated","MarcSteven.Swales@omv.com","TSOMVAT423003","2020-07-10T10:25:07.060Z"
+"80704","PlanningSpace Economics","Updated project <WM_Development_C>.","WM_Development_C","Project","Updated","MarcSteven.Swales@omv.com","TSOMVAT423003","2020-07-10T10:25:04.640Z"
+"80703","PlanningSpace Economics","Updated project <WM_Development_D>.","WM_Development_D","Project","Updated","MarcSteven.Swales@omv.com","TSOMVAT423003","2020-07-10T10:25:01.513Z"

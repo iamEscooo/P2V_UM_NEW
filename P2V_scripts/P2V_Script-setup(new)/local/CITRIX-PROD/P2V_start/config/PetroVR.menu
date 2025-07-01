@@ -1,0 +1,5 @@
+Section,Method,Command,Arguments,Name,Description
+PetroVR,cmd,"C:\Program Files (x86)\Aucerna\PetroVR\PetroVR.exe",   /tenanturl=https://ips-prod.ww.omv.com/P2V_Palantir_AT ,PetroVR, PetroVR V. 16.022
+PetroVR,pwsh_inline	"Remove personal config fileInline script";$PSVersionTable;Read-Host "Press Enter to continue"
+TEST,cmd,"C:\Windows\System32\cmd.exe",,CMD, command prompt
+EXIT,exit,exit,,EXIT,exit this menu

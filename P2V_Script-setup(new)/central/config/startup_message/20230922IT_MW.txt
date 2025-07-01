@@ -1,0 +1,9 @@
+Dear colleagues,&#10;
+&#10;Please be informed about the upcoming monthly OMV wide IT maintenance window which impacts Plan2Value&#10;
+&#10;This maintenance window is scheduled from&#10;
+&#10;Start:&#9;Friday,&#9;&#9;22.09.2023 19:00 (CET) until 
+&#10;End:  &#9;Saturday,&#9;23.09.2023 05:00 (CET). &#10;
+&#10;The Plan2Value environments will not be available during this time slot. We kindly ask you to save your work and logout before the start of the maintenance window. &#10;
+&#10;
+kind regards&#10;
+Plan2Value team

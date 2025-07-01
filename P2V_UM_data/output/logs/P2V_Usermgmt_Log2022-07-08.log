@@ -1,0 +1,5 @@
+﻿[2022-07-08 08:15:16] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [get_AD_userdata]
+[2022-07-08 08:15:16] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\get_AD_userdata\export_list.csv] deleted
+[2022-07-08 20:02:04] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync-SEC2.ps1]
+[2022-07-08 20:04:35] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync-SEC2.ps1]
+[2022-07-08 20:20:10] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync-SEC2.ps1]

@@ -1,0 +1,6 @@
+﻿Name,Login ID,Authentication method,Domain,Email,Description,Expiry date,Locked
+User1,User1,WINDOWS_AD,EXAMPLE,user1@example.com,Test User 1,,FALSE
+User2,User2,WINDOWS_AD,EXAMPLE,user2@example.com,Test User 2,,FALSE
+User3,User3,WINDOWS_AD,EXAMPLE,user3@example.com,Test User 3,2020-12-31,FALSE
+User4,User4,WINDOWS_AD,EXAMPLE,user4@example.com,Test User 4,2018-12-31,FALSE
+User5,User5@example.com,SAML2,,User5@example.com,Test User 5,,FALSE

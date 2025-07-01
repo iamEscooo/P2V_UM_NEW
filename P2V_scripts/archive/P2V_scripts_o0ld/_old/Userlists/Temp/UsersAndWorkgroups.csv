@@ -1,0 +1,9 @@
+﻿Name,Login ID,Authentication method,Domain,Description,Deactivated,Workgroup Name,Workgroup Description,Workgroup Comment
+Administrator,Administrator,LOCAL,,Administrator,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Arun Shaw (Aucerna),adminarun05,WINDOWS_AD,ww,Arun Shaw (Aucerna),false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Arun Shaw (Aucerna),adminarun05,WINDOWS_AD,ww,Arun Shaw (Aucerna),false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Ioan Alexandru Tataru (Admin),admintataruioa@ww.omv.com,SAML2,,Ioan Alexandru Tataru (Admin),false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Ioan Alexandru Tataru (Admin),admintataruioa@ww.omv.com,SAML2,,Ioan Alexandru Tataru (Admin),false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Martin Kufner,x449222,WINDOWS_AD,ww,MKR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Martin Kufner (Admin),adminx449222@ww.omv.com,SAML2,,Martin Kufner (Admin),false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Martin Kufner (Admin),adminx449222@ww.omv.com,SAML2,,Martin Kufner (Admin),false,Everyone,This group consists only public permission on the engine.,Default workgroup.

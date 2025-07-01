@@ -1,0 +1,80 @@
+﻿LogonId,authenticationMethod,Domain,DisplayName,Description,IsDeactivated,IsAccountLocked
+P2V-PROD,,CARLOS7@ww.omv.com,EETE-P Petrotechnical AppStore,carlos.gomez@aucerna.com
+P2V-PROD,,TIMOTHY5@ww.omv.com,EE-P Portfolio & Performance,timothy.gaw@aucerna.com
+P2V-PROD,,ALEXEY6@ww.omv.com,EETE-P Petrotechnical AppStore,alexey.bychkov@aucerna.com
+P2V-PROD,,Vladislav.Arekhov@omv.com,EOR-V Asset Management RU,Vladislav.Arekhov@omv.com
+P2V-PROD,,ChristopherNoel.Britton@omv.com,EDPS-S Surface Technical Services,ChristopherNoel.Britton@omv.com
+P2V-PROD,,JENNIFER11@ww.omv.com,EETE-P Petrotechnical AppStore,Jennifer.Skeete@Aucerna.com
+P2V-PROD,,MarcSteven.Swales@omv.com,FEE-D Economics & Planning - Dev.,MarcSteven.Swales@omv.com
+P2V-PROD,,KEVIN32@ww.omv.com,EETE-P Petrotechnical AppStore,kevin.rooney@aucerna.com
+P2V-PROD,,ARUN05@ww.omv.com,EETE-P Petrotechnical AppStore,arun.shaw@aucerna.com
+P2V-PROD,,GAEL04@ww.omv.com,EETE-P Petrotechnical AppStore,gael.carlier@aucerna.com
+P2V-PROD,,Pavel.Fedorov@omv.com,EOR-V Asset Management RU,Pavel.Fedorov@omv.com
+P2V-PROD,,Susan.Ellis@omv.com,FE-E Economics & Planning,Susan.Ellis@omv.com
+P2V-PROD,,Simon.Hobbs@omv.com,EDPS-S Surface Technical Services,Simon.Hobbs@omv.com
+P2V-PROD,,Nina.Romich@omv.com,EEP-AT Perf. Portf. Planning & BS AUT,Nina.Romich@omv.com
+P2V-PROD,,Rade.Kalas@omv.com,FEC-V Value Center Controlling,Rade.Kalas@omv.com
+P2V-PROD,,Christian.Scholz@omv.com,EAT-C Commercial & Legal AUT,Christian.Scholz@omv.com
+P2V-PROD,,JulianEdward.Laing@omv.com,EDPS-S Surface Technical Services,JulianEdward.Laing@omv.com
+P2V-PROD,,Neil.Ementon@omv.com,EDES-O Exploration Operations,Neil.Ementon@omv.com
+P2V-PROD,,Neil.Rainey@omv.com,EDPS-S Surface Technical Services,Neil.Rainey@omv.com
+P2V-PROD,,Enikoe.Bencsik@omv.com,FE-C Controlling,Enikoe.Bencsik@omv.com
+P2V-PROD,,David.List@omv.com,EC-S Skills Excellence,David.List@omv.com
+P2V-PROD,,Lukas.Volker@omv.com,EE-R Reserves & Resources,Lukas.Volker@omv.com
+P2V-PROD,,Larissa.Wolff@omv.com,EDP-M Maturation,Larissa.Wolff@omv.com
+P2V-PROD,,Emanuel.Tenghea@omv.com,EETE-P Petrotechnical AppStore,Emanuel.Tenghea@omv.com
+P2V-PROD,,BastiaanHendrikus.Michielsen@omv.com,EDPS-S Surface Technical Services,BastiaanHendrikus.Michielsen@omv.com
+P2V-PROD,,NeilThomas.McLeod@omv.com,EDP-S Projects Shared Services,NeilThomas.McLeod@omv.com
+P2V-PROD,,AdrianMihail.Ivanciu@petrom.com,EETEU-U Surface DDAM,AdrianMihail.Ivanciu@petrom.com
+P2V-PROD,,Stefan.Prinz@omv.com,EATTP-T Production Technology,Stefan.Prinz@omv.com
+P2V-PROD,,Anna.Krueger@omv.com,EFV-C Controlling A,Anna.Krueger@omv.com
+P2V-PROD,,Sandra.Culjak@omv.com,FEC-O Operational Contr. & Budgeting,Sandra.Culjak@omv.com
+P2V-PROD,,Christian.Sledz@petrom.com,PFE-F Project Finance & Economics,Christian.Sledz@petrom.com
+P2V-PROD,,Corina.Moza@omv.com,FEC-V Value Center Controlling,Corina.Moza@omv.com
+P2V-PROD,,Andreas.Stockinger@omv.com,FEC-O Operational Contr. & Budgeting,Andreas.Stockinger@omv.com
+P2V-PROD,,Marco.Bresciani@omv.com,EF-N Finance NOS,Marco.Bresciani@omv.com
+P2V-PROD,,Chloe.Asmar@omv.com,FEE-D Economics & Planning - Dev.,Chloe.Asmar@omv.com
+P2V-PROD,,Simona.Iancu@omv.com,FEE-O Economics & Planning - Ops.,Simona.Iancu@omv.com
+P2V-PROD,,Reidar.Haver@omv.com,EEP-N Perf. Portf. & Planning NOS,Reidar.Haver@omv.com
+P2V-PROD,,Daniel.Kressnik@omv.com,EDPS-S Surface Technical Services,Daniel.Kressnik@omv.com
+P2V-PROD,,Leonardo.Umani@omv.com,FEC-O Operational Contr. & Budgeting,Leonardo.Umani@omv.com
+P2V-PROD,,Sascha.Brandtner@omv.com,EDPS-S Surface Technical Services,Sascha.Brandtner@omv.com
+P2V-PROD,,Ian.Mallinson@omv.com,ED-E Exploration,Ian.Mallinson@omv.com
+P2V-PROD,,TorOskar.Holmgard@omv.com,ENX-R Development & Reservoir Eng.NOS,TorOskar.Holmgard@omv.com
+P2V-PROD,,Andrea.Payer-Moser@omv.com,EOP-R Reservoir Optimization,Andrea.Payer-Moser@omv.com
+P2V-PROD,,Manfred.Leitner1@omv.com,EAT-C Commercial & Legal AUT,Manfred.Leitner1@omv.com
+P2V-PROD,,Lars.Bruset@omv.com,EF-N Finance NOS,Lars.Bruset@omv.com
+P2V-PROD,,Ulrich.Bieg@omv.com,ED-E Exploration,Ulrich.Bieg@omv.com
+P2V-PROD,,Georg.Schumacher@petrom.com,FEE-O Economics & Planning - Ops.,Georg.Schumacher@petrom.com
+P2V-PROD,,Fida.Hussain@omv.com,FEE-O Economics & Planning - Ops.,Fida.Hussain@omv.com
+P2V-PROD,,Razvan.Bulgariu@omv.com,EEP-P Portfolio,Razvan.Bulgariu@omv.com
+P2V-PROD,,Christine.Kirchgasser@omv.com,EFN-C Controlling NOS,Christine.Kirchgasser@omv.com
+P2V-PROD,,Ross.Northover@omv.com,EDP-S Projects Shared Services,Ross.Northover@omv.com
+P2V-PROD,,Thomas.Posch@omv.com,EEP-F Performance,Thomas.Posch@omv.com
+P2V-PROD,,Tanja.Weber@omv.com,EEP-P Portfolio,Tanja.Weber@omv.com
+P2V-PROD,,Ozge.Koksal@omv.com,FE-C Controlling,Ozge.Koksal@omv.com
+P2V-PROD,,Paul.Mitterlehner@omv.com,FEC-O Operational Contr. & Budgeting,Paul.Mitterlehner@omv.com
+P2V-PROD,,Josef.Donner@omv.com,EF-V Finance A & Venture Mgmt,Josef.Donner@omv.com
+P2V-PROD,,Stefan.Massl@omv.com,EOS-F Facility Optimization,Stefan.Massl@omv.com
+P2V-PROD,,Maria.Pertl@omv.com,FE-C Controlling,Maria.Pertl@omv.com
+P2V-PROD,,Madalina.CoadaPetre@omv.com,EEP-N Perf. Portf. & Planning NOS,Madalina.CoadaPetre@omv.com
+P2V-PROD,,Martina.Halmer@omv.com,EDES-O Exploration Operations,Martina.Halmer@omv.com
+P2V-PROD,,Pablo_Antonio.Torres_Jauregui@omv.com,EDPS-S Surface Technical Services,Pablo_Antonio.Torres_Jauregui@omv.com
+P2V-PROD,,Andrea.Hollerer@omv.com,EDPE-B Brownfield & Well Delivery Prog,Andrea.Hollerer@omv.com
+P2V-PROD,,Martin.Kufner@omv.com,EETE-P Petrotechnical AppStore,Martin.Kufner@omv.com
+P2V-PROD,,markus.nuesslein@omv.com,EEP-P Portfolio,markus.nuesslein@omv.com
+P2V-PROD,,Christian.Blecha@omv.com,EEP-P Portfolio,Christian.Blecha@omv.com
+P2V-PROD,,Sergei.Martynov@omv.com,EDP-S Projects Shared Services,Sergei.Martynov@omv.com
+P2V-PROD,,Angelika.Schmid@omv.com,EOS-F Facility Optimization,Angelika.Schmid@omv.com
+P2V-PROD,,Josef.Hlavacek@omv.com,FEE-D Economics & Planning - Dev.,Josef.Hlavacek@omv.com
+P2V-PROD,,Peter.Piller@omv.com,EDP-M Maturation,Peter.Piller@omv.com
+P2V-PROD,,Jan.Paul@omv.com,EOR-V Asset Management RU,Jan.Paul@omv.com
+P2V-PROD,,Alexander.Gerstner@omv.com,EDS-O Operations Portal,Alexander.Gerstner@omv.com
+P2V-PROD,,Sasa.Blazekovic@omv.com,EATT-P Prod Technology & Optimization,Sasa.Blazekovic@omv.com
+P2V-PROD,,Thomas.Gaebler@omv.com,EATA-X Operations Support,Thomas.Gaebler@omv.com
+P2V-PROD,,Elisabeth.Lehner@omv.com,FEC-V Value Center Controlling,Elisabeth.Lehner@omv.com
+P2V-PROD,,Birgit.Stoiser@omv.com,FE-E Economics & Planning,Birgit.Stoiser@omv.com
+P2V-PROD,,Christian.Tauschitz@omv.com,EF-V Finance A & Venture Mgmt,Christian.Tauschitz@omv.com
+P2V-PROD,,Robert.Koehazy@omv.com,EDES-O Exploration Operations,Robert.Koehazy@omv.com
+P2V-PROD,,Mario-Luis.Rodriguez_Chavez@omv.com,FEE-O Economics & Planning - Ops.,Mario-Luis.Rodriguez_Chavez@omv.com
+P2V-PROD,,Jens.Behrend@omv.com,EAT-T Expl. Development & Production,Jens.Behrend@omv.com

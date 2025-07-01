@@ -1,0 +1,127 @@
+Name,Login ID,Authentication method,Domain,Expiry date,Deactivated,Locked,Description,Email,Last login date,Locked date,Deactivated date,Workgroups
+Administrator,Administrator,LOCAL,,,False,False,Administrator,,2019-10-30T11:57:57.503Z,,,Administrators
+Alexandru Andreea,XALEXAN,WINDOWS_AD,ww,,False,True,OMV Team RU,,,2019-10-21T13:52:41.530Z,,Everyone;OMV_CoreTeam;OMV_Russia
+Andreev Andrey,XANDREEV,WINDOWS_AD,ww,,False,True,OMV Team RU,,,2019-10-21T13:52:41.547Z,,Everyone;OMV_CoreTeam;OMV_Russia
+Antes Gerald,X449077,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T13:52:41.517Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Arekhov Vladislav,VLADISLAV9,WINDOWS_AD,ww,,False,True,OMV Team RU,,,2019-10-21T13:52:41.563Z,,Everyone;OMV_CoreTeam;OMV_Russia
+Asmar Chloe,CHLOE1,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T13:52:41.720Z,,Economics_key;Everyone;OMV_CoreTeam;OMV_Upstream
+Balomiri Victor-Emanuel,VICTOR8,WINDOWS_AD,ww,,False,True,OMV Team RU,,,2019-10-21T13:52:41.577Z,,Everyone;OMV_CoreTeam;OMV_Russia
+Barbu Ionica,X01000651,WINDOWS_AD,ww,,False,True,OMV Team Petrom,,,2019-10-21T13:52:41.593Z,,Everyone;OMV_CoreTeam;OMV_Petrom
+Behrend Jens,X011450,WINDOWS_AD,ww,,False,True,OMV Team AT headoffice,,,2019-10-21T13:52:41.610Z,,Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Berge Siri,SIRI02,WINDOWS_AD,ww,,False,True,OMV Team NO,,,2019-10-21T13:52:41.623Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Berghofer Karl,XBERGHOKA,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T13:52:41.640Z,,Everyone;PetroVR_users
+Blazekovic Sasa,X011451,WINDOWS_AD,ww,,False,True,OMV Team AT,,,2019-10-21T13:52:41.657Z,,Everyone;OMV_CoreTeam
+Blecha Christian,X450582,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T13:52:41.470Z,,Administrators;Everyone;OMV_CoreTeam;OMV_Upstream
+Bresciani Marco,MARCO9,WINDOWS_AD,ww,,False,True,OMV Team NO,,,2019-10-21T13:52:41.670Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Brocklebank Doug (Ext),DOUG04,WINDOWS_AD,ww,,False,True,AUCERNA,,,2019-10-21T13:52:41.687Z,,AUCERNA;Everyone;OMV_CoreTeam
+Bruns Dimitri,XBRUNSDI,WINDOWS_AD,ww,,False,True,OMV Team NO,,,2019-10-21T13:52:41.687Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Bruset Lars,LARS3,WINDOWS_AD,ww,,False,True,OMV Team NO,,,2019-10-21T13:52:41.703Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Buha Sebastian,SEBASTIAN15,WINDOWS_AD,ww,,False,False,OMV Team AT,,2019-10-23T12:07:46.987Z,,,Everyone;OMV_Austria;OMV_CoreTeam
+Bulgariu Razvan,X01001805,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-30T08:47:44.287Z,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Carlier Gael (Ext),gael04,LOCAL,,,False,False,AUCERNA,gael.carlier@aucerna.com,2019-10-30T11:58:43.863Z,,,Administrators;AUCERNA;Everyone;OMV_Austria
+Carlier Gael (Ext),GAEL04,WINDOWS_AD,ww,,False,False,AUCERNA,,,,,Administrators;AUCERNA;Everyone;OMV_Austria;OMV_CoreTeam
+Carrasco Armando (Ext),ARMANDO1,WINDOWS_AD,ww,,False,False,AUCERNA,,,,,Administrators;AUCERNA;Everyone;OMV_Austria;OMV_CoreTeam
+Carrasco Armando (Ext),ARMANDO1,LOCAL,,,False,False,AUCERNA (Local),armando.carrasco@aucerna.com,2019-10-30T12:04:58.697Z,,,Administrators;AUCERNA;Everyone;OMV_Austria
+Coada-Petre Madalina,X01024526,WINDOWS_AD,ww,,False,True,OMV Team AT NO,,,2019-10-21T13:59:59.090Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Coughlin Matthew Kent,MATTHEW9,WINDOWS_AD,ww,,False,True,OMV Team MEA TN AE YE LY,,,2019-10-21T13:59:59.247Z,,Everyone
+Culjak Sandra,SANDRA18,WINDOWS_AD,ww,,False,False,OMV Team Headoffice,,2019-10-30T13:13:45.503Z,,,Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Davidescu Bogdan-George,X01026000,WINDOWS_AD,ww,,False,False,OMV Team AT,,2019-10-24T12:45:12.337Z,,,Everyone;OMV_Austria;OMV_CoreTeam
+Dinu Bogdan-Marius,X01022417,WINDOWS_AD,ww,,False,True,OMV Team NO,,,2019-10-21T13:59:59.260Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Dirtl Carina,CARINA21,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-21T14:11:47.237Z,,,Everyone;OMV_CoreTeam;OMV_Upstream;Useradmin
+Domnanovich Alexander Martin,ALEXANDER47,WINDOWS_AD,ww,,False,True,OMV Team AT,,,2019-10-21T13:59:59.293Z,,Everyone;OMV_CoreTeam
+Donner Josef,X451062,WINDOWS_AD,ww,,False,False,OMV Team AT,,,,,Everyone;OMV_Austria;OMV_CoreTeam
+Drage Lars,LARS1,WINDOWS_AD,ww,,False,True,OMV Team RU,,,2019-10-21T13:59:59.310Z,,Everyone;OMV_CoreTeam;OMV_Russia
+Dutzler Florian,FLORIAN109,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam;PetroVR_users
+Eichinger Michael Stefan,MICHAEL139,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T13:59:59.200Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Ellis Susan,SUSAN2,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-30T10:53:18.477Z,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Ementon Neil,NEIL08,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T13:59:59.183Z,,Everyone;OMV_CoreTeam;OMV_Upstream;PetroVR_users
+Enzendorfer Christian,X437426,WINDOWS_AD,ww,,False,True,OMV Team AT,,,2019-10-21T13:59:59.323Z,,Everyone;OMV_CoreTeam
+Fedorov Pavel,RU000076,WINDOWS_AD,ww,,False,True,OMV Team RU,,,2019-10-21T13:59:59.340Z,,Everyone;OMV_CoreTeam;OMV_Russia
+Florian Thomas,X451684,WINDOWS_AD,ww,,False,True,OMV Team AT,,,2019-10-21T13:59:59.357Z,,Everyone;OMV_CoreTeam
+Führmann Paul,PAUL77,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T13:59:59.107Z,,Administrators;Everyone;OMV_CoreTeam;OMV_Upstream
+Gaber Christina Maria,X449891,WINDOWS_AD,ww,,False,True,OMV Team Headoffice,,,2019-10-21T13:59:59.167Z,,Everyone;OMV_CoreTeam;OMV_Upstream
+Gäbler Thomas,X448827,WINDOWS_AD,ww,,False,False,OMV Team AT,,2019-10-28T12:25:37.570Z,,,Everyone;OMV_Austria;OMV_CoreTeam
+Gall Sergej,SERGEJ2,WINDOWS_AD,ww,,False,True,OMV Team AT,,,2019-10-21T13:59:59.370Z,,Everyone;OMV_CoreTeam
+Garzonio Luca,LUCA09,WINDOWS_AD,ww,,False,True,OMV Team NO,,,2019-10-21T13:59:59.230Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Gerstner Alexander,X449282,WINDOWS_AD,ww,,False,False,OMV Team AT,,2019-10-23T14:30:08.540Z,,,Everyone;OMV_Austria;OMV_CoreTeam
+Giden Ilhami,X452074,WINDOWS_AD,ww,,False,True,OMV Team AT,,,2019-10-21T13:59:59.387Z,,Everyone;OMV_CoreTeam
+Haver Reidar,REIDAR1,WINDOWS_AD,ww,,False,True,OMV Team NO,,,2019-10-21T13:59:59.403Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Hercus Sam,XHERCUSSA,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T13:59:59.417Z,,Everyone;OMV_CoreTeam;OMV_Tunisia;PetroVR_users
+Hollerer Andrea,X449596,WINDOWS_AD,ww,,False,False,OMV Team AT,,2019-10-23T11:36:48.493Z,,,Everyone;OMV_Austria;OMV_CoreTeam
+Hubbig Martin,MARTIN26,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T13:59:59.137Z,,Administrators;Everyone;OMV_CoreTeam;OMV_Upstream
+Hussain Fida,xhussaifi,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-30T13:12:09.533Z,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Hütter Kurt,X450246,WINDOWS_AD,ww,,False,True,OMV Team AT,,,2019-10-21T13:59:59.433Z,,Everyone;OMV_CoreTeam
+Iancu Simona,Simona10,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T13:59:59.107Z,,Administrators;Everyone;OMV_CoreTeam;OMV_Upstream
+Jacobs Bas,X449381,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T13:59:59.463Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Johnson Aaron (Ext),AARON6,WINDOWS_AD,ww,,False,True,AUCERNA,,,2019-10-21T13:59:59.480Z,,AUCERNA;Everyone;OMV_CoreTeam
+Johnson Aaron (Ext),AARON6,LOCAL,,,False,True,AUCERNA,aaron.johnson@aucerna.com,2019-07-04T09:49:25.780Z,2019-10-21T13:59:59.060Z,,Administrators;AUCERNA;Everyone;OMV_CoreTeam
+Jones Adrian,ADRIAN18,WINDOWS_AD,ww,,False,True,OMV Team NO,,,2019-10-21T13:59:59.510Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Kalas Rade,RADE01,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T13:59:59.527Z,,Everyone;OMV_CoreTeam;OMV_Upstream
+Klein Eduard,X409094,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-29T13:29:13.960Z,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Kocyigit Semra,SEMRA1,WINDOWS_AD,ww,,False,False,OMV Team AT,,2019-10-30T11:59:38.177Z,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam
+Kozlov Stanislav (Ext),STANISLAV7,LOCAL,,,False,False,AUCERNA,stanislav.kozlov@aucerna.com,2019-10-21T07:01:27.643Z,,,Administrators;AUCERNA;Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Kozlov Stanislav (Ext),STANISLAV7,WINDOWS_AD,ww,,False,False,AUCERNA,,,,,AUCERNA;Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Kressnik Daniel,DANIEL51,WINDOWS_AD,ww,,False,False,OMV Team AT,,2019-10-24T10:00:00.000Z,,,Everyone;OMV_Austria;OMV_CoreTeam
+Krüger Anna,ANNA39,WINDOWS_AD,ww,,False,False,OMV Team AT,,,,,Everyone;OMV_Austria;OMV_CoreTeam
+Kufner Martin,X449222,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-30T11:17:23.767Z,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream;Useradmin
+Kufner Martin (Admin),adminx449222@ww.omv.com,SAML2,,,False,False,OMV core team,martin.kufner@omv.com,2019-06-03T08:43:55.803Z,,,Administrators;Everyone;OMV_CoreTeam;Useradmin
+Leitgeb Anita (Ext),ANITA15,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-30T11:37:35.730Z,,,Everyone;OMV_CoreTeam;OMV_Upstream
+Leitner Manfred,MANFRED5,WINDOWS_AD,ww,,False,True,OMV Team AT,,,2019-10-21T14:01:59.343Z,,Everyone;OMV_CoreTeam
+Lipp Felix,FELIX3,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T14:01:59.357Z,,Everyone;OMV_CoreTeam;OMV_Upstream
+Luchian Radu-Ovidiu,RADU50,WINDOWS_AD,ww,,False,True,PetroVR SM,,,2019-10-21T14:01:59.373Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Lukesch Stephanie,STEPHANIE3,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T14:01:59.390Z,,Everyone;OMV_CoreTeam;OMV_Upstream
+MacDonald Doug (Ext),DOUG03,WINDOWS_AD,ww,,False,True,AUCERNA,,,2019-10-21T14:01:59.403Z,,AUCERNA;Everyone;OMV_CoreTeam;OMV_Upstream
+Makar Ivan,X01026348,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.420Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Maknine Yosri,XMAKNINYO,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T14:01:59.437Z,,Everyone;OMV_CoreTeam;OMV_Upstream
+Malle Christian,X450118,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.310Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Mann Trevor (Ext),TREVOR4,WINDOWS_AD,ww,,False,True,AUCERNA,,,2019-10-21T14:01:59.450Z,,AUCERNA;Everyone;OMV_CoreTeam
+McCurdy Richard (Ext),RICHARD44,WINDOWS_AD,ww,,False,True,AUCERNA,,,2019-10-21T14:01:59.467Z,,AUCERNA;Everyone;OMV_CoreTeam
+Nolte Frank,X011798,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.483Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Northover Ross,X451775,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.500Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Nüsslein Markus,X450313,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-30T12:04:15.680Z,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Orlova Tatiana,RU000051,WINDOWS_AD,ww,,False,True,OMV Team RU,,,2019-10-21T14:01:59.513Z,,Everyone;OMV_CoreTeam;OMV_Russia
+Paces Nicole,X451731,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.530Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Paraschiv Catalin,X01005176,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Pasca Iulia-Gabriela,X01022380,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T14:01:59.560Z,,Everyone;OMV_CoreTeam;OMV_Upstream
+Perez Oscar Alberto,X01PEROSC,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.577Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Pertl Maria,X449156,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T14:01:59.263Z,,Administrators;Everyone;OMV_CoreTeam;OMV_Upstream
+Piller Peter,X449362,WINDOWS_AD,ww,,False,True,OMV Team AT,,,2019-10-21T14:01:59.593Z,,Everyone;OMV_CoreTeam
+Pinzon Fabian (Ext),FABIAN37,WINDOWS_AD,ww,,False,True,AUCERNA,,,2019-10-21T14:01:59.607Z,,AUCERNA;Everyone;OMV_CoreTeam
+Posch Wolfgang,X449602,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T14:01:59.233Z,,Administrators;Everyone;OMV_CoreTeam;OMV_Upstream
+Puettmann Jost,X011462,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.810Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Renkema Wietse,X452111,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.623Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Rock Gregory John,GREGORY1,WINDOWS_AD,ww,,False,True,OMV Team NO,,,2019-10-21T14:01:59.640Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Rodgers Emma,X449890,WINDOWS_AD,ww,,False,True,OMV Team Sapura,,,2019-10-21T14:01:59.217Z,,Administrators;Everyone;OMV_CoreTeam;OMV_Sapura
+Rodriguez Chavez Mario-Luis,X451671,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-30T11:24:43.823Z,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream;PetroVR_users
+Romich Nina (Ext),NINA35,WINDOWS_AD,ww,,False,False,OMV Team AT,,,,,Everyone;OMV_Austria;OMV_CoreTeam
+Rooney Kevin (Ext),KEVIN32,WINDOWS_AD,ww,,False,True,AUCERNA,,,2019-10-21T14:01:59.170Z,,AUCERNA;Everyone;OMV_CoreTeam;OMV_Upstream
+Rossak Simon,SIMON30,WINDOWS_AD,ww,,False,False,OMV Team AT,,,,,Everyone;OMV_Austria;OMV_CoreTeam
+Safiullin Eduard,RU000017,WINDOWS_AD,ww,,False,True,OMV Team RU,,,2019-10-21T14:01:59.653Z,,Everyone;OMV_CoreTeam;OMV_Russia
+Sanchez Camilo,sancheca,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-30T09:11:25.693Z,,,Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Scholz Christian,CHRISTIAN130,WINDOWS_AD,ww,,False,False,OMV Team AT,,2019-10-30T11:20:48.850Z,,,Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+Schumacher Georg,X01schgeo,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-30T10:28:12.043Z,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam
+Seidl Georg,GEORG2,WINDOWS_AD,ww,,False,False,OMV Team AT,,,,,Everyone;OMV_Austria;OMV_CoreTeam
+Shaw Arun (Admin),adminarun05,WINDOWS_AD,ww,,False,True,AUCERNA,,2019-05-14T14:42:11.740Z,2019-10-21T14:01:59.153Z,,Administrators;AUCERNA;Everyone
+Shaw Arun (Ext),ARUN05,WINDOWS_AD,ww,,False,False,AUCERNA,,2019-05-28T13:47:24.570Z,,,Administrators;AUCERNA;Everyone;OMV_Austria
+Six Jörg,X451555,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.670Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Skeete Jennifer (Ext),JENNIFER11,WINDOWS_AD,ww,,False,True,AUCERNA,,,2019-10-21T14:01:59.687Z,,AUCERNA;Everyone;OMV_CoreTeam
+Skeie Elin,ELIN01,WINDOWS_AD,ww,,False,True,OMV Team NO,,,2019-10-21T14:01:59.700Z,,Everyone;OMV_CoreTeam;OMV_Norway
+Sledz Christian,CHRISTIAN87,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T14:01:59.280Z,,Everyone;OMV_CoreTeam;OMV_Upstream;PetroVR_users
+Stancu Nicoleta,X01000648,WINDOWS_AD,ww,,False,True,OMV Team Petrom,,,2019-10-21T14:01:59.717Z,,Everyone;OMV_CoreTeam;OMV_Petrom
+Stoiser Birgit,X449810,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T14:01:59.200Z,,Everyone;OMV_CoreTeam;OMV_Upstream
+Swales Marc Steven,MARC23,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,,,,Everyone;OMV_CoreTeam;OMV_Upstream
+Ullmann Horst,X450400,WINDOWS_AD,ww,,False,True,OMV Team AT,,,2019-10-21T14:01:59.733Z,,Everyone;OMV_CoreTeam
+Umani Leonardo,LEONARDO1,WINDOWS_AD,ww,,False,False,OMV Team headoffice,,2019-10-30T11:59:01.940Z,,,Everyone;OMV_Austria;OMV_CoreTeam;OMV_Upstream
+User Administration,useradmin,LOCAL,,,False,False,local User for User Administration,,2019-10-30T13:09:10.073Z,,,Administrators;Everyone;Useradmin
+Volker Lukas,LUKAS80,WINDOWS_AD,ww,,False,False,OMV Team AT,,2019-10-24T05:00:43.447Z,,,Everyone;OMV_Austria;OMV_CoreTeam
+Waldner Martina,X449157,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,,2019-10-21T14:01:59.780Z,,Everyone;OMV_CoreTeam;OMV_Upstream
+Weber Stefan,STEFAN42,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.750Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Weber Stefan,X012779,WINDOWS_AD,ww,,False,True,PetroVR,,,2019-10-21T14:01:59.763Z,,Everyone;OMV_CoreTeam;PetroVR_users
+Weber Tanja Maria,X451558,WINDOWS_AD,ww,,False,True,OMV Team headoffice,,2019-10-21T10:57:07.423Z,2019-10-21T14:01:59.827Z,,Everyone;OMV_CoreTeam;OMV_Upstream
+ZZ - Demo User 1,demo1,LOCAL,,,False,False,Plan2Value local DEMO user for Training + Test,,2019-10-10T09:53:02.633Z,,,Dataflow_key;Everyone;OMV_Austria
+ZZ - Demo User 2,demo2,LOCAL,,,False,False,Plan2Value local DEMO user for Training + Test,,2019-05-16T09:21:58.453Z,,,Everyone;OMV_Austria;OMV_CoreTeam
+ZZ - Demo User 3,demo3,LOCAL,,,False,False,Plan2Value local DEMO user for Training + Test,,,,,Administrators;Everyone;OMV_Austria;OMV_CoreTeam
+ZZ - Demo User 4,demo4,LOCAL,,,False,False,Plan2Value local DEMO user for Training + Test,,,,,Everyone;OMV_Austria;PetroVR_users
+ZZ - Demo User 5,demo5,LOCAL,,,False,False,Plan2Value local DEMO user for Training + Test,,,,,Everyone;OMV_Austria;PetroVR_users
+ZZ - Demo User 6,demo6,LOCAL,,,False,False,Plan2Value local DEMO user for Training + Test,,,,,Everyone;OMV_Austria
+ZZ - Demo User 7,demo7,LOCAL,,,False,False,Plan2Value local DEMO user for Training + Test,,,,,Everyone;OMV_Austria

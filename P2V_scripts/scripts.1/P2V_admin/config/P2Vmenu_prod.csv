@@ -1,0 +1,4 @@
+Section,Method,Command,Arguments,Name,Description
+Plan2Value PROD Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-prod.ww.omv.com/P2V-PROD,Planningspace Production,Aucerna Planningspace production P2V-PROD
+Plan2Value PROD Environment,cmd,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe ,-app=https://somvat502674.ww.omv.com/OMVPROD,Reserves Production,Aucerna Reserves production OMVPROD
+EXIT,cmd,logoff,,EXIT,closes all production P2V sessions and exit

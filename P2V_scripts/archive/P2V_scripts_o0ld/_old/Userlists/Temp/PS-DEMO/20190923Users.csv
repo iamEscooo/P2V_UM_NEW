@@ -1,0 +1,57 @@
+Name,Login ID,Authentication method,Domain,Expiry date,Deactivated,Locked,Description,Email,Last login date,Locked date,Deactivated date,Workgroups
+Aaron Johnson,AARON6,LOCAL,,,False,False,AUCERNA,aaron.johnson@aucerna.com,2019-07-04T09:49:25.780Z,,,Everyone;OMV_CoreTeam
+Administrator,Administrator,LOCAL,,,False,False,Administrator,,2019-09-20T23:56:10.977Z,,,Administrators
+Armando Carrasco,ARMANDO1,WINDOWS_AD,ww,,False,False,AUCERNA,armando.carrasco@aucerna.com,,,,Administrators;Everyone
+Armando Carrasco,ARMANDO1,LOCAL,,,False,False,AUCERNA (Local),armando.carrasco@aucerna.com,2019-09-06T09:58:36.593Z,,,Administrators;Everyone
+Arun Shaw,ARUN05,WINDOWS_AD,ww,,False,False,AUCERNA,arun.shaw@aucerna.com,2019-09-16T20:11:13.853Z,,,Administrators;Everyone
+Arun Shaw (Aucerna),adminarun05,WINDOWS_AD,ww,,False,False,Arun Shaw (Aucerna),,2019-05-14T14:42:11.740Z,,,Administrators;Everyone
+Bas Jacobs,X449381,WINDOWS_AD,ww,,False,False,Testuser PetroVR,,,,,Everyone;PetroVR_users
+Birgit Stoiser,X449810,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Bogdan Banu,X01BanuBo,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Bogdan-George Davidescu,X01026000,WINDOWS_AD,ww,,False,False,"EATT-R Dev & Reservoir Engineering
+P2V reserves training",,2019-08-28T08:58:01.913Z,,,Everyone;OMV_CoreTeam
+Camilo Sanchez,sancheca,WINDOWS_AD,ww,,False,False,core team,Camilo.Sanchez@omv.com,2019-09-04T12:21:33.133Z,,,Everyone;OMV_CoreTeam
+Catalin Paraschiv,X01005176,WINDOWS_AD,ww,,False,False,core team,Catalin.Paraschiv@petrom.com,2019-09-19T15:38:15.410Z,,,Everyone;OMV_CoreTeam
+Christian Blecha,X450582,WINDOWS_AD,ww,,False,False,OMV PPS project team,,,,,Everyone;OMV_CoreTeam
+Christian Malle,X450118,WINDOWS_AD,ww,,False,False,Testuser PetroVR,,,,,Everyone;PetroVR_users
+Christian Scholz,CHRISTIAN130,WINDOWS_AD,ww,,False,False,OMV Core Team,,2019-09-20T11:34:45.443Z,,,Everyone;OMV_CoreTeam
+Christian Sledz,CHRISTIAN87,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Christina Maria Gaber,X449891,WINDOWS_AD,ww,,False,False,P2V team member,,,,,Everyone;OMV_CoreTeam
+Daniel Grogger,DANIEL279,WINDOWS_AD,ww,,False,False,Testuser PetroVR,,,,,Everyone;PetroVR_users
+Doug MacDonald,Doug01,LOCAL,,,False,False,Aucerna,,2019-09-20T17:45:48.863Z,,,Administrators;Everyone
+Eduard Klein,X409094,WINDOWS_AD,ww,,False,False,OMV P2V project team,,2019-08-28T09:00:28.637Z,,,Everyone;OMV_CoreTeam
+Emma Rodgers,X449890,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Fida Hussain,xhussaifi,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Florian Dutzler,FLORIAN109,WINDOWS_AD,ww,,False,False,core team,,2019-08-27T12:07:07.540Z,,,Everyone;OMV_CoreTeam
+Gael Carlier,gael04,LOCAL,,,False,False,AUCERNA,gael.carlier@aucerna.com,2019-09-23T12:31:27.497Z,,,Administrators;Everyone
+Georg Schumacher,X01schgeo,WINDOWS_AD,ww,,False,False,core team,Georg.Schumacher@petrom.com,2019-08-28T08:54:35.160Z,,,Everyone;OMV_CoreTeam
+Gerald Antes,X449077,WINDOWS_AD,ww,,False,False,Testuser PetroVR,,,,,Everyone;PetroVR_users
+Ioan Alexandru Tataru (Admin),admintataruioa@ww.omv.com,SAML2,,,False,False,Ioan Alexandru Tataru (Admin),,2019-05-16T09:21:58.453Z,,,Administrators;Everyone
+Ionica Barbu,X01000651,WINDOWS_AD,ww,,False,False,P2V reserves training,,,,,Everyone;OMV_CoreTeam
+Kevin Rooney,KEVIN32,WINDOWS_AD,ww,,False,False,AUCERNA,kevin.rooney@aucerna.com,2019-09-20T17:15:21.053Z,,,Everyone
+Leonardo Umani,LEONARDO1,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Madalina Coada-Petre,X01024526,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Marc Swales,MARC23,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Maria Pertl,X449156,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Mario-Luis Rodriguez Chavez,X451671,WINDOWS_AD,ww,,False,False,"Testuser P2V
+Testuser PetroVR",,,,,Everyone;OMV_CoreTeam;PetroVR_users
+Markus Nuesslein,X450313,WINDOWS_AD,ww,,False,False,core team,,2019-08-20T14:55:07.877Z,,,Everyone;OMV_CoreTeam
+Martin Hubbig,MARTIN26,WINDOWS_AD,ww,,False,False,OMV P2V project team,,2019-08-28T11:46:14.210Z,,,Everyone;OMV_CoreTeam
+Martin Kufner,X449222,WINDOWS_AD,ww,,False,False,MKR,,2019-09-11T10:23:48.667Z,,,Administrators;Everyone;OMV_CoreTeam
+Martin Kufner (Admin),adminx449222@ww.omv.com,SAML2,,,False,False,Martin Kufner (Admin),,2019-06-03T08:43:55.803Z,,,Administrators;Everyone
+Matthew Kent Coughlin,MATTHEW9,WINDOWS_AD,ww,,False,False,P2V reserves training,,2019-08-28T07:08:14.570Z,,,Everyone;OMV_CoreTeam
+Michael Stefan Eichinger,MICHAEL139,WINDOWS_AD,ww,,False,False,Testuser PetroVR,,,,,Everyone;PetroVR_users
+Neil Ementon,NEIL08,WINDOWS_AD,ww,,False,False,"Testuser P2V
+Testuser PetroVR",,,,,Everyone;OMV_CoreTeam;PetroVR_users
+Nicoleta Stancu,X01000648,WINDOWS_AD,ww,,False,False,P2V reserves training,,2019-09-13T06:12:21.917Z,,,Everyone;OMV_CoreTeam
+Paul Führmann,PAUL77,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Razvan Bulgariu,X01001805,WINDOWS_AD,ww,,False,False,OMV Core Team,,2019-09-23T09:49:57.543Z,,,Administrators;Auditor;Everyone;Interfaces;OData;OMV_CoreTeam;Useradmin
+Sandra Culjak,SANDRA18,WINDOWS_AD,ww,,False,False,Testuser P2V,,2019-09-20T10:39:13.767Z,,,Everyone;OMV_CoreTeam
+Semra Kocyigit,SEMRA1,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Shilpa  Taylor,SHILPA1,WINDOWS_AD,ww,,False,False,AUCERNA,shilpa.taylor@aucerna.com,,,,Everyone
+Simona Lancu,Simona10,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam
+Siri Berge,SIRI02,WINDOWS_AD,ww,,False,False,P2V reserves training,,2019-08-28T11:12:52.103Z,,,Everyone;OMV_CoreTeam
+Stanislav Kozlov,STANISLAV7,WINDOWS_AD,ww,,False,False,AUCERNA,stanislav.kozlov@aucerna.com,,,,Administrators;Everyone
+Susan Ellis,SUSAN2,WINDOWS_AD,ww,,False,False,core team,Susan.Ellis@omv.com,2019-09-20T12:44:02.857Z,,,Everyone;OMV_CoreTeam
+User Administration,useradmin,LOCAL,,,False,False,local User for User Administration,,2019-09-23T12:27:33.203Z,,,Administrators;Everyone
+Wolfgang Posch,X449602,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Everyone;OMV_CoreTeam

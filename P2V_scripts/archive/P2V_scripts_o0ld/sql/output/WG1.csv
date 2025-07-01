@@ -1,0 +1,89 @@
+﻿data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Adjustment,Allow,NULL,NULL,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Adjustment,Allow,Allow,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Adjustment,Allow,Allow,Allow,Allow,NULL
+data.Corporate.key,"OMV Headoffice users (corporate) key ",PlanningSpace Dataflow,Adjustment,Allow,Allow,Allow,Allow,Allow
+DataFlow.key,"Dataflow Key user ",PlanningSpace Dataflow,Adjustment,Allow,Allow,Allow,Allow,NULL
+Economics.key,"Economics key user ",PlanningSpace Dataflow,Adjustment,Allow,NULL,Allow,NULL,NULL
+Economics.power,Economics power user,PlanningSpace Dataflow,Adjustment,Allow,NULL,Allow,NULL,NULL
+Financials.key,Financials key user,PlanningSpace Dataflow,Adjustment,Allow,NULL,NULL,NULL,NULL
+Financials.power,Financials power user HO,PlanningSpace Dataflow,Adjustment,Allow,NULL,Allow,NULL,NULL
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Asset,Allow,NULL,NULL,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Asset,Allow,NULL,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Asset,Allow,NULL,Allow,Allow,NULL
+DataFlow.key,"Dataflow Key user ",PlanningSpace Dataflow,Asset,Allow,Allow,Allow,Allow,NULL
+DataFlow.power,Dataflow Power user,PlanningSpace Dataflow,Asset,Allow,Allow,Allow,Allow,Allow
+P2V.base,P2V base access,PlanningSpace Dataflow,Asset,Allow,NULL,NULL,NULL,NULL
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Contract Area,Allow,NULL,NULL,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Contract Area,Allow,NULL,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Contract Area,Allow,NULL,Allow,Allow,NULL
+DataFlow.key,"Dataflow Key user ",PlanningSpace Dataflow,Contract Area,Allow,Allow,Allow,Allow,NULL
+DataFlow.power,Dataflow Power user,PlanningSpace Dataflow,Contract Area,Allow,Allow,Allow,Allow,Allow
+P2V.base,P2V base access,PlanningSpace Dataflow,Contract Area,Allow,NULL,NULL,NULL,NULL
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Country,Allow,NULL,NULL,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Country,Allow,NULL,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Country,Allow,NULL,Allow,Allow,NULL
+DataFlow.power,Dataflow Power user,PlanningSpace Dataflow,Country,Allow,Allow,Allow,Allow,Allow
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Legal Entity,Allow,NULL,NULL,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Legal Entity,Allow,NULL,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Legal Entity,Allow,NULL,Allow,Allow,NULL
+DataFlow.key,"Dataflow Key user ",PlanningSpace Dataflow,Legal Entity,Allow,Allow,Allow,Allow,NULL
+DataFlow.power,Dataflow Power user,PlanningSpace Dataflow,Legal Entity,Allow,Allow,Allow,Allow,Allow
+P2V.base,P2V base access,PlanningSpace Dataflow,Legal Entity,Allow,NULL,NULL,NULL,NULL
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Organization,Allow,NULL,NULL,NULL,NULL
+DataFlow.power,Dataflow Power user,PlanningSpace Dataflow,Organization,Allow,NULL,Allow,NULL,NULL
+Everyone,Default workgroup.,PlanningSpace Dataflow,Organization,Allow,NULL,NULL,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Project ARE (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Project ARE (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.key,"OMV Headoffice users (corporate) key ",PlanningSpace Dataflow,Project ARE (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Austria,OMV BO Austria users,PlanningSpace Dataflow,Project AUT (PRMS),Allow,NULL,Allow,NULL,NULL
+data.Austria.Economics,data.Austria.Economics,PlanningSpace Dataflow,Project AUT (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Austria.Finance,data.Austria.Finance,PlanningSpace Dataflow,Project AUT (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Austria.Key,data.Austria.Key,PlanningSpace Dataflow,Project AUT (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Project AUT (PRMS),Allow,NULL,Allow,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Project AUT (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Project AUT (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.key,"OMV Headoffice users (corporate) key ",PlanningSpace Dataflow,Project AUT (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Project KRI (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Project KRI (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.key,"OMV Headoffice users (corporate) key ",PlanningSpace Dataflow,Project KRI (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Project LBY (PRMS),Allow,NULL,Allow,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Project LBY (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Project LBY (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.key,"OMV Headoffice users (corporate) key ",PlanningSpace Dataflow,Project LBY (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Libya,data.Libya,PlanningSpace Dataflow,Project LBY (PRMS),Allow,NULL,Allow,NULL,NULL
+data.Libya.Economics,data.Libya.Economics,PlanningSpace Dataflow,Project LBY (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Libya.Finance,data.Libya.Finance,PlanningSpace Dataflow,Project LBY (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Libya.key,data.Libya,PlanningSpace Dataflow,Project LBY (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Project NOR (PRMS),Allow,NULL,Allow,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Project NOR (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Project NOR (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.key,"OMV Headoffice users (corporate) key ",PlanningSpace Dataflow,Project NOR (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Norway,OMV BO Norway users,PlanningSpace Dataflow,Project NOR (PRMS),Allow,NULL,Allow,NULL,NULL
+data.Norway.Economics,data.Norway.Economics,PlanningSpace Dataflow,Project NOR (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Norway.Finance,data.Norway.Finance,PlanningSpace Dataflow,Project NOR (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Norway.Key,data.Norway.Key,PlanningSpace Dataflow,Project NOR (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Project RUS (PRMS),Allow,NULL,Allow,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Project RUS (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Project RUS (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.key,"OMV Headoffice users (corporate) key ",PlanningSpace Dataflow,Project RUS (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Russia,OMV BO Russia users,PlanningSpace Dataflow,Project RUS (PRMS),Allow,NULL,Allow,NULL,NULL
+data.Russia.Economics,data.Russia.Economics,PlanningSpace Dataflow,Project RUS (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Russia.Finance,data.Russia.Finance,PlanningSpace Dataflow,Project RUS (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Russia.Key,data.Russia.Key,PlanningSpace Dataflow,Project RUS (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Project TUN (PRMS),Allow,NULL,Allow,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Project TUN (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Project TUN (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.key,"OMV Headoffice users (corporate) key ",PlanningSpace Dataflow,Project TUN (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Tunisia,OMV BO Tunisia users,PlanningSpace Dataflow,Project TUN (PRMS),Allow,NULL,Allow,NULL,NULL
+data.Tunisia.Economics,data.Tunisia.Economics,PlanningSpace Dataflow,Project TUN (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Tunisia.Finance,data.Tunisia.Finance,PlanningSpace Dataflow,Project TUN (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Tunisia.Key,data.Tunisia.Key,PlanningSpace Dataflow,Project TUN (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Project YEM (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Project YEM (PRMS),Allow,Allow,Allow,Allow,NULL
+data.Corporate.key,"OMV Headoffice users (corporate) key ",PlanningSpace Dataflow,Project YEM (PRMS),Allow,Allow,Allow,Allow,Allow
+data.Corporate,"OMV Headoffice users (corporate) ",PlanningSpace Dataflow,Reservoir Group,Allow,NULL,NULL,NULL,NULL
+data.Corporate.Economics,OMV Headoffice users (corporate) Economics,PlanningSpace Dataflow,Reservoir Group,Allow,NULL,Allow,Allow,NULL
+data.Corporate.Finance,OMV Headoffice users (corporate) Finance,PlanningSpace Dataflow,Reservoir Group,Allow,NULL,Allow,Allow,NULL
+DataFlow.key,"Dataflow Key user ",PlanningSpace Dataflow,Reservoir Group,Allow,Allow,Allow,Allow,NULL
+DataFlow.power,Dataflow Power user,PlanningSpace Dataflow,Reservoir Group,Allow,Allow,Allow,Allow,Allow
+P2V.base,P2V base access,PlanningSpace Dataflow,Reservoir Group,Allow,NULL,NULL,NULL,NULL

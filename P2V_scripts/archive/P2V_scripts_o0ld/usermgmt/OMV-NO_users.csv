@@ -1,0 +1,35 @@
+LogonId,DisplayName,Description,IsDeactivated,IsAccountLocked,EmailAddress,authenticationMethod
+Madalina.CoadaPetre@omv.com,Coada-Petre Madalina (X01024526),EP-N Perf. Portf. & Planning NOS,False,False,,SAML2
+Reidar.Haver@omv.com,Haver Reidar (REIDAR1),EP-N Perf. Portf. & Planning NOS,False,False,,SAML2
+Marco.Bresciani@omv.com,Bresciani Marco (MARCO9),EF-N Finance NOS,False,False,,SAML2
+Lars.Bruset@omv.com,Bruset Lars (LARS3),EF-N Finance NOS,False,False,,SAML2
+Christine.Kirchgasser@omv.com,Kirchgasser Christine (X452077),EFN-C Controlling NOS,False,False,,SAML2
+Siri.Berge@omv.com,Berge Siri (SIRI02),ENX-R Development & Reservoir Eng.NOS,False,False,,SAML2
+Andre.Kruger@omv.com,Kruger André (ANDRE11),EFN-C Controlling NOS,False,False,,SAML2
+Maricel.Obiacoro@external.omv.com,Obiacoro Maricel (MARICEL10),EFN-C Controlling NOS,False,False,,SAML2
+Oivind.Overland@omv.com,Øverland Øivind (OEIVIND1),EFN-C Controlling NOS,False,False,,SAML2
+Stefan.Wanjek@omv.com,Wanjek Stefan (X451691),EF-N Finance NOS,False,False,,SAML2
+Andreas.Treichel@omv.com,Treichel Andreas (XTREIAN),EN-N Assets Norway,False,False,,SAML2
+Rob.Dobbins@omv.com,Dobbins Robert Shane (XDOBBINRO),EN-N Assets Norway,False,False,,SAML2
+sigbjorn.birkenes@omv.com,Birkenes Sigbjørn (SIGBJOERN1),ED-N Projects NOS,False,False,,SAML2
+Elisabeth.Svane@omv.com,Svane Elisabeth (ELISABETH3),EN-N Assets Norway,False,False,,SAML2
+Morten.Krogh@omv.com,Krogh Morten (MORTEN2),EN-N Assets Norway,False,False,,SAML2
+GregoryJohn.Rock@omv.com,Rock Gregory John (GREGORY1),ETXV-N Exploration&Appraisal NOS,False,False,,SAML2
+Wuilmer.Ponte@omv.com,Ponte Pineda Wuilmer Jose (WUILMER1),ENX-R Development & Reservoir Eng.NOS,False,False,,SAML2
+Karine.GuibertDAmore@omv.com,Guibert D Amore Karine (KARINE1),ETR-R Reservoir Engineering,False,False,,SAML2
+TorOskar.Holmgard@omv.com,Holmgard Tor Oskar Haukland (TOR001),ENX-R Development & Reservoir Eng.NOS,False,False,,SAML2
+Helene.Daae@omv.com,Daae Helene Virkesdal (HELENE2),ENX-R Development & Reservoir Eng.NOS,False,False,,SAML2
+Hela.Hamdi@omv.com,Hamdi Hela (XHAMDI_HE),ENX-R Development & Reservoir Eng.NOS,False,False,,SAML2
+Mostafa.Abdoli@omv.com,Abdoli Mostafa (XABDOLI),ETXVN-S Exploration & App. NorwegianSea,False,False,,SAML2
+Thomas.Melgaard@omv.com,Melgaard Thomas (THOMAS15),ETXVN-N Exploration & App. Nor.NorthSea,False,False,,SAML2
+Heidi.Rydningen@omv.com,Rydningen Heidi (XRYDNINHE),ETXVN-B Exploration & App. Barents Sea,False,False,,SAML2
+Johannes.Ladenhauf@omv.com,Ladenhauf Johannes (X451420),ENX-W Well Engineering NOS,False,False,,SAML2
+Luca.Garzonio@omv.com,Garzonio Luca (LUCA09),ENX-P Production & Engineering NOS,False,False,,SAML2
+Elin.Skeie@omv.com,Skeie Elin (ELIN01),ENX-P Production & Engineering NOS,False,False,,SAML2
+JensRune.Thomassen@omv.com,Thomassen Jens Rune (JENS11),EN-C Commercial & Legal NOS,False,False,,SAML2
+Trond.Boe@omv.com,Bøe Trond (TROND1),EN-C Commercial & Legal NOS,False,False,,SAML2
+Kathinka.Tysnes@omv.com,Tysnes Kathinka (KATHINKA1),EN-C Commercial & Legal NOS,False,False,,SAML2
+LarsHenrik.Henriksen@omv.com,Henriksen Lars Henrik (LARS05),ENX-P Production & Engineering NOS,False,False,,SAML2
+Frank.Sanden@omv.com,Sanden Frank (FRANK4),ED-N Projects NOS,False,False,,SAML2
+OddArne.Hansen@omv.com,Hansen Odd Arne (ODD004),ED-N Projects NOS,False,False,,SAML2
+Adrian.Jones@omv.com,Jones Adrian (ADRIAN18),EN-X Expl. Development & Production,False,False,,SAML2

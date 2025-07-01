@@ -1,0 +1,3 @@
+Section,Method,Command,Arguments,Name,Description
+Plan2Value UPDATE Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502104.ww.omv.com/P2V_UPDATE,Planningspace UPDATE,Aucerna Planningspace P2V-UPDATE (tsomvat502104)
+Plan2Value UPDATE Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-update.ww.omv.com/P2V_UPDATE,Planningspace UPDATE,Aucerna Planningspace P2V-UPDATE (ips-update)

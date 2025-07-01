@@ -1,0 +1,21 @@
+id,title,description,script
+1,Check individual user(s) in Active Directory,Check individual user(s) in Active Directory,\check_AD_userprofile_1.ps1
+2,Check individual user(s) in all P2V tenants,Check individual user(s) in all P2V tenants,\check_P2V_user.ps1
+3,check locked users,check locked users,\P2V_lock_user.ps1
+4,export P2V userlists,export P2V userlists,\P2V_export_users.ps1
+5,export P2V auditlogs,export P2V auditlogs,\PS-auditlogs.ps1
+6,export Active Directory lists for P2V,export Active Directory lists for P2V,\AD_userlists.ps1
+7,check all locked users,check all locked users,\P2V_lock_allusers.ps1
+8,check all AUCERNA accounts,check all AUCERNA accounts,\check_aucerna.ps1
+9,create new user(s),create new user(s),\P2V_new_user.ps1
+10,manage user workgroups  (single user),manage user workgroups  (single user),\P2V_new_users_tenant.ps1
+11,manage user workgroups - UI (single user),manage user workgroups - UI (single user),\P2V_users_WG_assignment_1.ps1
+12,calculate Access groups,calculate Access groups,\P2V_calculate_groups.ps1
+13,synchronize single user with AD,synchronize single user with AD,\P2V_singleuser_sync.ps1
+14,synchronize tenant with AD,synchronize tenant with AD,\P2V_sync_userbase.ps1
+15,Profile manager,Profile manager,\P2V_profile_manager.ps1
+16,apply user profiles,apply user profiles,\P2V_set_profiles.ps1
+17,check admin accounts,check admin accounts,\check_P2V_admins.ps1
+18,backup user-workgroup settings,backup user-workgroup settings,\get_ps_users_and_groups.ps1
+19,restore user-workgroup settings,restore user-workgroup settings,\update_ps_users_and_groups.ps1
+20,PROFILES-create,PROFILES-create,\X_profile.ps1

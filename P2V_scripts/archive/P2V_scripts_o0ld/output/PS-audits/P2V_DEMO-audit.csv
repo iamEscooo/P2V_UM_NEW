@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"117505","PlanningSpace Economics","The user <Susan.Ellis@omv.com> has logged out.","Susan.Ellis@omv.com","User","Logout","Susan.Ellis@omv.com","TSOMVAT423002","2020-07-10T10:45:23.443Z"
+"117504","PlanningSpace Dataflow","The user <Susan.Ellis@omv.com> has logged out.","Susan.Ellis@omv.com","User","Logout","Susan.Ellis@omv.com","TSOMVAT423002","2020-07-10T10:45:23.410Z"
+"117503","PlanningSpace Economics","The user <Susan.Ellis@omv.com> has logged in. ","Susan.Ellis@omv.com","User","Login","Susan.Ellis@omv.com","TSOMVAT423002","2020-07-10T10:44:20.350Z"
+"117502","PlanningSpace Dataflow","The user <Susan.Ellis@omv.com> has logged in. ","Susan.Ellis@omv.com","User","Login","Susan.Ellis@omv.com","TSOMVAT423002","2020-07-10T10:44:16.660Z"
+"117501","PlanningSpace","The user [Susan.Ellis@omv.com] has logged in.","Susan.Ellis@omv.com","User","Login","Susan.Ellis@omv.com","10.12.205.19","2020-07-10T10:44:10.100Z"
+"117500","PlanningSpace Economics","Deleted project folder <test 2>.","test 2","Hierarchy Folder","Deleted","Marco.Bresciani@omv.com","TSOMVAT423002","2020-07-10T10:35:30.820Z"
+"117499","PlanningSpace Economics","Deleted project folder <test>.","test","Hierarchy Folder","Deleted","Marco.Bresciani@omv.com","TSOMVAT423002","2020-07-10T10:35:30.790Z"
+"117498","PlanningSpace Economics","Added project folder <test 2>.","test 2","Hierarchy Folder","Created","Marco.Bresciani@omv.com","TSOMVAT423002","2020-07-10T10:23:40.797Z"
+"117497","PlanningSpace Economics","Added project folder <test>.","test","Hierarchy Folder","Created","Marco.Bresciani@omv.com","TSOMVAT423002","2020-07-10T10:23:22.217Z"
+"117496","PlanningSpace Economics","Updated ringfence settings of folder <PL 338>.","PL 338","Hierarchy Folder","Updated","Marco.Bresciani@omv.com","TSOMVAT423002","2020-07-10T10:21:18.510Z"

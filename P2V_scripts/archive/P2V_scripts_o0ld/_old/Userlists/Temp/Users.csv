@@ -1,0 +1,18 @@
+Name,Login ID,Authentication method,Domain,Expiry date,Deactivated,Locked,Description,Email,Last login date,Locked date,Deactivated date,Workgroups
+Aaron Johnson,AARON6,WINDOWS_AD,ww,,False,False,AUCERNA,aaron.johnson@aucerna.com,,,,Everyone
+Administrator,Administrator,LOCAL,,,False,False,Administrator,,2019-05-20T15:20:33.767Z,,,Administrators
+Arun Shaw,ARUN05,WINDOWS_AD,ww,,False,False,AUCERNA,arun.shaw@aucerna.com,,,,Everyone
+Arun Shaw (Aucerna),adminarun05,WINDOWS_AD,ww,,False,False,Arun Shaw (Aucerna),,2019-05-14T14:42:11.740Z,,,Administrators;Everyone
+Camilo Sanchez,sancheca,WINDOWS_AD,ww,,False,False,core team,Camilo.Sanchez@omv.com,,,,Everyone
+Catalin Paraschiv,X01005176,WINDOWS_AD,ww,,False,False,core team,Catalin.Paraschiv@petrom.com,,,,Everyone
+Florian Dutzler,FLORIAN109,WINDOWS_AD,ww,,False,False,core team,Florian.Dutzler@omv.com,,,,Everyone;User_heavy
+Gael Carlier,GAEL04,WINDOWS_AD,ww,,False,False,AUCERNA,gael.carlier@aucerna.com,,,,Everyone
+Georg Schumacher,X01schgeo,WINDOWS_AD,ww,,False,False,core team,Georg.Schumacher@petrom.com,,,,Everyone
+Ioan Alexandru Tataru (Admin),admintataruioa@ww.omv.com,SAML2,,,False,False,Ioan Alexandru Tataru (Admin),,2019-05-16T09:21:58.453Z,,,Administrators;Everyone
+Kevin Rooney,KEVIN32,WINDOWS_AD,ww,,False,False,AUCERNA,kevin.rooney@aucerna.com,,,,Everyone
+Markus Nuesslein,X450313,WINDOWS_AD,ww,,False,False,core team,markus.nuesslein@omv.com,,,,Everyone
+Martin Kufner,X449222,WINDOWS_AD,ww,,False,False,MKR,,,,,Everyone;User_heavy
+Martin Kufner (Admin),adminx449222@ww.omv.com,SAML2,,,False,False,Martin Kufner (Admin),,,,,Administrators;Everyone
+Shilpa  Taylor,SHILPA1,WINDOWS_AD,ww,,False,False,AUCERNA,shilpa.taylor@aucerna.com,,,,Everyone
+Stanislav Kozlov,STANISLAV7,WINDOWS_AD,ww,,False,False,AUCERNA,stanislav.kozlov@aucerna.com,,,,Everyone
+Susan Ellis,SUSAN2,WINDOWS_AD,ww,,False,False,core team,Susan.Ellis@omv.com,,,,Everyone

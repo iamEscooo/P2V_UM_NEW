@@ -1,0 +1,6 @@
+Section,Method,Command,Arguments,Name,Description
+Former Palantir AT,cmd,"C:\Program Files\Palantir\PlanningSpace 16.5\PalantirCASH\PalantirCASH.exe",   /tenanturl=https://ips-prod.ww.omv.com/P2V_Palantir_AT ,Palantir Cash, OMV Classic: Palantir Cash 
+Former Palantir AT,cmd,"C:\Program Files\Palantir\PlanningSpace 16.5\PalantirCASH\PalantirCASH.exe",   /tenanturl=https://ips-prod.ww.omv.com/P2V_Palantir_AT_BK ,Palantir Cash, OMV Classic: Palantir Cash Backup 
+Former Palantir RO,cmd,"C:\Program Files\Palantir\PlanningSpace 16.5\PalantirCASH\PalantirCASH.exe",   /tenanturl=https://ips-prod.ww.omv.com/P2V_Palantir_RO ,Palantir Cash, OMV Petrom: Palantir Cash  (anonymized data)
+Former Palantir RO,cmd,"C:\Program Files\Palantir\PlanningSpace 16.5\PalantirCASH\PalantirCASH.exe",   /tenanturl=https://ips-prod.ww.omv.com/P2V_Palantir_RO_BK,Palantir Cash, OMV Petrom: Palantir Cash BK (anonymized data)
+EXIT,exit,exit,,EXIT,exit this menu

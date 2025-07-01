@@ -1,0 +1,7 @@
+ServerURL,tenant,Resource,usern,passw
+https://tsomvat502898.ww.omv.com,PPS_DEV,Planningspace,FeedKey,API.FA357F3B277B445895F30102D20AD95D.891B0D492E002E3BD0DF35194DBF9687
+https://tsomvat502898.ww.omv.com,PPS_DEV,Planningspace,useradmin,aucerna4me
+https://ips-test.ww.omv.com,P2V_TEST,Planningspace,useradmin,aucerna4me
+https://ips-test.ww.omv.com,P2V_DEMO,Planningspace,useradmin,aucerna4me
+https://ips-test.ww.omv.com,P2V_TRAINING,Planningspace,useradmin,aucerna4me
+https://ips-prod.ww.omv.com,P2V-PROD,Planningspace,useradmin,aucerna4me

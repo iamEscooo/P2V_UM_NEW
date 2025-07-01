@@ -1,0 +1,23 @@
+Section,Method,Command,Arguments,Name,Description
+Check user accounts,cmd,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,-file .\lib\check_AD_userprofile_1.ps1,AD user profile,Check individual user(s) in Active Directory
+Check user accounts,powershell_inline,& .\lib\check_P2V_user.ps1,,P2V_user profile,Check individual user(s) in (all) P2V tenants
+Check user accounts,powershell_inline,& .\lib\check_aucerna.ps1,,check Aucerna ,check all AUCERNA accounts
+Check user accounts,powershell_inline,& .\lib\check_P2V_admins.ps1,,check Admins,check admin accounts
+Check user accounts,powershell_inline,& .\lib\check_P2V_lastlogin.ps1,,check last logins,check last logins
+Export user lists,powershell_inline,& .\lib\AD_userlists.ps1,,AD user lists,export Active Directory lists for P2V
+Export user lists,powershell_inline,& .\lib\P2V_export_users.ps1;pause,,P2V user lists,export P2V userlists all tenants
+Export user lists,powershell_inline,& .\lib\P2V_export_auditlogs.ps1,,P2V auditlogs,export P2V auditlogs
+Export user lists,powershell_inline,& .\lib\get_ps_users_and_groups.ps1,,Backup,backup user-workgroup settings
+import user lists,powershell_inline,& .\lib\update_ps_users_and_groups.ps1,,Restore,restore user-workgroup settings
+Synchronize,powershell_inline,& .\lib\P2V_singleuser_sync.ps1,,sync user,synchronize single user with AD
+Synchronize,powershell_inline,& .\lib\P2V_sync_userbase.ps1,,sync tenant,synchronize tenant with AD
+Profiles,powershell_inline,& .\lib\P2V_profile_manager.ps1,,Profile Manager,Profile manager
+Profiles,powershell_inline,& .\lib\P2V_set_profiles.ps1,,Apply profiles,apply user profiles
+Profiles,powershell_inline,& .\lib\P2V_calculate_groups.ps1,,Check  permissions,calculate Access groups
+Profiles,powershell_inline,& .\lib\P2V_new_users_tenant.ps1,,manage user workgroups  (single user),manage user workgroups  (single user)
+Profiles,powershell_inline,& .\lib\P2V_users_WG_assignment_1.ps1,,manage user workgroups - UI (single user),manage user workgroups - UI (single user)
+-- under construction --,powershell_inline, Get-Process | Where-Object {$_.MainWindowTitle -ne ""};$PID;pause,,EXIT,EXIT
+-- under construction --,powershell_inline,& .\lib\P2V_new_user.ps1,,create new user(s),create new user(s)
+-- under construction --,powershell_inline,& .\lib\X_profile.ps1,,PROFILES-create,PROFILES-create
+-- under construction --,powershell_inline,& .\lib\P2V_lock_user.ps1,,user lock status?,check locked users
+-- under construction --,powershell_inline,& .\lib\P2V_lock_allusers.ps1,,all locked users,check all locked users

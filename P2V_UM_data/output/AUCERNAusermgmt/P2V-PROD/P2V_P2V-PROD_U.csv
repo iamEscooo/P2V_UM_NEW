@@ -1,0 +1,810 @@
+﻿LogonId,authenticationMethod,Domain,DisplayName,Description,IsDeactivated,IsAccountLocked,EmailAddress
+Abbie.Pallesen@external.omv.com,SAML2,,Pallesen Abbie (ABBIE1),FEF-Z Finance NZ,True,False,Abbie.Pallesen@external.omv.com
+Abdulkhalek.Mohamed@omv.com,SAML2,,Yahya Abdulkhalek Mohamed (ABDULKHAL1),EDE-G Exploration Global,False,False,Abdulkhalek.Mohamed@omv.com
+AdamMilan.Kovacs@omv.com,SAML2,,Kovacs Adam Milan (ADAM30),ET-A Surface Technologies,False,False,AdamMilan.Kovacs@omv.com
+Adelin-Ionut.Boeru@petrom.com,SAML2,,Boeru Adelin-Ionut (X01000963),[locked due to inactivity 365] - PEDM-S Reservoir Studies,False,True,Adelin-Ionut.Boeru@petrom.com
+adminadrian75@ww.omv.com,SAML2,,Ivanciu Adrian-Mihail (Admin),FGPIU-U Surface DDAM,True,False,AdrianMihail.Ivanciu@petrom.com
+adminarun05,WINDOWS_AD,ww,Shaw Arun (Admin),[locked due to inactivity 365] - AUCERNA,False,True,
+Administrator,LOCAL,,Administrator,Administrator,False,False,
+adminx449222@ww.omv.com,SAML2,,Kufner Martin (adminx449222),OMV core team,False,False,martin.kufner@omv.com
+Adrian.Georgescu2@petrom.com,SAML2,,Georgescu Adrian Mihail Rodrig (X01004799),PEODP-1 Prod Sys Optim Asset Crisana,False,False,Adrian.Georgescu2@petrom.com
+Adrian.Jones@omv.com,SAML2,,Jones Adrian (ADRIAN18),EONV-O Wisting Operations,True,False,Adrian.Jones@omv.com
+Adrian.Popescu2@petrom.com,SAML2,,Popescu Adrian (X01004806),PEODP-2 Prod Sys Optim Asset Oltenia,False,False,Adrian.Popescu2@petrom.com
+Adrian.Tirliman@petrom.com,SAML2,,Tirliman Adrian (X01013919),PEODW-W Workover Management,False,False,Adrian.Tirliman@petrom.com
+Adriana.Mezei@petrom.com,SAML2,,Mezei Adriana (X01012825),PEODP-9 Prod Sys Optim Asset Moldova,False,False,Adriana.Mezei@petrom.com
+Adriana.SicalaPerez@omv.com,SAML2,,Sicala Perez Adriana (ADRIANA35),FEE-V Venture Economics & Planning,False,False,Adriana.SicalaPerez@omv.com
+AdrianaVenera.Moise@petrom.com,SAML2,,Moise Adriana Venera (X01015991),PFE-N Finance&Controlling Asset Munte,False,False,AdrianaVenera.Moise@petrom.com
+AdrianMihail.Ivanciu@petrom.com,SAML2,,Ivanciu Adrian-Mihail (ADRIAN75),20231284:EETEEP-P Platforms,False,False,AdrianMihail.Ivanciu@petrom.com
+Agate.Maeland@external.omv.com,SAML2,,Mæland Agate (AGATE1),[DEACTIVATED] FEF-N Finance Norway,True,False,Agate.Maeland@external.omv.com
+AHMAD13@ww.omv.com,SAML2,,Drahman Ahmad Nadzri (AHMAD13),SapuraOMV 2MY1,True,False,nadzri.drahman@sapura-omv.com
+AHMAD14@ww.omv.com,SAML2,,Hafiz Isnami Ahmad Ariff (AHMAD14),SapuraOMV 2MY1,False,False,ariff.isnami@sapura-omv.com
+ajmal.mumtaz@omv.com,SAML2,,Mumtaz Muhammad Ajmal (XMUMTAZMU),[locked due to inactivity 365] - EDPE-N PM NOV UAE & KRI,False,True,ajmal.mumtaz@omv.com
+Alan.Clare@omv.com,SAML2,,Clare Alan (XCLAREAL),EDE-Z Exploration NZ,False,False,Alan.Clare@omv.com
+Albert.Kostner@omv.com,SAML2,,Kostner Albert (X439364),EDES-G Exploration Geoscience,True,False,Albert.Kostner@omv.com
+AlbertLorenz.Gauer@omv.com,SAML2,,Gauer Albert Lorenz (ALBERT3),ET-R Subsurface Technologies,False,False,AlbertLorenz.Gauer@omv.com
+Alexander.Gerstner@omv.com,SAML2,,Gerstner Alexander (X449282),EDS-O Well Operations Portal,False,False,Alexander.Gerstner@omv.com
+AlexanderMartin.Domnanovich@petrom.com,SAML2,,Domnanovich Alexander Martin (ALEXANDER47),20231421:PEFDO-F Execution Offshore,False,False,AlexanderMartin.Domnanovich@petrom.com
+AlexandraCristina.Cioaca@petrom.com,SAML2,,Cioaca Alexandra-Cristina (X01026391),PFE-O Upstream Controlling,True,False,AlexandraCristina.Cioaca@petrom.com
+alexandru.chiru@omv.com,SAML2,,Chiru Alexandru (X01021703),PFE-O Upstream Controlling,True,False,alexandru.chiru@omv.com
+Alexandru.Dragomir@petrom.com,SAML2,,Dragomir Alexandru (X01000727),PEAOP-S Sand Control & Stimulation,True,False,Alexandru.Dragomir@petrom.com
+Alexandru.Filimon@petrom.com,SAML2,,Filimon Alexandru (X01023737),[locked due to inactivity 365] - PEN-N Onshore Project Delivery,False,True,Alexandru.Filimon@petrom.com
+AlexandruMihai.Burchisis@omv.com,SAML2,,Burchisis Alexandru-Mihai (ALEXANDRU170),1015323:EO-X Reserves & Resources,False,False,AlexandruMihai.Burchisis@omv.com
+Alexey,LOCAL,,DEL_Alexey,Alexey for issue testing,True,False,
+ALEXEY6@ww.omv.com,SAML2,,Bychkov Alexey (ALEXEY6),[locked due to inactivity 365] - [AUCERNA] EETE-P Petrotechnical AppStore,True,True,alexey.bychkov@quorumsoftware.com
+AlexisAlberto.MedinaHerman@omv.com,SAML2,,Medina Herman Alexis Alberto (ALEXIS2),ET-R Subsurface Technologies,False,False,AlexisAlberto.MedinaHerman@omv.com
+Ali.Assaid@omv.com,SAML2,,Mohamed Assaid Ali (XASSAID),FEF-L Finance Libya,True,False,Ali.Assaid@omv.com
+Alina.Keref@external.omv.com,SAML2,,Keref Alina (ALINA76),[deactivated due to inactivity] - FEF-N Finance Norway,True,False,Alina.Keref@external.omv.com
+Alina.Micu@petrom.com,SAML2,,Micu Alina (X01003512),[deactivated due to inactivity] - PFC-P Project Cost Controlling DAD,True,False,Alina.Micu@petrom.com
+AlinaSimona.Pop@petrom.com,SAML2,,Pop Alina Simona (X01010854),PFEV-1 Finance Asset Cri?ana,False,False,AlinaSimona.Pop@petrom.com
+AMANDA4@ww.omv.com,SAML2,,Shi Rong Amanda Choong (AMANDA4),[locked due to inactivity 365] - SapuraOMV 2MY1,False,True,amanda.choong@sapura-omv.com
+Amanina.Azhar@external.omv.com,SAML2,,Azhar Amanina (AMANINA1),1014514:EMY-F Finance SapuraOMV,False,False,Amanina.Azhar@external.omv.com
+Anass.AlDidi@external.omv.com,SAML2,,Al Didi Anass (ANASS1),EDP-S Projects Shared Services,True,False,Anass.AlDidi@external.omv.com
+AncaIca.Dinescu@omv.com,SAML2,,Dinescu Anca-Ica (ANCA10),FEF-M Finance MEA,False,False,AncaIca.Dinescu@omv.com
+Anca-Mariana.Pop@petrom.com,SAML2,,Pop Anca-Mariana (X01000877),[locked due to inactivity 365] - PED-R Reserves,False,True,Anca-Mariana.Pop@petrom.com
+Ancuta.Jipa@petrom.com,SAML2,,Jipa Ancuta (X01010591),PEODP-1 Prod Sys Optim Asset Crisana,False,False,Ancuta.Jipa@petrom.com
+Anda-Mihaela.Cirlan@petrom.com,SAML2,,Cirlan Anda-Mihaela (X01000658),PEDOM-N NAMR Studies,True,False,Anda-Mihaela.Cirlan@petrom.com
+AndradaSimina.Fortelny@omv.com,SAML2,,Fortelny Andrada Simina (XNEAGUAND),FE-E Economics & Planning,False,False,AndradaSimina.Fortelny@omv.com
+Andras.Bogar@omv.com,SAML2,,Bogar Andras (ANDRAS9),FEC-O Operational Contr. & Budgeting,False,False,Andras.Bogar@omv.com
+Andre.Kruger@omv.com,SAML2,,Kruger André (ANDRE11),FEF-N Finance Norway,True,False,Andre.Kruger@omv.com
+Andrea.HaenslerIro@omv.com,SAML2,,Hänsler-Iro Andrea (X449772),EEP-AT Perf. Portf. Planning & BS AUT,True,False,
+Andrea.Hollerer@omv.com,SAML2,,Hollerer Andrea (X449596),EDPE-B Brownfield & Well Delivery Prog,False,False,Andrea.Hollerer@omv.com
+Andrea.Iro@omv.com,SAML2,,Iro Andrea (X449772),FEC-V Value Center Controlling,True,False,Andrea.Iro@omv.com
+Andrea.Payer-Moser@omv.com,SAML2,,Payer-Moser Andrea (ANDREA7),EOP-R Reservoir Optimization,True,False,Andrea.Payer-Moser@omv.com
+Andrea.Pesavento@external.omv.com,SAML2,,Pesavento Andrea (ANDREA66),FE-E Economics Planning & Portfolio,False,False,Andrea.Pesavento@external.omv.com
+Andrea.Zeilinger@omv.com,SAML2,,Zeilinger Andrea (X451927),EEP-P Portfolio,True,False,Andrea.Zeilinger@omv.com
+Andreas.Beidinger@omv.com,SAML2,,Beidinger Andreas (ANDREAS11),[deactivated due to inactivity] - EDB-G Integrated Studies Global,True,False,Andreas.Beidinger@omv.com
+Andreas.Bramlage@petrom.com,SAML2,,Bramlage Andreas (X01BRAAND),EOL-V Asset Management LY,False,False,Andreas.Bramlage@petrom.com
+Andreas.Poldlehner@omv.com,SAML2,,Poldlehner Andreas (X451272),ES-M Low Carbon Business Management,False,False,Andreas.Poldlehner@omv.com
+Andreas.Stockinger@omv.com,SAML2,,Stockinger Andreas (ANDREAS60),FEC-O Operational Contr. & Budgeting,False,False,Andreas.Stockinger@omv.com
+Andreas.Treichel@omv.com,SAML2,,Treichel Andreas (XTREIAN),EON-V Asset Management NO,True,False,Andreas.Treichel@omv.com
+Andreea.Alexandru@omv.com,SAML2,,Alexandru Andreea,EF-C Controlling,True,False,
+Andreea.Manta@petrom.com,SAML2,,Manta Andrea-Gabriela (X01001941),[locked due to inactivity 365] - PFE-N Finance&Controlling Asset Munte,False,False,Andreea.Manta@petrom.com
+AndreeaIleana.Tataru@petrom.com,SAML2,,Tataru Andreea-Ileana (X01024299),PEODP-7 Prod Sys Optim Asset Muntenia,False,False,AndreeaIleana.Tataru@petrom.com
+AndreeaLizeta.Dragan@petrom.com,SAML2,,Dragan Andreea Lizeta (X01019009),PER-R Running Business Programs,True,False,AndreeaLizeta.Dragan@petrom.com
+Andrei.Ghergu@petrom.com,SAML2,,Ghergu Andrei (X01022561),PFEV-2 Finance Asset Oltenia,False,False,Andrei.Ghergu@petrom.com
+Andrew.Deacon@omv.com,SAML2,,Deacon Andrew Charles (ANDREW14),EDPM-I Iris / Hades,True,False,Andrew.Deacon@omv.com
+Andrew.Inwood@omv.com,SAML2,,Inwood Andrew (ANDREW25),EOZ-A Asset Operations NZ,False,False,Andrew.Inwood@omv.com
+Andrew.Murphy@omv.com,SAML2,,Murphy Andrew (ANDREW37),EDPE-M PM Maui & Pohokura NZ,True,False,Andrew.Murphy@omv.com
+Andrew.Redford@omv.com,SAML2,,Redford Andrew (XREDFORD),[DEACTIVATED] FEFMT-C Controlling,True,False,Andrew.Redford@omv.com
+AndrewMatthew.Train@petrom.com,SAML2,,Train Andrew Matthew (ANDREW13),PE-N Neptun Deep Project,True,False,AndrewMatthew.Train@petrom.com
+Andrey.Andreev@omv.com,SAML2,,Andreev Andrey,ETD-RU Digital Excellence RU,True,False,
+Angela.Stefanescu@petrom.com,SAML2,,Stefanescu Angela (X01002079),[deactivated due to inactivity] - PEDOS-P Project Services,True,False,Angela.Stefanescu@petrom.com
+Angelica.Frunza@petrom.com,SAML2,,Frunza Angelica (X01000686),PEDM-T Technical Office,True,False,Angelica.Frunza@petrom.com
+Angelika.Schmid@omv.com,SAML2,,Schmid Angelika (X450289),EOSA-F Facility Optimization AT,False,False,Angelika.Schmid@omv.com
+Anna.Krueger@omv.com,SAML2,,Krüger Anna (ANNA39),EFV-C Controlling A,True,False,Anna.Krueger@omv.com
+Anna.Tatzber1@omv.com,SAML2,,Tatzber Anna (X452228),FEF-A Finance Austria,False,False,Anna.Tatzber1@omv.com
+Ante.Borovina@omv.com,SAML2,,Borovina Ante (ANTE01),1015562:EDES-O Exploration Operations,False,False,Ante.Borovina@omv.com
+Anthony.Simpkins@petrom.com,SAML2,,Simpkins Anthony (ANTHONY1),[locked due to inactivity 365] - PEDOS-S Subsurface Shared Services,False,True,Anthony.Simpkins@petrom.com
+Anton.Panduru@petrom.com,SAML2,,Panduru Anton-Cristian (X01024026),[locked due to inactivity 365] - PEDO-N Execution Onshore,False,True,Anton.Panduru@petrom.com
+Antony.Harrison@omv.com,SAML2,,Harrison Antony (XHARRISAN),EDE-Z Exploration NZ,True,False,Antony.Harrison@omv.com
+ARMANDO1,LOCAL,,DEL_Carrasco Armando (Ext),AUCERNA (Local),True,False,armando.carrasco@aucerna.com
+ARMANDO1@ww.omv.com,SAML2,,Carrasco Armando (Ext),[AUCERNA] EEDA-F Surface DDAM,True,False,
+Arndt.Wildfoerster@omv.com,SAML2,,Wildförster Arndt (X449370),PEDO-F Execution Offshore,False,False,Arndt.Wildfoerster@omv.com
+Arno.Rech@omv.com,SAML2,,Rech Arno (X452124),FEE-E Economics Governance,False,False,Arno.Rech@omv.com
+Arsalan.Khan@omv.com,SAML2,,Khan Muhammad Arsalan (X01026816),[locked due to inactivity 365] - EOM-V Asset Management MEA,False,True,Arsalan.Khan@omv.com
+ARUN05@ww.omv.com,SAML2,,Shaw Arun (ARUN05),EETE-P Petrotechnical AppStore,False,False,arun.shaw@quorumsoftware.com
+ASHAARY1@ww.omv.com,SAML2,,Mohd Karim Ashaary Razmy (ASHAARY1),SapuraOMV 2MY1,False,False,ashaary.karim@sapura-omv.com
+Ashley.Howlett@omv.com,SAML2,,Howlett Ashley (ASHLEY1),ETXV-A Exploration&Appraisal AA,True,False,Ashley.Howlett@omv.com
+Asma.Benameur@omv.com,SAML2,,Ben Ameur Asma (X903144),EDM-T Projects Tunisia,False,False,Asma.Benameur@omv.com
+AuraRodica.Caiter@petrom.com,SAML2,,Caiter Aura-Rodica (X01009740),PEODP-9 Prod Sys Optim Asset Moldova,False,False,AuraRodica.Caiter@petrom.com
+Aurelian.Pencea@petrom.com,SAML2,,Pencea Aurelian (X01000580),PFCI-D IC Mid&Downstr.&Business Valuat,False,False,Aurelian.Pencea@petrom.com
+Aureliu.Sbarcea@petrom.com,SAML2,,Sbarcea Dan Aureliu (X01024255),[deactivated due to inactivity] - PEOWT-E Equipment Engineering,True,False,Aureliu.Sbarcea@petrom.com
+Aymen.Bouziani@omv.com,SAML2,,Bouziani Aymen (XBOUZIAAY),1015341:FE-C Energy Controlling & Performance Mgmt.,False,False,Aymen.Bouziani@omv.com
+AZMI03@ww.omv.com,SAML2,,Yahaya Azmi (AZMI03),SapuraOMV 2MY1,True,False,ayahaya@sapura-omv.com
+AZRA03@ww.omv.com,SAML2,,Ahmad Azra (AZRA03),[deactivated due to inactivity] - SapuraOMV 2MY1,True,False,aahmad@sapura-omv.com
+Barbara.Male-Pirker@omv.com,SAML2,,Male-Pirker Barbara (X451645),ETR-R Reservoir Engineering,False,False,
+Bas.Jacobs@omv.com,SAML2,,Jacobs Bas (X449381),EDB-G Integrated Studies Global,True,False,Bas.Jacobs@omv.com
+BastiaanHendrikus.Michielsen@omv.com,SAML2,,Michielsen Bastiaan Hendrikus (BASTIAAN2),EDPS-S Surface Technical Services,False,False,BastiaanHendrikus.Michielsen@omv.com
+Beatrice.Iovita@petrom.com,SAML2,,Iovita Beatrice,PEPP-A Portfolio Analysis & Planning,True,False,
+Benjamin.Loidl@omv.com,SAML2,,Loidl Benjamin (X452233),1016114:ES-M Low Carbon Business Management,False,False,Benjamin.Loidl@omv.com
+Bernd.Apelt@omv.com,SAML2,,Apelt Bernd (X449766),[deactivated due to inactivity] - EDB-G Integrated Studies Global,True,False,Bernd.Apelt@omv.com
+Bernhard.Heneis@omv.com,SAML2,,Heneis Bernhard (X450749),[locked due to inactivity 365] - E-S Low Carbon Business,True,False,Bernhard.Heneis@omv.com
+Bernhard.Krainer@omv.com,SAML2,,Krainer Bernhard (X427526),PE-X Exploration & Appraisal,True,False,Bernhard.Krainer@omv.com
+Bernhard.Novotny@omv.com,SAML2,,Novotny Bernhard (X011443),1016162:ESG-P Geothermal Projects,False,False,Bernhard.Novotny@omv.com
+Bernhard.Windisch@omv.com,SAML2,,Windisch Bernhard (BERNHARD10),PEDO-F Execution Offshore,False,False,Bernhard.Windisch@omv.com
+Bettina.Hoenig@omv.com,SAML2,,Hönig Bettina (X449824),EOA-H HSSE & Admin AT,False,False,Bettina.Hoenig@omv.com
+Bex.Hutchinson@omv.com,SAML2,,Hutchinson Bex (BEX001),FEF-Z Finance NZ,False,False,Bex.Hutchinson@omv.com
+Birgit.Stoiser@omv.com,SAML2,,Stoiser Birgit (X449810),FE-E Economics & Planning,True,False,Birgit.Stoiser@omv.com
+BJORG1@ww.omv.com,SAML2,,Fredriksen Bjorg (BJORG1),[deactivated due to inactivity] - EDPS-S Surface Technical Services,True,False,bjorg@omega.no
+BogdanGeorge.Davidescu@omv.com,SAML2,,Davidescu Bogdan-George (X01026000),[locked due to inactivity 365] - EETT-U Subsurface Solutions,False,True,BogdanGeorge.Davidescu@omv.com
+BogdanIonut.Stanciu@omv.com,SAML2,,Stanciu Bogdan-Ionut (X01026906),[locked due to inactivity 365] - EOP-A Subsurface Engineering AT
+Unlocked 25.04.2024 PN,False,False,BogdanIonut.Stanciu@omv.com
+BogdanMarius.Dinu@omv.com,SAML2,,Dinu Bogdan-Marius (X01022417),EF-S SAP S/4HANA Upstream,False,False,
+Brendon.Reid@omv.com,SAML2,,Reid Brendon (BRENDON2),FEE-V Venture Economics & Planning,False,False,Brendon.Reid@omv.com
+Bronwyn.Theobald@omv.com,SAML2,,Theobald Bronwyn (BRONWYN1),EEP-F Performance,True,False,Bronwyn.Theobald@omv.com
+Bryce.Campbell@omv.com,SAML2,,Campbell Bryce (BRYCE1),EMYO-P Projects,True,False,Bryce.Campbell@omv.com
+Calin.Babici@petrom.com,SAML2,,Babici Calin (X01005079),PEOD-P Production System Optimization,False,False,Calin.Babici@petrom.com
+Calin.Porumb@petrom.com,SAML2,,Porumb Calin (X01011206),PEODP-1 Prod Sys Optim Asset Crisana,False,False,Calin.Porumb@petrom.com
+CameliaElena.Popescu@petrom.com,SAML2,,Popescu Camelia Elena (X01015410),PEODP-2 Prod Sys Optim Asset Oltenia,False,False,CameliaElena.Popescu@petrom.com
+CameliaMaria.Mihai@petrom.com,SAML2,,Mihai Maria Camelia (X01015872),PFEV-10 Finance Asset Petromar,False,False,CameliaMaria.Mihai@petrom.com
+Camilo.Sanchez@omv.com,SAML2,,Sanchez Paez Camilo Andres (SANCHECA),[DEACTIVATED] FE-C Controlling,True,False,Camilo.Sanchez@omv.com
+Carina.Dirtl@omv.com,SAML2,,Dirtl Carina,EP-S Performance & Services,True,False,
+Carina.Zosmer@petrom.com,SAML2,,Zosmer Carina (X01010519),PEDMC-M RM Moldova,True,False,Carina.Zosmer@petrom.com
+Carlo.Chiri@petrom.com,SAML2,,Chiri Carlo (X01025468),[locked due to inactivity 365] - PEDWS-D Well Program Development,False,True,Carlo.Chiri@petrom.com
+Carlos.Garcia@omv.com,SAML2,,Garcia Carlos (X451869),[locked due to inactivity 365] - PED-E Reservoir Engineering,False,True,Carlos.Garcia@omv.com
+CARLOS7@ww.omv.com,SAML2,,Gomez Carlos (CARLOS7),[AUCERNA] EETE-P Petrotechnical AppStore,True,False,carlos.gomez@aucerna.com
+Carmen.Arafat@petrom.com,SAML2,,Arafat Marilena-Carmen (X01012397),PED-R Reserves,False,False,Carmen.Arafat@petrom.com
+Carmina.Badea@petrom.com,SAML2,,Badea Carmina (X01027069),PEODP-3 Prod Sys Optim Asset Valahia,False,False,Carmina.Badea@petrom.com
+Catalin.Paraschiv@petrom.com,SAML2,,Paraschiv Catalin,EEP-R Reserves Assurance,True,False,
+Catalina.Bonifate@petrom.com,SAML2,,Bonifate Catalina (X01016753),PFE-C E&P Controlling,True,False,Catalina.Bonifate@petrom.com
+Catalina.Popescu@petrom.com,SAML2,,Popescu Catalina (X01010203),PED-R Reserves,False,False,Catalina.Popescu@petrom.com
+CatalinaAndreea.Lubene@petrom.com,SAML2,,Lubene Catalina-Andreea (X01025934),PEODS7-W Well Optimization & Integrity,False,False,CatalinaAndreea.Lubene@petrom.com
+Catalin-Adrian.Roman@petrom.com,SAML2,,Roman Catalin-Adrian (X01000682),PEDWS-D Well Program Development,True,False,Catalin-Adrian.Roman@petrom.com
+Catarina.MartaAmaro@omv.com,SAML2,,Marta Amaro Catarina (CATARINA1),1015607:EBI-N Integrated Studies Norway,False,False,Catarina.MartaAmaro@omv.com
+Catarina.Teles@omv.com,SAML2,,Costa de Almeida Sousa Teles Catarina Sofia (X452088),EEP-P Portfolio,False,False,Catarina.Teles@omv.com
+CezarGabriel.Tiganasu@petrom.com,SAML2,,Tiganasu Cezar-Gabriel (X01026058),[locked due to inactivity 365] - PEDO-N Execution Onshore,False,True,CezarGabriel.Tiganasu@petrom.com
+Chahine.Bahri@omv.com,SAML2,,Bahri Chahine (CHAHINE1),EMTX-P Production & Engineering TUN,True,False,Chahine.Bahri@omv.com
+CHAN01@ww.omv.com,SAML2,,Hong Danny Chan Ching (CHAN01),SapuraOMV 2MY1,False,False,dchan@sapura-omv.com
+Chloe.Asmar@omv.com,SAML2,,Asmar Chloe (CHLOE1),FEE-E Economics Governance - left company,True,False,Chloe.Asmar@omv.com
+Christian.Astl@omv.com,SAML2,,Astl Christian,EP-S Performance & Services,True,False,
+Christian.Blecha@omv.com,SAML2,,Blecha Christian (X450582),1015351:FEE-E Economics & Governance,False,False,Christian.Blecha@omv.com
+Christian.Enzendorfer@omv.com,SAML2,,Enzendorfer Christian (X437426),EOP-A Subsurface Engineering AT,True,False,Christian.Enzendorfer@omv.com
+Christian.Forberich@omv.com,SAML2,,Forberich Christian (X448916),[locked due to inactivity 365] - EOS-F Facility Optimization,False,True,Christian.Forberich@omv.com
+Christian.Jespersen@petrom.com,SAML2,,Jespersen Christian (CHRISTIAN146),PED-D Development,True,False,Christian.Jespersen@petrom.com
+Christian.Malle@omv.com,SAML2,,Malle Christian,ETDA-S Subsurface DDAM,True,False,
+Christian.Scholz@omv.com,SAML2,,Scholz Christian (CHRISTIAN130),1015352:FEE-V Venture Economics & Planning,False,False,Christian.Scholz@omv.com
+Christian.Seeber@omv.com,SAML2,,Seeber Christian (X449564),FE-E Economics & Planning,False,False,Christian.Seeber@omv.com
+Christian.Sledz@petrom.com,SAML2,,Sledz Christian (CHRISTIAN87),20224361:PFE-E Economics & Planning,False,False,Christian.Sledz@petrom.com
+Christian.Tauschitz@omv.com,SAML2,,Tauschitz Christian (X449194),FEF-A Finance Austria,False,False,Christian.Tauschitz@omv.com
+Christina.Gaber@omv.com,SAML2,,Gaber Christina Maria,ETX-S Exploration&Appr,True,False,
+Christine.Kirchgasser@omv.com,SAML2,,Kirchgasser Christine (X452077),[locked due to inactivity 365] - FEF-R Finance Russia,True,True,Christine.Kirchgasser@omv.com
+Christof.Krenn@omv.com,SAML2,,Krenn Christof (CHRISTOF3),ET-A Surface Technologies,False,False,Christof.Krenn@omv.com
+Christopher.Evans@omv.com,SAML2,,Evans Christopher William (CHRISTOPHE26),EDPM-N PM Nafoora,False,False,Christopher.Evans@omv.com
+Christopher.Veit@petrom.com,SAML2,,Veit Hans Christopher (X419929),P-E Upstream,True,False,Christopher.Veit@petrom.com
+ChristopherNoel.Britton@omv.com,SAML2,,Britton Christopher Noel (CHRIS29),EDPM-I Iris / Hades,True,False,ChristopherNoel.Britton@omv.com
+Ciprian.Baciu@petrom.com,SAML2,,Baciu Mihai-Ciprian (X01012179),[locked due to inactivity 365] - PED-R Reserves,False,True,Ciprian.Baciu@petrom.com
+Claire.Butler@omv.com,SAML2,,Butler Claire (CLAIRE3),1015323:EO-X Reserves & Resources,False,False,Claire.Butler@omv.com
+Claudia.Duminica@petrom.com,SAML2,,Duminica Claudia (X01026255),PEDO-N Execution Onshore,False,False,Claudia.Duminica@petrom.com
+Claudia.Petcu@omv.com,SAML2,,Petcu Teodora-Claudia (X01008532),1015397:EDPM-N PM Nafoora,False,False,Claudia.Petcu@omv.com
+Claudia.Schattovich@omv.com,SAML2,,Schattovich Claudia (X448463),EATT-P Prod Technology & Optimization,True,False,
+Constantin.Mihalcea@petrom.com,SAML2,,Mihalcea Constantin (X01005384),[locked due to inactivity 365] - PEDB-F Field Redevelopment&Optionality,False,True,Constantin.Mihalcea@petrom.com
+Corina.Moza@omv.com,SAML2,,Moza Corina (CORINA9),FEC-V Value Center Controlling,True,False,Corina.Moza@omv.com
+Cosmin_Ionut.Pantazescu@petrom.com,SAML2,,Pantazescu Cosmin-Ionut (X01022598),EOL-V Asset Management LY,False,False,Cosmin_Ionut.Pantazescu@petrom.com
+CraigMartin.Rodriguez@petrom.com,SAML2,,Rodriguez Craig (CRAIG8),[locked due to inactivity 365] - EDE-Z Exploration NZ,False,True,CraigMartin.Rodriguez@petrom.com
+Crina_Maria.Muscalu@petrom.com,SAML2,,Butnaru Crina-Maria (X01023902),PEDWS-P PEDWS-P Well Planning&Cost Controlling,False,False,Crina_Maria.Muscalu@petrom.com
+Cristian_Ion.Todea@petrom.com,SAML2,,Todea Cristian-Ion (X01005430),[locked due to inactivity 365] - PEA-O Operations,False,True,Cristian_Ion.Todea@petrom.com
+Cristian_Ionut.Andrei@petrom.com,SAML2,,Andrei Cristian-Ionut (X01024134),FGPBM-F Facility Services,True,False,Cristian_Ionut.Andrei@petrom.com
+CristianNicolae.Balan@petrom.com,SAML2,,Balan Cristian-Nicolae (X01013421),PEPP-A Portfolio Analysis & Planning,True,False,CristianNicolae.Balan@petrom.com
+Cristina.Dutu@petrom.com,SAML2,,Dutu Cristina Mariana (X01014211),PFEV-3 Finance Asset Valahia,False,False,Cristina.Dutu@petrom.com
+Cristina.Gama@petrom.com,SAML2,,Gama Cristina (X01005447),PEA-10 Asset Petromar,False,False,Cristina.Gama@petrom.com
+Cristina.Matis@petrom.com,SAML2,,Matis Cristina (CRISTINA76),PFEV-1 Finance Asset Crișana,False,False,Cristina.Matis@petrom.com
+CristinaElena.KulcsarBolgiu@omv.com,SAML2,,Kulcsar-Bolgiu Cristina-Elena (X01012371),1015397:EDPM-N PM Nafoora,False,False,CristinaElena.KulcsarBolgiu@omv.com
+Cristinel.Dancila@petrom.com,SAML2,,Dancila Cristinel (X01000897),PEA-3 Asset Muntenia Vest,True,False,Cristinel.Dancila@petrom.com
+Csaba.Krezsek@petrom.com,SAML2,,Krezsek Csaba (X01KRECSA),[locked due to inactivity 365] - PEDE-F Foldbelt Opportunities,False,True,Csaba.Krezsek@petrom.com
+Dan.Lobodan@petrom.com,SAML2,,Lobodan Dan (X01001298),PEET-N New Technology,True,False,Dan.Lobodan@petrom.com
+Daniel.Kressnik@omv.com,SAML2,,Kressnik Daniel (DANIEL51),EDPM-S PM SOR Projects,True,False,Daniel.Kressnik@omv.com
+Daniel.Kunaver@omv.com,SAML2,,Kunaver Daniel (X450017),[locked due to inactivity 365] - EOP-R Reservoir Optimization,False,True,Daniel.Kunaver@omv.com
+Daniel.Poettler@omv.com,SAML2,,Pöttler Daniel (DANIEL22),EDPM-N PM Nafoora,False,False,Daniel.Poettler@omv.com
+Daniel_Constantin.Lungu@petrom.com,SAML2,,Lungu Daniel-Constantin (X01009153),PEODP-2 Prod Sys Optim Asset Oltenia,False,False,Daniel_Constantin.Lungu@petrom.com
+Daniela.Dordea@omv.com,SAML2,,Dordea Daniela (X450334),1016008:EGI-D Gas Infrastructure Development,False,False,Daniela.Dordea@omv.com
+Daniela.Martin@omv.com,SAML2,,Martin Daniela (DANIELA51),FEF-A Finance Austria,False,False,Daniela.Martin@omv.com
+Daniela.Pruna@petrom.com,SAML2,,Pruna Daniela (X01013682),PEODP-3 Prod Sys Optim Asset Valahia,False,False,Daniela.Pruna@petrom.com
+Daniela.Tittes@petrom.com,SAML2,,Tittes Daniela (X01008399),PER-R Running Business Programs,True,False,Daniela.Tittes@petrom.com
+Daniela.Vladila@petrom.com,SAML2,,Vladila Daniela (X01015430),[deactivated due to inactivity] - PFE-C E&P Controlling,True,False,Daniela.Vladila@petrom.com
+DanielaAurelia.File@petrom.com,SAML2,,File Daniela Aurelia (X01012158),PFE-F Project Finance & Economics,False,False,DanielaAurelia.File@petrom.com
+DanielaCristina.Nicolaescu@petrom.com,SAML2,,Nicolaescu Daniela-Cristina (DANIELA34),[locked due to inactivity 365] - PFE-B Accounting&Venture Management,False,True,DanielaCristina.Nicolaescu@petrom.com
+DanielAlexander.Kovacs@petrom.com,SAML2,,Kovacs Daniel Alexander (DANIEL63),20229952:PEET-N New Technology,False,False,DanielAlexander.Kovacs@petrom.com
+Darijo.Tomasevic@omv.com,SAML2,,Tomasevic Darijo (DARIJO1),ESM-B Low Carbon Business Steering,False,False,Darijo.Tomasevic@omv.com
+David.Gilmour@omv.com,SAML2,,Gilmour David (DAVID96),EDPE-M PM Maui & Pohokura NZ,True,False,David.Gilmour@omv.com
+David.Gmoser@omv.com,SAML2,,Gmoser David (X451547),[locked due to inactivity 365] - FEF-M Finance MEA,False,True,David.Gmoser@omv.com
+David.List@omv.com,SAML2,,List David (DAVID77),EC-S Skills Excellence,False,False,David.List@omv.com
+David.OlivaMarti@omv.com,SAML2,,Oliva Marti David (DAVID199),EOP-R Reservoir Optimization,False,False,David.OlivaMarti@omv.com
+David.Zabel@omv.com,SAML2,,Zabel David (DAVID27),1015603:EOP-A Subsurface Engineering AT,False,False,David.Zabel@omv.com
+DavidTeodor.Birsa@omv.com,SAML2,,Birsa David-Teodor (DAVID103),1015687:EDEN-B Exploration NOV and Barents Sea,False,False,DavidTeodor.Birsa@omv.com
+demo01,LOCAL,,RR - Demo User 01 - Light.HO,Generic Light User.  Read only access to DF.  No access to PSE/F/Portfolio modules.,False,False,
+demo02,LOCAL,,RR - Demo User 02 - Light.NO,Generic Light User.  Read only access to DF.  No access to PSE/F/Portfolio modules.,False,False,
+demo03,LOCAL,,RR - Demo User 03 - Light.FIN.PORT.NO,Read only - all PS (DF, PSE, PSF, PSP) modules,False,False,
+demo04,LOCAL,,RR - Demo User 04 - Light.RES.HO,Light Reserves User.  DF Read only.,False,False,
+demo05,LOCAL,,RR - Demo User 05 - Light.FIN.PORT.HO,Read only - all PS (DF, PSE, PSF, PSP) modules,False,False,
+demo06,LOCAL,,RR - Demo User 06 - PetroVR.Headless,Headless Calculation only ie DENY access to Dataflow tabs. Economics.Base access.  Basic PetroVR user.  No DF Loading rights ie Light user,False,False,
+demo07,LOCAL,,RR - Demo User 07 - CAPDAT.HO,CAPDAT Ultra Light with no access to Dataflow just PSE & Generate API Key,False,False,
+demo08,LOCAL,,RR - Demo User 08 - CAPDAT.NO,CAPDAT Ultra Light with no access to Dataflow just PSE & Generate API Key,False,False,
+demo09,LOCAL,,RR - Demo User 09 - Light.PVR.HO,Hybrid of Demo01 and Demo06 ie Light user and PetroVR user,False,False,
+demo10,LOCAL,,RR - Demo User 10 - PM.PET.RO,Project Manager Approver - Light Read only with tag rights,False,False,
+demo11,LOCAL,,RR - Demo User 11 - PM.Classic.NO,Project Manager Classic -  Norway,False,False,
+demo12,LOCAL,,RR - Demo User 12 - SPARE,SPARE,True,True,
+demo13,LOCAL,,RR - Demo User 13 - SPARE,SPARE,True,True,
+demo14,LOCAL,,RR - Demo User 14 - PM.LCB.HO,LCB Project Manager - HO,False,False,
+demo15,LOCAL,,RR - Demo User 15 - PM.Classic.PVR.NO,SPARE Projectmanager Norway,True,False,
+demo16,LOCAL,,RR - Demo User 16 - SPARE,SPARE,True,True,
+demo17,LOCAL,,RR - Demo User 17 - PM LCB HO,SPARE (PM LCB HO),False,False,
+demo18,LOCAL,,RR - Demo User 18 - PM-LCB-AT,SPARE (PM-LCB-AT),False,False,
+demo19,LOCAL,,RR - Demo User 19 - SPARE,SPARE,True,True,
+demo20,LOCAL,,RR - Demo User 20 - Used for Test Puposes,Venture Planner profile (Classic Planner plus DF Unlock),False,False,
+demo21,LOCAL,,RR - Demo User 21 - PLAN.HO,Planner profile (Classic Planner plus DF Unlock),False,False,
+demo22,LOCAL,,RR - Demo User 22 - DF.SuperUser,Planner Classic (includes DF Unlock); DF Configurer profile; Auditor profiles,False,False,
+demo23,LOCAL,,RR - Demo User 23 - SPARE,SPARE,True,True,
+demo24,LOCAL,,RR - Demo User 24 - SPARE,SPARE,True,True,
+demo25,LOCAL,,RR - Demo User 25 - SPARE,SPARE,True,True,
+demo26,LOCAL,,RR - Demo User 26 - SPARE,SPARE,True,True,
+demo27,LOCAL,,RR - Demo User 27 - SPARE,SPARE,True,True,
+demo28,LOCAL,,RR - Demo User 28 - SPARE,SPARE,True,True,
+demo29,LOCAL,,RR - Demo User 29 - SPARE,SPARE,True,True,
+demo30,LOCAL,,RR - Demo User 30 - ECO.NO,Economics Classic (includes DF Unlock),False,False,
+demo31,LOCAL,,RR - Demo User 31 - ECOPlusCoder.NO,Economics.plus + regime builder for BO use,False,False,
+demo32,LOCAL,,RR - Demo User 32 - ECOCoder.NO,Economics Classic; Economics Regimes profiles,False,False,
+demo33,LOCAL,,RR - Demo User 33 - ECOPlus.HO,Economics Classic; PSE Configurer; PSE Unlock profiles,False,False,
+demo34,LOCAL,,RR - Demo User 34 - ECOPlusCoder.HO,Economics Classic; Economics Configurer;  Economics Unlock; Economic Regimes profiles,False,False,
+demo35,LOCAL,,RR - Demo User 35 - PSE.SuperUser,Economics Classic; Economics Configurer;  Economics Unlock; Economic Regimes; Auditor profiles,False,False,
+demo36,LOCAL,,RR - Demo User 36 - PLAN.ECO.NO,Hybrid Classic Planner and Classic Economist profiles,False,False,
+demo37,LOCAL,,RR - Demo User 37 - SPARE,Used for testing Brendon  permissions 2023 03 06,True,True,
+demo38,LOCAL,,RR - Demo User 38 -SPARE,SPARE,True,True,
+demo39,LOCAL,,RR - Demo User 39 - SPARE,SPARE,True,True,
+demo40,LOCAL,,RR - Demo User 40 - FIN.NO,Financials Classic,False,False,
+demo41,LOCAL,,RR - Demo User 41 - FINCoder.NO,Financials Classic;  Regime coder,False,False,
+demo42,LOCAL,,RR - Demo User 42 - FIN.HO,Financials Classic; Financials Configurer;  Financials Unlock profiles,False,False,
+demo43,LOCAL,,RR - Demo User 43 - FINCoder.HO,Financials Classic; Financials Configurer;  Financials Unlock; Economic Regimes profiles,False,False,
+demo44,LOCAL,,RR - Demo User 44 - PSF.SuperUser,Financials Classic; Financials Configurer;  Financials Unlock; Financial Regimes; Auditor profiles,False,False,
+demo45,LOCAL,,RR - Demo User 45 - PLAN.ECO.FIN.NO,Hybrid Demo User.  Triple hatter Planner, Economist, Controller,False,False,
+demo46,LOCAL,,RR - Demo User 46 - PLAN.ECO.FINCoder.NO,Hybrid Demo User.  Triple hatter Planner, Economist, Controller Coder,False,False,
+demo47,LOCAL,,RR - Demo User 47 - ECO.FIN.NO,Hybrid Economist/Controller,False,False,
+demo48,LOCAL,,RR - Demo User 48 - SPARE,Copy Lisi for test,True,True,
+demo49,LOCAL,,RR - Demo User 49 - SPARE,Jonathan,True,True,
+demo50,LOCAL,,RR - Demo User 50 - PORT.HO,Economics Classic minus Dataflow Unlock Profile,False,False,
+demo51,LOCAL,,RR - Demo User 51 - PORT.Petrom,Economics Classic minus Dataflow Unlock Profile,False,False,
+demo52,LOCAL,,RR - Demo User 52 - PORT.Superuser,Portfolio Super User - Clone of Jan,False,False,
+demo53,LOCAL,,RR - Demo User 53 - Portfolio.Plus.HO,SPARE Test for Odata ask Razvan about it,False,False,
+demo54,LOCAL,,RR - Demo User 54 - SPARE,SPARE,True,True,
+demo55,LOCAL,,RR - Demo User 55 - SPARE,SPARE,False,False,
+demo56,LOCAL,,RR - Demo User 56 - SPARE,SPARE,True,True,
+demo57,LOCAL,,RR - Demo User 57 - SPARE,SPARE,True,True,
+demo58,LOCAL,,RR - Demo User 58 - SPARE,SPARE,True,True,
+demo59,LOCAL,,RR - Demo User 59 - SPARE,SPARE,True,True,
+demo60,LOCAL,,RR - Demo User 60 - RES.NO,Local QRE Norway,False,False,
+demo61,LOCAL,,RR - Demo User 61 - RES.HO,Reserves Head Office Profile,False,False,
+demo62,LOCAL,,RR - Demo User 62 - RES.Power.HO,Reserves Power User.  Unsure whether this user should have DF tag rights of input.approve since only HOD can approve reserves.  However, the user has those rights today in P2V I have retained.  DF tag rights methodology needs to be reviewed post MTP2023,False,False,
+demo63,LOCAL,,RR - Demo User 63 - RES.Approver.HO,Reserves Approver HO,False,False,
+demo64,LOCAL,,RR - Demo User 64 - RES.PVR.NO,Hybrid user.  QRE profile plus PetroVR profile.  Hybrid of Demo60 & Demo06,False,False,
+demo65,LOCAL,,RR - Demo User 65 - SPARE,SPARE,True,True,
+demo66,LOCAL,,RR - Demo User 66 - SPARE,For Kinga,False,False,
+demo67,LOCAL,,RR - Demo User 67 - SPARE,SPARE,True,True,
+demo68,LOCAL,,RR - Demo User 68 - Exp.Assurance.HO,Exploration Assurance Classic.  Read only user with Input.Confirm Tagging rights,False,False,
+demo69,LOCAL,,RR - Demo User 69 -  Exp.OA.Admin.HO,Exploration Administrator.  Additional rights for Opportunity Assessor Interface for loading scaler data,False,False,
+demo70,LOCAL,,RR - Demo User 70 - SPARE,SPARE,True,True,
+demo71,LOCAL,,RR - Demo User 71 - SPARE,SPARE,True,True,
+demo72,LOCAL,,RR - Demo User 72 - Exp.Ass.OA.Admin.HO,Hybrid Exploration HO user combining Exploration Assurance and Exploration OA admin,False,False,
+demo73,LOCAL,,RR - Demo User 73 - SPARE,SPARE Reserves Demo User - Copy of Reserves.HO.Power,True,True,
+DenisaFlorentina.Puscasu@petrom.com,SAML2,,Puscasu Denisa-Florentina (X01025667),PEDWS-P Well Planning&Cost Controlling,False,False,DenisaFlorentina.Puscasu@petrom.com
+Diana.Chetrone@omv.com,SAML2,,Chetrone Diana (X01025240),FEC-O Operational Contr. & Budgeting,False,False,Diana.Chetrone@omv.com
+Dimitri.Bruns@omv.com,SAML2,,Bruns Dimitri,ETD-I Digital Excellence NOS,True,False,
+Dominik.Auer@petrom.com,SAML2,,Auer Dominik (X449884),[locked due to inactivity 365] - PF-E Divisional F&C Upstream,False,True,Dominik.Auer@petrom.com
+Donia.Wamani@petrom.com,SAML2,,Wamani Donia (DONIA1),EDPS-W Wells Technical Services,False,False,Donia.Wamani@petrom.com
+Dorsaf.Kebaier@omv.com,SAML2,,Kebaier Dorsaf (DORSAF1),ETXVM-T Exploration&Appraisal TN,False,False,Dorsaf.Kebaier@omv.com
+DOUG03@ww.omv.com,SAML2,,MacDonald Doug (Ext),AUCERNA,True,False,
+DOUG04@ww.omv.com,SAML2,,Brocklebank Doug (Ext),AUCERNA,True,False,
+Dragos.Chioran1@petrom.com,SAML2,,Chioran Dragos-Dorel (X01022508),[locked due to inactivity 365] - PEA1-B Business Planning & Reporting,False,True,Dragos.Chioran1@petrom.com
+Eduard.Klein@omv.com,SAML2,,Klein Eduard,EP-R Reserves Assurance,True,False,
+Eduard.Safiullin@omv.com,SAML2,,Safiullin Eduard (RU000017),EOR-V Asset Management RU,True,False,Eduard.Safiullin@omv.com
+Edward.Kwiecinski@omv.com,SAML2,,Kwiecinski Edward (X451861),1015388:EDE-G Exploration Global,False,False,Edward.Kwiecinski@omv.com
+Eglapie.Potoroaca@petrom.com,SAML2,,Potoroaca Eglapie (X01025538),[locked due to inactivity 365] - PFE-C E&P Controlling,False,True,Eglapie.Potoroaca@petrom.com
+Eivind.Skare@omv.com,SAML2,,Skare Eivind (EIVIND1),1015687:EDEN-B Exploration NOV and Barents Sea,False,False,Eivind.Skare@omv.com
+Ekaterina.Melnikova@omv.com,SAML2,,Melnikova Ekaterina (EKATERINA3),EOR-V Asset Management RU,True,False,Ekaterina.Melnikova@omv.com
+Elena.Alexandru@petrom.com,SAML2,,Dimitriu Elena-Cristina (X01014234),PEPC-O Optimization & Change Managemen,False,True,Elena.Alexandru@petrom.com
+Elena.Ene@petrom.com,SAML2,,Ene Elena (X01022657),PFE-F Project Finance & Economics,False,False,Elena.Ene@petrom.com
+Elena.Lupu@petrom.com,SAML2,,Lupu Elena (X01012359),[locked due to inactivity 365] - FFAF-C Reporting Center,False,True,Elena.Lupu@petrom.com
+Elena.Matei4@petrom.com,SAML2,,Matei Elena (X01014962),PFE-E Economics & Planning,False,False,Elena.Matei4@petrom.com
+Elena.Popa1@petrom.com,SAML2,,Popa Elena (X01005827),[locked due to inactivity 365] - PEA2-B Business Planning & Reporting,False,True,Elena.Popa1@petrom.com
+Elena.Rotaru3@petrom.com,SAML2,,Rotaru Elena (X01019014),[deactivated due to inactivity] - PFE-C E&P Controlling,True,False,Elena.Rotaru3@petrom.com
+Elena.Uta@petrom.com,SAML2,,Uta Elena (X01013566),[deactivated due to inactivity] - PEDON-K Key Projects,True,False,Elena.Uta@petrom.com
+ElenaIuliana.Andrei@petrom.com,SAML2,,Andrei Elena Iuliana (X01018903),[locked due to inactivity 365] - PFCI-U Investment Controlling Upstream,False,True,ElenaIuliana.Andrei@petrom.com
+ElenaMihaela.Enache@petrom.com,SAML2,,Enache Elena-Mihaela (ELENA96),PFE-3 Finance&Controlling Asset Munte,True,False,ElenaMihaela.Enache@petrom.com
+Elin.Skeie@omv.com,SAML2,,Skeie Elin (ELIN01),EON-V Asset Management NO,True,False,Elin.Skeie@omv.com
+Elisabeta.Toader@petrom.com,SAML2,,Toader Elisabeta (X01022559),[locked due to inactivity 365] - PFE-2 Finance&Controlling Asset Olten,False,True,Elisabeta.Toader@petrom.com
+Elisabeth.Neubauer@omv.com,SAML2,,Neubauer Elisabeth (ELISABETH10),ESM-B Low Carbon Business Steering,False,False,Elisabeth.Neubauer@omv.com
+Elisabeth.Suer@omv.com,SAML2,,Suer Elisabeth (X450621),FEC-V Value Center Controlling,False,False,Elisabeth.Suer@omv.com
+Elisabeth.Svaeren@external.omv.com,SAML2,,Sværen Elisabeth (ELISABETH28),FEF-N Finance Norway,False,False,Elisabeth.Svaeren@external.omv.com
+Elisabeth.Svane@omv.com,SAML2,,Svane Elisabeth (ELISABETH3),EON-V Asset Management NO,True,False,Elisabeth.Svane@omv.com
+Emanuel.Tenghea@omv.com,SAML2,,Tenghea Emanuel (EMANUEL15),EETE-P Petrotechnical AppStore,True,False,Emanuel.Tenghea@omv.com
+Emil.Panait@petrom.com,SAML2,,Panait Emil-Gheorghe (X01020120),[locked due to inactivity 365] - PEODP-9 Prod Sys Optim Asset Moldova,False,True,Emil.Panait@petrom.com
+Emil_Eugen.Iosif@petrom.com,SAML2,,Iosif Emil-Eugen (X01005899),[locked due to inactivity 365] - PEA-7 Asset Muntenia,False,True,Emil_Eugen.Iosif@petrom.com
+Emil-Cornel.Vindt@petrom.com,SAML2,,Vindt Emil Cornel (X01000632),PED-E Exploration,False,False,Emil-Cornel.Vindt@petrom.com
+Emilia.Tulan@omv.com,SAML2,,Tulan Emilia (X01025982),EOP-R Reservoir Optimization,False,False,Emilia.Tulan@omv.com
+Emilia-Daniela.Stoica@petrom.com,SAML2,,Stoica Emilia-Daniela (X01000585),PEE-P Portfolio & Performance,False,False,Emilia-Daniela.Stoica@petrom.com
+Emilian.Joita@petrom.com,SAML2,,Joita Emilian-Eugeniu (X01001936),20231434:PEFDWS-P Well Planning&Cost Controlling,False,False,Emilian.Joita@petrom.com
+Emma.Pineda@omv.com,SAML2,,Pineda Emma (EMMA04),EDB-A Asset Redevelopment,False,False,Emma.Pineda@omv.com
+Emma.Rodgers@omv.com,SAML2,,Rodgers Emma (X449890),EMY-C CEO SapuraOMV,False,False,Emma.Rodgers@omv.com
+emma.rodgers@sapura-omv.com,SAML2,,XXX_DEL_Rodgers Emma,SapuraOMV 2MY1,True,False,
+EMMA06@ww.omv.com,SAML2,,Rodgers Emma (EMMA06),SapuraOMV 2MY1,True,False,emma.rodgers@sapura-omv.com
+Enikoe.Bencsik@omv.com,SAML2,,Bencsik Enikö (ENIKOE1),FE-C Controlling,False,False,Enikoe.Bencsik@omv.com
+Eric.Griffith@external.petrom.com,SAML2,,Griffith Eric (ERIC08),PE-B Business Development&Commercial,True,False,Eric.Griffith@external.petrom.com
+Ester.MartinezPorqueras@omv.com,SAML2,,Martinez Porqueras Ester (ESTER1),1015564:EDPS-S Surface Technical Services,False,False,Ester.MartinezPorqueras@omv.com
+Ewald.Stoecke@petrom.com,SAML2,,Stoecke Ewald (X01STOEWA),PEOW-T Technical Services,False,False,Ewald.Stoecke@petrom.com
+EwelinaIga.Wojcik@omv.com,SAML2,,Wojcik Ewelina Iga (EWELINA1),FEC-O Operational Contr. & Budgeting,True,False,EwelinaIga.Wojcik@omv.com
+FABIAN37@ww.omv.com,SAML2,,Pinzon Fabian (Ext),AUCERNA,True,False,
+farah.harith@sapura-omv.com,SAML2,,Harith Farah,SapuraOMV 2MY1,True,False,
+FARAH1@ww.omv.com,SAML2,,Harith Farah (FARAH1),SapuraOMV 2MY1,False,False,farah.harith@sapura-omv.com
+Farzad.JafariGol@omv.com,SAML2,,Jafari Gol Farzad (FARZAD1),EEP-F Performance,True,False,Farzad.JafariGol@omv.com
+fatma.khalfallah@omv.com,SAML2,,Khalfallah Fatma (XKHALFALLAH),EOL-V Asset Management LY,False,False,fatma.khalfallah@omv.com
+Felicia.Cirstian@petrom.com,SAML2,,Cirstian Felicia (X01010024),PEODW-C Completion & Well Integrity,False,False,Felicia.Cirstian@petrom.com
+Felix.Lipp@omv.com,SAML2,,Lipp Felix,EEP-P Portfolio & Planning,True,False,
+Fida.Hussain@omv.com,SAML2,,Hussain Fida (XHUSSAIFI),1015351:FEE-E Economics & Governance,False,False,Fida.Hussain@omv.com
+Florian.Dutzler@omv.com,SAML2,,Dutzler Florian (FLORIAN109),1000091:FPC-G Operative Controlling,False,False,Florian.Dutzler@omv.com
+Florian.Noe-Nordberg@omv.com,SAML2,,Noe-Nordberg Florian (X450695),EDPE-M PM Maui & Pohokura NZ,True,False,Florian.Noe-Nordberg@omv.com
+Florica.Costache@petrom.com,SAML2,,Costache Florica (X01005992),PEODP-1 Prod Sys Optim Asset Crisana,False,False,Florica.Costache@petrom.com
+Florica.Gheorghita@petrom.com,SAML2,,Gheorghita Florica (FLORICA7),PEA7O-G Prod. Sector Targoviste E,True,False,Florica.Gheorghita@petrom.com
+Florin.Biltan@petrom.com,SAML2,,Biltan Florin (X01021197),EDPM-N PM Nafoora,False,False,Florin.Biltan@petrom.com
+Florin.Mihaila@petrom.com,SAML2,,Mihaila Florin (X01014376),PEODP-3 Prod Sys Optim Asset Valahia,False,False,Florin.Mihaila@petrom.com
+Florin_Mihai.Rizea@petrom.com,SAML2,,Rizea Florin Mihai (X01006035),PEODP-10 Prod Sys Optim Asset Petromar,False,False,Florin_Mihai.Rizea@petrom.com
+Florina.Audochii@petrom.com,SAML2,,Audochii Florina Luciana (X01010250),EDPM-N PM Nafoora,False,False,Florina.Audochii@petrom.com
+Francis.Chevalier@omv.com,SAML2,,Chevalier Francis (FRANCIS3),EDE-N Exploration Norway,True,False,Francis.Chevalier@omv.com
+Francis.Ho@omv.com,SAML2,,Ho Ik Sing Francis (X01020712),EDE-G Exploration Global,False,False,Francis.Ho@omv.com
+Francois.Tremblay@omv.com,SAML2,,Tremblay Francois (FRANCOIS1),EDES-G Exploration Geoscience,False,False,
+Frank.Nolte@omv.com,SAML2,,Nolte Frank,ETR-D Development,True,False,
+Franz.Bauer@omv.com,SAML2,,Bauer Franz (X450683),PEPP-A Portfolio Analysis & Planning,False,False,Franz.Bauer@omv.com
+Franz.Goessnitzer@omv.com,SAML2,,Gößnitzer Franz (X425694),EATA-G Production Gas,True,False,
+Friedrich.Kucher@omv.com,SAML2,,Kucher Friedrich (X425728),1015562:EDES-O Exploration Operations,False,False,Friedrich.Kucher@omv.com
+Gabriel.Grosu@petrom.com,SAML2,,Grosu Gabriel (X01025270),PEA4-B Business Planning & Reporting,True,False,Gabriel.Grosu@petrom.com
+Gabriel.Ionescu@omv.com,SAML2,,Ionescu Gabriel-Liviu (X01000927),EDE-G Exploration Global,False,False,Gabriel.Ionescu@omv.com
+Gabriel.Petrache@petrom.com,SAML2,,Petrache Gabriel (X01001165),[locked due to inactivity 365] - PEOP-D Domestic NOVs and PECs,False,True,Gabriel.Petrache@petrom.com
+Gabriela.Barcsa@petrom.com,SAML2,,Barcsa Gabriela-Livia (X01006078),[locked due to inactivity 365] - PEDMA-C RM Crisana,False,True,Gabriela.Barcsa@petrom.com
+Gabriela.Icatoiu@petrom.com,SAML2,,Icatoiu Gabriela (X01002577),PEDO-F Execution Offshore,False,False,Gabriela.Icatoiu@petrom.com
+Gabriela.Martinus@omv.com,SAML2,,Martinus Gabriela (GABRIELA43),FEC-V Value Center Controlling,False,False,Gabriela.Martinus@omv.com
+Gabriela.Stoican@petrom.com,SAML2,,Stoican Gabriela (X01015911),[deactivated due to inactivity] - PEOP-D Domestic NOVs and PECs,True,False,Gabriela.Stoican@petrom.com
+Gabriela-Georgeta.Duta@petrom.com,SAML2,,Duta Gabriela-Georgeta (X01000587),20224361:PFE-E Economics & Planning,False,False,Gabriela-Georgeta.Duta@petrom.com
+gael04,LOCAL,,Carlier Gael (Ext),AUCERNA,True,False,gael.carlier@aucerna.com
+GAEL04@ww.omv.com,SAML2,,Carlier Gael (GAEL04),[locked due to inactivity 365] - [AUCERNA] EETE-P Petrotechnical AppStore,True,False,gael.carlier@quorumsoftware.com
+Gary.Ingram@omv.com,SAML2,,Ingram Gary Moreland (X01019868),EMYO-X Exploration & Appraisal,True,False,Gary.Ingram@omv.com
+Georg.Bichler@omv.com,SAML2,,Bichler Georg (X431197),EOS-F Facility Optimization,True,False,Georg.Bichler@omv.com
+Georg.Kuemmel@omv.com,SAML2,,Kümmel Georg (X451331),EDPM-N PM Nafoora,True,False,Georg.Kuemmel@omv.com
+Georg.Schumacher@petrom.com,SAML2,,Schumacher Georg (X01SCHGEO),1015352:FEE-V Venture Economics & Planning,False,False,Georg.Schumacher@petrom.com
+Georg.Seidl@omv.com,SAML2,,Seidl Georg (GEORG2),EOP-S Production Systems Optimization,True,False,Georg.Seidl@omv.com
+George_Mihai.Butaru@petrom.com,SAML2,,Butaru George-Mihai (X01008397),PERR-O Oil&Gas Facilities Program,True,False,George_Mihai.Butaru@petrom.com
+GeorgeAlin.Tanase@petrom.com,SAML2,,Tanase George-Alin (X01027076),PEODP-9 Prod Sys Optim Asset Moldova,False,False,GeorgeAlin.Tanase@petrom.com
+GeorgeRadu.Filip@omv.com,SAML2,,Filip George-Radu (X01025291),EDPM-S PM SOR Projects,True,False,GeorgeRadu.Filip@omv.com
+Georgeta.Tudor1@petrom.com,SAML2,,Tudor Georgeta (GEORGETA18),PEET-N New Technology,False,False,Georgeta.Tudor1@petrom.com
+Georgeta.Zahiu@omv.com,SAML2,,Zahiu Georgeta (X01010515),[locked due to inactivity 365] - PEODP-9 Prod Sys Optim Asset Moldova,False,True,Georgeta.Zahiu@omv.com
+GeorgetaAlina.Dima@petrom.com,SAML2,,Dima Georgeta-Alina (X01000527),PEEP-P Performance,False,False,GeorgetaAlina.Dima@petrom.com
+Georgiana.Stanciu@petrom.com,SAML2,,Stanciu Giorgiana (X01010664),PEDWS-P PEDWS-P Well Planning&Cost Controlling,False,False,Georgiana.Stanciu@petrom.com
+Gerald.Antes@omv.com,SAML2,,Antes Gerald (X449077),EDB-G Integrated Studies Global,False,False,Gerald.Antes@omv.com
+Gerasel.Toma@petrom.com,SAML2,,Toma Gerasel (X01001437),PFEV-9 Finance Asset Moldova,False,False,Gerasel.Toma@petrom.com
+Gerhard.Frey@omv.com,SAML2,,Frey Gerhard (X449132),EOL-V Asset Management LY,False,False,Gerhard.Frey@omv.com
+Gerhard.Wiedemann@omv.com,SAML2,,Wiedemann Gerhard (X451148),EOSA-F Facility Optimization AT,False,False,Gerhard.Wiedemann@omv.com
+German.Gonzalez@omv.com,SAML2,,Gonzalez Uribe German Alonso (X450706),EDPE-N PM NOV UAE & KRI,False,False,German.Gonzalez@omv.com
+Gery.Verient@omv.com,SAML2,,Verient Gery (X451624),EDPM-N PM Nafoora,False,False,Gery.Verient@omv.com
+Gheorghe.Nedea@petrom.com,SAML2,,Nedea Gheorghe (X01006195),[locked due to inactivity 365] - PEAO-W Workover Management,False,True,Gheorghe.Nedea@petrom.com
+Gheorghita.FloricicaStan@petrom.com,SAML2,,Floricica Stan Gheorghita (X01000703),PEAM-O Surface Facilities PMO,True,False,Gheorghita.FloricicaStan@petrom.com
+Giuseppe.Cantarella@omv.com,SAML2,,Cantarella Giuseppe (X452241),EDE-G Exploration Global,False,False,Giuseppe.Cantarella@omv.com
+GregoryJohn.Rock@omv.com,SAML2,,Rock Gregory John (GREGORY1),ED-E Exploration,True,False,GregoryJohn.Rock@omv.com
+Hadi.Hendizadeh@omv.com,SAML2,,Hendizadeh Hadi (X450133),EDPE-N PM NOV UAE & KRI,False,False,Hadi.Hendizadeh@omv.com
+Hamish.Bracegirdle@omv.com,SAML2,,Bracegirdle Hamish (HAMISH2),FEF-Z Finance NZ,False,False,Hamish.Bracegirdle@omv.com
+Hamish.Brown@omv.com,SAML2,,Brown Hamish (HAMISH1),EDPE-M PM Maui & Pohokura NZ,True,False,Hamish.Brown@omv.com
+HANITA1@ww.omv.com,SAML2,,Hanafi Hanita (HANITA1),SapuraOMV 2MY1,False,False,hanitah@sapura-omv.com
+hanitah@sapura-omv.com,SAML2,,Hanafi Hanita,SapuraOMV 2MY1,True,False,
+Hannes.Abdalla@omv.com,SAML2,,Abdalla Hannes (HANNES1),ET-A Surface Technologies,False,False,Hannes.Abdalla@omv.com
+Hanns.Schmid@omv.com,SAML2,,Schmid Hanns Peter (X011444),EDE-G Exploration Global,False,False,Hanns.Schmid@omv.com
+Harald.Scheruga@omv.com,SAML2,,Scheruga-Rosmarion Harald (X011481),[locked due to inactivity 365] - EDB-G Integrated Studies Global,False,True,Harald.Scheruga@omv.com
+HAZLINAWATY1@ww.omv.com,SAML2,,Kassim Hazlinawaty (HAZLINAWATY1),SapuraOMV 2MY1,True,False,hazlinawaty.kassim@sapura-omv.com
+Heather.Baily@omv.com,SAML2,,Baily Heather (HEATHER4),EDB-N Integrated Studies Norway,False,False,Heather.Baily@omv.com
+Hege.Stensland@omv.com,SAML2,,Stensland Hege (HEGE1),1015687:EDEN-B Exploration NOV and Barents Sea,False,False,Hege.Stensland@omv.com
+Heidi.Rydningen@omv.com,SAML2,,Rydningen Heidi (XRYDNINHE),EDEN-B Exploration NOV and Barents Sea,True,False,Heidi.Rydningen@omv.com
+Hela.Hamdi@omv.com,SAML2,,Hamdi Hela (XHAMDI_HE),EDEN-B Exploration NOV and Barents Sea,False,False,Hela.Hamdi@omv.com
+Helene.Daae@omv.com,SAML2,,Daae Helene Virkesdal (HELENE2),EDPM-I Iris / Hades,False,False,Helene.Daae@omv.com
+Helene.Haram@omv.com,SAML2,,Haram Helene (XHARAMHE),EDPI-S Subsurface Berling,False,False,Helene.Haram@omv.com
+Hermann.Scsepka@omv.com,SAML2,,Scsepka Hermann (X400044),EDPM-N PM Nafoora,False,False,Hermann.Scsepka@omv.com
+Hichem.Zar@omv.com,SAML2,,Zar Hichem (HICHEM1),EMTXR-R Reservoir Engineering,False,False,Hichem.Zar@omv.com
+hisham.dukaly@omv.com,SAML2,,Dukaly Hisham (XDUKALY),FEF-L Finance Libya,False,False,hisham.dukaly@omv.com
+Hisham.Hanbali@omv.com,SAML2,,Hanbali Hisham (HISHAM1),EDPS-S Surface Technical Services,False,False,Hisham.Hanbali@omv.com
+hllee@sapura-omv.com,SAML2,,Leng Lee Hung,SapuraOMV 2MY1,True,False,
+Horatiu.Zachia@petrom.com,SAML2,,Zachia Marcel-Horatiu (X01011091),PEI-M PEC Timis,True,False,Horatiu.Zachia@petrom.com
+Horea.Savan@petrom.com,SAML2,,Savan Decebal Horea (X01006291),PEA-1 Asset Crisana,True,False,Horea.Savan@petrom.com
+Horst.Ullmann@omv.com,SAML2,,Ullmann Horst,FTAF-C SAP Controlling & Reporting,True,False,
+HUNG01@ww.omv.com,SAML2,,Leng Lee Hung (HUNG01),SapuraOMV 2MY1,True,False,hllee@sapura-omv.com
+Hussein.Ganib@omv.com,SAML2,,Ganib Hussein (HUSSEIN1),EOL-V Asset Management LY,False,False,Hussein.Ganib@omv.com
+Hussein.Ziyani@omv.com,SAML2,,Ziyani Hussein (XZIYANI),EOL-V Asset Management LY,False,False,Hussein.Ziyani@omv.com
+Ian.Mallinson@omv.com,SAML2,,Mallinson Ian (IAN006),ED-E Exploration,False,False,Ian.Mallinson@omv.com
+Ilhami.Giden@omv.com,SAML2,,Giden Ilhami,EATTP-T Production Technology,True,False,
+Imen.Kooli@omv.com,SAML2,,Kooli Imen (IMEN1),EMTX-R Development & Reservoir Eng.TUN,True,False,Imen.Kooli@omv.com
+Ingrid-Micalena.Duta@petrom.com,SAML2,,Duta Ingrid-Micalena (X01015885),PFE-3 Finance&Controlling Asset Munte,True,False,Ingrid-Micalena.Duta@petrom.com
+Ioan_Irinel.Enea@petrom.com,SAML2,,Enea Irinel-Ioan (X01010994),PEO9O-H Operational Hub,False,False,Ioan_Irinel.Enea@petrom.com
+Ioana.Pascanu@omv.com,SAML2,,Pascanu Ioana (IOANA5),1015325:FEE-P Planning & Portfolio,False,False,Ioana.Pascanu@omv.com
+IoanaAlina.Zetocha@petrom.com,SAML2,,Zetocha Ioana-Alina (IOANA28),PEODP-1 Prod Sys Optim Asset Crisana,False,False,IoanaAlina.Zetocha@petrom.com
+IoanaDenisa.Pintilie@petrom.com,SAML2,,Pintilie Ioana-Denisa (X01027241),[locked due to inactivity 365] - PFCI-U Investment Controlling Upstream,False,True,IoanaDenisa.Pintilie@petrom.com
+Ion.Aninoiu@external.petrom.com,SAML2,,Aninoiu Ion (X01006406),PEODP-2 Prod Sys Optim Asset Oltenia,False,False,Ion.Aninoiu@external.petrom.com
+Ion.Apostoiu1@petrom.com,SAML2,,Apostoiu Ion (X01010924),[locked due to inactivity 365] - PEODP-2 Prod Sys Optim Asset Oltenia,False,True,Ion.Apostoiu1@petrom.com
+Ion.Stoica@petrom.com,SAML2,,Stoica Ion (X01008414),[locked due to inactivity 365] - PEODP-7 Prod Sys Optim Asset Muntenia,False,True,Ion.Stoica@petrom.com
+Ionica.Barbu@petrom.com,SAML2,,Barbu Ionica (X01000651),[DEACTIVATED] PED-R Reserves,True,False,Ionica.Barbu@petrom.com
+Ionut.Apostol@petrom.com,SAML2,,Apostol Ionut (X01012183),PFEV-9 Finance Asset Moldova,False,False,Ionut.Apostol@petrom.com
+Ionut.Dragoi@petrom.com,SAML2,,Dragoi Ionut (X01006486),[locked due to inactivity 365] - PEET-L Laboratory,False,True,Ionut.Dragoi@petrom.com
+Ionut_Andrei.Radu@petrom.com,SAML2,,Radu Ionut-Andrei (X01024948),[locked due to inactivity 365] - PEDON-K Key Projects,False,True,Ionut_Andrei.Radu@petrom.com
+Irene.Dinu@petrom.com,SAML2,,Dinu Irene-Claudia (X01000584),PEE-P Portfolio & Performance,False,False,Irene.Dinu@petrom.com
+Isabell.Schretter@omv.com,SAML2,,Schretter Isabell (ISABELL1),EDE-G Exploration Global,False,False,Isabell.Schretter@omv.com
+Isabelle.Zabalza@omv.com,SAML2,,Zabalza Isabelle (X451087),EMYO-D Development & Reservoir,True,False,Isabelle.Zabalza@omv.com
+Iulia_Carmen.Surubaru@petrom.com,SAML2,,Surubaru Iulia Carmen (X01004284),[locked due to inactivity 365] - PED-B Business Development,False,True,Iulia_Carmen.Surubaru@petrom.com
+Iulia_Gabriela.Pasca@petrom.com,SAML2,,Pasca Iulia-Gabriela,EEP-P Portfolio & Planning,True,False,
+IuliaGabriela.Muntean@petrom.com,SAML2,,Muntean Iulia-Gabriela (X01022380),[locked due to inactivity 365] - FE-E Economics & Planning,False,False,IuliaGabriela.Muntean@petrom.com
+Iulian.Miu@petrom.com,SAML2,,Miu Iulian (X01015990),PFE-4 Finance&Controlling Asset Moesi,True,False,Iulian.Miu@petrom.com
+Iuliana.Farcas@petrom.com,SAML2,,Farcas Iuliana (X01015981),PFE-3 Finance&Controlling Asset Munte,False,False,Iuliana.Farcas@petrom.com
+Iuliana.Pop@petrom.com,SAML2,,Pop Iuliana (X01011196),PEODP-1 Prod Sys Optim Asset Crisana,False,False,Iuliana.Pop@petrom.com
+Ivan.Makar@omv.com,SAML2,,Makar Ivan,ETR-R Reservoir Engineering,True,False,
+IZWAN1@ww.omv.com,SAML2,,Abdullah Izwan (IZWAN1),SapuraOMV 2MY1,True,False,izwanabd@sapura-omv.com
+Jacqueline.Gresika@external.omv.com,SAML2,,Gresika Jacqueline (JACQUELINE7),EF-E Economics & M&A Finance,True,False,
+Jakob.Grames@omv.com,SAML2,,Grames Jakob (JAKOB22),FEF-A Finance Austria,False,False,Jakob.Grames@omv.com
+James.Wallace@omv.com,SAML2,,Wallace James (XWALJAM),FEFM-T Finance TN,False,False,James.Wallace@omv.com
+Jamie.Sutherland@omv.com,SAML2,,Sutherland James (JAMES21),EDPE-M PM Maui & Pohokura NZ,True,False,Jamie.Sutherland@omv.com
+Jan.Bauer@omv.com,SAML2,,Bauer Jan Erik (X450487),1015323:EO-X Reserves & Resources,False,False,Jan.Bauer@omv.com
+Jan.Mayer@omv.com,SAML2,,Mayer Jan (JAN013),[DEACTIVATED] ESM-B Low Carbon Business Steering,True,False,Jan.Mayer@omv.com
+Jan.Paul@omv.com,SAML2,,Paul Jan (X449344),EOR-V Asset Management RU,True,False,Jan.Paul@omv.com
+JENNIFER11@ww.omv.com,SAML2,,Skeete Jennifer (JENNIFER11),[AUCERNA] EETE-P Petrotechnical AppStore,True,False,Jennifer.Skeete@quorumsoftware.com
+Jens.Behrend@omv.com,SAML2,,Behrend Jens (X011450),EOP-A Subsurface Engineering AT,False,False,Jens.Behrend@omv.com
+JensRune.Thomassen@omv.com,SAML2,,Thomassen Jens Rune (JENS11),EO-N Norway,True,False,JensRune.Thomassen@omv.com
+Joerg.Brenner@omv.com,SAML2,,Brenner Jörg (X450169),[locked due to inactivity 365] - EEP-F Performance,True,True,Joerg.Brenner@omv.com
+Joerg_Michael.Six@omv.com,SAML2,,Six Jörg (X451555),EDP-M Maturation,False,True,Joerg_Michael.Six@omv.com
+Johannes.Ladenhauf@omv.com,SAML2,,Ladenhauf Johannes (X451420),EDE-N Exploration Norway,True,False,Johannes.Ladenhauf@omv.com
+Johannes.Mandl@omv.com,SAML2,,Mandl Johannes (X450654),EDPS-U Subsurface Technical Services,False,False,Johannes.Mandl@omv.com
+Johannes.Pamminger@omv.com,SAML2,,Pamminger Johannes (JOHANNES43),GN-S Process Safety,False,False,Johannes.Pamminger@omv.com
+John.McDonald@omv.com,SAML2,,McDonald John (JOHN41),EOZA-P Production Ops. Pohokura &TF NZ,True,False,John.McDonald@omv.com
+Jonathan.Church@omv.com,SAML2,,Church Jonathan (X450367),1015607:EBI-N Integrated Studies Norway,False,False,Jonathan.Church@omv.com
+Jonathan.Wood@omv.com,SAML2,,Wood Jonathan (JONATHAN14),FEE-V Venture Economics & Planning,False,False,Jonathan.Wood@omv.com
+Jose.Gonzalez@petrom.com,SAML2,,Gonzalez Rojas Jose Maria (X01GONJOS),[locked due to inactivity 365] - PEDOM-F Field Re-development Projects,False,True,Jose.Gonzalez@petrom.com
+Josef.Donner@omv.com,SAML2,,Donner Josef (X451062),FEF-A Finance Austria,False,False,Josef.Donner@omv.com
+Josef.Hlavacek@omv.com,SAML2,,Hlavacek Josef (X450149),20224361:PFE-E Economics & Planning,False,False,Josef.Hlavacek@omv.com
+Josef.Schreiber@omv.com,SAML2,,Schreiber Josef (X452244),EOAO-P Production Services AT,False,False,Josef.Schreiber@omv.com
+Jost.Puettmann@omv.com,SAML2,,Puettmann Jost,ETR-D Development,True,False,
+Judith.HeimannSorger@omv.com,SAML2,,Heimann-Sorger Judith (JUDITH2),EEP-P Portfolio,False,False,Judith.HeimannSorger@omv.com
+Julia.Pircher@omv.com,SAML2,,Pircher Julia (JULIA10),EOSA-F Facility Optimization AT,False,False,Julia.Pircher@omv.com
+JulianEdward.Laing@omv.com,SAML2,,Laing Julian Edward (JULIAN18),EDPS-S Surface Technical Services,True,False,JulianEdward.Laing@omv.com
+Justin.White@omv.com,SAML2,,White Justin (WHITEJ),FEF-Z Finance NZ,True,False,Justin.White@omv.com
+Karine.GuibertDAmore@omv.com,SAML2,,Guibert D Amore Karine (KARINE1),EDPS-U Subsurface Technical Services,False,False,Karine.GuibertDAmore@omv.com
+Karl.Berghofer@omv.com,SAML2,,Berghofer Karl (XBERGHOKA),[deactivated due to inactivity] - EOT-O Operations TN,True,False,Karl.Berghofer@omv.com
+Katie.Hannke@omv.com,SAML2,,Hannke Katharine Louise (X449612),ED-E Exploration,False,False,Katie.Hannke@omv.com
+Katrina.Labitoria@external.omv.com,SAML2,,Labitoria Katrina (KATRINA1),1014514:EMY-F Finance SapuraOMV,False,False,Katrina.Labitoria@external.omv.com
+Kerry.Williamson@omv.com,SAML2,,Williamson Kerry (KERRY5),EDPE-M PM Maui & Pohokura NZ,True,False,Kerry.Williamson@omv.com
+KEVIN32@ww.omv.com,SAML2,,Rooney Kevin (KEVIN32),[AUCERNA] EETE-P Petrotechnical AppStore,True,False,kevin.rooney@aucerna.com
+Kheireddine.Mahfoudhi@omv.com,SAML2,,Mahfoudhi Kheireddine (XMAHFOUKH),EMTA-X Expl. Development & Production,True,False,Kheireddine.Mahfoudhi@omv.com
+khwajah.basem@omv.com,SAML2,,Hasan Khawaja Basem (XBASEMKH),FEE-V Venture Economics & Planning,False,False,khwajah.basem@omv.com
+Kinga.Dobany@external.omv.com,SAML2,,Dobany Kinga (KINGA7),FE-E Economics & Planning,True,False,Kinga.Dobany@external.omv.com
+Kinga.Dobany@omv.com,SAML2,,Dobany Kinga (KINGA7),FE-E Economics & Planning,False,False,Kinga.Dobany@omv.com
+Kurt.Huetter@omv.com,SAML2,,Hütter Kurt,PEET-N New Technology,True,False,Kurt.Huetter@omv.com
+LAI001@ww.omv.com,SAML2,,Tan Lai Huat (LAI001),SapuraOMV 2MY1,True,False,etan@sapura-omv.com
+Larisa.Wagner@omv.com,SAML2,,Wagner Larisa (LARISA9),FEC-O Operational Contr. & Budgeting,False,False,Larisa.Wagner@omv.com
+Larissa.Wolff@omv.com,SAML2,,Wolff Larissa (LARISSA2),EDPM-S PM SOR Projects,False,False,Larissa.Wolff@omv.com
+Lars.Bruset@omv.com,SAML2,,Bruset Lars (LARS3),FEE-V Venture Economics & Planning,True,False,Lars.Bruset@omv.com
+Lars.Drage@omv.com,SAML2,,Drage Lars (LARS1),EDPM-I Iris / Hades,True,False,Lars.Drage@omv.com
+Laurentiu.Pavel@petrom.com,SAML2,,Pavel Laurentiu (X01006617),PEOP-D Domestic NOVs and PECs,False,False,Laurentiu.Pavel@petrom.com
+Lea.Fuchs@omv.com,SAML2,,Fuchs Lea Gertrud,EF-RU Finance Russia,True,False,
+Lenuta.Lungu@petrom.com,SAML2,,Lungu Lenuta (X01009774),PEODP-2 Prod Sys Optim Asset Oltenia,False,False,Lenuta.Lungu@petrom.com
+Leonardo.Umani@omv.com,SAML2,,Umani Leonardo (LEONARDO1),FEC-O Operational Contr. & Budgeting,False,False,Leonardo.Umani@omv.com
+Leopold.Kroupa@omv.com,SAML2,,Kroupa Leopold (X318386),ED-P Project Mgmt. & Growth Project,True,False,
+Lewis.Brock@omv.com,SAML2,,Brock Lewis Daniel (LEWIS1),FEE-V Venture Economics & Planning,False,False,Lewis.Brock@omv.com
+Ligia.Petris@petrom.com,SAML2,,Petris Ligia (X01010247),PEDMB-W RM West Muntenia,True,False,Ligia.Petris@petrom.com
+Liliana.Despa@petrom.com,SAML2,,Despa Liliana (X01012582),PFEV-3 Finance Asset Valahia,False,False,Liliana.Despa@petrom.com
+Liliana-Ionica.Ivan@Petrom.Com,SAML2,,Ivan Liliana-Ionica (X01015881),PFEV-7 Finance Asset Muntenia,False,False,Liliana-Ionica.Ivan@Petrom.Com
+LIM001@ww.omv.com,SAML2,,Zhi Hong Lim (LIM001),SapuraOMV 2MY1,False,False,zhihong.lim@sapura-omv.com
+Linda.Lerchbaumer@omv.com,SAML2,,Lerchbaumer Linda (LINDA2),[DEACTIVATED] EDEN-S Exploration Norwegian Sea,True,False,Linda.Lerchbaumer@omv.com
+Lisa.Posch@omv.com,SAML2,,Posch Lisa (X452007),FEC-V Value Center Controlling,True,False,Lisa.Posch@omv.com
+LiviaMadalina.Calin@omv.com,SAML2,,Calin Livia-Madalina (LIVIA11),FEC-O Operational Contr. & Budgeting,False,False,LiviaMadalina.Calin@omv.com
+Livia-Madalina.Calin@petrom.com,SAML2,,Calin Livia-Madalina (X01018913),PFE-O Upstream Controlling,True,False,Livia-Madalina.Calin@petrom.com
+Loredana.Bunescu@petrom.com,SAML2,,Bunescu Florina (X01003515),[locked due to inactivity 365] - PFIS-R Investors Relation,False,True,Loredana.Bunescu@petrom.com
+Loredana_Elena.Barbu@petrom.com,SAML2,,Barbu Elena-Loredana (X01022270),PFE-F Project Finance & Economics,True,False,Loredana_Elena.Barbu@petrom.com
+Lorinda.Struwig@omv.com,SAML2,,Struwig Lorinda (LORINDA1),FEFZ-A Accounting,False,False,Lorinda.Struwig@omv.com
+Luca.Garzonio@omv.com,SAML2,,Garzonio Luca (LUCA09),EDPM-I Iris / Hades,True,False,Luca.Garzonio@omv.com
+Lukas.Anders@omv.com,SAML2,,Anders Lukas (LUKAS10),EOSA-F Facility Optimization AT,False,False,Lukas.Anders@omv.com
+Lukas.Volker@omv.com,SAML2,,Volker Lukas Johannes (LUKAS80),20231505:PEFODP-H Production Sys Optimization HUB,False,False,Lukas.Volker@omv.com
+Luminita.GrigorePopa@petrom.com,SAML2,,Grigore-Popa Luminita (X01010501),[locked due to inactivity 365] - PEA9-B Business Planning & Reporting,False,True,Luminita.GrigorePopa@petrom.com
+Madalina.Chiriac@petrom.com,SAML2,,Chiriac Madalina (X01022492),[locked due to inactivity 365] - PFEV-10 Finance Asset Petromar,False,True,Madalina.Chiriac@petrom.com
+Madalina.CoadaPetre@omv.com,SAML2,,Coada-Petre Madalina (X01024526),FEE-V Venture Economics & Planning,False,False,Madalina.CoadaPetre@omv.com
+Maik.Koehler@omv.com,SAML2,,Köhler Maik (KOEHLEMA),EEP-F Performance,False,False,Maik.Koehler@omv.com
+Malek.Derbal@omv.com,SAML2,,Derbal Malek (MALEK3),FEFMT-C Controlling,True,False,Malek.Derbal@omv.com
+Manfred.Leitner1@omv.com,SAML2,,Leitner Manfred (MANFRED5),EOA-C Commercial AT,False,False,Manfred.Leitner1@omv.com
+Manuela.Vindt@petrom.com,SAML2,,Vindt Manuela Corina (X01001056),PEOP-D Domestic NOVs and PECs,False,False,Manuela.Vindt@petrom.com
+ManuelVictoriano.Lameiro@omv.com,SAML2,,Lameiro Manuel Victoriano (MANUEL97),FEC-O Operational Contr. & Budgeting,False,False,ManuelVictoriano.Lameiro@omv.com
+Marat.Uspanov@petrom.com,SAML2,,Uspanov Marat (MARAT1),PEFDB-I Integrated Studies,False,False,Marat.Uspanov@petrom.com
+Marco.Bresciani@omv.com,SAML2,,Bresciani Marco (MARCO9),FEE-V Venture Economics & Planning,False,False,Marco.Bresciani@omv.com
+Marco.Lommatzsch@omv.com,SAML2,,Lommatzsch Marco (MARCO8),EDES-G Exploration Geoscience,True,False,Marco.Lommatzsch@omv.com
+MarcSteven.Swales@omv.com,SAML2,,Swales Marc Steven (MARC23),[DEACTIVATED] FEE-E Economics Governance,True,False,MarcSteven.Swales@omv.com
+Maria.Pertl@omv.com,SAML2,,Pertl Maria (X449156),FE-C Controlling,False,False,Maria.Pertl@omv.com
+MariaAdriana.Palistan@petrom.com,SAML2,,Palistan Maria Adriana (X01015869),PFEV-2 Finance Asset Oltenia,False,False,MariaAdriana.Palistan@petrom.com
+MariaIndriaty.Susanto@omv.com,SAML2,,Susanto Maria Indriaty (MARIA92),1015962:EDPI-S Subsurface Berling,False,False,MariaIndriaty.Susanto@omv.com
+Marian.Rizea@petrom.com,SAML2,,Rizea Marian (X01RIZMAR),[locked due to inactivity 365] - PEDOS-S Project Services,False,True,Marian.Rizea@petrom.com
+Mariana.Rebega@petrom.com,SAML2,,Rebega Mariana (MARIANA31),[locked due to inactivity 365] - [locked due to inactivity 365] - PERS-P Planning&Risk Management,False,True,Mariana.Rebega@petrom.com
+Marica.Juravle@petrom.com,SAML2,,Juravle Marica (X01006951),PE-D Development & Reservoir Eng.,True,False,Marica.Juravle@petrom.com
+Maricel.Obiacoro@omv.com,SAML2,,Obiacoro Maricel (MARICEL10),FEF-N Finance Norway,False,False,Maricel.Obiacoro@omv.com
+Marie.Deckers@omv.com,SAML2,,Deckers Marie (X451659),EMTX-R Development & Reservoir Eng.TUN,False,False,Marie.Deckers@omv.com
+Marijka.Torrance@omv.com,SAML2,,Torrance Marijka (MARIJKA1),EDPE-M PM Maui & Pohokura NZ,True,False,Marijka.Torrance@omv.com
+Marinel.Popa@petrom.com,SAML2,,Popa Marinel (X01022834),PEA3-B Business Planning & Reporting,False,False,Marinel.Popa@petrom.com
+Marinela.Haias@petrom.com,SAML2,,Haias Marinela (X01004353),[deactivated due to inactivity] - PEOP-D Domestic NOVs and PECs,True,False,Marinela.Haias@petrom.com
+Marinus.Verbruggen@petrom.com,SAML2,,Verbruggen Marinus Hendricus Wilhelmus (MARINUS1),PEN-U Subsurface,False,False,Marinus.Verbruggen@petrom.com
+Mario-Luis.Rodriguez_Chavez@omv.com,SAML2,,Rodriguez Chavez Mario-Luis (X451671),[DEACTIVATED] FEE-E Economics Governance,True,True,Mario-Luis.Rodriguez_Chavez@omv.com
+Marius.Camuescu@petrom.com,SAML2,,Camuescu Marius Adrian (X01013271),PEODP-1 Prod Sys Optim Asset Crisana,False,False,Marius.Camuescu@petrom.com
+Marius.Dumitrache@petrom.com,SAML2,,Dumitrache Marius (X01022402),[locked due to inactivity 365] - PFE-B Accounting&Venture Management,False,True,Marius.Dumitrache@petrom.com
+Marius.Raicu@petrom.com,SAML2,,Raicu Marius (X01003111),PERWA-C Claims Management,True,False,Marius.Raicu@petrom.com
+Markus.Doschek@omv.com,SAML2,,Doschek Markus (X011441),ETW-C Well Construction,True,False,
+markus.nuesslein@omv.com,SAML2,,Nüsslein Markus (X450313),1015325:FEE-P Planning & Portfolio,False,False,markus.nuesslein@omv.com
+Marsel.Galyautdinov@omv.com,SAML2,,Galyautdinov Marsel (RU000040),FEF-R Finance Russia,True,False,Marsel.Galyautdinov@omv.com
+Martin.Datler@omv.com,SAML2,,Datler Martin (MARTIN106),ET-A Surface Technologies,False,False,Martin.Datler@omv.com
+Martin.Floimayr@Omv.Com,SAML2,,Floimayr Martin (X452159),ESM-B Low Carbon Business Steering,False,False,Martin.Floimayr@Omv.Com
+Martin.Hubbig@omv.com,SAML2,,Hubbig Martin (MARTIN26),1015323:EO-X Reserves & Resources,False,False,Martin.Hubbig@omv.com
+Martin.Kornberger@omv.com,SAML2,,Kornberger Martin (X449638),PEA-T EOR & IOR Field Technology,True,False,Martin.Kornberger@omv.com
+martin.kufner@omv.com,SAML2,,Kufner Martin (X449222),1015338:EIE-P Petrotechnical AppStore,False,False,Martin.Kufner@omv.com
+Martin.Siencnik@omv.com,SAML2,,Siencnik Martin (X429647),EF-V Finance A & Venture Mgmt,True,False,
+Martina.Halmer@omv.com,SAML2,,Halmer Martina Magdalena (X450946),EDES-O Exploration Operations,False,False,Martina.Halmer@omv.com
+Martina.Waldner@omv.com,SAML2,,Waldner Martina (X449157),[locked due to inactivity 365] - FE-C Controlling,False,True,Martina.Waldner@omv.com
+Mathias.Etz@omv.com,SAML2,,Etz Mathias (X450761),EMY-F Finance SapuraOMV,False,False,Mathias.Etz@omv.com
+Mathias.Idsoee@external.omv.com,SAML2,,Idsøe Mathias (MATHIAS32),EDP-E Execution,True,False,Mathias.Idsoee@external.omv.com
+MatthewKent.Coughlin@omv.com,SAML2,,Coughlin Matthew Kent (MATTHEW9),EDPE-N PM NOV UAE & KRI,True,False,MatthewKent.Coughlin@omv.com
+Matthias.Gnauer@omv.com,SAML2,,Gnauer Matthias (X450615),[locked due to inactivity 365] - EEP-P Portfolio,False,True,Matthias.Gnauer@omv.com
+Melania.Birtoiu@petrom.com,SAML2,,Birtoiu Melania (X01007044),PEODP-2 Prod Sys Optim Asset Oltenia,False,False,Melania.Birtoiu@petrom.com
+Michael.Bierbaumer@omv.com,SAML2,,Bierbaumer Michael (X436733),EDES-O Exploration Operations,False,False,Michael.Bierbaumer@omv.com
+Michael.Dammerer@omv.com,SAML2,,Dammerer-Kerbl Michael (X01024385),EM-T Tunisia,False,False,Michael.Dammerer@omv.com
+Michael.Elliott@omv.com,SAML2,,Elliott Michael Thomas (MICHAEL21),EE-A Value Assurance,False,False,Michael.Elliott@omv.com
+Michael.German@omv.com,SAML2,,German Michael (MICHAEL164),EOP-Z Subsurface Engineering NZ,False,False,Michael.German@omv.com
+Michael.Graf@omv.com,SAML2,,Graf Michael (X450358),PE-P Performance Portfolio&Planning,True,False,Michael.Graf@omv.com
+Michael.Inglis@omv.com,SAML2,,Inglis Michael (MICHAEL282),EDB-N Integrated Studies Norway,False,False,Michael.Inglis@omv.com
+Michael.Pachner@omv.com,SAML2,,Pachner Michael (XPACHNE),ES-R Renewable Energy Technical Dev.,False,False,Michael.Pachner@omv.com
+Michael.Stairs@omv.com,SAML2,,Stairs Michael (X01022519),EOL-V Asset Management LY,False,False,Michael.Stairs@omv.com
+Michaela.Hoy1@omv.com,SAML2,,Hoy Michaela (MICHAELA5),EON-V Asset Management NO,True,False,Michaela.Hoy1@omv.com
+MichaelStefan.Eichinger@omv.com,SAML2,,Eichinger Michael Stefan,ETR-D Development,True,False,
+MichaelStefan.EichingerKlemm@omv.com,SAML2,,Eichinger-Klemm Michael Stefan (MICHAEL139),EDSA-D Digital Factory,False,False,MichaelStefan.EichingerKlemm@omv.com
+Michal.Griac@omv.com,SAML2,,Griac Michal (MICHAL29),FEC-V Value Center Controlling,False,False,Michal.Griac@omv.com
+Mihaela.Anagnastopol@petrom.com,SAML2,,Anagnastopol Mihaela-Creola (X01007059),PFE-M Finance&Controlling Asset Moldo,False,False,Mihaela.Anagnastopol@petrom.com
+Mihaela.Buzu@petrom.com,SAML2,,Buzu Mihaela (MIHAELA102),PFE-C E&P Controlling,True,False,Mihaela.Buzu@petrom.com
+Mihaela.Dumitriu@petrom.com,SAML2,,Dumitriu Mihaela,PEA7M-T Technical&Engineering Support,True,False,
+Mihaela.Dumitru@petrom.com,SAML2,,Dumitru Mihaela-Elena (X01010503),PFEV-9 Finance Asset Moldova,False,False,Mihaela.Dumitru@petrom.com
+Mihaela.Raducanu@petrom.com,SAML2,,Raducanu Mihaela Gratiela (X01016000),[locked due to inactivity 365] - PFE-C E&P Controlling,False,True,Mihaela.Raducanu@petrom.com
+Mihaela.Simionescu@petrom.com,SAML2,,Simionescu Bianca Mihaiela (X01007099),PFEV-3 Finance Asset Valahia,False,False,Mihaela.Simionescu@petrom.com
+Mihaela-Cristina.Stanca@petrom.com,SAML2,,Stanca Mihaela-Cristina (X01000589),PFE-F Project Finance & Economics,False,False,Mihaela-Cristina.Stanca@petrom.com
+MihaelaNicoleta.Dobre@petrom.com,SAML2,,Dobre Mihaela-Nicoleta (MIHAELA37),EETEE-L Data Liberation & AI,False,False,MihaelaNicoleta.Dobre@petrom.com
+Mihai.Branescu@petrom.com,SAML2,,Branescu Mihai (X01012860),PEOP-D Domestic NOVs and PECs,False,False,Mihai.Branescu@petrom.com
+Mihai.Obreajan@petrom.com,SAML2,,Obreajan Mihai (X01000954),[deactivated due to inactivity] - PED-R Reserves,True,False,Mihai.Obreajan@petrom.com
+Mihai.Soricu@petrom.com,SAML2,,Soricu Mihai (X01020563),PEDO-F Execution Offshore,False,False,Mihai.Soricu@petrom.com
+Mihai_Marius.Daneasa@petrom.com,SAML2,,Daneasa Mihai-Marius (X01007122),[locked due to inactivity 365] - PEAM-O Surface Facilities PMO,False,True,Mihai_Marius.Daneasa@petrom.com
+Mihail.Rusen@petrom.com,SAML2,,Rusen Mihail (X01007159),PEA10-O Operations,True,False,Mihail.Rusen@petrom.com
+MOHAMAD6@ww.omv.com,SAML2,,Abdullah Mohamad Fairosenyzam (MOHAMAD6),SapuraOMV 2MY1,True,False,fairosenyzam.abdullah@sapura-omv.com
+Mohammad.Fallah@omv.com,SAML2,,Fallah Mohammad (X903220),[locked due to inactivity 365] - PEDE-B Black Sea Opportunities,False,True,Mohammad.Fallah@omv.com
+Mohammad.Khalifa@petrom.com,SAML2,,Khalifa Mohammad (X01022534),PEA-10 Asset Petromar,True,False,Mohammad.Khalifa@petrom.com
+MohammadOggi.Refani@omv.com,SAML2,,Refani Mohammad Oggi (X01026884),EMXR-R Reservoir Engineering,True,False,MohammadOggi.Refani@omv.com
+Monika.Schiffmann@omv.com,SAML2,,Schiffmann Monika (MONIKA2),EMY-F Finance SapuraOMV,False,False,Monika.Schiffmann@omv.com
+monika.schiffmann@sapura-omv.com,SAML2,,Schiffmann Monika,SapuraOMV 2MY1,True,False,
+MONIKA28@ww.omv.com,SAML2,,Schiffmann Monika (MONIKA28),SapuraOMV 2MY1,True,False,monika.schiffmann@sapura-omv.com
+Morten.Krogh@omv.com,SAML2,,Krogh Morten (MORTEN2),EON-V Asset Management NO,True,False,Morten.Krogh@omv.com
+Mostafa.Abdoli@omv.com,SAML2,,Abdoli Mostafa (XABDOLI),EDEN-S Exploration Norwegian Sea,False,False,Mostafa.Abdoli@omv.com
+nadiha.johari@sapura-omv.com,SAML2,,Mohd Al Johari Siti Nadiha,SapuraOMV 2MY1,True,False,
+nadzri.drahman@sapura-omv.com,SAML2,,Drahman Ahmad Nadzri,SapuraOMV 2MY1,True,False,
+NASARENE1@ww.omv.com,SAML2,,Majeth Nasarene Majeth (NASARENE1),SapuraOMV 2MY1,False,False,nasarenem@sapura-omv.com
+Neil.Burge@omv.com,SAML2,,Burge Neil (NEIL13),FEF-Z Finance NZ,True,False,Neil.Burge@omv.com
+Neil.Ementon@omv.com,SAML2,,Ementon Neil Andrew (NEIL08),1015324:EI-T Business Transformation & Assurance,False,False,Neil.Ementon@omv.com
+Neil.Rainey@omv.com,SAML2,,Rainey Neil (NEIL07),EDPS-S Surface Technical Services,True,False,Neil.Rainey@omv.com
+NeilThomas.McLeod@omv.com,SAML2,,McLeod Neil Thomas (NEIL06),EDP-S Projects Shared Services,True,False,NeilThomas.McLeod@omv.com
+Nico.Wannenmacher@omv.com,SAML2,,Wannenmacher Nico (NICO23),1015351:FEE-E Economics & Governance,False,False,Nico.Wannenmacher@omv.com
+Nicolae.Ionita@petrom.com,SAML2,,Ionita Nicolae (X01007275),PEA-9 Asset Moldova,True,False,Nicolae.Ionita@petrom.com
+Nicolae.Stefan2@petrom.com,SAML2,,Stefan Nicolae (X01007286),PEODP-3 Prod Sys Optim Asset Valahia,False,False,Nicolae.Stefan2@petrom.com
+Nicole.Paces@omv.com,SAML2,,Paces Nicole,ED-E Concept & Project Fac. Eng.,True,False,
+Nicoleta.Chis@petrom.com,SAML2,,Chis Nicoleta-Marinela (X01022493),PFEV-1 Finance Asset Cri?ana,False,False,Nicoleta.Chis@petrom.com
+Nicoleta.Mujescu@petrom.com,SAML2,,Mujescu Nicoleta (X01016018),PFE-C E&P Controlling,False,False,Nicoleta.Mujescu@petrom.com
+Nicoleta.Savulescu@petrom.com,SAML2,,Savulescu Nicoleta Cristina (X01021852),PFE-C E&P Controlling,False,False,Nicoleta.Savulescu@petrom.com
+Nicoleta.Stancu@petrom.com,SAML2,,Stancu Nicoleta (X01000648),PED-R Reserves,False,False,Nicoleta.Stancu@petrom.com
+Nicoleta.Vierita@petrom.com,SAML2,,Vierita Nicoleta (X01016011),PFEV-2 Finance Asset Oltenia,False,False,Nicoleta.Vierita@petrom.com
+NicoletaAdriana.Toma@omv.com,SAML2,,Toma Nicoleta-Adriana (X01026454),EDPE-N PM NOV UAE & KRI,False,False,NicoletaAdriana.Toma@omv.com
+Nikola.Baric@omv.com,SAML2,,Baric Nikola (NIKOLA8),EOP-A Subsurface Engineering AT,False,False,Nikola.Baric@omv.com
+Nina.Romich@omv.com,SAML2,,Romich Nina (NINA35),1016162:ESG-P Geothermal Projects,False,False,Nina.Romich@omv.com
+Nona.Audochii@petrom.com,SAML2,,Audochii Nona-Alice (X01013355),FEC-O Operational Contr. & Budgeting,True,False,Nona.Audochii@petrom.com
+Noradila.MohdIdris@external.omv.com,SAML2,,Mohd Idris Noradila (NORADILA2),[DEACTIVATED] EMY-F Finance SapuraOMV,True,False,Noradila.MohdIdris@external.omv.com
+Norbailis.Dasri@external.omv.com,SAML2,,Dasri Norbailis (NORBAILIS1),EMY-F Finance SapuraOMV,False,False,Norbailis.Dasri@external.omv.com
+NORSHAFARIN1@ww.omv.com,SAML2,,Abdul Rahman Norshafarina (NORSHAFARIN1),SapuraOMV 2MY1,False,False,norshafarina.abdul@sapura-omv.com
+norshafarina.abdul@sapura-omv.com,SAML2,,Abdul Rahman Norshafarina,SapuraOMV 2MY1,True,False,
+noura.ayari@omv.com,SAML2,,Ayari Noura (XAYARI),ETXVM-T Exploration&Appraisal TN,False,False,noura.ayari@omv.com
+NurAyuni.MohdNoor@external.omv.com,SAML2,,Mohd Noor Nur Ayuni (NUR010),[DEACTIVATED] EMY-F Finance SapuraOMV,True,False,NurAyuni.MohdNoor@external.omv.com
+OanaCrinuta.Georgescu@petrom.com,SAML2,,Georgescu Oana Crinuta (X01015586),[locked due to inactivity 365] - PFE-C E&P Controlling,False,True,OanaCrinuta.Georgescu@petrom.com
+OanaMioara.Nita@petrom.com,SAML2,,Nita Oana-Mioara (OANA27),[deactivated due to inactivity] - PEP-P Performance & Portfolio Mgmt.,True,False,OanaMioara.Nita@petrom.com
+Octavian.Duta@petrom.com,SAML2,,Duta Octavian (X01023297),[locked due to inactivity 365] - PEDO-N Execution Onshore,False,True,Octavian.Duta@petrom.com
+Octavian.Duta1@petrom.com,SAML2,,Duta Octavian (X01024886),[deactivated due to inactivity] - PEOW7-A Rig Services Aninoasa,True,False,Octavian.Duta1@petrom.com
+Octavian_Mihai.Ciora@petrom.com,SAML2,,Ciora Octavian-Mihai (X01022560),FFAF-C Reporting Center,False,False,Octavian_Mihai.Ciora@petrom.com
+OctavianFlorin.Ghetu@omv.com,SAML2,,Ghetu Octavian-Florin (X01006021),PEE-T Technology & Innovation,True,False,OctavianFlorin.Ghetu@omv.com
+Oivind.Overland@omv.com,SAML2,,Øverland Øivind (OEIVIND1),FEF-N Finance Norway,False,False,Oivind.Overland@omv.com
+Oliver.Gratzer@omv.com,SAML2,,Gratzer Oliver (OLIVER3),[locked due to inactivity 365] - EDP-M Maturation,False,True,Oliver.Gratzer@omv.com
+Oliver.Thomas@omv.com,SAML2,,Thomas Oliver (OLIVER30),EOP-Z Subsurface Engineering NZ,False,False,Oliver.Thomas@omv.com
+OscarAlberto.Perez@omv.com,SAML2,,Perez Oscar Alberto,EDM-L Projects LY,True,False,
+Ovidiu.Norocea@petrom.com,SAML2,,Norocea Gheorghe-Ovidiu (X01007370),PEDMA-O RM Oltenia,True,False,Ovidiu.Norocea@petrom.com
+Ozge.Koksal@omv.com,SAML2,,Köksal Özge Aygerim (X012773),FE-C Controlling,False,False,Ozge.Koksal@omv.com
+Pablo_Antonio.Torres_Jauregui@omv.com,SAML2,,Torres Jauregui Pablo Antonio (X450766),EOS-F Facility Optimization,True,False,Pablo_Antonio.Torres_Jauregui@omv.com
+Pascale.Neff@omv.com,SAML2,,Neff Pascale (X450712),1015343:FE-E Economics Planning & Portfolio,False,False,Pascale.Neff@omv.com
+Patrycja.Kruszewska@external.omv.com,SAML2,,Kruszewska Patrycja (PATRYCJA2),FE-C Energy Controlling & Performance Mgmt.,True,False,Patrycja.Kruszewska@external.omv.com
+Paul.Fuehrmann@omv.com,SAML2,,Führmann Paul,EEP-P Portfolio & Planning,True,False,
+Paul.Mitterlehner@omv.com,SAML2,,Mitterlehner Paul (X451207),[locked due to inactivity 365] - FEC-O Operational Contr. & Budgeting,False,False,Paul.Mitterlehner@omv.com
+PAUL122@ww.omv.com,SAML2,,Brendon Owen Paul (PAUL122),SapuraOMV 2MY1,True,False,powen@sapura-omv.com
+PaulArne.Aaserud@omv.com,SAML2,,Aaserud Paul Arne (PAUL32),EDPM-I Iris / Hades,True,False,PaulArne.Aaserud@omv.com
+Pavel.Fedorov@omv.com,SAML2,,Fedorov Pavel (RU000076),EOR-V Asset Management RU,True,False,Pavel.Fedorov@omv.com
+PBI.corporate,LOCAL,,PowerBI corporate,PowerBI gateway user - corporate data  - NO BDs - PBI@P2V,False,False,
+PBI.corporate.BD,LOCAL,,PowerBI corporate BD,PowerBI gateway user - corporate data  - incl. BDs - PBI@P2V@BD,False,False,
+Peter.Hagedorn@omv.com,SAML2,,Hagedorn Peter (PETER41),ESG-P Geothermal Projects,False,False,Peter.Hagedorn@omv.com
+Peter.Janiczek@petrom.com,SAML2,,Janiczek Peter (X451740),[locked due to inactivity 365] - PEDB-F Field Redevelopment&Optionality,False,True,Peter.Janiczek@petrom.com
+Peter.Krois@omv.com,SAML2,,Krois Peter (X427542),[locked due to inactivity 365] - EDE-S Exploration Shared Services,False,True,Peter.Krois@omv.com
+Peter.Piller@omv.com,SAML2,,Piller Peter (X449362),EDPM-S PM SOR Projects,False,False,Peter.Piller@omv.com
+Petrisor.Neacsu@petrom.com,SAML2,,Neacsu Petrisor (X01025154),[deactivated due to inactivity] - PEPC-O Optimization & Change Managemen,True,False,Petrisor.Neacsu@petrom.com
+Petro.Podurets@omv.com,SAML2,,Podurets Petro (PEDRO8),1015351:FEE-E Economics & Governance,False,False,Petro.Podurets@omv.com
+Petruta.Cojocaru@petrom.com,SAML2,,Cojocaru Petruta (X01000630),[locked due to inactivity 365] - PEX-P Planning&License Administration,False,True,Petruta.Cojocaru@petrom.com
+Petruta.Nastase@petrom.com,SAML2,,Nastase Petruta Lorena (X01001141),PFE-C E&P Controlling,True,False,Petruta.Nastase@petrom.com
+PetrutaAlina.Calinescu@petrom.com,SAML2,,Calinescu Petruta Alina (X01015446),PFE-F Project Finance & Economics,False,False,PetrutaAlina.Calinescu@petrom.com
+Philip.Manning@omv.com,SAML2,,Manning Philip (PHILIP15),[deactivated due to inactivity] - PEOP-UK OMV Petrom UK Branch,True,False,Philip.Manning@omv.com
+Philipp.Knauhs@omv.com,SAML2,,Knauhs Philipp (PHILIPP30),1015325:FEE-P Planning & Portfolio,False,False,Philipp.Knauhs@omv.com
+Philipp.Schulz@omv.com,SAML2,,Schulz Philipp (PHILIPP53),[deactivated due to inactivity] - EOP-S Production Systems Optimization,True,False,Philipp.Schulz@omv.com
+Philipp.Strauss@omv.com,SAML2,,Strauss Philipp (X448724),1016162:ESG-P Geothermal Projects,False,False,Philipp.Strauss@omv.com
+Philipp.Urban@omv.com,SAML2,,Urban Philipp (PHILIPP43),[locked due to inactivity 365] - EOSA-F Facility Optimization AT,True,True,Philipp.Urban@omv.com
+pmhaaland@omv.com,SAML2,,Haaland Pål Marius (XHAALANPA),ED-B Business Development,True,False,pmhaaland@omv.com
+PRISCILLA1@ww.omv.com,SAML2,,Tong Priscilla (PRISCILLA1),SapuraOMV 2MY1,False,False,ptong@sapura-omv.com
+ptong@sapura-omv.com,SAML2,,Tong Priscilla,SapuraOMV 2MY1,True,False,
+Rade.Kalas@omv.com,SAML2,,Kalas Rade (RADE01),FEC-V Value Center Controlling,False,False,Rade.Kalas@omv.com
+Radita.Sandu@petrom.com,SAML2,,Sandu Radita (X01014455),PFE-4 Finance&Controlling Asset Moesi,False,False,Radita.Sandu@petrom.com
+Radu.Jipa@omv.com,SAML2,,Jipa Radu-Ionut (X01023752),[locked due to inactivity 365] - PEDO-F Execution Offshore,False,True,Radu.Jipa@omv.com
+Radu.Nicolaescu@petrom.com,SAML2,,Nicolaescu Radu (X01007539),PEDMB-M RM Moesia,True,False,Radu.Nicolaescu@petrom.com
+RaduOvidiu.Luchian@petrom.com,SAML2,,Luchian Radu-Ovidiu,FGPIU-S Subsurface DDAM,True,False,
+Rafael.Duque@omv.com,SAML2,,Duque - Ramirez Jose Rafael (JOSE1),EOM-V Asset Management MEA,False,False,Rafael.Duque@omv.com
+Raluca.Cruceru@petrom.com,SAML2,,Cruceru Irina-Raluca (X01003379),PFE-C E&P Controlling,False,False,Raluca.Cruceru@petrom.com
+Raluca.Sava@petrom.com,SAML2,,Sava Raluca Maria (X01SAVRAL),PEP-P Performance & Portfolio Mgmt.,False,False,Raluca.Sava@petrom.com
+Raluca.Vizante@petrom.com,SAML2,,Dragomir Raluca (X01026186),PEDB-F Field Redevelopment&Optionality,False,False,Raluca.Dragomir@petrom.com
+Ramona.Schlager@petrom.com,SAML2,,Schlager Ramona Florentina,PFE-O Upstream Controlling,True,False,
+Ramona.Voica@petrom.com,SAML2,,Voica Ramona (X01010567),PFEV-7 Finance Asset Muntenia,False,False,Ramona.Voica@petrom.com
+Razvan.Bulgariu@omv.com,SAML2,,Bulgariu Razvan (X01001805),1015325:FEE-P Planning & Portfolio,False,False,Razvan.Bulgariu@omv.com
+Razvan.Corbu@petrom.com,SAML2,,Corbu Razvan Florin (X01013107),PEE-R Reserves & Resources,False,False,Razvan.Corbu@petrom.com
+Razvan.Malin@petrom.com,SAML2,,Malin Razvan (X903143),[locked due to inactivity 365] - PFE-C E&P Controlling,False,True,Razvan.Malin@petrom.com
+Reidar.Haver@omv.com,SAML2,,Haver Reidar (REIDAR1),EON-V Asset Management NO,False,False,Reidar.Haver@omv.com
+Reinhard.Goerlich@omv.com,SAML2,,Görlich Reinhard (X450225),[DEACTIVATED] EOSA-F Facility Optimization AT,True,False,Reinhard.Goerlich@omv.com
+Reinhard.Oswald@omv.com,SAML2,,Oswald Reinhard (X01001953),E-AT Austria Hub,True,False,
+Reporting,LOCAL,,Power BI reporting,User for Power BI Reportings - used to access P2V via API-key BD_deny !!! PowerBI@P2V,False,True,
+Reserves_service,LOCAL,,Aucerna Reserves,[service] Plan2Value local account to allow Reserves to fetch result sets. limited security!,False,False,
+Richard.Grader@omv.com,SAML2,,Grader Richard (X451820),ES-R Renewable Energy Technical Dev.,False,False,Richard.Grader@omv.com
+Richard.Kwon@omv.com,SAML2,,Kwon Richard (RICHARD31),FEE-V Venture Economics & Planning,False,True,Richard.Kwon@omv.com
+RICHARD44@ww.omv.com,SAML2,,McCurdy Richard (Ext),AUCERNA,True,False,
+Rob.Dobbins@omv.com,SAML2,,Dobbins Robert Shane (XDOBBINRO),EON-V Asset Management NO,True,False,Rob.Dobbins@omv.com
+Robert.Davidson@omv.com,SAML2,,Davidson Robert (ROBERT98),EDPE-M PM Maui & Pohokura NZ,True,False,Robert.Davidson@omv.com
+Robert.Glueck@omv.com,SAML2,,Glück Robert (ROBERT20),EMY-A Operations,True,False,Robert.Glueck@omv.com
+Robert.Koehazy@omv.com,SAML2,,Köhazy Robert (X011458),[deactivated due to inactivity] - EDES-O Exploration Operations,True,False,Robert.Koehazy@omv.com
+Rodica.Munteanu@petrom.com,SAML2,,Munteanu Rodica Victoria (X01011210),PEODP-1 Prod Sys Optim Asset Crisana,False,False,Rodica.Munteanu@petrom.com
+Rolf.Moebius@omv.com,SAML2,,Möbius Rolf (X452109),EDB-A Asset Redevelopment,False,False,Rolf.Moebius@omv.com
+Ross.Northover@omv.com,SAML2,,Northover Ross (X451775),EDP-S Projects Shared Services,True,False,Ross.Northover@omv.com
+Ross.Powell@omv.com,SAML2,,Powell Ross (ROSS04),EOPS-Z Prod. Systems Optimization NZ,False,False,Ross.Powell@omv.com
+Roxana.Catu-Sascioreanu@petrom.com,SAML2,,Catu-Sascioreanu Roxana (X01000582),PFE-F Project Finance & Economics,False,False,Roxana.Catu-Sascioreanu@petrom.com
+Ruxandra.Dick@petrom.com,SAML2,,Dick Ruxandra (X01007657),[DEACTIVATED] PEODP-7 Prod Sys Optim Asset Muntenia,True,False,Ruxandra.Dick@petrom.com
+s.at.p2vpbi1,LOCAL,,PowerBI GW 1 (s.at.p2vpbi1),PowerBI GW 1 (s.at.p2vpbi1) - Portfolio Dashboard,False,False,
+s.at.p2vpbi10,LOCAL,,PowerBI GW 10 (s.at.p2vpbi10),PowerBI GW 10 (s.at.p2vpbi10) - UAE + KRI + YEM,False,False,
+s.at.p2vpbi11,LOCAL,,PowerBI GW 11 (s.at.p2vpbi11),PowerBI GW 11 (s.at.p2vpbi11) - RUS,False,False,
+s.at.p2vpbi12,LOCAL,,PowerBI GW 12 (s.at.p2vpbi12),PowerBI GW 12 (s.at.p2vpbi12) - LBY,False,False,
+s.at.p2vpbi13,LOCAL,,PowerBI GW 13 (s.at.p2vpbi13),PowerBI GW 13 (s.at.p2vpbi13) - Lukas,False,False,
+s.at.p2vpbi14,LOCAL,,PowerBI GW 14 (s.at.p2vpbi14),PowerBI GW 14 (s.at.p2vpbi14) - LCB,False,False,
+s.at.p2vpbi2,LOCAL,,PowerBI GW 2 (s.at.p2vpbi2),PowerBI GW 2 (s.at.p2vpbi2) - LCB BD Dashboard,False,False,
+s.at.p2vpbi3,LOCAL,,PowerBI GW 3 (s.at.p2vpbi3),PowerBI GW 3 (s.at.p2vpbi3) - TM1 tests,False,False,
+s.at.p2vpbi4,LOCAL,,PowerBI GW 4 (s.at.p2vpbi4),PowerBI GW 4 (s.at.p2vpbi4) - Petrom (ROM +  BUL + GEO),False,False,
+s.at.p2vpbi5,LOCAL,,PowerBI GW 5 (s.at.p2vpbi5),PowerBI GW 5 (s.at.p2vpbi5) - AUT,False,False,
+s.at.p2vpbi6,LOCAL,,PowerBI GW 6 (s.at.p2vpbi6),PowerBI GW 6 (s.at.p2vpbi6) - NOR,False,False,
+s.at.p2vpbi7,LOCAL,,PowerBI GW 7 (s.at.p2vpbi7),PowerBI GW 7 (s.at.p2vpbi7) - NZL+AUS,False,False,
+s.at.p2vpbi8,LOCAL,,PowerBI GW 8 (s.at.p2vpbi8),PowerBI GW 8 (s.at.p2vpbi8) - MYS + Sapura-AUS + MEX + Sapura-NZL,False,False,
+s.at.p2vpbi9,LOCAL,,PowerBI GW 9 (s.at.p2vpbi9),PowerBI GW 9 (s.at.p2vpbi9) - TUN,False,False,
+s.ro.checkmw@petrom.com,SAML2,,Check MW (s.ro.checkmw),user to check functionality after MW,False,False,s.ro.checkmw@petrom.com
+Sam.Fisher@omv.com,SAML2,,Fisher Samuel (XFISHERSA),FEE-V Venture Economics & Planning,False,False,Sam.Fisher@omv.com
+sam.moaganasundram@sapura-omv.com,SAML2,,Moaganasundram Samyukutha,SapuraOMV 2MY1,True,False,
+Samuel.Hercus@omv.com,SAML2,,Hercus Samuel James (XHERCUSSA),EMX-R Development & Reservoir Eng.MEA,False,False,
+SAMYUKUTHA1@ww.omv.com,SAML2,,Moaganasundram Samyukutha (SAMYUKUTHA1),SapuraOMV 2MY1,False,False,sam.moaganasundram@sapura-omv.com
+Sander.Bouw@omv.com,SAML2,,Bouw Sander (X451921),[DEACTIVATED] EDB-G Integrated Studies Global,True,False,Sander.Bouw@omv.com
+Sandra.Culjak@omv.com,SAML2,,Culjak Sandra (SANDRA18),PFE-O Upstream Controlling,False,False,Sandra.Culjak@petrom.com
+Sara.PonzMoreno@omv.com,SAML2,,Ponz Moreno Sara (SARA27),FEE-P Planning & Portfolio,False,False,Sara.PonzMoreno@omv.com
+Sarah.Hurch@omv.com,SAML2,,Hurch Sarah (SARAH22),EOSA-F Facility Optimization AT,False,False,Sarah.Hurch@omv.com
+Sarra.Saidi@omv.com,SAML2,,Saidi Sara (XSAIDISA),FEE-V Venture Economics & Planning,False,False,Sarra.Saidi@omv.com
+Sasa.Blazekovic@omv.com,SAML2,,Blazekovic Sasa (X011451),EOP-A Subsurface Engineering AT,False,False,Sasa.Blazekovic@omv.com
+Sascha.Brandtner@omv.com,SAML2,,Brandtner Sascha (SASCHA2),EDPS-S Surface Technical Services,False,False,Sascha.Brandtner@omv.com
+sascha.stuerzenbecher@omv.com,SAML2,,Stürzenbecher Sascha (SASCHA15),FEF-G Governance & Accounting,False,False,sascha.stuerzenbecher@omv.com
+SCOTT13,LOCAL,,Busing Scott (Ext),AUCERNA,True,False,scott.busing@aucerna.com
+Sebastian.Buha@omv.com,SAML2,,Buha Sebastian,EATT-P Prod Technology & Optimization,True,False,
+SebastianMaria.Volpini@omv.com,SAML2,,Volpini Sebastian Maria (SEBASTIAN14),EDP-M Maturation,False,False,SebastianMaria.Volpini@omv.com
+Semra.Kocyigit@omv.com,SAML2,,Kocyigit Semra,EF-V Finance A & Venture Mgmt,True,False,
+SENG01@ww.omv.com,SAML2,,Yam Sean Seng Ho (SENG01),SapuraOMV 2MY1,True,False,syam@sapura-omv.com
+Serajeddin.Inoun@omv.com,SAML2,,Inoun Serajeddin Mohamed (XINOUN),EDE-G Exploration Global,False,False,Serajeddin.Inoun@omv.com
+Sergei.Martynov@omv.com,SAML2,,Martynov Sergei (X451222),EDP-S Projects Shared Services,True,False,Sergei.Martynov@omv.com
+Sergej.Gall@omv.com,SAML2,,Gall Sergej,EATTP-T Production Technology,True,False,
+Severin.Secklehner@omv.com,SAML2,,Secklehner Severin (X449657),1016161:ESG-T Geothermal Technical Studies,False,False,Severin.Secklehner@omv.com
+Shahram.Pourmohammadi@external.omv.com,SAML2,,Pourmohammadi Shahram (SHAHRAM2),1015962:EDPI-S Subsurface Berling,False,False,Shahram.Pourmohammadi@external.omv.com
+Shahryar.Shirzadi@petrom.com,SAML2,,Shirzadi Shahryar (SHAHRYAR1),PED-D Development,True,False,Shahryar.Shirzadi@petrom.com
+ShaikKhaja.Mohiddin@omv.com,SAML2,,Mohiddin Shaik Khaja (SHAIK1),EDPE-N PM NOV UAE & KRI,True,False,ShaikKhaja.Mohiddin@omv.com
+SHAIZATUL1@ww.omv.com,SAML2,,Shafie Shaizatul Fatihah (SHAIZATUL1),SapuraOMV 2MY1,False,False,shaizatul.shafie@sapura-omv.com
+sigbjorn.birkenes@omv.com,SAML2,,Birkenes Sigbjørn (SIGBJOERN1),EDP-W Wisting,True,False,sigbjorn.birkenes@omv.com
+Silviu.Man@petrom.com,SAML2,,Man Silviu (X01009245),PEDOS-S Subsurface Shared Services,False,False,Silviu.Man@petrom.com
+Simon.Hobbs@omv.com,SAML2,,Armitage-Hobbs Simon (SIMON41),[DEACTIVATED] EDPS-S Surface Technical Services,True,False,Simon.Hobbs@omv.com
+Simon.Rossak@omv.com,SAML2,,Rossak Simon,EFV-C Controlling A,True,False,
+Simon.Skar@omv.com,SAML2,,Skår Simon (SIMON92),FEF-N Finance Norway,False,False,Simon.Skar@omv.com
+Simona.Iancu@omv.com,SAML2,,Iancu Simona-Nicoleta (SIMONA10),FEE-O Economics & Planning - Ops.,True,False,Simona.Iancu@omv.com
+Simona.Toader@petrom.com,SAML2,,Toader Simona (SIMONA21),PEDON-K Key Projects,False,False,Simona.Toader@petrom.com
+Simona.Vatafu@petrom.com,SAML2,,Vatafu Simona (X01026139),PEWP-E Cost Engineering,False,False,Simona.Vatafu@petrom.com
+Simona_Anca.Savan@petrom.com,SAML2,,Savan Simona Anca (X01007679),PEODP-1 Prod Sys Optim Asset Crisana,False,False,Simona_Anca.Savan@petrom.com
+SimonaDaniela.Coanda@petrom.com,SAML2,,Coanda Simona-Daniela (X01007748),PEPC-D Efficiency DA,False,False,SimonaDaniela.Coanda@petrom.com
+Siri.Berge@omv.com,SAML2,,Berge Siri,ENX-R Development & Reservoir Eng.NOS,True,False,
+SITI08@ww.omv.com,SAML2,,Mohd Al Johari Siti Nadiha (SITI08),SapuraOMV 2MY1,False,False,nadiha.johari@sapura-omv.com
+Solomon.Ofori@omv.com,SAML2,,Ofori Solomon (SOLOMON2),EOP-R Reservoir Optimization,False,False,Solomon.Ofori@omv.com
+Sorina_Maria.Armasescu@Omv.Com,SAML2,,Badescu Sorina  Maria (X01013375),PEFDB-I Integrated Studies,False,False,Sorina_Maria.Armasescu@Omv.Com
+STANISLAV7,LOCAL,,Kozlov Stanislav (Ext),AUCERNA,True,False,stanislav.kozlov@aucerna.com
+STANISLAV7@ww.omv.com,SAML2,,Kozlov Stanislav (Ext),[DEACTIVATED] [AUCERNA] EEDA-F Surface DDAM,True,False,
+Stefan.Massl@omv.com,SAML2,,Massl Stefan (X451056),EOSA-F Facility Optimization AT,True,False,Stefan.Massl@omv.com
+Stefan.Mehes1@petrom.com,SAML2,,Mehes Stefan (X01014441),PFEV-1 Finance Asset Cri?ana,True,False,Stefan.Mehes1@petrom.com
+Stefan.Pfneisl@omv.com,SAML2,,Pfneisl Stefan (X451646),E-E Business Excellence& Innovation,True,False,Stefan.Pfneisl@omv.com
+Stefan.Prinz@omv.com,SAML2,,Prinz Stefan (STEFAN131),EOP-A Subsurface Engineering AT,False,False,Stefan.Prinz@omv.com
+Stefan.Reiter1@omv.com,SAML2,,Reiter Stefan (STEFAN377),FE-D BP Development,False,False,Stefan.Reiter1@omv.com
+Stefan.Sageder@omv.com,SAML2,,Sageder Stefan (STEFAN221),EEP-P Portfolio,False,True,Stefan.Sageder@omv.com
+Stefan.Weber@omv.com,SAML2,,Weber Stefan,E-BD Business Development,True,False,
+Stefan.Weber1@omv.com,SAML2,,Weber Stefan,ETXVN-S Exploration & App. NorwegianSea,True,False,
+Stefan_Corneliu.Vintila@petrom.com,SAML2,,Vintila Stefan-Corneliu (X01024067),PER-K Key Projects,False,False,Stefan_Corneliu.Vintila@petrom.com
+Stefania.Barbu@petrom.com,SAML2,,Barbu Stefania (X01012113),PEFOSF-P Pipeline&Civil Program,False,False,Stefania.Barbu@petrom.com
+Stelian.Ivana@external.petrom.com,SAML2,,Ivana Stelian (X01007889),PEW-O Workover Operations,True,False,Stelian.Ivana@external.petrom.com
+Stephan.Hannke@omv.com,SAML2,,Hannke Stephan (X449593),[locked due to inactivity 365] - PED-D Development,False,True,Stephan.Hannke@omv.com
+Stephan.Kreiger@omv-gas-storage.com,SAML2,,Kreiger Stephan (STEPHAN27),EGLS-T Technical Asset Management,False,False,Stephan.Kreiger@omv-gas-storage.com
+Stephanie.Haberfehlner@omv.com,SAML2,,Haberfehlner Stephanie (STEPHANIE3),1015325:FEE-P Planning & Portfolio,False,False,Stephanie.Haberfehlner@omv.com
+Stephanie.Huber@omv.com,SAML2,,Huber Stephanie (X450894),EDPM-S PM SOR Projects,True,False,Stephanie.Huber@omv.com
+Stephanie.Huber@petrom.com,SAML2,,Huber Stephanie (X450894),[deactivated due to inactivity] - PED-O Opportunities Maturation&Execut,True,False,Stephanie.Huber@petrom.com
+Sterre.Dortland@omv.com,SAML2,,Dortland Sterre (STERRE1),1015598:EIEZ-I Information Mgmt NZ,True,False,Sterre.Dortland@omv.com
+Stian.Lindstrom@omv.com,SAML2,,Lindstrøm Stian (XLINDSTST),EDEN-N Exploration North Sea,False,False,Stian.Lindstrom@omv.com
+Susan.Ellis@omv.com,SAML2,,Ellis Susan (SUSAN2),FE-E Economics & Planning,True,False,Susan.Ellis@omv.com
+Susanne.Danek@omv.com,SAML2,,Danek Susanne (X370957),EDES-O Exploration Operations,False,False,Susanne.Danek@omv.com
+SUZANAH1@ww.omv.com,SAML2,,Salam Suzanah (SUZANAH1),SapuraOMV 2MY1,True,False,suzanah.salam@sapura-omv.com
+svc.ww.at.p2v_useradmin@ww.omv.com,SAML2,,User Administration,local User for User Administration,False,False,
+svc.ww.at.p2vpbi15@ww.omv.com,SAML2,,PowerBI GW 15 (s.at.p2vpbi15),PowerBI GW 15 (s.at.p2vpbi15),False,False,
+svc.ww.at.thousandeyesp2v@ww.omv.com,SAML2,,Monitoringuser (s.at.thousandeyesp2v),user für Thousandeyes Monitoring system,False,False,svc.ww.at.thousandeyesp2v@ww.omv.com
+svc.ww.ro.testagent1@petrom.com,SAML2,,TEST-AGENT 1 (s.ro.testagent1),Interface testuser (OA, CAPDAT) - contact Sterre Dortland -used for automated API testing,False,False,
+svc.ww.ro.testagent2@petrom.com,SAML2,,TEST-AGENT 2 (s.ro.testagent2),Interface testuser (OA, CAPDAT) - contact Sterre Dortland -used for automated API testing,False,False,
+svc.ww.ro.testagent3@petrom.com,SAML2,,TEST-AGENT 3 (s.ro.testagent3),Interface testuser (OA, CAPDAT) - contact Sterre Dortland -used for automated API testing,False,False,
+svc.ww.ro.testagent4@petrom.com,SAML2,,TEST-AGENT 4 (s.ro.testagent4),Interface testuser (OA, CAPDAT) - contact Sterre Dortland -used for automated API testing,False,False,
+svc.ww.ro.testagent5@petrom.com,SAML2,,TEST-AGENT 5 (s.ro.testagent5),Interface testuser (OA, CAPDAT) - contact Sterre Dortland -used for automated API testing,False,False,
+SZE001@ww.omv.com,SAML2,,Tay Sze Ying (SZE001),SapuraOMV 2MY1,False,False,szeying.tay@sapura-omv.com
+szeying.tay@sapura-omv.com,SAML2,,Tay Sze Ying,SapuraOMV 2MY1,True,False,
+Tabita.Mogosanu@petrom.com,SAML2,,Mogosanu Tabita (X01015875),PFEV-2 Finance Asset Oltenia,False,False,Tabita.Mogosanu@petrom.com
+Tahir.Tahirov@omv.com,SAML2,,Tahirov Tahir (TAHIR3),1015351:FEE-E Economics & Governance,False,False,Tahir.Tahirov@omv.com
+Tam.Lovett@omv.com,SAML2,,Lovett Tam (X903365),EDB-G Integrated Studies Global,False,False,Tam.Lovett@omv.com
+Tania.Mihalcea@Petrom.Com,SAML2,,Mihalcea Tania (X01001196),[deactivated due to inactivity] - PEDOM-F Field Re-development Projects,True,False,Tania.Mihalcea@Petrom.Com
+Tanja.Weber@omv.com,SAML2,,Baumgartner Tanja Maria (X451558),1015341:FE-C Energy Controlling & Performance Mgmt.,False,False,Tanja.Weber@omv.com
+Tatiana.Orlova@omv.com,SAML2,,Orlova Tatiana,[DEACTIVATED] EEP-RU Perf. Portf. & Planning RU,True,False,
+Tatiana.Prisnel@petrom.com,SAML2,,Prisnel Tatiana-Mirela (X01007916),PFEV-7 Finance Asset Muntenia,False,False,Tatiana.Prisnel@petrom.com
+Teodor.Podeanu@petrom.com,SAML2,,Podeanu Teodor (X01008606),PEDB-F Field Redevelopment&Optionality,True,False,Teodor.Podeanu@petrom.com
+Teodor_Vladut.Nastase@petrom.com,SAML2,,Nastase Teodor-Vladut (X01022484),PFE-C E&P Controlling,False,False,Teodor_Vladut.Nastase@petrom.com
+Thomas.Eder@omv.com,SAML2,,Eder Thomas (X446583),1015387:ED-E Exploration,False,False,Thomas.Eder@omv.com
+Thomas.Florian@omv.com,SAML2,,Florian Thomas (X451684),PEET-N New Technology,False,False,Thomas.Florian@omv.com
+Thomas.Gaebler@omv.com,SAML2,,Gäbler Thomas (X448827),EOAO-S Operations Support AT,False,False,Thomas.Gaebler@omv.com
+Thomas.Gether@omv.com,SAML2,,Gether Thomas (X450605),EET-D Business Demand Management,False,False,Thomas.Gether@omv.com
+Thomas.Melgaard@omv.com,SAML2,,Melgaard Thomas (THOMAS15),EDEN-N Exploration North Sea,False,False,Thomas.Melgaard@omv.com
+Thomas.Morris@omv.com,SAML2,,Morris Thomas Geoffrey (THOMAS102),E-RU Russia Hub,True,False,
+Thomas.Posch@omv.com,SAML2,,Posch Thomas (X451690),ESM-B Low Carbon Business Steering,False,False,Thomas.Posch@omv.com
+Thomas.Werth@omv.com,SAML2,,Werth Thomas (X011614),EE-A Value Assurance,True,False,Thomas.Werth@omv.com
+ThomasRuben.Gieles@petrom.com,SAML2,,Gieles Thomas Ruben (X452110),EOM-V Asset Management MEA,False,False,ThomasRuben.Gieles@petrom.com
+TiberiuAlexandru.Amzar@petrom.com,SAML2,,Amzar Tiberiu-Alexandru (X01011568),[locked due to inactivity 365] - PEA-3 Asset Muntenia Vest,False,True,TiberiuAlexandru.Amzar@petrom.com
+TIMOTHY5,LOCAL,,Gaw Timothy (Ext),AUCERNA,True,False,timothy.gaw@aucerna.com
+TIMOTHY5@ww.omv.com,SAML2,,Gaw Timothy (TIMOTHY5),[AUCERNA] EE-P Portfolio & Performance,True,False,timothy.gaw@aucerna.com
+TONY09@ww.omv.com,SAML2,,Ledoux Tony (TONY09),SapuraOMV 2MY1,True,False,tledoux@sapura-omv.com
+TorOskar.Holmgard@omv.com,SAML2,,Holmgard Tor Oskar Haukland (TOR001),EON-V Asset Management NO,False,False,TorOskar.Holmgard@omv.com
+Traian.Banciu@petrom.com,SAML2,,Banciu Traian (X01000994),PEAO-R Production Optimization,False,False,Traian.Banciu@petrom.com
+Trevor.Frederickson@omv.com,SAML2,,Frederickson Trevor (TREVOR3),EDPE-M PM Maui & Pohokura NZ,True,False,Trevor.Frederickson@omv.com
+TREVOR4@ww.omv.com,SAML2,,Mann Trevor (Ext),AUCERNA,True,False,
+Trond.Boe@omv.com,SAML2,,Bøe Trond (TROND1),EDB-N Integrated Studies Norway,True,False,Trond.Boe@omv.com
+TudorMihai.Pascale@petrom.com,SAML2,,Pascale Tudor-Mihai (X01026833),PFEV-10 Finance Asset Petromar,False,False,TudorMihai.Pascale@petrom.com
+Ulrich.Bieg@omv.com,SAML2,,Bieg Ulrich (ULRICH2),ED-E Exploration,False,False,Ulrich.Bieg@omv.com
+Ulrich.Winter@omv.com,SAML2,,Winter Ulrich (X431908),EOA-O Operations AT,True,False,Ulrich.Winter@omv.com
+Valentin.Iordache@petrom.com,SAML2,,Iordache Valentin (X01000538),PERW-N Non-Annex P Well Abandonment,True,False,Valentin.Iordache@petrom.com
+Valentina.Anghelescu@petrom.com,SAML2,,Anghelescu Valentina (X01008024),PFCI-U Investment Controlling Upstream,False,False,Valentina.Anghelescu@petrom.com
+Valentina.Chitu@petrom.com,SAML2,,Chitu Maria Valentina (X01020092),PEPP-A Portfolio Analysis & Planning,False,False,Valentina.Chitu@petrom.com
+Valentina.Cujba@petrom.com,SAML2,,Cujba Valentina (X01000845),[locked due to inactivity 365] - PEDE-P Platform Opportunities,False,True,Valentina.Cujba@petrom.com
+ValentinBogdan.Savulescu@petrom.com,SAML2,,Savulescu Valentin-Bogdan (VALENTIN74),20230904:PEN-P Project Services,False,False,ValentinBogdan.Savulescu@petrom.com
+Vasile.Balan@petrom.com,SAML2,,Balan Vasile (X01008056),PEDMC-M RM Moldova,True,False,Vasile.Balan@petrom.com
+Veronica.Trusca@petrom.com,SAML2,,Trusca Veronica (X01008098),PFE-2 Finance&Controlling Asset Olten,True,False,Veronica.Trusca@petrom.com
+Victor.Balomiri@omv.com,SAML2,,Balomiri Victor-Emanuel (VICTOR8),1012850:FEF-U Finance UAE & KRI,False,False,Victor.Balomiri@omv.com
+Victor.BrotoPalomera@omv.com,SAML2,,Broto Palomera Victor (VICTOR77),EOSA-F Facility Optimization AT,False,False,Victor.BrotoPalomera@omv.com
+Victoria.Lampret@omv.com,SAML2,,Lampret Victoria (VICTORIA2),FEC-V Value Center Controlling,True,False,Victoria.Lampret@omv.com
+VijeshkumarShriram.Bagdi@omv.com,SAML2,,Bagdi Vijeshkumar Shriram (VIJESHKUMAR1),EDPE-N PM NOV UAE & KRI,True,False,VijeshkumarShriram.Bagdi@omv.com
+Viorel.Felea@petrom.com,SAML2,,Felea Viorel-Theodor (X01008370),PEET-N New Technology,False,False,Viorel.Felea@petrom.com
+Viorel.Ghita@petrom.com,SAML2,,Ghita Viorel (X01008143),PED-E Reservoir Engineering,True,False,Viorel.Ghita@petrom.com
+Viorel.Ionescu1@petrom.com,SAML2,,Ionescu Viorel (X01004087),[locked due to inactivity 365] - PEDL-P Projects & Requests Handling,False,True,Viorel.Ionescu1@petrom.com
+Virginia.Trana@petrom.com,SAML2,,Trana Virginia (VIRGINIA2),PFEV-3 Finance Asset Valahia,False,False,Virginia.Trana@petrom.com
+Vladimir.Krcmarik@omv.com,SAML2,,Krcmarik Vladimir (X01026769),EOP-S Production Systems Optimization,True,False,Vladimir.Krcmarik@omv.com
+Vladislav.Arekhov1@omv.com,SAML2,,Arekhov Vladislav (VLADISLAV9),EOR-V Asset Management RU,False,False,Vladislav.Arekhov1@omv.com
+VladOctavian.Seciu@petrom.com,SAML2,,Seciu Vlad-Octavian (X01025341),PER-K Key Projects,True,False,VladOctavian.Seciu@petrom.com
+Volker.Otto@omv.com,SAML2,,Otto Volker (X449571),[deactivated due to inactivity] - EDP-M Maturation,True,False,Volker.Otto@omv.com
+Waqas.Qureshi@omv.com,SAML2,,Qureshi Waqas (XQURESHWA),1015351:FEE-E Economics & Governance,False,False,Waqas.Qureshi@omv.com
+Warwick.Small@omv.com,SAML2,,Small Warwick (WARWICK4),EOZ-C Commercial NZ,True,False,Warwick.Small@omv.com
+Warwick.Smith@omv.com,SAML2,,Smith Warwick (WARWICK5),EOZA-M Production Operations Maui NZ,True,False,Warwick.Smith@omv.com
+Wietse.Renkema@omv.com,SAML2,,Renkema Wietse Joost (X452111),PEDOM-F Field Re-development Projects,True,False,Wietse.Renkema@omv.com
+Wolfgang.Hirsch@omv.com,SAML2,,Hirsch Wolfgang (X012629),ED-P Project Mgmt. & Growth Project,False,False,
+Wolfgang.Posch@omv.com,SAML2,,Posch Wolfgang,EF-E Economics & M&A Finance,True,False,
+Wuilmer.Ponte@omv.com,SAML2,,Ponte Pineda Wuilmer Jose (WUILMER1),EON-V Asset Management NO,False,False,Wuilmer.Ponte@omv.com
+X01001805,WINDOWS_AD,ww,Razvan Bulgariu,due to error after maintenance tempoarary account,True,False,
+XXX_1,LOCAL,,XXX_spare,spare,True,True,
+XXX_DEL_Lorinda.Struwig@external.omv.com,SAML2,,XXX_DEL_Struwig Lorinda (LORINDA1),Lorinda.Struwig@external.omv.com - FEFZ-A Accounting -duplicated account - to be deleted,True,False,
+XXX_DEL_Rafael.Duque@omv.com,SAML2,,XXX_DEL_Duque-Ramirez Jose Rafael (JOSE1),EOM-V Asset Management MEA,True,False,Rafael.Duque@omv.com
+XXX_DELThomasRuben.Gieles@petrom.com,SAML2,,XXX_DELGieles Thomas Ruben (X452110),PEO-P Partnerships & Int'l. Assets,True,True,ThomasRuben.Gieles@petrom.com
+Yosri.Maknine@omv.com,SAML2,,Maknine Yosri (XMAKNINYO),FE-C Controlling UAE and KRI,False,False,Yosri.Maknine@omv.com
+YU0003@ww.omv.com,SAML2,,Kashiwagi Yu (YU0003),SapuraOMV 2MY1,True,False,kashiwagi.yu@sapura-omv.com
+Zarko.SeverVitez@omv.com,SAML2,,Sever Vitez Zarko (ZARKO3),EDES-O Exploration Operations,False,False,
+Zoltan.Suele@omv.com,SAML2,,Süle Zoltan (ZOLTAN30),FEC-O Operational Contr. & Budgeting,False,False,Zoltan.Suele@omv.com
+Zoltan.Sukosd@petrom.com,SAML2,,Sukosd Zoltan (X01022656),PFE-V Venture Finance & Accounting,False,False,Zoltan.Sukosd@petrom.com

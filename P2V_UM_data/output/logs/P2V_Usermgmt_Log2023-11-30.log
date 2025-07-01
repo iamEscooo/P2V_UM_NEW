@@ -1,0 +1,9 @@
+﻿[2023-11-30 09:08:01] - [INFO] [WW/X449222] started P2V_calculate_groups_bd 
+[2023-11-30 09:08:01] - [INFO] [WW/X449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-30 12:43:11] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove remove remove remove add remove Sicala Perez Adriana (ADRIANA35) Ivanciu Adrian-Mihail (ADRIAN75) Gauer Albert Lorenz (ALBERT3) Bogar Andras (ANDRAS9) Redford Andrew (XREDFORD) Scholz Christian (CHRISTIAN130) - done
+[2023-11-30 12:43:12] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add add add add remove add Sicala Perez Adriana (ADRIANA35) Ivanciu Adrian-Mihail (ADRIAN75) Gauer Albert Lorenz (ALBERT3) Bogar Andras (ANDRAS9) Redford Andrew (XREDFORD) Scholz Christian (CHRISTIAN130) - done
+[2023-11-30 12:43:13] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove remove remove remove Gauer Albert Lorenz (ALBERT3) Bogar Andras (ANDRAS9) Borovina Ante (ANTE01) Male-Pirker Barbara (X451645) - done
+[2023-11-30 12:43:14] - [INFO] [P2V-PROD]-[bd.base] : add add remove add add Gauer Albert Lorenz (ALBERT3) Bogar Andras (ANDRAS9) Redford Andrew (XREDFORD) Male-Pirker Barbara (X451645) Scholz Christian (CHRISTIAN130) - done
+[2023-11-30 12:43:15] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add add add add Gauer Albert Lorenz (ALBERT3) Bogar Andras (ANDRAS9) Borovina Ante (ANTE01) Male-Pirker Barbara (X451645) - done
+[2023-11-30 12:43:35] - [INFO] [WW/X449222] started P2V_check_UPNs 
+[2023-11-30 12:48:00] - [INFO] [WW/X449222] started P2V_sync_user -xkey VALENTIN74

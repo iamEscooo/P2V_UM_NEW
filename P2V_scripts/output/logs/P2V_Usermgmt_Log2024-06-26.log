@@ -1,0 +1,320 @@
+﻿[2024-06-26 12:33:35] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X01001805
+[2024-06-26 12:33:39] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-26 12:38:58] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-26 12:39:06] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-26 12:39:20] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-26 12:39:33] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-26 12:39:46] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-26 12:39:55] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-26 13:55:09] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey AMANINA1
+[2024-06-26 13:55:14] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-26 13:55:35] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-26 13:55:44] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-26 13:55:57] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-26 13:56:09] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-26 13:56:20] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-26 13:56:33] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-26 14:06:11] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey AMANINA1
+[2024-06-26 14:06:16] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-26 14:06:32] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-26 14:06:43] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-26 14:06:58] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-26 14:07:14] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-26 14:07:30] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-26 14:07:46] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-26 14:09:27] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey PETER328
+[2024-06-26 14:13:13] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey KATRINA1
+[2024-06-26 14:13:28] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey KATRINA1
+[2024-06-26 14:14:22] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01022402
+[2024-06-26 14:14:22] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-26 14:14:35] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01022402
+[2024-06-26 14:14:35] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-26 14:22:10] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey PETER328
+[2024-06-26 14:22:14] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-26 14:22:41] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-26 14:22:51] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-26 14:23:08] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-26 14:23:25] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-26 14:23:45] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-26 14:23:59] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-26 14:24:22] - [INFO] [WW/adminx449222] started P2V_export_users
+[2024-06-26 14:24:22] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_users]
+[2024-06-26 14:24:22] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\dashboard\all_users.csv] deleted
+[2024-06-26 14:24:22] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\dashboard\all_groups.csv] deleted
+[2024-06-26 14:24:22] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\dashboard\all_user_groups.csv] deleted
+[2024-06-26 14:31:50] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01016011
+[2024-06-26 14:31:50] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-26 14:32:18] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey X01016011
+[2024-06-26 14:32:24] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-26 14:32:39] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-26 14:32:48] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-26 14:33:03] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-26 14:33:18] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-26 14:33:34] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-26 14:33:50] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-26 14:36:55] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01016011
+[2024-06-26 14:36:55] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-26 14:37:38] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01003379
+[2024-06-26 14:37:38] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-26 14:38:36] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X01003379
+[2024-06-26 14:39:55] - [INFO] [WW/adminx449222] started check_userprofile -xkey MONIKA2
+[2024-06-26 14:39:55] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-26 14:42:35] - [INFO] [WW/adminx449222] started check_userprofile -xkey MONIKA2
+[2024-06-26 14:42:35] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-26 14:42:53] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey MONIKA2
+[2024-06-26 14:42:58] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-26 14:43:14] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-26 14:43:24] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-26 14:43:40] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-26 14:43:56] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-26 14:44:13] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-26 14:44:22] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-26 14:45:10] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01014455
+[2024-06-26 14:45:10] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-26 14:45:49] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X01014455
+[2024-06-26 14:46:07] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey X01014455
+[2024-06-26 14:47:46] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01012582
+[2024-06-26 14:47:46] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-26 14:50:12] - [INFO] [WW/adminx449222] started check_userprofile -xkey JAKOB22
+[2024-06-26 14:50:12] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-26 14:50:30] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey JAKOB22
+[2024-06-26 14:50:49] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey JAKOB22
+[2024-06-27 12:57:00] - [INFO] [WW/adminx449222] started check_userprofile -xkey ZARKO3
+[2024-06-27 12:57:00] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 12:57:12] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey ZARKO3
+[2024-06-27 12:57:17] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 13:00:09] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 13:00:19] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 13:00:37] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-27 13:00:56] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 13:01:11] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 13:01:21] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 14:35:51] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-06-27 14:35:52] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-06-27 14:42:54] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 14:43:59] - [INFO] [P2V_PRODTEST]-[bd.base] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:44:01] - [INFO] [P2V_PRODTEST]-[Z.BD.021.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:44:03] - [INFO] [P2V_PRODTEST]-[Z.BD.021.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:44:04] - [INFO] [P2V_PRODTEST]-[Z.BD.022.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:44:06] - [INFO] [P2V_PRODTEST]-[Z.BD.022.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:44:06] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 14:51:26] - [INFO] [P2V-PROD]-[bd.base] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:51:27] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:51:28] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:51:29] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:51:30] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:51:30] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 14:52:41] - [INFO] [P2V_BENCHMARK]-[bd.base] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:52:43] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:52:44] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:52:45] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:52:47] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:52:47] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-27 14:55:19] - [INFO] [P2V_DEMO]-[bd.base] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:55:22] - [INFO] [P2V_DEMO]-[Z.BD.021.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:55:24] - [INFO] [P2V_DEMO]-[Z.BD.021.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:55:26] - [INFO] [P2V_DEMO]-[Z.BD.022.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:55:27] - [INFO] [P2V_DEMO]-[Z.BD.022.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:55:28] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 14:56:39] - [INFO] [P2V_TEST]-[bd.base] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:56:41] - [INFO] [P2V_TEST]-[Z.BD.021.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:56:43] - [INFO] [P2V_TEST]-[Z.BD.021.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:56:45] - [INFO] [P2V_TEST]-[Z.BD.022.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:56:46] - [INFO] [P2V_TEST]-[Z.BD.022.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:56:46] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 14:57:23] - [INFO] [P2V_UPDATE]-[bd.base] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:57:23] - [INFO] [P2V_UPDATE]-[Z.BD.021.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:57:24] - [INFO] [P2V_UPDATE]-[Z.BD.021.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:57:25] - [INFO] [P2V_UPDATE]-[Z.BD.022.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:57:26] - [INFO] [P2V_UPDATE]-[Z.BD.022.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:57:26] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 14:58:20] - [INFO] [P2V_TRAINING]-[bd.base] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:58:22] - [INFO] [P2V_TRAINING]-[Z.BD.021.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:58:24] - [INFO] [P2V_TRAINING]-[Z.BD.021.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:58:26] - [INFO] [P2V_TRAINING]-[Z.BD.022.deny] : remove Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 14:58:28] - [INFO] [P2V_TRAINING]-[Z.BD.022.allow] : add Sever Vitez Zarko (ZARKO3) - done
+[2024-06-27 15:08:28] - [INFO] [WW/adminx449222] started check_userprofile -xkey BARTLOMIEJ3
+[2024-06-27 15:08:28] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 15:29:50] - [INFO] [WW/adminx449222] started P2V_super_sync -xkey BARTLOMIEJ3 
+[2024-06-27 15:29:50] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync]
+[2024-06-27 15:45:14] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey BARTLOMIEJ3
+[2024-06-27 15:45:20] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 15:45:53] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 15:46:02] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 15:46:18] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-27 15:46:35] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 15:46:51] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 15:47:07] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 16:50:36] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-06-27 16:50:36] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-06-27 16:50:58] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 17:04:08] - [INFO] [P2V_PRODTEST]-[bd.base] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:04:09] - [INFO] [P2V_PRODTEST]-[Z.BD.021.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:04:11] - [INFO] [P2V_PRODTEST]-[Z.BD.021.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:04:12] - [INFO] [P2V_PRODTEST]-[Z.BD.022.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:04:14] - [INFO] [P2V_PRODTEST]-[Z.BD.022.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:04:14] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 17:04:58] - [INFO] [P2V-PROD]-[bd.base] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:05:01] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:05:02] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:05:02] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:05:03] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:05:03] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 17:05:44] - [INFO] [P2V_BENCHMARK]-[bd.base] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:05:46] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:05:47] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:05:49] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:05:51] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:06:32] - [INFO] [P2V_DEMO]-[bd.base] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:06:33] - [INFO] [P2V_DEMO]-[Z.BD.021.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:06:35] - [INFO] [P2V_DEMO]-[Z.BD.021.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:06:37] - [INFO] [P2V_DEMO]-[Z.BD.022.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:06:39] - [INFO] [P2V_DEMO]-[Z.BD.022.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:06:39] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 17:07:25] - [INFO] [P2V_TEST]-[bd.base] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:07:27] - [INFO] [P2V_TEST]-[Z.BD.021.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:07:29] - [INFO] [P2V_TEST]-[Z.BD.021.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:07:31] - [INFO] [P2V_TEST]-[Z.BD.022.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:07:33] - [INFO] [P2V_TEST]-[Z.BD.022.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:07:33] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 17:08:15] - [INFO] [P2V_UPDATE]-[bd.base] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:08:16] - [INFO] [P2V_UPDATE]-[Z.BD.021.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:08:18] - [INFO] [P2V_UPDATE]-[Z.BD.021.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:08:19] - [INFO] [P2V_UPDATE]-[Z.BD.022.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:08:21] - [INFO] [P2V_UPDATE]-[Z.BD.022.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:08:21] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 17:09:13] - [INFO] [P2V_TRAINING]-[bd.base] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:09:15] - [INFO] [P2V_TRAINING]-[Z.BD.021.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:09:17] - [INFO] [P2V_TRAINING]-[Z.BD.021.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:09:19] - [INFO] [P2V_TRAINING]-[Z.BD.022.deny] : remove Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:09:20] - [INFO] [P2V_TRAINING]-[Z.BD.022.allow] : add Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3) - done
+[2024-06-27 17:23:06] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey GEORGIA1
+[2024-06-27 17:23:11] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 17:24:18] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 17:24:28] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 17:24:46] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-27 17:25:02] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 17:25:19] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 17:25:35] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 17:28:47] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X452159
+[2024-06-27 17:29:04] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey X452159
+[2024-06-27 17:30:52] - [INFO] [WW/adminx449222] started check_userprofile -xkey X449612
+[2024-06-27 17:30:52] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:31:08] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X449612
+[2024-06-27 17:31:26] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey X449612
+[2024-06-27 17:32:47] - [INFO] [WW/adminx449222] started check_userprofile -xkey s.ro.testagent1
+[2024-06-27 17:32:47] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:33:23] - [INFO] [WW/adminx449222] started check_P2V_user -xkey s.ro.testagent1
+[2024-06-27 17:33:23] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2024-06-27 17:33:47] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey s.ro.testagent1
+[2024-06-27 17:33:51] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 17:34:53] - [INFO] [WW/adminx449222] started check_userprofile -xkey X450766
+[2024-06-27 17:34:53] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:35:08] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X450766
+[2024-06-27 17:35:14] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 17:35:23] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 17:35:40] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-27 17:35:55] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 17:36:08] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 17:36:23] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 17:38:37] - [INFO] [WW/adminx449222] started check_userprofile -xkey X450766
+[2024-06-27 17:38:37] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:38:50] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey X450766
+[2024-06-27 17:39:37] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey s.ro.testagent1
+[2024-06-27 17:40:14] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey s.ro.testagent2
+[2024-06-27 17:40:44] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey s.ro.testagent3
+[2024-06-27 17:41:19] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey s.ro.testagent4
+[2024-06-27 17:42:23] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey s.ro.testagent5
+[2024-06-27 17:42:54] - [INFO] [WW/adminx449222] started check_userprofile -xkey X450766
+[2024-06-27 17:42:54] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:43:27] - [INFO] [WW/adminx449222] started check_userprofile -xkey STEFAN377
+[2024-06-27 17:43:27] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:44:09] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey STEFAN377
+[2024-06-27 17:44:14] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 17:45:08] - [INFO] [WW/adminx449222] started P2V_check_data_access 
+[2024-06-27 17:45:08] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_check_data_access]
+[2024-06-27 17:46:36] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey MICHAEL139
+[2024-06-27 17:46:44] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 17:46:53] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 17:47:11] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-27 17:47:29] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 17:47:51] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 17:48:02] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 17:50:18] - [INFO] [WW/adminx449222] started check_userprofile -xkey MICHAEL139
+[2024-06-27 17:50:18] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:50:36] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey MICHAEL139
+[2024-06-27 17:52:05] - [INFO] [WW/adminx449222] started check_userprofile -xkey ELISABETH10
+[2024-06-27 17:52:05] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:52:24] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey ELISABETH10
+[2024-06-27 17:52:50] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey ELISABETH10
+[2024-06-27 17:53:54] - [INFO] [WW/adminx449222] started check_userprofile -xkey ELISABETH10
+[2024-06-27 17:53:54] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:54:52] - [INFO] [WW/adminx449222] started check_userprofile -xkey MICHAEL21
+[2024-06-27 17:54:52] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:55:06] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey MICHAEL21
+[2024-06-27 17:55:11] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 17:55:49] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey MICHAEL21
+[2024-06-27 17:56:36] - [INFO] [WW/adminx449222] started check_userprofile -xkey X370957
+[2024-06-27 17:56:36] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 17:58:45] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey X370957
+[2024-06-27 17:58:54] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 17:59:05] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 17:59:23] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-27 17:59:41] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 17:59:59] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 18:00:18] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 18:02:15] - [INFO] [WW/adminx449222] started check_userprofile -xkey X449156
+[2024-06-27 18:02:15] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:02:45] - [INFO] [WW/adminx449222] started check_userprofile -xkey X449156
+[2024-06-27 18:02:45] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:02:57] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey X449156
+[2024-06-27 18:10:56] - [INFO] [WW/adminx449222] started check_userprofile -xkey SASCHA2
+[2024-06-27 18:10:56] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:18:20] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey SASCHA2
+[2024-06-27 18:18:25] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 18:18:47] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 18:18:59] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 18:19:15] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-27 18:19:31] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 18:19:48] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 18:20:05] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 18:22:12] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey SASCHA2
+[2024-06-27 18:29:36] - [INFO] [WW/adminx449222] started check_userprofile -xkey X450615
+[2024-06-27 18:29:36] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:30:53] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey X450615
+[2024-06-27 18:30:59] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 18:31:15] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 18:31:25] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 18:31:39] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-27 18:31:54] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 18:32:10] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 18:32:21] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 18:33:36] - [INFO] [WW/adminx449222] started check_userprofile -xkey VICTOR77
+[2024-06-27 18:33:36] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:33:47] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey VICTOR77
+[2024-06-27 18:36:55] - [INFO] [WW/adminx449222] started check_userprofile -xkey VICTOR77
+[2024-06-27 18:36:56] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:37:53] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01005899
+[2024-06-27 18:37:54] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:40:13] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01005899
+[2024-06-27 18:40:13] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:40:29] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey X01005899
+[2024-06-27 18:41:01] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01005899
+[2024-06-27 18:41:01] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:41:33] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01RIZMAR
+[2024-06-27 18:41:33] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:44:43] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01RIZMAR
+[2024-06-27 18:44:43] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-27 18:45:43] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey X01RIZMAR
+[2024-06-27 18:45:50] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-27 18:46:05] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-27 18:46:16] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-27 18:46:31] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-27 18:46:47] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-27 18:47:02] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-27 18:47:20] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-27 18:51:28] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01RIZMAR
+[2024-06-27 18:51:28] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-07-01 08:48:33] - [INFO] [WW/adminx449222] started P2V_lock_inactive_users 
+[2024-07-01 08:48:33] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_lock_inactive_users]
+[2024-07-01 08:48:44] - [INFO] loading userlist from tenant P2V_TEST

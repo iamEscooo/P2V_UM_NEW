@@ -1,0 +1,26 @@
+Howto assign BD-projects,,,,,,,,
+,,,,,,,,
+BD,"BD in the P2V-environment is used for any project with restricted access.
+Examples are:
+real strictly confidentials project like divestment projects or new countries but also projects where the access is restricted to any other reasion",,,,,,,
+SETUP,"each BD project usually gets a name which sometimes is also considered confidential. That's why we are using numbers per project. (e.g Z.BD.008 is used for NEPTUN which had a ""restricted access"" past but is now considered as not confidential anymore.) the leading Z was chosen to have the BD project together at the end of the list of workgroups whenever the list gets sorted (per default)",,,,,,,
+,each BD project represented by 2 workgroups in P2V xx.allow  and xx.deny.  In the NEPTUN case this results in 2 workgroups Z.BD.008.allow and Z.BD.008.deny). All users who get the approval to access this project are members of the xx.allow group  whereas all other users are in the xx.deny group.  This doubled setup is unfortunately required in order to implement the  restriction in the system.,,,,,,,
+,Each user should only be a member of either xx.allow or xx.deny.,,,,,,,
+HOWTO:,you want to setup a new restricted project ?,,,,,,,
+,"we have pre-configured several BD projects.Whenever a new one should be used - enter the name , contactperson,comments, ..  In the first table (P2V_BD_projects!)",,,,,,,
+,afterwards  enter the user assignments in the P2V_BD tab. Use 1 line per user,,,,,,,
+,,,,,,,,
+P2V_BD_projects,complete list of user <> profile assignments,,,,,,,
+P2V_BD,used as whitelist for BD access ,,,,,,,
+,,,,,,,,
+example lines:,,,,,,,,
+,,,,,,,,
+P2V_BD_projects,,,,,,,,
+BDID,BDname,Bdcontact,Approval,Comment,ADgroup,STATUS,allow,deny
+Z.BD.099,DUMMY-BD,martin.kufner@omv.com,YES,sample,,ACTIVE,Z.BD.099.allow,Z.BD.099.deny
+,,,,,,,,
+,,,,,,,,
+P2V_BD,,,,,,,,
+BDID,xkey,logonID,reason,Requestdate,ACTION,,,
+Z.BD.099,ADRIAN75,AdrianMihail.Ivanciu@petrom.com,TESTuser,10/23/2023,,,,
+Z.BD.099,x449222,martin.kufner@omv.com,TESTuser,10/23/2023,,,,

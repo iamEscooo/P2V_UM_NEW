@@ -1,0 +1,96 @@
+﻿LogonId,authenticationMethod,Domain,DisplayName,Description,IsDeactivated,IsAccountLocked,EmailAddress
+Iulia_Carmen.Surubaru@petrom.com,SAML2,,Surubaru Iulia Carmen (X01004284),PED-B Business Development,FALSE,FALSE,Iulia_Carmen.Surubaru@petrom.com
+Raluca.Dragomir@petrom.com,SAML2,,Dragomir Raluca (X01026186),PEDB-F Field Redevelopment&Optionality,FALSE,FALSE,Raluca.Dragomir@petrom.com
+Peter.Janiczek@petrom.com,SAML2,,Janiczek Peter (X451740),PEDB-F Field Redevelopment&Optionality,FALSE,FALSE,Peter.Janiczek@petrom.com
+Constantin.Mihalcea@petrom.com,SAML2,,Mihalcea Constantin (X01005384),PEDB-F Field Redevelopment&Optionality,FALSE,FALSE,Constantin.Mihalcea@petrom.com
+Teodor.Podeanu@petrom.com,SAML2,,Podeanu Teodor (X01008606),PEDB-F Field Redevelopment&Optionality,FALSE,FALSE,Teodor.Podeanu@petrom.com
+Emil-Cornel.Vindt@petrom.com,SAML2,,Vindt Emil Cornel (X01000632),PED-E Exploration,FALSE,FALSE,Emil-Cornel.Vindt@petrom.com
+Mohammad.Fallah@omv.com,SAML2,,Fallah Mohammad (X903220),PEDE-B Black Sea Opportunities,FALSE,FALSE,Mohammad.Fallah@omv.com
+Csaba.Krezsek@petrom.com,SAML2,,Krezsek Csaba (X01KRECSA),PEDE-F Foldbelt Opportunities,FALSE,FALSE,Csaba.Krezsek@petrom.com
+Valentina.Cujba@petrom.com,SAML2,,Cujba Valentina (X01000845),PEDE-P Platform Opportunities,FALSE,FALSE,Valentina.Cujba@petrom.com
+Stephanie.Huber@petrom.com,SAML2,,Huber Stephanie (X450894),PED-O Opportunities Maturation&Execut,FALSE,FALSE,Stephanie.Huber@petrom.com
+Gabriela.Icatoiu@petrom.com,SAML2,,Icatoiu Gabriela (X01002577),PEDO-F Execution Offshore,FALSE,FALSE,Gabriela.Icatoiu@petrom.com
+Radu.Jipa@omv.com,SAML2,,Jipa Radu-Ionut (X01023752),PEDO-F Execution Offshore,FALSE,FALSE,Radu.Jipa@omv.com
+Mihai.Soricu@petrom.com,SAML2,,Soricu Mihai (X01020563),PEDO-F Execution Offshore,FALSE,FALSE,Mihai.Soricu@petrom.com
+Arndt.Wildfoerster@omv.com,SAML2,,Wildförster Arndt (X449370),PEDO-F Execution Offshore,FALSE,FALSE,Arndt.Wildfoerster@omv.com
+Bernhard.Windisch@omv.com,SAML2,,Windisch Bernhard (BERNHARD10),PEDO-F Execution Offshore,FALSE,FALSE,Bernhard.Windisch@omv.com
+Jose.Gonzalez@petrom.com,SAML2,,Gonzalez Rojas Jose Maria (X01GONJOS),PEDOM-F Field Re-development Projects,FALSE,FALSE,Jose.Gonzalez@petrom.com
+Tania.Mihalcea@Petrom.Com,SAML2,,Mihalcea Tania (X01001196),PEDOM-F Field Re-development Projects,FALSE,FALSE,Tania.Mihalcea@Petrom.Com
+Wietse.Renkema@omv.com,SAML2,,Renkema Wietse Joost (X452111),PEDOM-F Field Re-development Projects,FALSE,FALSE,Wietse.Renkema@omv.com
+Anda-Mihaela.Cirlan@petrom.com,SAML2,,Cirlan Anda-Mihaela (X01000658),PEDOM-N NAMR Studies,FALSE,FALSE,Anda-Mihaela.Cirlan@petrom.com
+Anton.Panduru@petrom.com,SAML2,,Panduru Anton-Cristian (X01024026),PEDO-N Execution Onshore,FALSE,FALSE,Anton.Panduru@petrom.com
+Claudia.Paslariu@petrom.com,SAML2,,Paslariu Claudia (X01026255),PEDO-N Execution Onshore,FALSE,FALSE,Claudia.Paslariu@petrom.com
+CezarGabriel.Tiganasu@petrom.com,SAML2,,Tiganasu Cezar-Gabriel (X01026058),PEDO-N Execution Onshore,FALSE,FALSE,CezarGabriel.Tiganasu@petrom.com
+Ionut_Andrei.Radu@petrom.com,SAML2,,Radu Ionut-Andrei (X01024948),PEDON-K Key Projects,FALSE,FALSE,Ionut_Andrei.Radu@petrom.com
+Simona.Toader@petrom.com,SAML2,,Toader Simona (SIMONA21),PEDON-K Key Projects,FALSE,FALSE,Simona.Toader@petrom.com
+Elena.Uta@petrom.com,SAML2,,Uta Elena (X01013566),PEDON-K Key Projects,FALSE,FALSE,Elena.Uta@petrom.com
+Angela.Stefanescu@petrom.com,SAML2,,Stefanescu Angela (X01002079),PEDOS-P Project Services,FALSE,FALSE,Angela.Stefanescu@petrom.com
+Silviu.Man@petrom.com,SAML2,,Man Silviu (X01009245),PEDOS-S Subsurface Shared Services,FALSE,FALSE,Silviu.Man@petrom.com
+Anthony.Simpkins@petrom.com,SAML2,,Simpkins Anthony (ANTHONY1),PEDOS-S Subsurface Shared Services,FALSE,FALSE,Anthony.Simpkins@petrom.com
+Valentin.Savulescu@external.petrom.com,SAML2,,Savulescu Valentin (VALENTIN74),PED-R Reorganization,FALSE,FALSE,Valentin.Savulescu@external.petrom.com
+Carlo.Chiri@petrom.com,SAML2,,Chiri Carlo (X01025468),PEDWS-D Well Program Development,FALSE,FALSE,Carlo.Chiri@petrom.com
+Catalin-Adrian.Roman@petrom.com,SAML2,,Roman Catalin-Adrian (X01000682),PEDWS-D Well Program Development,FALSE,FALSE,Catalin-Adrian.Roman@petrom.com
+Irene.Dinu@petrom.com,SAML2,,Dinu Irene-Claudia (X01000584),PEE-P Portfolio & Performance,FALSE,FALSE,Irene.Dinu@petrom.com
+Emilia-Daniela.Stoica@petrom.com,SAML2,,Stoica Emilia-Daniela (X01000585),PEE-P Portfolio & Performance,FALSE,FALSE,Emilia-Daniela.Stoica@petrom.com
+GeorgetaAlina.Dima@petrom.com,SAML2,,Dima Georgeta-Alina (X01000527),PEEP-P Performance,FALSE,FALSE,GeorgetaAlina.Dima@petrom.com
+Razvan.Corbu@petrom.com,SAML2,,Corbu Razvan Florin (X01013107),PEE-R Reserves & Resources,FALSE,FALSE,Razvan.Corbu@petrom.com
+OctavianFlorin.Ghetu@omv.com,SAML2,,Ghetu Octavian-Florin (X01006021),PEE-T Technology & Innovation,FALSE,FALSE,OctavianFlorin.Ghetu@omv.com
+Ionut.Dragoi@petrom.com,SAML2,,Dragoi Ionut (X01006486),PEET-L Laboratory,FALSE,FALSE,Ionut.Dragoi@petrom.com
+Viorel.Felea@petrom.com,SAML2,,Felea Viorel-Theodor (X01008370),PEET-N New Technology,FALSE,FALSE,Viorel.Felea@petrom.com
+Thomas.Florian@omv.com,SAML2,,Florian Thomas (X451684),PEET-N New Technology,FALSE,FALSE,Thomas.Florian@omv.com
+Kurt.Huetter@omv.com,SAML2,,Hütter Kurt (X450246),PEET-N New Technology,FALSE,FALSE,Kurt.Huetter@omv.com
+Dan.Lobodan@petrom.com,SAML2,,Lobodan Dan (X01001298),PEET-N New Technology,FALSE,FALSE,Dan.Lobodan@petrom.com
+Marius.Camuescu@petrom.com,SAML2,,Camuescu Marius Adrian (X01013271),PEODP-1 Prod Sys Optim Asset Crisana,FALSE,FALSE,Marius.Camuescu@petrom.com
+Florin_Mihai.Rizea@petrom.com,SAML2,,Rizea Florin Mihai (X01006035),PEODP-10 Prod Sys Optim Asset Petromar,FALSE,FALSE,Florin_Mihai.Rizea@petrom.com
+Ion.Apostoiu1@petrom.com,SAML2,,Apostoiu Ion (X01010924),PEODP-2 Prod Sys Optim Asset Oltenia,FALSE,FALSE,Ion.Apostoiu1@petrom.com
+Nicolae.Stefan2@petrom.com,SAML2,,Stefan Nicolae (X01007286),PEODP-3 Prod Sys Optim Asset Valahia,FALSE,FALSE,Nicolae.Stefan2@petrom.com
+Ruxandra.Dick@petrom.com,SAML2,,Dick Ruxandra (X01007657),PEODP-7 Prod Sys Optim Asset Muntenia,FALSE,FALSE,Ruxandra.Dick@petrom.com
+Ion.Stoica@petrom.com,SAML2,,Stoica Ion (X01008414),PEODP-7 Prod Sys Optim Asset Muntenia,FALSE,FALSE,Ion.Stoica@petrom.com
+Emil.Panait@petrom.com,SAML2,,Panait Emil-Gheorghe (X01020120),PEODP-9 Prod Sys Optim Asset Moldova,FALSE,FALSE,Emil.Panait@petrom.com
+Felicia.Cirstian@petrom.com,SAML2,,Cirstian Felicia (X01010024),PEODW-C Completion & Well Integrity,FALSE,FALSE,Felicia.Cirstian@petrom.com
+Adrian.Tirliman@petrom.com,SAML2,,Tirliman Adrian (X01013919),PEODW-W Workover Management,FALSE,FALSE,Adrian.Tirliman@petrom.com
+ThomasRuben.Gieles@petrom.com,SAML2,,Gieles Thomas Ruben (X452110),PEO-P Partnerships & Int'l. Assets,FALSE,FALSE,ThomasRuben.Gieles@petrom.com
+Mihai.Branescu@petrom.com,SAML2,,Branescu Mihai (X01012860),PEOP-D Domestic NOVs and PECs,FALSE,FALSE,Mihai.Branescu@petrom.com
+Marinela.Haias@petrom.com,SAML2,,Haias Marinela (X01004353),PEOP-D Domestic NOVs and PECs,FALSE,FALSE,Marinela.Haias@petrom.com
+Laurentiu.Pavel@petrom.com,SAML2,,Pavel Laurentiu (X01006617),PEOP-D Domestic NOVs and PECs,FALSE,FALSE,Laurentiu.Pavel@petrom.com
+Gabriel.Petrache@petrom.com,SAML2,,Petrache Gabriel (X01001165),PEOP-D Domestic NOVs and PECs,FALSE,FALSE,Gabriel.Petrache@petrom.com
+Gabriela.Stoican@petrom.com,SAML2,,Stoican Gabriela (X01015911),PEOP-D Domestic NOVs and PECs,FALSE,FALSE,Gabriela.Stoican@petrom.com
+Manuela.Vindt@petrom.com,SAML2,,Vindt Manuela Corina (X01001056),PEOP-D Domestic NOVs and PECs,FALSE,FALSE,Manuela.Vindt@petrom.com
+Philip.Manning@omv.com,SAML2,,Manning Philip (PHILIP15),PEOP-UK OMV Petrom UK Branch,FALSE,FALSE,Philip.Manning@omv.com
+Octavian.Duta1@petrom.com,SAML2,,Duta Octavian (X01024886),PEOW7-A Rig Services Aninoasa,FALSE,FALSE,Octavian.Duta1@petrom.com
+Ewald.Stoecke@petrom.com,SAML2,,Stoecke Ewald (X01STOEWA),PEOW-T Technical Services,FALSE,FALSE,Ewald.Stoecke@petrom.com
+Aureliu.Sbarcea@petrom.com,SAML2,,Sbarcea Dan Aureliu (X01024255),PEOWT-E Equipment Engineering,FALSE,FALSE,Aureliu.Sbarcea@petrom.com
+Alina.Micu@petrom.com,SAML2,,Micu Alina (X01003512),PFC-P Project Cost Controlling DAD,FALSE,FALSE,Alina.Micu@petrom.com
+Catalina.Bonifate@petrom.com,SAML2,,Bonifate Catalina (X01016753),PFE-C E&P Controlling,FALSE,FALSE,Catalina.Bonifate@petrom.com
+Raluca.Cruceru@petrom.com,SAML2,,Cruceru Irina-Raluca (X01003379),PFE-C E&P Controlling,FALSE,FALSE,Raluca.Cruceru@petrom.com
+OanaCrinuta.Georgescu@petrom.com,SAML2,,Georgescu Oana Crinuta (X01015586),PFE-C E&P Controlling,FALSE,FALSE,OanaCrinuta.Georgescu@petrom.com
+Razvan.Malin@petrom.com,SAML2,,Malin Razvan (X903143),PFE-C E&P Controlling,FALSE,FALSE,Razvan.Malin@petrom.com
+Nicoleta.Mujescu@petrom.com,SAML2,,Mujescu Nicoleta (X01016018),PFE-C E&P Controlling,FALSE,FALSE,Nicoleta.Mujescu@petrom.com
+Petruta.Nastase@petrom.com,SAML2,,Nastase Petruta Lorena (X01001141),PFE-C E&P Controlling,FALSE,FALSE,Petruta.Nastase@petrom.com
+Teodor_Vladut.Nastase@petrom.com,SAML2,,Nastase Teodor-Vladut (X01022484),PFE-C E&P Controlling,FALSE,FALSE,Teodor_Vladut.Nastase@petrom.com
+Eglapie.Potoroaca@petrom.com,SAML2,,Potoroaca Eglapie (X01025538),PFE-C E&P Controlling,FALSE,FALSE,Eglapie.Potoroaca@petrom.com
+Mihaela.Raducanu@petrom.com,SAML2,,Raducanu Mihaela Gratiela (X01016000),PFE-C E&P Controlling,FALSE,FALSE,Mihaela.Raducanu@petrom.com
+Elena.Rotaru3@petrom.com,SAML2,,Rotaru Elena (X01019014),PFE-C E&P Controlling,FALSE,FALSE,Elena.Rotaru3@petrom.com
+Nicoleta.Savulescu@petrom.com,SAML2,,Savulescu Nicoleta Cristina (X01021852),PFE-C E&P Controlling,FALSE,FALSE,Nicoleta.Savulescu@petrom.com
+Daniela.Vladila@petrom.com,SAML2,,Vladila Daniela (X01015430),PFE-C E&P Controlling,FALSE,FALSE,Daniela.Vladila@petrom.com
+Elena.Matei4@petrom.com,SAML2,,Matei Elena (X01014962),PFE-E Economics & Planning,FALSE,FALSE,Elena.Matei4@petrom.com
+Zoltan.Sukosd@petrom.com,SAML2,,Sukosd Zoltan (X01022656),PFE-V Venture Finance & Accounting,FALSE,FALSE,Zoltan.Sukosd@petrom.com
+Nicoleta.Chis@petrom.com,SAML2,,Chis Nicoleta-Marinela (X01022493),PFEV-1 Finance Asset Crișana,FALSE,FALSE,Nicoleta.Chis@petrom.com
+Cristina.Matis@petrom.com,SAML2,,Matis Cristina (CRISTINA76),PFEV-1 Finance Asset Crișana,FALSE,FALSE,Cristina.Matis@petrom.com
+Stefan.Mehes1@petrom.com,SAML2,,Mehes Stefan (X01014441),PFEV-1 Finance Asset Crișana,FALSE,FALSE,Stefan.Mehes1@petrom.com
+AlinaSimona.Pop@petrom.com,SAML2,,Pop Alina Simona (X01010854),PFEV-1 Finance Asset Crișana,FALSE,FALSE,AlinaSimona.Pop@petrom.com
+Madalina.Chiriac@petrom.com,SAML2,,Chiriac Madalina (X01022492),PFEV-10 Finance Asset Petromar,FALSE,FALSE,Madalina.Chiriac@petrom.com
+CameliaMaria.Mihai@petrom.com,SAML2,,Mihai Maria Camelia (X01015872),PFEV-10 Finance Asset Petromar,FALSE,FALSE,CameliaMaria.Mihai@petrom.com
+TudorMihai.Pascale@petrom.com,SAML2,,Pascale Tudor-Mihai (X01026833),PFEV-10 Finance Asset Petromar,FALSE,FALSE,TudorMihai.Pascale@petrom.com
+Andrei.Ghergu@petrom.com,SAML2,,Ghergu Andrei (X01022561),PFEV-2 Finance Asset Oltenia,FALSE,FALSE,Andrei.Ghergu@petrom.com
+Tabita.Mogosanu@petrom.com,SAML2,,Mogosanu Tabita (X01015875),PFEV-2 Finance Asset Oltenia,FALSE,FALSE,Tabita.Mogosanu@petrom.com
+MariaAdriana.Palistan@petrom.com,SAML2,,Palistan Maria Adriana (X01015869),PFEV-2 Finance Asset Oltenia,FALSE,FALSE,MariaAdriana.Palistan@petrom.com
+Nicoleta.Vierita@petrom.com,SAML2,,Vierita Nicoleta (X01016011),PFEV-2 Finance Asset Oltenia,FALSE,FALSE,Nicoleta.Vierita@petrom.com
+Liliana.Despa@petrom.com,SAML2,,Despa Liliana (X01012582),PFEV-3 Finance Asset Valahia,FALSE,FALSE,Liliana.Despa@petrom.com
+Mihaela.Simionescu@petrom.com,SAML2,,Simionescu Bianca Mihaiela (X01007099),PFEV-3 Finance Asset Valahia,FALSE,FALSE,Mihaela.Simionescu@petrom.com
+Virginia.Trana@petrom.com,SAML2,,Trana Virginia (VIRGINIA2),PFEV-3 Finance Asset Valahia,FALSE,FALSE,Virginia.Trana@petrom.com
+Liliana-Ionica.Ivan@Petrom.Com,SAML2,,Ivan Liliana-Ionica (X01015881),PFEV-7 Finance Asset Muntenia,FALSE,FALSE,Liliana-Ionica.Ivan@Petrom.Com
+Tatiana.Prisnel@petrom.com,SAML2,,Prisnel Tatiana-Mirela (X01007916),PFEV-7 Finance Asset Muntenia,FALSE,FALSE,Tatiana.Prisnel@petrom.com
+Ionut.Apostol@petrom.com,SAML2,,Apostol Ionut (X01012183),PFEV-9 Finance Asset Moldova,FALSE,FALSE,Ionut.Apostol@petrom.com
+Mihaela.Dumitru@petrom.com,SAML2,,Dumitru Mihaela-Elena (X01010503),PFEV-9 Finance Asset Moldova,FALSE,FALSE,Mihaela.Dumitru@petrom.com
+Gerasel.Toma@petrom.com,SAML2,,Toma Gerasel (X01001437),PFEV-9 Finance Asset Moldova,FALSE,FALSE,Gerasel.Toma@petrom.com

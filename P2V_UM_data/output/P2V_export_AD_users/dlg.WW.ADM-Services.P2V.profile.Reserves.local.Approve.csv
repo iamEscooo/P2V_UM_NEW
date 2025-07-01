@@ -1,0 +1,10 @@
+﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
+Majeth Nasarene Majeth,NASARENE1,SAML2,,NASARENE1@ww.omv.com,nasarenem@sapura-omv.com, SapuraOMV 2MY1,,FALSE,
+German Michael,MICHAEL164,SAML2,,Michael.German@omv.com,Michael.German@omv.com,EOP-Z Subsurface Engineering NZ,,FALSE,
+Toma Nicoleta-Adriana,X01026454,SAML2,,NicoletaAdriana.Toma@omv.com,NicoletaAdriana.Toma@omv.com,EOM-V Asset Management MEA,,FALSE,
+Holmgard Tor Oskar Haukland,TOR001,SAML2,,TorOskar.Holmgard@omv.com,TorOskar.Holmgard@omv.com,EON-V Asset Management NO,,FALSE,
+Zar Hichem,HICHEM1,SAML2,,Hichem.Zar@omv.com,Hichem.Zar@omv.com,EOP-T Subsurface Engineering TN,,FALSE,
+Hendizadeh Hadi,X450133,SAML2,,Hadi.Hendizadeh@omv.com,Hadi.Hendizadeh@omv.com,EOM-V Asset Management MEA,,FALSE,
+Barbu Ionica,X01000651,SAML2,,Ionica.Barbu@petrom.com,Ionica.Barbu@petrom.com,PEE-R Reserves & Resources,,FALSE,
+Behrend Jens,X011450,SAML2,,Jens.Behrend@omv.com,Jens.Behrend@omv.com,EOP-A Subsurface Engineering AT,,FALSE,
+Khalfallah Fatma,XKHALFALLAH,SAML2,,fatma.khalfallah@omv.com,fatma.khalfallah@omv.com,EOL-V Asset Management LY,,FALSE,

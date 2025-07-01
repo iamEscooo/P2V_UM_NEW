@@ -1,0 +1,9 @@
+               >>>>>     WARNING     <<<<<
+The announced P2V maintenance window will start NOW
+Any open session will be stopped.
+
+Please save your work and logout from P2V to avoid any inconsistencies
+
+Thanks for you understanding
+
+Your P2V team

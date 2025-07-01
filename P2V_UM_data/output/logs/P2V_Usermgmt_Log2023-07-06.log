@@ -1,0 +1,18 @@
+﻿[2023-07-06 12:12:21] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-07-06 12:12:38] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2023-07-06 12:12:58] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync]
+[2023-07-06 12:16:50] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-07-06 12:19:04] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_AD_users]
+[2023-07-06 12:19:04] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\\Myusers.csv] deleted
+[2023-07-06 12:50:00] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-07-06 12:50:05] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2023-07-06 12:50:57] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-07-06 13:01:42] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-07-06 14:58:21] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_users]
+[2023-07-06 14:58:22] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\\Myusers.csv] deleted
+[2023-07-06 14:58:22] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\all_users.csv] deleted
+[2023-07-06 14:58:22] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\all_groups.csv] deleted
+[2023-07-06 14:58:22] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\all_user_groups.csv] deleted
+[2023-07-06 14:58:32] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\\P2V_DEMO-groups.csv] deleted
+[2023-07-06 14:58:49] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\\P2V_DEMO-users.csv] deleted
+[2023-07-06 23:23:59] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]

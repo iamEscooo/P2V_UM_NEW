@@ -1,0 +1,86 @@
+﻿[2024-02-20 13:13:29] - [INFO] [WW/adminx449222] started check_userprofile -xkey SHAHRAM2
+[2024-02-20 13:13:29] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-20 13:14:57] - [INFO] [WW/adminx449222] started P2V_super_sync -xkey SHAHRAM2 
+[2024-02-20 13:14:57] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync]
+[2024-02-20 13:16:41] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-02-20 13:59:01] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync-SEC2.ps1]
+[2024-02-20 14:32:00] - [INFO] user=WW/adminx449222,script=P2V_super_sync-SEC2.ps1,tenant=P2V_TRAINING,uid=798/Shahram.Pourmohammadi@external.omv.com,gid=/userworkgroups/10 /userworkgroups/54 /userworkgroups/274 /userworkgroups/334 /userworkgroups/82 /userworkgroups/85 /userworkgroups/50 /userworkgroups/276 /userworkgroups/432 /userworkgroups/58 /userworkgroups/72 /userworkgroups/57 /userworkgroups/75 /userworkgroups/77 /userworkgroups/346 /userworkgroups/48 /userworkgroups/86 /userworkgroups/144 /userworkgroups/25 /userworkgroups/37 /userworkgroups/20 /userworkgroups/353 /userworkgroups/131 /userworkgroups/376 /userworkgroups/381 /userworkgroups/344 /userworkgroups/395 /userworkgroups/394 /userworkgroups/391 /userworkgroups/385 /userworkgroups/389 /userworkgroups/313 /userworkgroups/329 /userworkgroups/320 /userworkgroups/349 /userworkgroups/339 /userworkgroups/321 /userworkgroups/297 /userworkgroups/316 /userworkgroups/328 /userworkgroups/501 /userworkgroups/492 /userworkgroups/500 /userworkgroups/491 /userworkgroups/462 /userworkgroups/444 /userworkgroups/450 /userworkgroups/493 /userworkgroups/387 /userworkgroups/490 /userworkgroups/388 /userworkgroups/380 /userworkgroups/480 /userworkgroups/494 /userworkgroups/486 /userworkgroups/478 /userworkgroups/233 /userworkgroups/103 /userworkgroups/237 /userworkgroups/251 /userworkgroups/227 /userworkgroups/235 /userworkgroups/232 /userworkgroups/240 /userworkgroups/241 /userworkgroups/236 /userworkgroups/249 /userworkgroups/202 /userworkgroups/204 /userworkgroups/197 /userworkgroups/199 /userworkgroups/230 /userworkgroups/229 /userworkgroups/205 /userworkgroups/200 /userworkgroups/234,add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add,[DONE]
+[2024-02-20 15:08:42] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey SHAHRAM2
+[2024-02-20 15:14:07] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-02-20 15:14:24] - [INFO] loading userlist from tenant P2V-PROD
+[2024-02-20 15:23:50] - [INFO] [WW/adminx449222] started P2V_lock_inactive_users 
+[2024-02-20 15:28:55] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync-SEC2.ps1]
+[2024-02-20 15:49:19] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey SHAHRAM2
+[2024-02-20 15:49:28] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-02-20 15:49:58] - [INFO] loading userlist from tenant P2V-PROD
+[2024-02-20 15:50:08] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-02-20 15:50:25] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-02-20 15:52:01] - [INFO] loading userlist from tenant P2V_TEST
+[2024-02-20 15:52:14] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-02-20 15:57:44] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey SHAHRAM2
+[2024-02-20 15:57:51] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-02-20 15:57:59] - [INFO] loading userlist from tenant P2V-PROD
+[2024-02-20 15:58:09] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-02-20 15:59:25] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-02-20 16:16:35] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey SHAHRAM2
+[2024-02-20 16:16:43] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-02-20 16:17:06] - [INFO] loading userlist from tenant P2V-PROD
+[2024-02-20 16:17:17] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-02-20 16:17:26] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-02-20 16:17:41] - [INFO] loading userlist from tenant P2V_TEST
+[2024-02-20 16:27:50] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-02-20 16:28:02] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-02-20 16:33:22] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey SHAHRAM2
+[2024-02-20 16:33:31] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-02-20 16:33:38] - [INFO] loading userlist from tenant P2V-PROD
+[2024-02-20 16:33:48] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-02-20 16:33:55] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-02-20 16:34:16] - [INFO] loading userlist from tenant P2V_TEST
+[2024-02-20 16:34:46] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-02-20 16:35:04] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-02-20 16:39:27] - [INFO] [WW/adminx449222] started P2V_lock_inactive_users 
+[2024-02-20 16:39:28] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_lock_inactive_users]
+[2024-02-20 16:39:37] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-02-20 16:50:15] - [INFO] user=WW/adminx449222,script=P2V_lock_inactive_users,tenant=P2V_UPDATE,uid=391/Bernhard.Windisch@omv.com/Windisch Bernhard (BERNHARD10) locked as user has not logged in for  days, [DONE]
+[2024-02-20 16:52:50] - [INFO] [WW/adminx449222] started P2V_lock_inactive_users 
+[2024-02-20 16:52:50] - [INFO] [WW/adminx449222] on [SOMVAT502676] started []
+[2024-02-20 16:52:55] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-02-20 17:04:29] - [INFO] [WW/adminx449222] started P2V_lock_inactive_users 
+[2024-02-20 17:04:29] - [INFO] [WW/adminx449222] on [SOMVAT502676] started []
+[2024-02-20 17:04:34] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-02-20 17:05:43] - [INFO] user=WW/adminx449222,script=,tenant=P2V_UPDATE,uid=754/Ion.Aninoiu@external.petrom.com/Aninoiu Ion (X01006406) deactivated as user never logged in, [DONE]
+[2024-02-20 17:05:44] - [INFO] user=WW/adminx449222,script=,tenant=P2V_UPDATE,uid=417/Heather.Baily@omv.com/Baily Heather (HEATHER4) deactivated as user never logged in, [DONE]
+[2024-02-20 17:06:26] - [INFO] user=WW/adminx449222,script=,tenant=P2V_UPDATE,uid=387/Viorel.Ionescu1@petrom.com/Ionescu Viorel (X01004087) locked as user has not logged in for  days, [DONE]
+[2024-02-20 17:06:27] - [INFO] user=WW/adminx449222,script=,tenant=P2V_UPDATE,uid=388/Simona.Toader@petrom.com/Toader Simona (SIMONA21) locked as user has not logged in for  days, [DONE]
+[2024-02-20 17:06:56] - [INFO] [WW/adminx449222] started check_P2V_user -xkey HEATHER4
+[2024-02-20 17:06:56] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2024-02-20 17:08:21] - [INFO] [WW/adminx449222] started P2V_lock_inactive_users 
+[2024-02-20 17:08:21] - [INFO] [WW/adminx449222] on [SOMVAT502676] started []
+[2024-02-20 17:08:25] - [INFO] loading userlist from tenant P2V-PROD
+[2024-02-20 17:10:07] - [INFO] [WW/adminx449222] started check_userprofile -xkey JOSE1
+[2024-02-20 17:10:07] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-20 17:10:27] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey JOSE1
+[2024-02-20 17:11:33] - [INFO] [WW/adminx449222] started check_userprofile -xkey JOSE1
+[2024-02-20 17:11:33] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-20 17:13:53] - [INFO] [WW/adminx449222] started check_userprofile -xkey SHAHRAM2
+[2024-02-20 17:13:53] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-21 13:30:08] - [INFO] [WW/adminx449222] started check_userprofile -xkey X446583
+[2024-02-21 13:30:08] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-21 13:31:19] - [INFO] [WW/adminx449222] started check_userprofile -xkey SIMON41
+[2024-02-21 13:31:19] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-21 13:33:27] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey SIMON41
+[2024-02-21 13:33:32] - [INFO] loading userlist from tenant P2V_TEST
+[2024-02-21 14:02:14] - [INFO] [WW/adminx449222] started check_userprofile -xkey HEGE1
+[2024-02-21 14:02:14] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-21 14:19:31] - [INFO] [WW/adminx449222] started check_userprofile -xkey RICHARD31
+[2024-02-21 14:19:31] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-21 14:21:28] - [INFO] [WW/adminx449222] started check_userprofile -xkey X449890
+[2024-02-21 14:21:28] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-21 14:26:09] - [INFO] [WW/adminx449222] started check_userprofile -xkey MONIKA2
+[2024-02-21 14:26:09] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-21 14:48:25] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync-SEC2.ps1]
+[2024-02-21 14:48:37] - [INFO] [WW/adminx449222] started check_userprofile -xkey HEGE1
+[2024-02-21 14:48:37] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-02-21 15:49:50] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-02-21 15:49:51] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-02-21 15:50:56] - [INFO] loading userlist from tenant P2V_TRAINING

@@ -1,0 +1,7 @@
+Name,Adgroup,allow,deny
+ADNOC-AE UmmLuluSarb All,papp.drms.AE.UmmLuluSarb.all,Z.BD.021.allow,Z.BD.021.deny
+ADNOC-AE Ghasha Confidential ,papp.drms.AE.GhashaConfidential,Z.BD.022.allow,Z.BD.022.deny
+Data Access PRMS,dlg.WW.ADM-Services.P2V.data.access.PRMS,data.access.PRMS.allow,data.access.PRMS.deny
+Data Access LCB,dlg.WW.ADM-Services.P2V.data.access.LCB,data.access.LCB.allow,data.access.LCB.deny
+Data Access GAS,dlg.WW.ADM-Services.P2V.data.access.ADJUSTMENT,data.access.GAS.allow,data.access.GAS.deny
+Data Access ADJUSTMENT,dlg.WW.ADM-Services.P2V.data.access.GAS,data.access.ADJUST.allow,data.access.ADJUST.deny

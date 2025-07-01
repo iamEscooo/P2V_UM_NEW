@@ -1,0 +1,3 @@
+Section,Method,Command,Arguments,Name,Description
+UPDATE Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502104.ww.omv.com/P2V_UPDATE,P2V_UPDATE,Version upgrades to be tested here
+PRODUCTION Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=http://ips-prod.ww.omv.com/P2V-PROD,P2V-PROD,!! PRODUCTION !!

@@ -1,0 +1,19 @@
+﻿[2023-11-24 08:54:47] - [INFO] [WW/adminx449222] started check_userprofile -xkey DAVID27
+[2023-11-24 08:54:47] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-11-24 08:56:25] - [INFO] [WW/adminx449222] started P2V_set_profiles 
+[2023-11-24 08:56:25] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_set_profiles]
+[2023-11-24 09:05:21] - [INFO] [WW/adminx449222] started P2V_calculate_groups_dependencies
+[2023-11-24 09:05:22] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_dependencies]
+[2023-11-24 09:06:47] - [INFO] [WW/adminx449222] started P2V_calculate_tmp_groups 
+[2023-11-24 09:09:02] - [INFO] [WW/adminx449222] started P2V_lock_inactive_users 
+[2023-11-24 09:09:02] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_lock_inactive_users]
+[2023-11-24 09:10:19] - [INFO] [WW/adminx449222] started P2V_export_AD_users 
+[2023-11-24 09:10:19] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_AD_users]
+[2023-11-24 09:10:19] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\sec 2.0P2V_SAMLusers_profiles_AUTO.csv] deleted
+[2023-11-24 09:11:58] - [INFO] [WW/adminx449222] started P2V_export_users
+[2023-11-24 09:11:58] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_users]
+[2023-11-24 09:11:58] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\all_users.csv] deleted
+[2023-11-24 09:11:58] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\all_groups.csv] deleted
+[2023-11-24 09:11:58] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\all_user_groups.csv] deleted
+[2023-11-24 09:12:08] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\\P2V_TRAINING-groups.csv] deleted
+[2023-11-24 09:12:33] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\\P2V_TRAINING-users.csv] deleted

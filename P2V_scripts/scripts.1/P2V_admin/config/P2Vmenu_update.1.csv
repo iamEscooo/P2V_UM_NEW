@@ -1,0 +1,4 @@
+Section,Method,Command,Arguments,Name,Description
+Plan2Value UPDATE Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-update.ww.omv.com/P2V_UPDATE,Planningspace UPDATE,Aucerna Planningspace P2V-UPDATE (ips-update)
+Plan2Value UPDATE Environment,powershell_inline,"Get-Process | Where-Object {$_.MainWindowTitle -ne """"} | stop-process",,EXIT,close menu
+Plan2Value UPDATE Environment,powershell_inline,"Get-Process | Where-Object {$_.MainWindowTitle -ne """"} | stop-process",,EXIT,closes all sessions and exit

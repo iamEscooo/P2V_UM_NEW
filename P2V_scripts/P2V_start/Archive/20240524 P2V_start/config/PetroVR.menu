@@ -1,0 +1,4 @@
+Section,Method,Command,Arguments,Name,Description
+PetroVR,cmd,"C:\Program Files\Quorum\PetroVR64\PetroVR.exe", ,PetroVR 64bit, PetroVR 2024 (v18.017)
+PetroVR,cmd,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe","-app=file:///C:/Program%20Files/Quorum/PetroVR64/Release%20Notes.pdf",Release Notes,PetroVR 2024 (v18.017) Release Notes
+EXIT,exit,exit,,EXIT,exit this menu

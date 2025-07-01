@@ -1,0 +1,12 @@
+﻿#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"372585","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.205.20","2021-07-19T08:08:55.313Z"
+"372584","PlanningSpace Economics","The user <ALEXEY6@ww.omv.com> has logged out.","ALEXEY6@ww.omv.com","User","Logout","ALEXEY6@ww.omv.com","TSOMVAT423006","2021-07-16T16:28:39.530Z"
+"372583","PlanningSpace Dataflow","The user <ALEXEY6@ww.omv.com> has logged out.","ALEXEY6@ww.omv.com","User","Logout","ALEXEY6@ww.omv.com","TSOMVAT423006","2021-07-16T16:28:39.510Z"
+"372582","PlanningSpace Economics","Updated regime <OMV Violine PSC 0.1 Joined revovery quarterly>.","OMV Violine PSC 0.1 Joined revovery quarterly","Regime","Updated","ALEXEY6@ww.omv.com","TSOMVAT423006","2021-07-16T15:36:51.017Z"
+"372581","PlanningSpace Economics","Updated regime <OMV Violine PSC 0.1 Joined revovery quarterly>.","OMV Violine PSC 0.1 Joined revovery quarterly","Regime","Updated","ALEXEY6@ww.omv.com","TSOMVAT423006","2021-07-16T15:07:47.447Z"
+"372580","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.205.21","2021-07-16T13:26:55.343Z"
+"372579","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.205.20","2021-07-16T12:53:12.100Z"
+"372578","PlanningSpace Economics","The user <ALEXEY6@ww.omv.com> has logged in. ","ALEXEY6@ww.omv.com","User","Login","ALEXEY6@ww.omv.com","TSOMVAT423006","2021-07-16T12:06:30.710Z"
+"372577","PlanningSpace Dataflow","The user <ALEXEY6@ww.omv.com> has logged in. ","ALEXEY6@ww.omv.com","User","Login","ALEXEY6@ww.omv.com","TSOMVAT423006","2021-07-16T12:02:34.607Z"
+"372576","PlanningSpace","The user [ALEXEY6@ww.omv.com] has logged in.","ALEXEY6@ww.omv.com","User","Login","ALEXEY6@ww.omv.com","10.12.205.20","2021-07-16T12:02:27.903Z"

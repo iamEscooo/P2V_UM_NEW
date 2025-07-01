@@ -1,0 +1,3858 @@
+﻿[
+    {
+        "displayprofile":  "[BD] Deny",
+        "profile":  "",
+        "groups":  "",
+        "Ptype":  "",
+        "type":  "",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[ADD] Auditor",
+        "profile":  "Auditor",
+        "groups":  "Auditor",
+        "Ptype":  "[ADDON]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[BD] Deny",
+        "profile":  "BD.deny",
+        "groups":  "bd.001.deny",
+        "Ptype":  "[BD]",
+        "type":  "BD",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[BD] Deny",
+        "profile":  "BD.deny",
+        "groups":  "bd.002.deny",
+        "Ptype":  "[BD]",
+        "type":  "BD",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Arab Emirates",
+        "profile":  "data.ArabEmirates",
+        "groups":  "data.ArabEmirates",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Arab Emirates - ECO",
+        "profile":  "data.ArabEmirates.Economics",
+        "groups":  "data.ArabEmirates.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Arab Emirates - FIN",
+        "profile":  "data.ArabEmirates.Finance",
+        "groups":  "data.ArabEmirates.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Arab Emirates - KEY",
+        "profile":  "data.ArabEmirates.key",
+        "groups":  "data.ArabEmirates.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Australia",
+        "profile":  "data.Australia",
+        "groups":  "data.Australia",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Australia - ECO",
+        "profile":  "data.Australia.Economics",
+        "groups":  "data.Australia.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Australia - FIN",
+        "profile":  "data.Australia.Finance",
+        "groups":  "data.Australia.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Australia - KEY",
+        "profile":  "data.Australia.key",
+        "groups":  "data.Australia.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Austria",
+        "profile":  "data.Austria",
+        "groups":  "data.Austria",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Austria - ECO",
+        "profile":  "data.Austria.Economics",
+        "groups":  "data.Austria.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Austria - FIN",
+        "profile":  "data.Austria.Finance",
+        "groups":  "data.Austria.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Austria - KEY",
+        "profile":  "data.Austria.key",
+        "groups":  "data.Austria.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Bulgaria",
+        "profile":  "data.Bulgaria",
+        "groups":  "data.Bulgaria",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Bulgaria - ECO",
+        "profile":  "data.Bulgaria.Economics",
+        "groups":  "data.Bulgaria.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Bulgaria - FIN",
+        "profile":  "data.Bulgaria.Finance",
+        "groups":  "data.Bulgaria.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Bulgaria - KEY",
+        "profile":  "data.Bulgaria.key",
+        "groups":  "data.Bulgaria.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Corporate",
+        "profile":  "data.Corporate",
+        "groups":  "data.Corporate",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Corporate - ECO",
+        "profile":  "data.Corporate.Economics",
+        "groups":  "data.Corporate.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Corporate - FIN",
+        "profile":  "data.Corporate.Finance",
+        "groups":  "data.Corporate.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Corporate - KEY",
+        "profile":  "data.Corporate.key",
+        "groups":  "data.Corporate.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Georgia",
+        "profile":  "data.Georgia",
+        "groups":  "data.Georgia",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Georgia - ECO",
+        "profile":  "data.Georgia.Economics",
+        "groups":  "data.Georgia.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Georgia - FIN",
+        "profile":  "data.Georgia.Finance",
+        "groups":  "data.Georgia.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Georgia - KEY",
+        "profile":  "data.Georgia.key",
+        "groups":  "data.Georgia.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Kurdistan",
+        "profile":  "data.Kurdistan",
+        "groups":  "data.Kurdistan",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Kurdistan - ECO",
+        "profile":  "data.Kurdistan.Economics",
+        "groups":  "data.Kurdistan.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Kurdistan - FIN",
+        "profile":  "data.Kurdistan.Finance",
+        "groups":  "data.Kurdistan.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Kurdistan - KEY",
+        "profile":  "data.Kurdistan.key",
+        "groups":  "data.Kurdistan.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Libya",
+        "profile":  "data.Libya",
+        "groups":  "data.Libya",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Libya - ECO",
+        "profile":  "data.Libya.Economics",
+        "groups":  "data.Libya.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Libya - FIN",
+        "profile":  "data.Libya.Finance",
+        "groups":  "data.Libya.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Libya - KEY",
+        "profile":  "data.Libya.key",
+        "groups":  "data.Libya.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Malaysia",
+        "profile":  "data.Malaysia",
+        "groups":  "data.Malaysia",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Malaysia - ECO",
+        "profile":  "data.Malaysia.Economics",
+        "groups":  "data.Malaysia.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Malaysia - FIN",
+        "profile":  "data.Malaysia.Finance",
+        "groups":  "data.Malaysia.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Malaysia - KEY",
+        "profile":  "data.Malaysia.key",
+        "groups":  "data.Malaysia.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Mexico",
+        "profile":  "data.Mexico",
+        "groups":  "data.Mexico",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Mexico - ECO",
+        "profile":  "data.Mexico.Economics",
+        "groups":  "data.Mexico.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Mexico - FIN",
+        "profile":  "data.Mexico.Finance",
+        "groups":  "data.Mexico.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Mexico - KEY",
+        "profile":  "data.Mexico.key",
+        "groups":  "data.Mexico.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - New Zealand",
+        "profile":  "data.NewZealand",
+        "groups":  "data.NewZealand",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - New Zealand - ECO",
+        "profile":  "data.NewZealand.Economics",
+        "groups":  "data.NewZealand.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - New Zealand - FIN",
+        "profile":  "data.NewZealand.Finance",
+        "groups":  "data.NewZealand.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - New Zealand - KEY",
+        "profile":  "data.NewZealand.key",
+        "groups":  "data.NewZealand.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Norway",
+        "profile":  "data.Norway",
+        "groups":  "data.Norway",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Norway - ECO",
+        "profile":  "data.Norway.Economics",
+        "groups":  "data.Norway.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Norway - FIN",
+        "profile":  "data.Norway.Finance",
+        "groups":  "data.Norway.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Norway - KEY",
+        "profile":  "data.Norway.key",
+        "groups":  "data.Norway.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Romania",
+        "profile":  "data.Romania",
+        "groups":  "data.Romania",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Romania - ECO",
+        "profile":  "data.Romania.Economics",
+        "groups":  "data.Romania.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Romania - FIN",
+        "profile":  "data.Romania.Finance",
+        "groups":  "data.Romania.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Romania - KEY",
+        "profile":  "data.Romania.key",
+        "groups":  "data.Romania.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Russia",
+        "profile":  "data.Russia",
+        "groups":  "data.Russia",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Russia - ECO",
+        "profile":  "data.Russia.Economics",
+        "groups":  "data.Russia.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Russia - FIN",
+        "profile":  "data.Russia.Finance",
+        "groups":  "data.Russia.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Russia - KEY",
+        "profile":  "data.Russia.key",
+        "groups":  "data.Russia.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Sapura - Australia",
+        "profile":  "data.Sapura.Australia",
+        "groups":  "data.Sapura.Australia",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Sapura - Australia - ECO",
+        "profile":  "data.Sapura.Australia.Economics",
+        "groups":  "data.Sapura.Australia.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Sapura - Australia - FIN",
+        "profile":  "data.Sapura.Australia.Finance",
+        "groups":  "data.Sapura.Australia.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Sapura - Australia - KEY",
+        "profile":  "data.Sapura.Australia.key",
+        "groups":  "data.Sapura.Australia.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Sapura - New Zealand",
+        "profile":  "data.Sapura.NewZealand",
+        "groups":  "data.Sapura.NewZealand",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Sapura - New Zealand - ECO",
+        "profile":  "data.Sapura.NewZealand.Economics",
+        "groups":  "data.Sapura.NewZealand.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Sapura - New Zealand - FIN",
+        "profile":  "data.Sapura.NewZealand.Finance",
+        "groups":  "data.Sapura.NewZealand.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Sapura - New Zealand - KEY",
+        "profile":  "data.Sapura.NewZealand.key",
+        "groups":  "data.Sapura.NewZealand.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Tunisia",
+        "profile":  "data.Tunisia",
+        "groups":  "data.Tunisia",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Tunisia - ECO",
+        "profile":  "data.Tunisia.Economics",
+        "groups":  "data.Tunisia.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Tunisia - FIN",
+        "profile":  "data.Tunisia.Finance",
+        "groups":  "data.Tunisia.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Tunisia - KEY",
+        "profile":  "data.Tunisia.key",
+        "groups":  "data.Tunisia.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Yemen",
+        "profile":  "data.Yemen",
+        "groups":  "data.Yemen",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Yemen - ECO",
+        "profile":  "data.Yemen.Economics",
+        "groups":  "data.Yemen.Economics",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Yemen - FIN",
+        "profile":  "data.Yemen.Finance",
+        "groups":  "data.Yemen.Finance",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[DATA] - Yemen - KEY",
+        "profile":  "data.Yemen.key",
+        "groups":  "data.Yemen.key",
+        "Ptype":  "[DATA]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[ADD] Documents.unlock",
+        "profile":  "Dataflow.unlock",
+        "groups":  "Objects.unlock",
+        "Ptype":  "[ADDON]",
+        "type":  "DataFlow",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[ADD] Developer",
+        "profile":  "Developer",
+        "groups":  "Developer",
+        "Ptype":  "[ADDON]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[ADD] Economics.Regimes",
+        "profile":  "Economics.Regimes",
+        "groups":  "Economics.regimes",
+        "Ptype":  "[ADDON]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[ADD] Economics.unlock",
+        "profile":  "Economics.unlock",
+        "groups":  "Economics.unlock",
+        "Ptype":  "[ADDON]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[ADD] Financials.Regimes",
+        "profile":  "Finance.Regimes",
+        "groups":  "Financials.regimes",
+        "Ptype":  "[ADDON]",
+        "type":  "Financials",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[ADD] Financials.unlock",
+        "profile":  "Financials.unlock",
+        "groups":  "Financials.unlock",
+        "Ptype":  "[ADDON]",
+        "type":  "Financials",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[ADD] P2V.admin",
+        "profile":  "P2V.admin",
+        "groups":  "P2V.admin",
+        "Ptype":  "[ADDON]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[ADD] PetroVR",
+        "profile":  "PetroVR",
+        "groups":  "PetroVR",
+        "Ptype":  "[ADDON]",
+        "type":  "PetroVR",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "DataFlow.key",
+        "Ptype":  "[Profile]",
+        "type":  "DataFlow",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "Input.Confirm",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "Economics.key",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "Financials.key",
+        "Ptype":  "[Profile]",
+        "type":  "Financials",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "Reserves.Administrator",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "Reserves.key",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "profile.Admin.Developer",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Developer",
+        "profile":  "profile.Admin.Developer",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Input.Confirm",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "profile.Admin.Headoffice",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Financials.power",
+        "Ptype":  "[Profile]",
+        "type":  "Financials",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Economics.key",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "DataFlow.power",
+        "Ptype":  "[Profile]",
+        "type":  "DataFlow",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Economics.power",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Financials.key",
+        "Ptype":  "[Profile]",
+        "type":  "Financials",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Economics.regimes",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "temp.adjust.fin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "temp.adjust.ecoresults",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "temp.adjust.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "temp.economics",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "temp.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "temp.adjust.eco",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Reserves.Administrator",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Reserves.key",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "temp.adjust.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "Reserves.power",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "temp.ecoresults",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "User.admin",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "DataFlow.key",
+        "Ptype":  "[Profile]",
+        "type":  "DataFlow",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "temp.financials",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Admin.Headoffice",
+        "profile":  "profile.Admin.Headoffice",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "temp.adjust.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "temp.adjust.eco",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "temp.adjust.ecoresults",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "temp.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "data.Everyone.economics",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "temp.ecoresults",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "temp.financials.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "Economics.key",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "Economics.power",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "profile.Economics.Headoffice",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "temp.adjust.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "Economics.regimes",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.Headoffice",
+        "profile":  "profile.Economics.Headoffice",
+        "groups":  "temp.economics",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "Economics.Regimes.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "Economics.key",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "data.Everyone.economics",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "profile.Economics.local",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "temp.financials.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "temp.adjust.ecoresults",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "temp.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "temp.adjust.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "temp.adjust.eco",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "temp.ecoresults",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "temp.adjust.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "temp.economics",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Economics.local",
+        "profile":  "profile.Economics.local",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "temp.adjust.fin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "temp.adjust.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "profile.Finance.Headoffice",
+        "Ptype":  "[Profile]",
+        "type":  "Financials",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "temp.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "temp.financials",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "Financials.key",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "Financials.power",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "Financials",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "temp.adjust.ecoresults",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "temp.adjust.eco",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Headoffice",
+        "profile":  "profile.Finance.Headoffice",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "profile.Finance.local",
+        "Ptype":  "[Profile]",
+        "type":  "Financials",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "temp.adjust.fin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "temp.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "temp.adjust.ecoresults",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "Financials.key",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "temp.adjust.eco",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.local",
+        "profile":  "profile.Finance.local",
+        "groups":  "temp.financials",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Regimes",
+        "profile":  "profile.Finance.Regimes",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Finance.Regimes",
+        "profile":  "profile.Finance.Regimes",
+        "groups":  "profile.Finance.Regimes",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "license.light",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "profile.LightUser.Headoffice",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "temp.adjust.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "temp.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "temp.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.Headoffice",
+        "profile":  "profile.LightUser.Headoffice",
+        "groups":  "temp.financials.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "profile.LightUser.local",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "license.light",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "temp.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "temp.financials.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "temp.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.LightUser.local",
+        "profile":  "profile.LightUser.local",
+        "groups":  "temp.adjust.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PetroVR",
+        "profile":  "profile.PetroVR",
+        "groups":  "PetroVR",
+        "Ptype":  "[Profile]",
+        "type":  "PetroVR",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PetroVR",
+        "profile":  "profile.PetroVR",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PetroVR",
+        "profile":  "profile.PetroVR",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PetroVR",
+        "profile":  "profile.PetroVR",
+        "groups":  "profile.PetroVR",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "profile.PP.Headoffice",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "temp.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "DataFlow.key",
+        "Ptype":  "[Profile]",
+        "type":  "DataFlow",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "temp.adjust.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "Economics.key",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "temp.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "temp.financials.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice",
+        "profile":  "profile.PP.Headoffice",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "temp.adjust.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "temp.financials.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "temp.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "temp.adjust.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "DataFlow.key",
+        "Ptype":  "[Profile]",
+        "type":  "DataFlow",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "profile.PP.Headoffice.Power",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "DataFlow.power",
+        "Ptype":  "[Profile]",
+        "type":  "DataFlow",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "Economics.key",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.Headoffice.Power",
+        "profile":  "profile.PP.Headoffice.Power",
+        "groups":  "temp.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "profile.PP.local",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "temp.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "temp.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "Input.Confirm",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "temp.adjust.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "DataFlow.key",
+        "Ptype":  "[Profile]",
+        "type":  "DataFlow",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "temp.adjust.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "temp.financials.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.PP.local",
+        "profile":  "profile.PP.local",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "temp.adjust.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "temp.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "license.light",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "Input.Confirm",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "profile.Projectmanager",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "temp.financials.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Projectmanager",
+        "profile":  "profile.Projectmanager",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice",
+        "profile":  "profile.Reserves.Headoffice",
+        "groups":  "profile.Reserves.Headoffice",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice",
+        "profile":  "profile.Reserves.Headoffice",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "profile.Reserves.Headoffice.Approve",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "license.light",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "temp.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "Reserves.key",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "Input.Approve",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "data.Corporate",
+        "Ptype":  "[Profile]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "temp.financials.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "temp.adjust.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "Reserves.Approver.ho",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Approve",
+        "profile":  "profile.Reserves.Headoffice.Approve",
+        "groups":  "temp.adjust.fin.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "temp.adjust.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "temp.financials.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "temp.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "data.Corporate",
+        "Ptype":  "[Profile]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "DataFlow.key",
+        "Ptype":  "[Profile]",
+        "type":  "DataFlow",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "Reserves.power",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "Reserves.Administrator",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "profile.Reserves.Headoffice.Power",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.Headoffice.Power",
+        "profile":  "profile.Reserves.Headoffice.Power",
+        "groups":  "Reserves.key",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "license.light",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "profile.Reserves.local.Approve",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "Input.Approve",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "temp.financials.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "data.Corporate",
+        "Ptype":  "[Profile]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "temp.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "temp.adjust.fin.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "temp.adjust.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "Reserves.Approver.bo",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.Approve",
+        "profile":  "profile.Reserves.local.Approve",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "temp.adjust.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "temp.adjust.fin.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "Input.Confirm",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "temp.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "temp.financials.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "profile.Reserves.local.QRE",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "Reserves.Submitter",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.local.QRE",
+        "profile":  "profile.Reserves.local.QRE",
+        "groups":  "Reserves.key",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "profile.Reserves.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "license.light",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "data.Corporate",
+        "Ptype":  "[Profile]",
+        "type":  "DATA",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "temp.ecoresults.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "temp.financials.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "temp.adjust.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "temp.adjust.fin.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Reserves.readonly",
+        "profile":  "profile.Reserves.readonly",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "profile.Resources.Headoffice",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "Input.Confirm",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "temp.adjust.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "license.light",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "temp.financials.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.Headoffice",
+        "profile":  "profile.Resources.Headoffice",
+        "groups":  "temp.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "temp.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "profile.Resources.local",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "temp.adjust.ecoresults.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "Input.Confirm",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "license.light",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Resources.local",
+        "profile":  "profile.Resources.local",
+        "groups":  "temp.financials.deny",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "temp.adjust.fin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "temp.adjust.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "temp.adjust.ecoresults",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "temp.adjust.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "temp.adjust.eco",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "temp.financials",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "temp.input",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "temp.ecoresults",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "temp.admin",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "temp.economics",
+        "Ptype":  "[Profile]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "Reserves.key",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "license.heavy",
+        "Ptype":  "[Profile]",
+        "type":  "License",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "P2V.base",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "Input.Confirm",
+        "Ptype":  "[Profile]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "Economics.key",
+        "Ptype":  "[Profile]",
+        "type":  "Economics",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "Financials.key",
+        "Ptype":  "[Profile]",
+        "type":  "Financials",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "Reserves.base",
+        "Ptype":  "[Profile]",
+        "type":  "Reserves",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "DataFlow.key",
+        "Ptype":  "[Profile]",
+        "type":  "DataFlow",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "Reporting",
+        "Ptype":  "[Profile]",
+        "type":  "API",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "Portfolio",
+        "Ptype":  "[Profile]",
+        "type":  "Portfolio",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "profile.Student.local",
+        "profile":  "profile.Student.local",
+        "groups":  "profile.Student.local",
+        "Ptype":  "[Profile]",
+        "type":  "PROFILE",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[ADD] User administration",
+        "profile":  "User.admin",
+        "groups":  "User.admin",
+        "Ptype":  "[ADDON]",
+        "type":  "General",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] readonly",
+        "profile":  "x",
+        "groups":  "temp.ecoresults.readonly",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] readonly",
+        "profile":  "x",
+        "groups":  "temp.financials.readonly",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] deny",
+        "profile":  "x",
+        "groups":  "temp.ecoresults.deny",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] readonly",
+        "profile":  "x",
+        "groups":  "temp.economics.readonly",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] readonly",
+        "profile":  "x",
+        "groups":  "temp.adjust.fin.readonly",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] readonly",
+        "profile":  "x",
+        "groups":  "temp.adjust.input.readonly",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] readonly",
+        "profile":  "x",
+        "groups":  "temp.admin.readonly",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] deny",
+        "profile":  "x",
+        "groups":  "temp.economics.deny",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] deny",
+        "profile":  "x",
+        "groups":  "temp.adjust.eco.deny",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] deny",
+        "profile":  "x",
+        "groups":  "temp.adjust.admin.deny",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] readonly",
+        "profile":  "x",
+        "groups":  "temp.input.readonly",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] deny",
+        "profile":  "x",
+        "groups":  "temp.adjust.ecoresults.deny",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] deny",
+        "profile":  "x",
+        "groups":  "temp.admin.deny",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] deny",
+        "profile":  "x",
+        "groups":  "temp.adjust.input.deny",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] deny",
+        "profile":  "x",
+        "groups":  "temp.adjust.fin.deny",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] fullaccess",
+        "profile":  "x",
+        "groups":  "temp.adjust.ecoresults",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] fullaccess",
+        "profile":  "x",
+        "groups":  "temp.adjust.fin",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] fullaccess",
+        "profile":  "x",
+        "groups":  "temp.adjust.input",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] fullaccess",
+        "profile":  "x",
+        "groups":  "temp.adjust.eco",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] deny",
+        "profile":  "x",
+        "groups":  "temp.financials.deny",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] deny",
+        "profile":  "x",
+        "groups":  "temp.input.deny",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] fullaccess",
+        "profile":  "x",
+        "groups":  "temp.adjust.admin",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] fullaccess",
+        "profile":  "x",
+        "groups":  "temp.admin",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] readonly",
+        "profile":  "x",
+        "groups":  "temp.adjust.admin.readonly",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] readonly",
+        "profile":  "x",
+        "groups":  "temp.adjust.eco.readonly",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] readonly",
+        "profile":  "x",
+        "groups":  "temp.adjust.ecoresults.readonly",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] fullaccess",
+        "profile":  "x",
+        "groups":  "temp.input",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] fullaccess",
+        "profile":  "x",
+        "groups":  "temp.economics",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] fullaccess",
+        "profile":  "x",
+        "groups":  "temp.ecoresults",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    },
+    {
+        "displayprofile":  "[TEMPLATE] fullaccess",
+        "profile":  "x",
+        "groups":  "temp.financials",
+        "Ptype":  "[Templates]",
+        "type":  "Template",
+        "lic":  ""
+    }
+]

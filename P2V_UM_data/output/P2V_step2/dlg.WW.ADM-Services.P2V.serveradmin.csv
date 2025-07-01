@@ -1,0 +1,8 @@
+ADgroup,category,PSgroup,xkey,LogonId,DisplayName,Description,EmailAddress,UPN
+dlg.WW.ADM-Services.P2V.serveradmin,SYSTEM,Everyone,adminbill05,adminbill05@ww.omv.com,Obreiter Bill (adminbill05),EETE-P Petrotechnical AppStore,,adminbill05@ww.omv.com
+dlg.WW.ADM-Services.P2V.serveradmin,SYSTEM,Everyone,s.at.p2vmonitoring,svc.ww.at.p2vmonitoring@ww.omv.com,  (s.at.p2vmonitoring),,,svc.ww.at.p2vmonitoring@ww.omv.com
+dlg.WW.ADM-Services.P2V.serveradmin,SYSTEM,Everyone,adminemanuel15,adminemanuel15@ww.omv.com,Tenghea Emanuel (adminemanuel15),EETE-P Petrotechnical AppStore,,adminemanuel15@ww.omv.com
+dlg.WW.ADM-Services.P2V.serveradmin,SYSTEM,Everyone,adminarun05,adminarun05@ww.omv.com,Shaw Arun (adminarun05),EETE-P Petrotechnical AppStore,,adminarun05@ww.omv.com
+dlg.WW.ADM-Services.P2V.serveradmin,SYSTEM,Everyone,adminx449222,adminx449222@ww.omv.com,Kufner Martin (adminx449222),EETE-P Petrotechnical AppStore,,adminx449222@ww.omv.com
+dlg.WW.ADM-Services.P2V.serveradmin,SYSTEM,Everyone,adminadrian75,adminadrian75@ww.omv.com,Ivanciu Adrian-Mihail (adminadrian75),EETEU-U Surface DDAM,,adminadrian75@ww.omv.com
+dlg.WW.ADM-Services.P2V.serveradmin,SYSTEM,Everyone,adminalbucr,adminalbucr@ww.omv.com,Albu Constantin - Cristian (adminalbucr),FTIPPP-C Compute & Storage Design,,adminalbucr@ww.omv.com

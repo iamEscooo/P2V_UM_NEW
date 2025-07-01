@@ -1,0 +1,6 @@
+Name,Login ID,Authentication method,Domain,Email,Description,Expiry date,Locked
+Payer-Moser Andrea,ANDREA7,WINDOWS_AD,ww,Andrea.Payer-Moser@omv.com,EP R Reserves Assurance,,FALSE,
+Moza Corina,CORINA9,WINDOWS_AD,ww,Corina.Moza@omv.com,EFC O Operational Controlling,,FALSE,
+Danek Susanne,X370957,WINDOWS_AD,ww,Susanne.Danek@omv.com,ETX S Exploration Appr,,FALSE,
+Astl Christian,X430454,WINDOWS_AD,ww,Christian.Astl@omv.com,EP S Performance   Services,,FALSE,
+Eder Thomas,X446583,WINDOWS_AD,ww,Thomas.Eder@omv.com,ETX V Exploration Ventures,,FALSE,

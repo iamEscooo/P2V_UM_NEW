@@ -1,0 +1,63 @@
+LogonId,authenticationMethod,Domain,DisplayName,Description,IsDeactivated,IsAccountLocked
+norshafarina.abdul@sapura-omv.com,SAML2,,Abdul Rahman Norshafarina, SapuraOMV 2MY1,FALSE,FALSE
+CristianNicolae.Balan@petrom.com,SAML2,,Balan Cristian-Nicolae,PEPP-A Portfolio Analysis & Planning,FALSE,FALSE
+Franz.Bauer@omv.com,SAML2,,Bauer Franz,PEPP-A Portfolio Analysis & Planning,FALSE,FALSE
+Enikoe.Bencsik@omv.com,SAML2,,Bencsik Enikö,FE-C Controlling,FALSE,FALSE
+Christian.Blecha@omv.com,SAML2,,Blecha Christian,EEP-P Portfolio,FALSE,FALSE
+Hamish.Bracegirdle@omv.com,SAML2,,Bracegirdle Hamish,EFA-C Controlling,FALSE,FALSE
+Marco.Bresciani@omv.com,SAML2,,Bresciani Marco,EF-N Finance NOS,FALSE,FALSE
+Lewis.Brock@omv.com,SAML2,,Brock Lewis,EEP-A Perf. Portf. & Planning AA,FALSE,FALSE
+Lars.Bruset@omv.com,SAML2,,Bruset Lars,EF-N Finance NOS,FALSE,FALSE
+Razvan.Bulgariu@omv.com,SAML2,,Bulgariu Razvan,EEP-P Portfolio,FALSE,FALSE
+Loredana.Bunescu@petrom.com,SAML2,,Bunescu Florina,PEPP-A Portfolio Analysis & Planning,FALSE,FALSE
+Roxana.Catu-Sascioreanu@petrom.com,SAML2,,Catu-Sascioreanu Roxana,PFE-F Project Finance & Economics,FALSE,FALSE
+alexandru.chiru@omv.com,SAML2,,Chiru Alexandru,PFE-O Upstream Controlling,FALSE,FALSE
+Valentina.Chitu@petrom.com,SAML2,,Chitu Maria Valentina,PEPP-A Portfolio Analysis & Planning,FALSE,FALSE
+Madalina.CoadaPetre@omv.com,SAML2,,Coada-Petre Madalina,EEP-N Perf. Portf. & Planning NOS,FALSE,FALSE
+Sandra.Culjak@omv.com,SAML2,,Culjak Sandra,FEC-O Operational Contr. & Budgeting,FALSE,FALSE
+Malek.Derbal@omv.com,SAML2,,Derbal Malek,FEFMT-C Controlling,FALSE,FALSE
+Irene.Dinu@petrom.com,SAML2,,Dinu Irene-Claudia,PEPP-A Portfolio Analysis & Planning,FALSE,FALSE
+Josef.Donner@omv.com,SAML2,,Donner Josef,EF-V Finance A & Venture Mgmt,FALSE,FALSE
+nadzri.drahman@sapura-omv.com,SAML2,,Drahman Ahmad Nadzri, SapuraOMV 2MY1,FALSE,FALSE
+hisham.dukaly@omv.com,SAML2,,Dukaly Hisham,FEF-L Finance Libya,FALSE,FALSE
+Gabriela-Georgeta.Duta@petrom.com,SAML2,,Duta Gabriela-Georgeta,PFE-F Project Finance & Economics,FALSE,FALSE
+Susan.Ellis@omv.com,SAML2,,Ellis Susan,FE-E Economics & Planning,FALSE,FALSE
+Elena.Ene@petrom.com,SAML2,,Ene Elena,PFE-F Project Finance & Economics,FALSE,FALSE
+DanielaAurelia.File@petrom.com,SAML2,,File Daniela Aurelia,PFE-F Project Finance & Economics,FALSE,FALSE
+Sam.Fisher@omv.com,SAML2,,Fisher Samuel,EF-A Finance AA,FALSE,FALSE
+Michael.German@omv.com,SAML2,,German Michael,EAXR-G GeosciencePetroph & Dev Eng,FALSE,FALSE
+hanitah@sapura-omv.com,SAML2,,Hanafi Hanita, SapuraOMV 2MY1,FALSE,FALSE
+farah.harith@sapura-omv.com,SAML2,,Harith Farah, SapuraOMV 2MY1,FALSE,FALSE
+khwajah.basem@omv.com,SAML2,,Hasan Khawaja Basem,FEE-D Economics & Planning - Dev.,FALSE,FALSE
+Fida.Hussain@omv.com,SAML2,,Hussain Fida,FEE-O Economics & Planning - Ops.,FALSE,FALSE
+Bex.Hutchinson@omv.com,SAML2,,Hutchinson Bex,EFA-C Controlling,FALSE,FALSE
+Christine.Kirchgasser@omv.com,SAML2,,Kirchgasser Christine,EFN-C Controlling NOS,FALSE,FALSE
+Richard.Kwon@omv.com,SAML2,,Kwon Richard,FEE-D Economics & Planning - Dev.,FALSE,FALSE
+hllee@sapura-omv.com,SAML2,,Leng Lee Hung, SapuraOMV 2MY1,FALSE,FALSE
+Jan.Mayer@omv.com,SAML2,,Mayer Jan,EEP-P Portfolio,FALSE,FALSE
+sam.moaganasundram@sapura-omv.com,SAML2,,Moaganasundram Samyukutha, SapuraOMV 2MY1,FALSE,FALSE
+nadiha.johari@sapura-omv.com,SAML2,,Mohd Al Johari Siti Nadiha, SapuraOMV 2MY1,FALSE,FALSE
+Nicoleta.Mujescu@petrom.com,SAML2,,Mujescu Nicoleta,PFE-B Accounting&Venture Management,FALSE,FALSE
+Teodor_Vladut.Nastase@petrom.com,SAML2,,Nastase Teodor-Vladut,FEF-M Finance MEA,FALSE,FALSE
+markus.nuesslein@omv.com,SAML2,,Nüsslein Markus,EEP-P Portfolio,FALSE,FALSE
+Waqas.Qureshi@omv.com,SAML2,,Qureshi Waqas,FEF-M Finance MEA,FALSE,FALSE
+Andrew.Redford@omv.com,SAML2,,Redford Andrew,FEFMT-C Controlling,FALSE,FALSE
+Brendon.Reid@omv.com,SAML2,,Reid Brendon,EF-A Finance AA,FALSE,FALSE
+emma.rodgers@sapura-omv.com,SAML2,,Rodgers Emma, SapuraOMV 2MY1,FALSE,FALSE
+Emma.Rodgers@omv.com,SAML2,,Rodgers Emma,EMY-C CEO SapuraOMV,FALSE,FALSE
+Mario-Luis.Rodriguez_Chavez@omv.com,SAML2,,Rodriguez Chavez Mario-Luis,FEE-O Economics & Planning - Ops.,FALSE,FALSE
+Camilo.Sanchez@omv.com,SAML2,,Sanchez Paez Camilo Andres,PEIK-F Finance,FALSE,FALSE
+Monika.Schiffmann@omv.com,SAML2,,Schiffmann Monika,EMY-F Finance SapuraOMV,FALSE,FALSE
+monika.schiffmann@sapura-omv.com,SAML2,,Schiffmann Monika, SapuraOMV 2MY1,FALSE,FALSE
+Christian.Scholz@omv.com,SAML2,,Scholz Christian,EAT-C Commercial & Legal AUT,FALSE,FALSE
+Georg.Schumacher@petrom.com,SAML2,,Schumacher Georg,FEE-O Economics & Planning - Ops.,FALSE,FALSE
+Christian.Sledz@petrom.com,SAML2,,Sledz Christian,FEE-D Economics & Planning - Dev.,FALSE,FALSE
+Emilia-Daniela.Stoica@petrom.com,SAML2,,Stoica Emilia-Daniela,PEPP-A Portfolio Analysis & Planning,FALSE,FALSE
+MarcSteven.Swales@omv.com,SAML2,,Swales Marc Steven,FEE-D Economics & Planning - Dev.,FALSE,FALSE
+szeying.tay@sapura-omv.com,SAML2,,Tay Sze Ying, SapuraOMV 2MY1,FALSE,FALSE
+ptong@sapura-omv.com,SAML2,,Tong Priscilla, SapuraOMV 2MY1,FALSE,FALSE
+Leonardo.Umani@omv.com,SAML2,,Umani Leonardo,FEC-O Operational Contr. & Budgeting,FALSE,FALSE
+Lukas.Volker@omv.com,SAML2,,Volker Lukas Johannes,EE-R Reserves & Resources,FALSE,FALSE
+Jonathan.Wood@omv.com,SAML2,,Wood Jonathan,EEP-A Perf. Portf. & Planning AA,FALSE,FALSE
+Rade.Kalas@omv.com,SAML2,,Kalas Rade,FEC-V Value Center Controlling,FALSE,FALSE
+Stephanie.Lukesch@omv.com,SAML2,,Lukesch Stephanie,EEP-P Portfolio,FALSE,FALSE

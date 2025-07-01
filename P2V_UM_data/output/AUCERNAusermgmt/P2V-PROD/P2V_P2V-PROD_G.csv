@@ -1,0 +1,450 @@
+﻿Id,Name,Description,Comments
+113,A02.profile.PetroVR,PetroVR user access to PSE for Headless Calculation. ,Usually combined with another profile
+307,A03.profile.CAPDAT,Profile for CAPDAT interface users.,Expected user base ultimately project services and project managers.  However, this will be phased in.
+147,A04.profile.Light,Readonly access DF only (light user),PRMS (all DF tabs excl Calc & Admin) - ADJUST (Overview, Eco_Results, Fin Input, QA/QC only)
+142,A05.profile.Light.reserves,Reserves readonly role,
+271,A06.profile.Light.Fin.Port,Finance and Portfolio Finance light users (readonly access) DF plus PSE/F/P,MODIFICATION and EXTENSION of Portfolio Light to Finance light users
+283,A07.profile.Projectmanager.PET,Read only Project Manager with Input.Confirm tag rights,NEW. First tier for project managers using Dataflow.  Tagging.  Requested for Petrom Project Managers
+144,A08.profile.Projectmanager.Classic,P2V Classic Projectmanager role (data entry & "full input" tagging),
+298,A09.profile.Projectmanager.LCB,LCB Project Manager,NEW
+157,A10.profile.Planning.Classic,Planner (includes DF Unlock),Previously PP.Local
+300,A11.profile.Planning.Plus,Enchanced Dataflow: (includes DF Power role :  DF Tab FULL access),
+326,A12.profile.Auditor,Access Audit Logs,
+119,A13.profile.Economics.Classic,Base Economist (includes DF Unlock and Quicklook Admin),Roles included PSE Key: DF BasePlus: PSF Base: PSP Base.  
+357,A14.profile.Economics.Regimes,Economics Regime Coding,NEW.  This profile is applied to designated regime coders.  These can be located in HO or Venture.
+163,A15.profile.Economics.Plus,Base Economist enhanced with PSE Power and PSE Unlock roles,Designed for Economics Governance Team
+168,A16.profile.Finance.Classic,Base Controller,Roles included PSF Key: DF BasePlus.  
+141,A17.profile.Finance.Regimes,Financial Regime Coding,This profile is applied to designated regime coders.  These can be located in HO or Venture.
+171,A18.profile.Finance.Plus,Base Controller enhanced with PSF Power and PSF Unlock roles,Designed for Head Office Controlling
+155,A19.profile.Portfolio.Classic,OMV Portfolio role (standard user),
+132,A20.profile.Reserves.local.QRE,Branch office QRE role,17.05.22 Updated for Lukas' Changes
+175,A21.profile.Reserves.Headoffice,OMV Corporate reserves role (standard user),
+118,A22.profile.Reserves.Headoffice.Power,OMV Corporate reserves role (power user),
+156,A23.profile.Reserves.Headoffice.Approve,special approval role for Headoffice RESERVES ,17.05.22 Updated with changes advised by Lukas
+135,A24.profile.Exploration.Assurance,OMV Corporate Exploration Assurance user.  Previously profile.Resources.Headoffice,
+340,A25.profile.Exploration.OA.Admin,Opportunity Assessor Data Loader,This profile has extended Dataflow rights eg project creator, project deletor, Dataflow base.plus for scenario creation
+289,A26.profile.Portfolio.Plus,PLACEHOLDER Portfolio Classic plus a Superuser increment.,Placeholder profile.  The Portfolio group will receive classic as standard (essentially an economists base profile).  This placeholder is to be used if a superuser requires Portfolio require additional dataflow or financials rights since Admin rights will be removed.
+374,A27.profile.Reserves.local.Approve,Reserves local country approval role  ,extra profile for QREs
+1,Administrators,Default Admin workgroup.,This group consists all the permissions on the engine.
+39,Auditor,Role: user can check auditlogs,permission to read and check audit-logs
+104,BD.base,General workgroup that has access to the BD hierarchy,
+444,data.access.ADJUST.allow,base access to ADJUSTMENT projects,use for allowing access to ADJUSTMENT projects
+495,data.access.ADJUST.deny,NO access to ADJUSTMENT projects,use for denying access to ADJUSTMENT projects
+462,data.access.GAS.allow,base access to GAS projects,use for allowing access to GAS projects
+489,data.access.GAS.deny,NO access to GAS projects,use for denying access to GAS projects
+450,data.access.LCB.allow,base access to LCB projects,use individual country LCB groups for entity permissions
+497,data.access.LCB.deny,NO access to LCB projects,use individual country LCB groups for entity permissions
+432,data.access.PRMS.allow,base access to PRMS projects,use individual country PRMS groups for entity permissions
+498,data.access.PRMS.deny,NO access to PRMS projects,use individual country PRMS groups for entity permissions
+134,data.ArabEmirates,Data access to country UnitedArabEmirates,[DATA] PRMS read-update
+312,data.ArabEmirates.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+167,data.ArabEmirates.Economics,Data access to country UnitedArabEmirates (economist),[DATA] PRMS create-read-update-delete 
+122,data.ArabEmirates.Finance,Data access to country UnitedArabEmirates (financials),[DATA] PRMS create-read-update-delete 
+436,data.ArabEmirates.LCB,Data access to country UnitedArabEmirates (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+303,data.ArabEmirates.Other,Data access to country UnitedArabEmirates (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+146,data.ArabEmirates.Planning,Data access to country UnitedArabEmirates (full access),[DATA] PRMS full access
+454,data.ArabEmirates.PRMS,Data access to country UnitedArabEmirates (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+212,data.ArabEmirates.Reserves,Data access to country UnitedArabEmirates (Reserves),[DATA] PRMS create-read-update-delete 
+112,data.Australia,Data access to country Australia,[DATA] PRMS read-update
+305,data.Australia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+173,data.Australia.Economics,Data access to country Australia (economist),[DATA] PRMS create-read-update-delete 
+133,data.Australia.Finance,Data access to country Australia (financials),[DATA] PRMS create-read-update-delete 
+465,data.Australia.LCB,Data access to country Australia (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+322,data.Australia.Other,Data access to country Australia (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+162,data.Australia.Planning,Data access to country Australia (full access),[DATA] PRMS full access
+466,data.Australia.PRMS,Data access to country Australia (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+218,data.Australia.Reserves,Data access to country Australia (Reserves),[DATA] PRMS create-read-update-delete 
+9,data.Austria,Data access to country Austria,[DATA] PRMS read-update
+315,data.Austria.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+90,data.Austria.Economics,Data access to country Austria (economist),[DATA] PRMS create-read-update-delete 
+96,data.Austria.Finance,Data access to country Austria (financials),[DATA] PRMS create-read-update-delete 
+431,data.Austria.LCB,Data access to country Austria (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+324,data.Austria.Other,Data access to country Austria (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Caters for "light" functional users
+45,data.Austria.Planning,Data access to country Austria (full access),[DATA] PRMS full access
+442,data.Austria.PRMS,Data access to country Austria (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+222,data.Austria.Reserves,Data access to country Austria (Reserves),[DATA] PRMS create-read-update-delete 
+33,data.BD.project,Business Development project ,Business Development power user HO
+164,data.Bulgaria,Data access to country Bulgaria,[DATA] PRMS read-update
+301,data.Bulgaria.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+116,data.Bulgaria.Economics,Data access to country Bulgaria (economist),[DATA] PRMS create-read-update-delete 
+154,data.Bulgaria.Finance,Data access to country Bulgaria (financials),[DATA] PRMS create-read-update-delete 
+429,data.Bulgaria.LCB,Data access to country Bulgaria (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+363,data.Bulgaria.Other,Data access to country Bulgaria (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+137,data.Bulgaria.Planning,Data access to country Bulgaria (full access),[DATA] PRMS full access
+258,data.Bulgaria.Portfolio,Data access to country Bulgaria (Portfolio),
+456,data.Bulgaria.PRMS,Data access to country Bulgaria (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+217,data.Bulgaria.Reserves,Data access to country Bulgaria (Reserves),[DATA] PRMS create-read-update-delete 
+8,data.Corporate,Data access to ALL countries,[DATA] PRMS read-update
+285,data.Corporate.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+95,data.Corporate.Economics,Data access to ALL countries (economist),[DATA] PRMS create-read-update-delete 
+101,data.Corporate.Finance,Data access to ALL countries (financials),[DATA] PRMS create-read-update-delete 
+447,data.Corporate.LCB,Data access to ALL countries (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+350,data.Corporate.Other,Data access to ALL countries for users that are not members of data.corporate.functions or light Economics/Finance users,This is for anyone that is not a member of one of the other groups.  Data.Corporate less Data.Corporate.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+88,data.Corporate.Planning,Data access to ALL countries (full access),[DATA] PRMS full access
+252,data.Corporate.Portfolio,Data access to ALL countries (Portfolio) - used by Portfolio to load marked resultsets,
+467,data.Corporate.PRMS,Data access to ALL countries (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+109,data.Corporate.Reserves,Data access to ALL countries (Reserves) - used by Reserves to load marked resultsets,[DATA] PRMS create-read-update-delete 
+409,data.Croatia,Data access to country Croatia,[DATA] PRMS read-update
+411,data.Croatia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+417,data.Croatia.Economics,Data access to country Croatia (economist),[DATA] PRMS create-read-update-delete 
+418,data.Croatia.Finance,Data access to country Croatia (financials),[DATA] PRMS create-read-update-delete 
+464,data.Croatia.LCB,Data access to country Croatia (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+414,data.Croatia.Other,Data access to country Croatia (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+420,data.Croatia.Planning,Data access to country Croatia (full access),[DATA] PRMS full access
+424,data.Croatia.Portfolio,Data access to country Croatia (Portfolio),
+471,data.Croatia.PRMS,Data access to country Croatia (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+402,data.Croatia.Reserves,Data access to country Croatia (Reserves),[DATA] PRMS create-read-update-delete 
+176,data.Everyone.Economics,Combining all data.country.Economics and data.corporate.Economics,Combining all data.country/corporate.Economists
+318,data.Everyone.Finance,Combining all data.country.Finance and data.corporate.Finance,
+149,data.Georgia,Data access to country Georgia,[DATA] PRMS read-update
+356,data.Georgia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+152,data.Georgia.Economics,Data access to country Georgia (economist),[DATA] PRMS create-read-update-delete 
+129,data.Georgia.Finance,Data access to country Georgia (financials),[DATA] PRMS create-read-update-delete 
+449,data.Georgia.LCB,Data access to country Georgia (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+358,data.Georgia.Other,Data access to country Georgia (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+126,data.Georgia.Planning,Data access to country Georgia (full access),[DATA] PRMS full access
+261,data.Georgia.Portfolio,Data access to country Georgia (Portfolio),
+440,data.Georgia.PRMS,Data access to country Georgia (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+225,data.Georgia.Reserves,Data access to country Georgia (Reserves),[DATA] PRMS create-read-update-delete 
+401,data.Germany,Data access to country Germany,[DATA] PRMS read-update
+419,data.Germany.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+423,data.Germany.Economics,Data access to country Germany (economist),[DATA] PRMS create-read-update-delete 
+403,data.Germany.Finance,Data access to country Germany (financials),[DATA] PRMS create-read-update-delete 
+474,data.Germany.LCB,Data access to country Germany (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+425,data.Germany.Other,Data access to country Germany (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+413,data.Germany.Planning,Data access to country Germany (full access),[DATA] PRMS full access
+404,data.Germany.Portfolio,Data access to country Germany (Portfolio),
+472,data.Germany.PRMS,Data access to country Germany (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+408,data.Germany.Reserves,Data access to country Germany (Reserves),[DATA] PRMS create-read-update-delete 
+407,data.Hungary,Data access to country Hungary,[DATA] PRMS read-update
+399,data.Hungary.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+422,data.Hungary.Economics,Data access to country Hungary (economist),[DATA] PRMS create-read-update-delete 
+415,data.Hungary.Finance,Data access to country Hungary (financials),[DATA] PRMS create-read-update-delete 
+434,data.Hungary.LCB,Data access to country Hungary (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+398,data.Hungary.Other,Data access to country Hungary (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+400,data.Hungary.Planning,Data access to country Hungary (full access),[DATA] PRMS full access
+397,data.Hungary.Portfolio,Data access to country Hungary (Portfolio),
+453,data.Hungary.PRMS,Data access to country Hungary (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+405,data.Hungary.Reserves,Data access to country Hungary (Reserves),[DATA] PRMS create-read-update-delete 
+138,data.Kurdistan,Data access to country Kurdistan,[DATA] PRMS read-update
+352,data.Kurdistan.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+140,data.Kurdistan.Economics,Data access to country Kurdistan (economist),[DATA] PRMS create-read-update-delete 
+127,data.Kurdistan.Finance,Data access to country Kurdistan (financials),[DATA] PRMS create-read-update-delete 
+430,data.Kurdistan.LCB,Data access to country Kurdistan (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+341,data.Kurdistan.Other,Data access to country Kurdistan (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+150,data.Kurdistan.Planning,Data access to country Kurdistan (full access),[DATA] PRMS full access
+452,data.Kurdistan.PRMS,Data access to country Kurdistan (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+211,data.Kurdistan.Reserves,Data access to country Kurdistan (Reserves),[DATA] PRMS create-read-update-delete 
+63,data.Libya,Data access to country Libya,[DATA] PRMS read-update
+332,data.Libya.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+94,data.Libya.Economics,Data access to country Libya (economist),[DATA] PRMS create-read-update-delete 
+100,data.Libya.Finance,Data access to country Libya (financials),[DATA] PRMS create-read-update-delete 
+477,data.Libya.LCB,Data access to country Libya (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+286,data.Libya.Other,Data access to country Libya (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+64,data.Libya.Planning,Data access to country Libya (full access),[DATA] PRMS full access
+451,data.Libya.PRMS,Data access to country Libya (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+215,data.Libya.Reserves,Data access to country Libya (Reserves),[DATA] PRMS create-read-update-delete 
+169,data.Malaysia,Data access to country Malaysia,[DATA] PRMS read-update
+293,data.Malaysia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+174,data.Malaysia.Economics,Data access to country Malaysia (economist),[DATA] PRMS create-read-update-delete 
+165,data.Malaysia.Finance,Data access to country Malaysia (financials),[DATA] PRMS create-read-update-delete 
+443,data.Malaysia.LCB,Data access to country Malaysia (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+365,data.Malaysia.Other,Data access to country Malaysia (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+159,data.Malaysia.Planning,Data access to country Malaysia (full access),[DATA] PRMS full access
+460,data.Malaysia.PRMS,Data access to country Malaysia (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+213,data.Malaysia.Reserves,Data access to country Malaysia (Reserves),[DATA] PRMS create-read-update-delete 
+158,data.Mexico,Data access to country Mexico,[DATA] PRMS read-update
+335,data.Mexico.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+130,data.Mexico.Economics,Data access to country Mexico (economist),[DATA] PRMS create-read-update-delete 
+128,data.Mexico.Finance,Data access to country Mexico (financials),[DATA] PRMS create-read-update-delete 
+455,data.Mexico.LCB,Data access to country Mexico (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+343,data.Mexico.Other,Data access to country Mexico (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+145,data.Mexico.Planning,Data access to country Mexico (full access),[DATA] PRMS full access
+470,data.Mexico.PRMS,Data access to country Mexico (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+220,data.Mexico.Reserves,Data access to country Mexico (Reserves),[DATA] PRMS create-read-update-delete 
+115,data.NewZealand,Data access to country NewZealand,[DATA] PRMS read-update
+294,data.NewZealand.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+136,data.NewZealand.Economics,Data access to country NewZealand (economist),[DATA] PRMS create-read-update-delete 
+120,data.NewZealand.Finance,Data access to country NewZealand (financials),[DATA] PRMS create-read-update-delete 
+469,data.NewZealand.LCB,Data access to country NewZealand (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+287,data.NewZealand.Other,Data access to country NewZealand (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+153,data.NewZealand.Planning,Data access to country NewZealand (full access).  Dataflow Tool Support (country planners),[DATA] PRMS full access
+468,data.NewZealand.PRMS,Data access to country NewZealand (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+223,data.NewZealand.Reserves,Data access to country NewZealand (Reserves),[DATA] PRMS create-read-update-delete 
+10,data.Norway,Data access to country Norway,[DATA] PRMS read-update
+345,data.Norway.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+91,data.Norway.Economics,Data access to country Norway (economist),[DATA] PRMS create-read-update-delete 
+98,data.Norway.Finance,Data access to country Norway (financials),[DATA] PRMS create-read-update-delete 
+458,data.Norway.LCB,Data access to country Norway (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+295,data.Norway.Other,Data access to country Norway (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" Economics/Finance users
+46,data.Norway.Planning,Data access to country Norway (planner),[DATA] PRMS full access
+446,data.Norway.PRMS,Data access to country Norway (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+208,data.Norway.Reserves,Data access to country Norway (Reserves),[DATA] PRMS create-read-update-delete 
+193,data.OMVEP,Data access to ValueCenters,[DATA] PRMS read-update
+347,data.OMVEP.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+194,data.OMVEP.Economics,Data access to ValueCenters (economist),[DATA] PRMS create-read-update-delete 
+195,data.OMVEP.Finance,Data access to ValueCenters (financials),[DATA] PRMS create-read-update-delete 
+437,data.OMVEP.LCB,Data access to ValueCenters (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+362,data.OMVEP.Other,Data access to ValueCenters (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+192,data.OMVEP.Planning,Data access to ValueCenters (full access),[DATA] PRMS full access
+457,data.OMVEP.PRMS,Data access to ValueCenters (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+219,data.OMVEP.Reserves,Data access to ValueCenters (Reserves),[DATA] PRMS create-read-update-delete 
+243,data.proj.Neptun.allow,Neptun project not confidential anymore,Neptun - not confidential anymore
+234,data.proj.Neptun.deny,Neptun - not confidential anymore - group should be empty,Neptun - not confidential anymore - group should be empty
+123,data.Romania,Data access to country Romania,[DATA] PRMS read-update
+366,data.Romania.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+111,data.Romania.Economics,Data access to country Romania (economist),[DATA] PRMS create-read-update-delete 
+160,data.Romania.Finance,Data access to country Romania (financials),[DATA] PRMS create-read-update-delete 
+448,data.Romania.LCB,Data access to country Romania (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+306,data.Romania.Other,Data access to country Romania (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+170,data.Romania.Planning,Data access to country Romania (full access),[DATA] PRMS full access
+255,data.Romania.Portfolio,Data access to country Romania (Portfolio),
+438,data.Romania.PRMS,Data access to country Romania (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+216,data.Romania.Reserves,Data access to country Romania (Reserves),[DATA] PRMS create-read-update-delete 
+11,data.Russia,Data access to country Russia,[DATA] PRMS read-update
+337,data.Russia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+92,data.Russia.Economics,Data access to country Russia (economist),[DATA] PRMS create-read-update-delete 
+99,data.Russia.Finance,Data access to country Russia (financials),[DATA] PRMS create-read-update-delete 
+435,data.Russia.LCB,Data access to country Russia (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+330,data.Russia.Other,Data access to country Russia (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+47,data.Russia.Planning,Data access to country Russia (full access),[DATA] PRMS full access
+433,data.Russia.PRMS,Data access to country Russia (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+214,data.Russia.Reserves,Data access to country Russia (Reserves),[DATA] PRMS create-read-update-delete 
+182,data.Sapura.Australia,Data access to country  Sapura- Australia,[DATA] PRMS read-update
+327,data.Sapura.Australia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+178,data.Sapura.Australia.Economics,Data access to country  Sapura- Australia (economist),[DATA] PRMS create-read-update-delete 
+190,data.Sapura.Australia.Finance,Data access to country  Sapura- Australia (financials),[DATA] PRMS create-read-update-delete 
+461,data.Sapura.Australia.LCB,Data access to country  Sapura- Australia (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+348,data.Sapura.Australia.Other,Data access to country  Sapura- Australia (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+189,data.Sapura.Australia.Planning,Data access to country  Sapura- Australia (full access),[DATA] PRMS full access
+441,data.Sapura.Australia.PRMS,Data access to country  Sapura- Australia (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+224,data.Sapura.Australia.Reserves,Data access to country  Sapura- Australia (Reserves),[DATA] PRMS create-read-update-delete 
+184,data.Sapura.NewZealand,Data access to country  Sapura- NewZealand,[DATA] PRMS read-update
+311,data.Sapura.NewZealand.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+185,data.Sapura.NewZealand.Economics,Data access to country  Sapura- NewZealand (economist),[DATA] PRMS create-read-update-delete 
+186,data.Sapura.NewZealand.Finance,Data access to country  Sapura- NewZealand (financials),[DATA] PRMS create-read-update-delete 
+476,data.Sapura.NewZealand.LCB,Data access to country  Sapura- NewZealand (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+308,data.Sapura.NewZealand.Other,Data access to country  Sapura- NewZealand (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+181,data.Sapura.NewZealand.Planning,Data access to country  Sapura- NewZealand (full access),[DATA] PRMS full access
+445,data.Sapura.NewZealand.PRMS,Data access to country  Sapura- NewZealand (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+210,data.Sapura.NewZealand.Reserves,Data access to country  Sapura- NewZealand (Reserves),[DATA] PRMS create-read-update-delete 
+416,data.Switzerland,Data access to country Switzerland,[DATA] PRMS read-update
+421,data.Switzerland.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+406,data.Switzerland.Economics,Data access to country Switzerland (economist),[DATA] PRMS create-read-update-delete 
+412,data.Switzerland.Finance,Data access to country Switzerland (financials),[DATA] PRMS create-read-update-delete 
+475,data.Switzerland.LCB,Data access to country Switzerland (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+410,data.Switzerland.Other,Data access to country Switzerland (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+396,data.Switzerland.Planning,Data access to country Switzerland (full access),[DATA] PRMS full access
+426,data.Switzerland.Portfolio,Data access to country Switzerland (Portfolio),
+473,data.Switzerland.PRMS,Data access to country Switzerland (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+427,data.Switzerland.Reserves,Data access to country Switzerland (Reserves),[DATA] PRMS create-read-update-delete 
+61,data.Tunisia,Data access to country Tunisia,[DATA] PRMS read-update
+364,data.Tunisia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+93,data.Tunisia.Economics,Data access to country Tunisia (economist),[DATA] PRMS create-read-update-delete 
+97,data.Tunisia.Finance,Data access to country Tunisia (financials),[DATA] PRMS create-read-update-delete 
+463,data.Tunisia.LCB,Data access to country Tunisia (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+302,data.Tunisia.Other,Data access to country Tunisia (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+62,data.Tunisia.Planning,Data access to country Tunisia (full access),[DATA] PRMS full access
+459,data.Tunisia.PRMS,Data access to country Tunisia (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+209,data.Tunisia.Reserves,Data access to country Tunisia (Reserves),[DATA] PRMS create-read-update-delete 
+148,data.Yemen,Data access to country Yemen,[DATA] PRMS read-update
+290,data.Yemen.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+114,data.Yemen.Economics,Data access to country Yemen (economist),[DATA] PRMS create-read-update-delete 
+172,data.Yemen.Finance,Data access to country Yemen (financials),[DATA] PRMS create-read-update-delete 
+428,data.Yemen.LCB,Data access to country Yemen (LCB),Dedicated group for LCB users  (restrict access to LCB nodetypes)
+336,data.Yemen.Other,Data access to country Yemen (Other functions or light Economics/Finance users),This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for "light" functional users
+151,data.Yemen.Planning,Data access to country Yemen (full access),[DATA] PRMS full access
+439,data.Yemen.PRMS,Data access to country Yemen (PRMS),Dedicated group for PRMS users  (restrict access to PRMS nodetypes)
+221,data.Yemen.Reserves,Data access to country Yemen (Reserves),[DATA] PRMS create-read-update-delete 
+353,Dataflow.base,Role: Access to Dataflow Module,
+331,Dataflow.baseplus,Role: Dataflow.base plus Manage Scenarios: Hierarchy: Move - Delete - Rename,
+21,DataFlow.key,Role: Dataflow key user ,Dataflow Key user in Branchoffice
+22,DataFlow.power,Role: Dataflow power user,Dataflow Power user in Headoffice
+338,Dataflow.quicklook,Role: Quicklook Administrator,This role, performed by Economists, sets Economics Settings to facilitate quicklook calculations for users.
+65,Dataflow.unlock,Role: Dataflow.unlock,Unlock objects in Dataflow
+40,Developer,internal & external developers,permissions needed for developers
+314,Economics.base,Role: Access to Economics Module,
+24,Economics.key,Role: Economics key user ,Economics user in Branchoffice
+23,Economics.power,Role Economics power user,Economics power user in headoffice - global settings
+42,Economics.regimes,Role: additional permission for Economics user to access Regime Library,
+177,Economics.regimes.readonly,Role: readonly access to the regimes lib,readonly access to the regimes lib
+89,Economics.unlock,Role Economics.unlock,unlock objects in Economics
+2,Everyone,Default workgroup.,This group consists only public permission on the engine.
+309,Financials.base,Role: Access to Financials Module,
+30,Financials.key,Role: Financials key user,Controlling key user in Branchoffice
+29,Financials.power,Role: Financials power user,Controlling power user  in Headoffice
+43,Financials.regimes,Role: additional permission for Financials user to access Regime Library,
+368,Financials.regimes.readonly,readonly access to the regimes lib,readonly access to the regimes lib
+166,Financials.unlock,Role: Financials.unlock,unlock objects in Financials
+44,Input.Approve,Tag.Input.Approve,
+48,Input.Confirm,Tag Input.Confirm,
+284,Input.Confirm.PET,specific group for Petrom Projectmanagers Tag-access,Light user type PM.  Currently only configured for Petrom
+121,license.heavy,Heavy license users,to manage the license-requirments
+131,license.light,Light licences users,to manage the license-requirments
+371,non.OMV,Group used to deny access to OMV hierarchy,Group used to deny access to OMV hierarchy
+367,OA.Admin,Interface: Opportunity Assessor,
+41,P2V.admin,Plan2Value administrators,permissions to almost everything
+20,P2V.base,P2V (everyone) access.,
+7,P2V.developer,Group of internal/external developers,all external AUCERNA experts to support 
+6,PetroVR,Interface: PetroVR user,Was previously used to Headless Economics calculation via PetroVR.  Now redundant as PetroVR users are given access via Economics.base.  Will retain workgroup as may be required if new EAAS PVR module every used or Direct PVR-DF loading used.
+25,Portfolio.base,Role: Access to Portfolio Tool,
+370,Portfolio.key,Role: Portfolio users enhanced,incl configure Templates and Variables
+37,Reporting,Interface: External Data using Odata,permissions to use Odata as interface
+107,Reserves.Administrator,Reserves.Administrator,
+69,Reserves.Approver,Reserves.Approver,
+108,Reserves.Approver.bo,Reserves.Approver.bo,
+106,Reserves.Approver.ho,Reserves.Approver.ho,
+66,Reserves.base,Role: Access to Reserves Module,
+32,Reserves.key,Role: Reserves key user,
+31,Reserves.power,Reserves.power,
+68,Reserves.Security,Reserves.useradmin + Reserves.DataAdmin,
+105,Reserves.Submitter,Reserves.Submitter,
+281,rollover,Workgroup used to limit access during the rollover activities,
+282,SecurityAdministrators,Default Security Administrators,
+280,systemcheck,workgroup to perform functionaly tests after MW ,
+86,T.ADJUST.admin.deny,DF Admin Tab DENY access,Adjustment Document only
+79,T.ADJUST.admin.full,DF Admin Tab FULL access,Adjustment Document only
+80,T.ADJUST.admin.readonly,DF Admin Tab READ access,Adjustment Document only
+346,T.ADJUST.calc.deny,DF Calculation Tab DENY access,
+361,T.ADJUST.calc.full,DF Calculation Tab FULL access,
+342,T.ADJUST.calc.readonly,DF Calculation Tab READ access,
+75,T.ADJUST.economics.deny,DF Eco Input Tab DENY access,Adjustment Document only
+73,T.ADJUST.economics.full,DF Eco Input Tab FULL access,Adjustment Document only
+74,T.ADJUST.economics.readonly,DF Eco Input Tabs READ access,Adjustment Document only
+78,T.ADJUST.ecoresults.deny,DF Eco Results Tab DENY access,Adjustment Document only
+76,T.ADJUST.ecoresults.full,DF Eco Results Tab FULL access,Adjustment Document only
+77,T.ADJUST.ecoresults.readonly,DF Eco Results Tab READ access,Adjustment Document only
+87,T.ADJUST.financials.deny,DF Fin Input Tab DENY access,Adjustment Document only
+81,T.ADJUST.financials.full,DF Fin Input Tab FULL access,Adjustment Document only
+82,T.ADJUST.financials.readonly,DF Fin Input Tabs READ access,Adjustment Document only
+85,T.ADJUST.input.deny,DF Input Tabs DENY access,Adjustment Document only
+83,T.ADJUST.input.full,DF Input Tabs FULL access,Adjustment Document only
+84,T.ADJUST.input.readonly,DF Input Tabs READ access,Adjustment Document only
+296,T.ADJUST.overview.deny,DF Overview Tab DENY access,Adjustment Document only
+292,T.ADJUST.overview.full,DF Overview Tab FULL access,Adjustment Document only
+334,T.ADJUST.overview.readonly,DF Overview Tabs READ access,Adjustment Document only
+54,T.PRMS.admin.deny,DF Admin Tab DENY access,
+52,T.PRMS.admin.full,DF Admin Tab FULL access,
+53,T.PRMS.admin.readonly,DF Admin Tab READ access,
+274,T.PRMS.calc.deny,DF Calculation Tab DENY access,
+278,T.PRMS.calc.full,DF Calculation Tab FULL access,DF Templates: Calculation Tab full access
+279,T.PRMS.calc.readonly,DF Calculation Tab READ access,
+51,T.PRMS.economics.deny,DF Eco Input Tab DENY access,
+49,T.PRMS.economics.full,DF Eco Input Tab FULL access,
+50,T.PRMS.economics.readonly,DF Eco Input Tab READ access,
+72,T.PRMS.ecoresults.deny,DF Eco Results Tab DENY access,
+70,T.PRMS.ecoresults.full,DF Eco Results Tab FULL access,
+71,T.PRMS.ecoresults.readonly,DF Eco Results Tab READ access,
+57,T.PRMS.financials.deny,DF Fin Input Tab DENY access,
+55,T.PRMS.financials.full,DF Fin Input Tab FULL access,
+56,T.PRMS.financials.readonly,DF Fin Input Tab READ access,
+60,T.PRMS.input.deny,DF Input Tabs DENY access,Overview: Production: Cap Up-Down: Capex: Opex & Other Revenue: Resources/Reserves
+58,T.PRMS.input.full,DF Input Tabs FULL access,Overview: Production: Cap Up-Down: Capex: Opex & Other Revenue: Resources/Reserves
+59,T.PRMS.input.readonly,DF Input Tabs READ access,Overview: Production: Cap Up-Down: Capex: Opex & Other Revenue: Resources/Reserves
+277,T.PRMS.quicklook.deny,DF Quicklook Tab DENY access,
+275,T.PRMS.quicklook.full,DF Quicklook Tab FULL access,
+276,T.PRMS.quicklook.readonly,DF Quicklook Tab READ access,
+38,User.admin,User for useradministration,permissions to add/change user /workgroup assignments
+375,V.MTP.readonly,user who are only allowed to access this version readonly,versions 2022 LEAD - 2022 STRESS
+373,V.Portfolio.readonly,user who are only allowed to access this version readonly,version Evergreen Portfolio
+288,XXX.A01.profile.UltraLight,PROBABLY NOT REQUIRED. Lightest possible base profile for basic interfaces Access to API via reporting workgroup.,Lightest possible base profile on which to apply interface increments eg used as a base to apply eg CAPDAT, PetroVR interfaces. 
+102,Z.BD.001.allow,Group of people allowed to see the specific project data,NAUTILUS
+103,Z.BD.001.deny,Group of people NOT allowed to see this project data,NAUTILUS
+196,Z.BD.002.allow,Group of people allowed to see the specific project data,TANIA
+197,Z.BD.002.deny,Group of people NOT allowed to see this project data,TANIA
+198,Z.BD.003.allow,Group of people allowed to see the specific project data,LEXY
+199,Z.BD.003.deny,Group of people NOT allowed to see this project data,LEXY
+207,Z.BD.004.allow,Group of people allowed to see the specific project data,Violin
+202,Z.BD.004.deny,Group of people NOT allowed to see this project data,Violin
+201,Z.BD.005.allow,Group of people allowed to see the specific project data,Elios
+204,Z.BD.005.deny,Group of people NOT allowed to see this project data,Elios
+203,Z.BD.006.allow,Group of people allowed to see the specific project data,Alya
+205,Z.BD.006.deny,Group of people NOT allowed to see this project data,Alya
+206,Z.BD.007.allow,Group of people allowed to see the specific project data,Athena 
+200,Z.BD.007.deny,Group of people NOT allowed to see this project data,Athena 
+502,Z.BD.008.allow,Group of people allowed to see the specific project data,new group - not yet used
+503,Z.BD.008.deny,Group of people NOT allowed to see this project data,new BD group - not yet used
+247,Z.BD.009.allow,Group of people allowed to see the specific project data,Nay
+230,Z.BD.009.deny,Group of people NOT allowed to see this project data,Nay
+250,Z.BD.010.allow,Group of people allowed to see the specific project data,Sitar + Cajon
+229,Z.BD.010.deny,Group of people NOT allowed to see this project data,Sitar + Cajon
+228,Z.BD.011.allow,Group of people allowed to see the specific project data,PEC Timis Pr - Divestments round 3 and 4 
+249,Z.BD.011.deny,Group of people NOT allowed to see this project data,PEC Timis Pr - Divestments round 3 and 4 
+226,Z.BD.012.allow,Group of people allowed to see the specific project data,PEC Turnu Pr - Divestments round 3 and 4 
+227,Z.BD.012.deny,Group of people NOT allowed to see this project data,PEC Turnu Pr - Divestments round 3 and 4 
+369,Z.BD.013.allow,Group of people allowed to see the specific project data,Nereus
+235,Z.BD.013.deny,Group of people NOT allowed to see this project data,Nereus
+248,Z.BD.014.allow,Group of people allowed to see the specific project data,Kobza
+237,Z.BD.014.deny,Group of people NOT allowed to see this project data,Kobza
+245,Z.BD.015.allow,Group of people allowed to see the specific project data,Field Analysis Romania
+251,Z.BD.015.deny,Group of people NOT allowed to see this project data,Field Analysis Romania
+246,Z.BD.016.allow,Group of people allowed to see the specific project data,LCB strictly confidential projects
+241,Z.BD.016.deny,Group of people NOT allowed to see this project data,LCB strictly confidential projects
+231,Z.BD.017.allow,Group of people allowed to see the specific project data,Harmonica
+236,Z.BD.017.deny,Group of people NOT allowed to see this project data,Harmonica
+244,Z.BD.018.allow,Group of people allowed to see the specific project data,EAO
+232,Z.BD.018.deny,Group of people NOT allowed to see this project data,EAO
+239,Z.BD.019.allow,Group of people allowed to see the specific project data,WELL Analysis Romania
+240,Z.BD.019.deny,Group of people NOT allowed to see this project data,WELL Analysis Romania
+242,Z.BD.020.allow,Group of people allowed to see the specific project data, NAMR,NAMR RO
+233,Z.BD.020.deny,Group of people allowed to see the specific project data, NAMR,NAMR RO
+355,Z.BD.021.allow,Group of people allowed to see the specific project data,ADNOC-AE UmmLuluSarb All
+349,Z.BD.021.deny,Group of people NOT allowed to see this project data,ADNOC-AE UmmLuluSarb All
+317,Z.BD.022.allow,Group of people allowed to see the specific project data,ADNOC-AE Ghasha Confidential 
+339,Z.BD.022.deny,Group of people NOT allowed to see this project data,ADNOC-AE Ghasha Confidential 
+304,Z.BD.023.allow,Group of people allowed to see the specific project data - Do not touch special project,Do not touch special project
+329,Z.BD.023.deny,Group of people NOT allowed to see this project data - Do not touch special project,Do not touch special project
+360,Z.BD.024.allow,Group of people allowed to see the specific project data,Project P Romania
+320,Z.BD.024.deny,Group of people NOT allowed to see this project data,Project P Romania
+359,Z.BD.025.allow,Group of people allowed to see the specific project data,Project S*
+316,Z.BD.025.deny,Group of people NOT allowed to see this project data,Project S*
+310,Z.BD.026.allow,Group of people allowed to see the specific project data,RADE
+328,Z.BD.026.deny,Group of people NOT allowed to see this project data,RADE
+299,Z.BD.027.allow,Group of people allowed to see the specific project data,LCB BD Working Area AUT
+321,Z.BD.027.deny,Group of people NOT allowed to see this project data,LCB BD Working Area AUT
+323,Z.BD.028.allow,Group of people allowed to see the specific project data,LCB BD Working Area TUN
+297,Z.BD.028.deny,Group of people NOT allowed to see this project data,LCB BD Working Area TUN
+325,Z.BD.029.allow,Group of people allowed to see the specific project data,LCB BD Working Area ROM
+313,Z.BD.029.deny,Group of people NOT allowed to see this project data,LCB BD Working Area ROM
+319,Z.BD.030.allow,Group of people allowed to see the specific project data,LCB BD Working Area HUN
+344,Z.BD.030.deny,Group of people NOT allowed to see this project data,LCB BD Working Area HUN
+392,Z.BD.031.allow,Group of people allowed to see the specific project data,LCB BD Working Area GER
+395,Z.BD.031.deny,Group of people NOT allowed to see this project data,LCB BD Working Area GER
+383,Z.BD.032.allow,Group of people allowed to see the specific project data,LCB BD Working Area SWE
+376,Z.BD.032.deny,Group of people NOT allowed to see this project data,LCB BD Working Area SWE
+379,Z.BD.033.allow,Group of people allowed to see the specific project data,N project
+381,Z.BD.033.deny,Group of people NOT allowed to see this project data,N project
+384,Z.BD.034.allow,Group of people allowed to see the specific project data,Fida-BD
+385,Z.BD.034.deny,Group of people NOT allowed to see this project data,Fida-BD
+390,Z.BD.035.allow,Group of people allowed to see the specific project data,CCS International
+389,Z.BD.035.deny,Group of people NOT allowed to see this project data,CCS International
+382,Z.BD.036.allow,Group of people allowed to see the specific project data,Project G*
+394,Z.BD.036.deny,Group of people NOT allowed to see this project data,Project G*
+393,Z.BD.037.allow,Group of people allowed to see the specific project data,not in use
+391,Z.BD.037.deny,Group of people NOT allowed to see this project data,not in use
+386,Z.BD.038.allow,Group of people allowed to see the specific project data,not in use
+388,Z.BD.038.deny,Group of people NOT allowed to see this project data,not in use
+377,Z.BD.039.allow,Group of people allowed to see the specific project data,not in use
+380,Z.BD.039.deny,Group of people NOT allowed to see this project data,not in use
+378,Z.BD.040.allow,Group of people allowed to see the specific project data,not in use
+387,Z.BD.040.deny,Group of people NOT allowed to see this project data,not in use
+485,Z.BD.041.allow,Group of people allowed to see the specific project data,not in use
+490,Z.BD.041.deny,Group of people NOT allowed to see this project data,not in use
+483,Z.BD.042.allow,Group of people allowed to see the specific project data,not in use
+486,Z.BD.042.deny,Group of people NOT allowed to see this project data,not in use
+484,Z.BD.043.allow,Group of people allowed to see the specific project data,not in use
+478,Z.BD.043.deny,Group of people NOT allowed to see this project data,not in use
+479,Z.BD.044.allow,Group of people allowed to see the specific project data,not in use
+480,Z.BD.044.deny,Group of people NOT allowed to see this project data,not in use
+487,Z.BD.045.allow,Group of people allowed to see the specific project data,not in use
+494,Z.BD.045.deny,Group of people NOT allowed to see this project data,not in use
+481,Z.BD.046.allow,Group of people allowed to see the specific project data,not in use
+493,Z.BD.046.deny,Group of people NOT allowed to see this project data,not in use
+499,Z.BD.047.allow,Group of people allowed to see the specific project data,not in use
+500,Z.BD.047.deny,Group of people NOT allowed to see this project data,not in use
+488,Z.BD.048.allow,Group of people allowed to see the specific project data,not in use
+491,Z.BD.048.deny,Group of people NOT allowed to see this project data,not in use
+482,Z.BD.049.allow,Group of people allowed to see the specific project data,not in use
+501,Z.BD.049.deny,Group of people NOT allowed to see this project data,not in use
+496,Z.BD.050.allow,Group of people allowed to see the specific project data,not in use
+492,Z.BD.050.deny,Group of people NOT allowed to see this project data,not in use

@@ -1,0 +1,33 @@
+displayname,xkey,logonID,profile,ptype,trim,COMMENT
+Sonnleitner Gabriele (X450774),X450774,Gabriele.Sonnleitner@omv.com,A10.profile.Planning.classic,profile,Gabriele.Sonnleitner@omv.com,250210
+Sonnleitner Gabriele (X450774),X450774,Gabriele.Sonnleitner@omv.com,A13.profile.Economics.Classic,profile,Gabriele.Sonnleitner@omv.com,250210
+Sonnleitner Gabriele (X450774),X450774,Gabriele.Sonnleitner@omv.com,data.Corporate,data,Gabriele.Sonnleitner@omv.com,250210
+Diac Elena (ELENA170),ELENA170,Elena.Diac@petrom.com,A10.profile.Planning.classic,profile,Elena.Diac@petrom.com,250210
+Diac Elena (ELENA170),ELENA170,Elena.Diac@petrom.com,A13.profile.Economics.Classic,profile,Elena.Diac@petrom.com,250210
+Diac Elena (ELENA170),ELENA170,Elena.Diac@petrom.com,data.GasEast,data,Elena.Diac@petrom.com,250210
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,A08.profile.Projectmanager.Classic,profile,Georg.Schumacher@petrom.com,250210
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,data.Libya,data,Georg.Schumacher@petrom.com,250210
+Sicala Perez Adriana (ADRIANA35),ADRIANA35,Adriana.SicalaPerez@omv.com,data.Libya,data,Adriana.SicalaPerez@omv.com,NEW
+Sicala Perez Adriana (ADRIANA35),ADRIANA35,Adriana.SicalaPerez@omv.com,data.Russia,data,Adriana.SicalaPerez@omv.com,NEW
+Sicala Perez Adriana (ADRIANA35),ADRIANA35,Adriana.SicalaPerez@omv.com,A10.profile.Planning.classic,profile,Adriana.SicalaPerez@omv.com,NEW
+Sicala Perez Adriana (ADRIANA35),ADRIANA35,Adriana.SicalaPerez@omv.com,A13.profile.Economics.Classic,profile,Adriana.SicalaPerez@omv.com,NEW
+Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3),BARTLOMIEJ3,BartlomiejBazyli.Strzelecki@omv.com,A10.profile.Planning.classic,profile,BartlomiejBazyli.Strzelecki@omv.com,
+Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3),BARTLOMIEJ3,BartlomiejBazyli.Strzelecki@omv.com,A13.profile.Economics.Classic,profile,BartlomiejBazyli.Strzelecki@omv.com,
+Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3),BARTLOMIEJ3,BartlomiejBazyli.Strzelecki@omv.com,data.Corporate,data,BartlomiejBazyli.Strzelecki@omv.com,
+Strzelecki Bartlomiej Bazyli (BARTLOMIEJ3),BARTLOMIEJ3,BartlomiejBazyli.Strzelecki@omv.com,A12.profile.Auditor,profile,BartlomiejBazyli.Strzelecki@omv.com,
+Moujbani Walid (XMOUJBANI),XMOUJBANI,walid.moujbani@omv.com,A08.profile.Projectmanager.Classic,profile,walid.moujbani@omv.com,250623
+Moujbani Walid (XMOUJBANI),XMOUJBANI,walid.moujbani@omv.com,data.Tunisia,data,walid.moujbani@omv.com,250623
+Badau Darius-Traian (X01024576),X01024576,Darius.Badau@petrom.com,A08.profile.Projectmanager.Classic,profile,Darius.Badau@petrom.com,250623
+Badau Darius-Traian (X01024576),X01024576,Darius.Badau@petrom.com,data.Tunisia,data,Darius.Badau@petrom.com,250623
+Ben Chihaoui Jameleddine (XBENCHIJA),XBENCHIJA,Jameleddine.Benchihaoui@omv.com,A08.profile.Projectmanager.Classic,profile,Jameleddine.Benchihaoui@omv.com,250623
+Ben Chihaoui Jameleddine (XBENCHIJA),XBENCHIJA,Jameleddine.Benchihaoui@omv.com,data.Tunisia,data,Jameleddine.Benchihaoui@omv.com,250623
+Khalifa Mohammad (X01022534),X01022534,Mohammad.Khalifa@omv.com,A08.profile.Projectmanager.Classic,profile,Mohammad.Khalifa@omv.com,250623
+Khalifa Mohammad (X01022534),X01022534,Mohammad.Khalifa@omv.com,data.Tunisia,data,Mohammad.Khalifa@omv.com,250623
+Audochii Nona-Alice (X01013355),X01013355,Nona.Audochii@petrom.com,A13.profile.Economics.Classic,profile,Nona.Audochii@petrom.com,250624
+Audochii Nona-Alice (X01013355),X01013355,Nona.Audochii@petrom.com,A14.profile.Economics.Regimes,profile,Nona.Audochii@petrom.com,250624
+Audochii Nona-Alice (X01013355),X01013355,Nona.Audochii@petrom.com,data.Romania,data,Nona.Audochii@petrom.com,250624
+Audochii Nona-Alice (X01013355),X01013355,Nona.Audochii@petrom.com,data.Georgia,data,Nona.Audochii@petrom.com,250624
+Audochii Nona-Alice (X01013355),X01013355,Nona.Audochii@petrom.com,data.Bulgaria,data,Nona.Audochii@petrom.com,250624
+Schlager Ramona-Florentina (X01008921),X01008921,RamonaFlorentina.Schlager@external.petrom.com,A16.profile.Finance.Classic,profile,RamonaFlorentina.Schlager@external.petrom.com,250624
+Schlager Ramona-Florentina (X01008921),X01008921,RamonaFlorentina.Schlager@external.petrom.com,data.Romania,data,RamonaFlorentina.Schlager@external.petrom.com,250624
+Schlager Ramona-Florentina (X01008921),X01008921,RamonaFlorentina.Schlager@external.petrom.com,data.Bulgaria,data,RamonaFlorentina.Schlager@external.petrom.com,250624

@@ -1,0 +1,37 @@
+Id,Name,Description,Comments
+,temp.adjust.admin,temp.adjust.admin,Adjustment Document only
+,temp.adjust.admin.deny,temp.adjust.admin.deny,Adjustment Document only
+,temp.adjust.admin.readonly,temp.adjust.admin.readonly,Adjustment Document only
+,temp.adjust.eco,temp.adjust.eco,Adjustment Document only
+,temp.adjust.eco.deny,temp.adjust.eco.deny,Adjustment Document only
+,temp.adjust.eco.readonly,temp.adjust.eco.readonly,Adjustment Document only
+,temp.adjust.ecoresults,temp.adjust.ecoresults,Adjustment Document only
+,temp.adjust.ecoresults.deny,temp.adjust.ecoresults.deny,Adjustment Document only
+,temp.adjust.ecoresults.readonly,temp.adjust.ecoresults.readonly,Adjustment Document only
+,temp.adjust.fin,temp.adjust.fin,Adjustment Document only
+,temp.adjust.fin.deny,temp.adjust.fin.deny,Adjustment Document only
+,temp.adjust.fin.readonly,temp.adjust.fin.readonly,Adjustment Document only
+,temp.adjust.input,temp.adjust.input,Adjustment Document only
+,temp.adjust.input.deny,temp.adjust.input.deny,Adjustment Document only
+,temp.adjust.input.readonly,temp.adjust.input.readonly,Adjustment Document only
+,temp.admin,temp.admin,
+,temp.admin.deny,temp.admin.deny,
+,temp.admin.readonly,temp.admin.readonly,
+,temp.calc,temp.calc,DF Templates: Calculation Tab full access
+,temp.calc.deny,temp.calc.deny,DF Templates: Calculation Tab readonly access
+,temp.calc.readonly,temp.calc.readonly,DF Templates: Calculation Tab NO access
+,temp.economics,temp.economics,
+,temp.economics.deny,temp.economics.deny,
+,temp.economics.readonly,temp.economics.readonly,
+,temp.ecoresults,temp.ecoresults,
+,temp.ecoresults.deny,temp.ecoresults.deny,
+,temp.ecoresults.readonly,temp.ecoresults.readonly,
+,temp.financials,temp.financials,
+,temp.financials.deny,temp.financials.deny,
+,temp.financials.readonly,temp.financials.readonly,
+,temp.input,temp.input,
+,temp.input.deny,temp.input.deny,
+,temp.input.readonly,temp.input.readonly,
+,temp.quicklook,temp.quicklook,DF Templates: Quicklook Results Tab full access
+,temp.quicklook.readonly,temp.quicklook.readonly,DF Templates: Quicklook Results Tab readonly access
+,temp.quicklook.deny,temp.quicklook.deny,DF Templates: Quicklook Results Tab NO access

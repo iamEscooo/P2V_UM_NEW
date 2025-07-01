@@ -1,0 +1,4 @@
+﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
+Hubbig Martin,MARTIN26,SAML2,,Martin.Hubbig@omv.com,Martin.Hubbig@omv.com,EE-R Reserves & Resources,,FALSE,
+Schumacher Georg,X01SCHGEO,SAML2,,Georg.Schumacher@petrom.com,Georg.Schumacher@petrom.com,FEE-O Economics & Planning - Ops.,,FALSE,
+Coada-Petre Madalina,X01024526,SAML2,,Madalina.CoadaPetre@omv.com,Madalina.CoadaPetre@omv.com,FEE-O Economics & Planning - Ops.,,FALSE,

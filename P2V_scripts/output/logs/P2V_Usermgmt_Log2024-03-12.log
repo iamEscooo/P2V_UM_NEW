@@ -1,0 +1,12 @@
+﻿[2024-03-12 14:14:50] - [INFO] [WW/adminx449222] started check_userprofile -xkey DAVID199
+[2024-03-12 14:14:50] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-03-12 18:35:12] - [INFO] [WW/adminx449222] started check_userprofile -xkey DAVID199
+[2024-03-12 18:35:12] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-03-12 18:35:36] - [INFO] [WW/adminx449222] started check_userprofile -xkey X450487
+[2024-03-12 18:35:36] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-03-12 18:57:58] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-03-12 18:57:58] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-03-12 19:01:42] - [INFO] loading userlist from tenant P2V-PROD
+[2024-03-12 19:16:16] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-03-12 19:16:16] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-03-12 19:17:27] - [INFO] loading userlist from tenant P2V_TEST

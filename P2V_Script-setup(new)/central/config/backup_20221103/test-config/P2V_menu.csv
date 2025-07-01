@@ -1,0 +1,29 @@
+id,Section,title,description,script
+1,Check user accounts,Check user profile,Check individual user(s) in Active Directory and PS,\check_userprofile.ps1
+2,Check user accounts,P2V_user profile,Check individual user(s) in (all) P2V tenants,\check_P2V_user.ps1
+3,Userrequest,[STEP1] sync user ,synchronize single user with AD (P2V_sync_user.ps1),\P2V_sync_user.ps1
+4,Userrequest,[STEP2] Apply profiles ,apply user profiles (P2V_set_profiles.ps1),\P2V_set_profiles.ps1
+5,Userrequest,[STEP3] Check  permissions (datagroups),calculate Access groups(datagroups),\P2V_calculate_groups_dependencies.ps1
+6,Userrequest,[STEP4] Check  permissions (BD-groups),overwrite BD-permission,\P2V_calculate_groups_bd
+7,Userrequest,[STEP5] Check  permissions (template),calculate Access groups (template),\P2V_calculate_groups.ps1
+8,Manage user accounts,sync user,synchronize single user with AD (P2V_sync_user.ps1),\P2V_sync_user.ps1
+9,Manage user accounts,update user infos,get updated user infos from AD  (P2V_update_tenantusers.ps1),\P2V_update_tenantusers.ps1
+10,Manage user accounts,sync tenant,synchronize tenant with AD (P2V_sync_tenant.ps1),\P2V_sync_tenant.ps1
+11,Export user lists,AD user lists,export Active Directory lists for P2V (P2V_export_AD_users.ps1),\P2V_export_AD_users.ps1
+12,Export user lists,P2V user lists,export P2V userlists all tenants,\P2V_export_users.ps1;pause
+13,Export user lists,P2V auditlogs,export P2V auditlogs,\P2V_export_auditlogs.ps1
+14,Backup / Restore,Backup,backup user-workgroup settings,\get_ps_users_and_groups.ps1
+15,Backup / Restore,Restore,restore user-workgroup settings,\update_ps_users_and_groups.ps1
+16,Profiles,Profile Manager,Profile manager,\P2V_profile_manager.ps1
+17,Profiles,Apply profiles,apply user profiles,\P2V_set_profiles.ps1
+18,Profiles,Check  permissions (template),calculate Access groups (template),\P2V_calculate_groups.ps1
+19,Profiles,Check  permissions (datagroups),calculate Access groups(datagroups),\P2V_calculate_groups_dependencies.ps1
+20,Profiles,manage user workgroups  (single user),manage user workgroups  (single user),\P2V_new_users_tenant.ps1
+21,Profiles,manage user workgroups - UI (single user),manage user workgroups - UI (single user),\P2V_users_WG_assignment_1.ps1
+22,Administration,check uptime,check Server uptime,\admin_central_uptime.ps1
+23,Administration,check user sessions,,\admin_central_check_user_session.ps1
+24,Administration,check IPS server,check IPS Servers' monitoring port,\admin_check_ips.ps1
+25,Administration,check Admins,check admin accounts,\admin_check_P2V_admins.ps1
+26,Administration,check Aucerna ,check all AUCERNA accounts,\check_aucerna.ps1
+27,Administration,check last logins,check last logins,\admin_check_P2V_lastlogin.ps1
+28,Administration,check AD groups,check if all AD groups are set up,\admin_AD_check_groups.ps1

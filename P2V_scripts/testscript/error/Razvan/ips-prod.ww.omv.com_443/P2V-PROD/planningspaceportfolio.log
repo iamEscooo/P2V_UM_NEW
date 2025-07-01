@@ -1,0 +1,70 @@
+2023-02-15 05:17:56,345 [7892][1] WARN  planningspaceportfolio - [Confirm Save] The Portfolio file <\\Client\C$\data_local\JC\Risked Unrisked_incl TG_divest IN and analogs.pplan> has some unsaved changes. 
+
+Would you like to save the Portfolio file before closing?
+
+2023-02-15 05:40:03,920 [7892][1] WARN  planningspaceportfolio - [Confirm Save] The Portfolio file <\\Client\C$\data_local\JC\Risked Unrisked_incl TG_and_EXP.pplan> has some unsaved changes. 
+
+Would you like to save the Portfolio file before closing?
+
+2023-02-15 05:40:15,043 [7892][1] INFO  planningspaceportfolio - Application exited with code 0
+2023-02-28 10:59:58,122 [12712][1] WARN  planningspaceportfolio - [Confirm Save] The Portfolio file <\\Client\C$\Users\X01001805\Downloads\Round4 plus puffin plus MTP.pplan> has some unsaved changes. 
+
+Would you like to save the Portfolio file before closing?
+
+2023-02-28 11:27:51,739 [12712][1] WARN  planningspaceportfolio - [Confirm Save] The Portfolio file <\\Client\C$\Users\X01001805\Downloads\Round4 plus puffin plus MTP.pplan> has some unsaved changes. 
+
+Would you like to save the Portfolio file before closing?
+
+2023-02-28 12:43:14,276 [12712][1] INFO  planningspaceportfolio - Application exited with code 0
+2023-03-09 16:09:49,089 [17240][1] INFO  planningspaceportfolio - [Portfolio] Properties have been exported successfully.
+2023-03-09 20:29:59,150 [17240][1] WARN  planningspaceportfolio - [Confirm Save] The Portfolio file <\\Client\C$\Users\X01001805\Documents\PostPAK_MTP2023.pplan> has some unsaved changes. 
+
+Would you like to save the Portfolio file before closing?
+
+2023-03-22 10:12:10,412 [19708][1] ERROR planningspaceportfolio - [SOMVAT422017][WW\x01001805][C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace Portfolio\PlanningSpacePortfolio.exe][Portfolio] The data loading has completed unsuccessfully.
+System.TimeoutException: The request channel timed out while waiting for a reply after 00:02:00. Increase the timeout value passed to the call to Request or increase the SendTimeout value on the Binding. The time allotted to this operation may have been a portion of a longer timeout. ---> System.TimeoutException: The read from the pipe did not complete within the allotted timeout of 00:02:00. The time allotted to this operation may have been a portion of a longer timeout. ---> System.IO.IOException: The read operation failed, see inner exception. ---> System.TimeoutException: The read from the pipe did not complete within the allotted timeout of 00:02:00. The time allotted to this operation may have been a portion of a longer timeout.
+   at System.ServiceModel.Channels.PipeConnection.WaitForSyncRead(TimeSpan timeout, Boolean traceExceptionsAsErrors)
+   at System.ServiceModel.Channels.PipeConnection.Read(Byte[] buffer, Int32 offset, Int32 size, TimeSpan timeout)
+   at System.ServiceModel.Channels.DelegatingConnection.Read(Byte[] buffer, Int32 offset, Int32 size, TimeSpan timeout)
+   at System.ServiceModel.Channels.ConnectionStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at System.Net.FixedSizeReader.ReadPacket(Byte[] buffer, Int32 offset, Int32 count)
+   at System.Net.Security.NegotiateStream.StartFrameHeader(Byte[] buffer, Int32 offset, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.NegotiateStream.ProcessRead(Byte[] buffer, Int32 offset, Int32 count, AsyncProtocolRequest asyncRequest)
+   --- End of inner exception stack trace ---
+   at System.Net.Security.NegotiateStream.ProcessRead(Byte[] buffer, Int32 offset, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.NegotiateStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at System.ServiceModel.Channels.StreamConnection.Read(Byte[] buffer, Int32 offset, Int32 size, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.StreamConnection.Read(Byte[] buffer, Int32 offset, Int32 size, TimeSpan timeout)
+   at System.ServiceModel.Channels.SingletonConnectionReader.Receive(TimeSpan timeout)
+   at System.ServiceModel.Channels.StreamedFramingRequestChannel.StreamedFramingRequest.WaitForReply(TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+
+Server stack trace: 
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Palantir.Services.IHostInteractionService.UpdateViewState(String appProcessName, String viewName, Nullable`1 isVisible, Nullable`1 isEnabled, Nullable`1 isSelected)
+   at Palantir.Services.HostInteractionService.<>c__DisplayClass5_0.<UpdateViewState>b__0(IHostInteractionService proxy)
+   at Palantir.Services.HostInteractionService.<>c__DisplayClass0_0.<CallService>b__0(IHostInteractionService proxy)
+   at Palantir.Services.HostInteractionService.CallService[TResult](Func`2 function)
+   at Palantir.Services.HostInteractionService.UpdateViewState(String appProcessName, String viewName, Nullable`1 isVisible, Nullable`1 isEnabled, Nullable`1 isSelected)
+   at Palantir.Portfolio.Components.Common.ExportedPlanViewsBehavior.ActivateView(Object view)
+   at Palantir.Portfolio.Components.Common.ExportedPlanViewsBehavior.UpdateViewsOnRegion(List`1 viewsToBeLoaded)
+   at Palantir.Portfolio.Components.Common.ExportedPlanViewsBehavior.OnBeforeDataLoadedFired(DataLoadedEventArgs args)
+   at Microsoft.Practices.Prism.Events.EventSubscription`1.<>c__DisplayClass2.<GetExecutionStrategy>b__0(Object[] arguments)
+   at Microsoft.Practices.Prism.Events.EventBase.InternalPublish(Object[] arguments)
+   at Palantir.Portfolio.PlanDocument.RaiseDataLoaded()
+   at Palantir.Portfolio.PlanDocument.DoAfterDataLoaded(Boolean isCanceled)
+   at Palantir.Portfolio.UIControl.DataSourceEditor.<LoadPlanDocumentData>d__13.MoveNext()
+2023-03-22 20:26:53,240 [19708][1] WARN  planningspaceportfolio - [Confirm Save] The Portfolio file <\\Client\C$\Users\X01001805\Downloads\Latest Portfolio Files from Jan\TEMPLATE_DO_NOT_OVERWRITE.pplan> has some unsaved changes. 
+
+Would you like to save the Portfolio file before closing?
+

@@ -1,0 +1,241 @@
+displayname,xkey,logonID,profile
+RR - Demo User 01 - Light.HO,demo01,demo01,A04.profile.Light
+RR - Demo User 01 - Light.HO,demo01,demo01,data.Corporate
+RR - Demo User 02 - Light.NO,demo02,demo02,A04.profile.Light
+RR - Demo User 02 - Light.NO,demo02,demo02,data.Norway
+RR - Demo User 03 - Light.FIN.PORT.NO,demo03,demo03,A06.profile.Light.Fin.Port
+RR - Demo User 03 - Light.FIN.PORT.NO,demo03,demo03,data.Norway
+RR - Demo User 04 - Light.RES.HO,demo04,demo04,A05.profile.Light.reserves
+RR - Demo User 04 - Light.RES.HO,demo04,demo04,data.Corporate
+RR - Demo User 05 - Light.FIN.PORT.HO,demo05,demo05,A06.profile.Light.Fin.Port
+RR - Demo User 05 - Light.FIN.PORT.HO,demo05,demo05,data.Corporate
+RR - Demo User 06 - PetroVR.Headless,demo06,demo06,A02.profile.PetroVR
+RR - Demo User 07 - CAPDAT.HO,demo07,demo07,A03.profile.CAPDAT
+RR - Demo User 07 - CAPDAT.HO,demo07,demo07,data.Corporate
+RR - Demo User 08 - CAPDAT.NO,demo08,demo08,A03.profile.CAPDAT
+RR - Demo User 08 - CAPDAT.NO,demo08,demo08,data.Norway
+RR - Demo User 09 - Light.PVR.HO,demo09,demo09,A02.profile.PetroVR
+RR - Demo User 09 - Light.PVR.HO,demo09,demo09,A04.profile.Light
+RR - Demo User 09 - Light.PVR.HO,demo09,demo09,data.Corporate
+RR - Demo User 10 - PM.PET.RO,demo10,demo10,A07.profile.Projectmanager.PET
+RR - Demo User 10 - PM.PET.RO,demo10,demo10,data.Romania
+RR - Demo User 11 - PM.Classic.NO,demo11,demo11,A08.profile.Projectmanager.Classic
+RR - Demo User 11 - PM.Classic.NO,demo11,demo11,data.Norway
+RR - Demo User 12 - SPARE,demo12,demo12,00DEFAULT
+RR - Demo User 13 - SPARE,demo13,demo13,00DEFAULT
+RR - Demo User 14 - PM.LCB.HO,demo14,demo14,A09.profile.Projectmanager.LCB
+RR - Demo User 14 - PM.LCB.HO,demo14,demo14,data.Corporate
+RR - Demo User 15 - PM.Classic.PVR.NO,demo15,demo15,00DEFAULT
+RR - Demo User 15 - PM.Classic.PVR.NO,demo15,demo15,A02.profile.PetroVR
+RR - Demo User 15 - PM.Classic.PVR.NO,demo15,demo15,A08.profile.Projectmanager.Classic
+RR - Demo User 15 - PM.Classic.PVR.NO,demo15,demo15,data.Norway
+RR - Demo User 16 - SPARE,demo16,demo16,00DEFAULT
+RR - Demo User 17 - SPARE,demo17,demo17,00DEFAULT
+RR - Demo User 18 - SPARE,demo18,demo18,00DEFAULT
+RR - Demo User 19 - SPARE,demo19,demo19,00DEFAULT
+RR - Demo User 20 - PLAN.NO,demo20,demo20,A10.profile.Planning.Classic
+RR - Demo User 20 - PLAN.NO,demo20,demo20,data.Norway
+RR - Demo User 21 - PLAN.HO,demo21,demo21,A10.profile.Planning.Classic
+RR - Demo User 21 - PLAN.HO,demo21,demo21,data.Corporate
+RR - Demo User 22 - DF.SuperUser,demo22,demo22,A11.profile.Planning.Plus
+RR - Demo User 22 - DF.SuperUser,demo22,demo22,A12.profile.Auditor
+RR - Demo User 44 - PSF.SuperUser,demo44,demo44,A12.profile.Auditor
+RR - Demo User 23 - SPARE,demo23,demo23,00DEFAULT
+RR - Demo User 24 - SPARE,demo24,demo24,00DEFAULT
+RR - Demo User 25 - SPARE,demo25,demo25,00DEFAULT
+RR - Demo User 26 - SPARE,demo26,demo26,00DEFAULT
+RR - Demo User 27 - SPARE,demo27,demo27,00DEFAULT
+RR - Demo User 28 - SPARE,demo28,demo28,00DEFAULT
+RR - Demo User 29 - SPARE,demo29,demo29,00DEFAULT
+RR - Demo User 30 - ECO.NO,demo30,demo30,A13.profile.Economics.Classic
+RR - Demo User 30 - ECO.NO,demo30,demo30,data.Norway
+RR - Demo User 31 - ECOPlusCoder.NO,demo31,demo31,A13.profile.Economics.Classic
+RR - Demo User 31 - ECOPlusCoder.NO,demo31,demo31,A14.profile.Economics.Regimes
+RR - Demo User 31 - ECOPlusCoder.NO,demo31,demo31,A15.profile.Economics.Plus
+RR - Demo User 31 - ECOPlusCoder.NO,demo31,demo31,data.Norway
+RR - Demo User 32 - ECOCoder.NO,demo32,demo32,A13.profile.Economics.Classic
+RR - Demo User 32 - ECOCoder.NO,demo32,demo32,A14.profile.Economics.Regimes
+RR - Demo User 32 - ECOCoder.NO,demo32,demo32,data.Norway
+RR - Demo User 33 - ECOPlus.HO,demo33,demo33,A13.profile.Economics.Classic
+RR - Demo User 33 - ECOPlus.HO,demo33,demo33,A15.profile.Economics.Plus
+RR - Demo User 33 - ECOPlus.HO,demo33,demo33,data.Corporate
+RR - Demo User 34 - ECOPlusCoder.HO,demo34,demo34,A13.profile.Economics.Classic
+RR - Demo User 34 - ECOPlusCoder.HO,demo34,demo34,A14.profile.Economics.Regimes
+RR - Demo User 34 - ECOPlusCoder.HO,demo34,demo34,A15.profile.Economics.Plus
+RR - Demo User 34 - ECOPlusCoder.HO,demo34,demo34,data.Corporate
+RR - Demo User 35 - PSE.SuperUser,demo35,demo35,A12.profile.Auditor
+RR - Demo User 35 - PSE.SuperUser,demo35,demo35,A13.profile.Economics.Classic
+RR - Demo User 35 - PSE.SuperUser,demo35,demo35,A14.profile.Economics.Regimes
+RR - Demo User 35 - PSE.SuperUser,demo35,demo35,A15.profile.Economics.Plus
+RR - Demo User 35 - PSE.SuperUser,demo35,demo35,data.Corporate
+RR - Demo User 36 - PLAN.ECO.NO,demo36,demo36,A10.profile.Planning.Classic
+RR - Demo User 36 - PLAN.ECO.NO,demo36,demo36,A13.profile.Economics.Classic
+RR - Demo User 36 - PLAN.ECO.NO,demo36,demo36,data.Norway
+RR - Demo User 37 - SPARE,demo37,demo37,00DEFAULT
+RR - Demo User 38 -SPARE,demo38,demo38,00DEFAULT
+RR - Demo User 39 - SPARE,demo39,demo39,00DEFAULT
+RR - Demo User 40 - FIN.NO,demo40,demo40,A16.profile.Finance.Classic
+RR - Demo User 40 - FIN.NO,demo40,demo40,data.Norway
+RR - Demo User 41 - FINCoder.NO,demo41,demo41,A16.profile.Finance.Classic
+RR - Demo User 41 - FINCoder.NO,demo41,demo41,A17.profile.Finance.Regimes
+RR - Demo User 41 - FINCoder.NO,demo41,demo41,data.Norway
+RR - Demo User 42 - FIN.HO,demo42,demo42,A16.profile.Finance.Classic
+RR - Demo User 43 - FINCoder.HO,demo43,demo43,A16.profile.Finance.Classic
+RR - Demo User 44 - PSF.SuperUser,demo44,demo44,A16.profile.Finance.Classic
+RR - Demo User 43 - FINCoder.HO,demo43,demo43,A17.profile.Finance.Regimes
+RR - Demo User 44 - PSF.SuperUser,demo44,demo44,A17.profile.Finance.Regimes
+RR - Demo User 42 - FIN.HO,demo42,demo42,A18.profile.Finance.Plus
+RR - Demo User 43 - FINCoder.HO,demo43,demo43,A18.profile.Finance.Plus
+RR - Demo User 44 - PSF.SuperUser,demo44,demo44,A18.profile.Finance.Plus
+RR - Demo User 22 - DF.SuperUser,demo22,demo22,data.Corporate
+RR - Demo User 42 - FIN.HO,demo42,demo42,data.Corporate
+RR - Demo User 43 - FINCoder.HO,demo43,demo43,data.Corporate
+RR - Demo User 44 - PSF.SuperUser,demo44,demo44,data.Corporate
+RR - Demo User 45 - PLAN.ECO.FIN.NO,demo45,demo45,A10.profile.Planning.Classic
+RR - Demo User 45 - PLAN.ECO.FIN.NO,demo45,demo45,A13.profile.Economics.Classic
+RR - Demo User 45 - PLAN.ECO.FIN.NO,demo45,demo45,A16.profile.Finance.Classic
+RR - Demo User 45 - PLAN.ECO.FIN.NO,demo45,demo45,data.Norway
+RR - Demo User 46 - PLAN.ECO.FINCoder.NO,demo46,demo46,A10.profile.Planning.Classic
+RR - Demo User 46 - PLAN.ECO.FINCoder.NO,demo46,demo46,A13.profile.Economics.Classic
+RR - Demo User 46 - PLAN.ECO.FINCoder.NO,demo46,demo46,A16.profile.Finance.Classic
+RR - Demo User 46 - PLAN.ECO.FINCoder.NO,demo46,demo46,A17.profile.Finance.Regimes
+RR - Demo User 46 - PLAN.ECO.FINCoder.NO,demo46,demo46,data.Norway
+RR - Demo User 47 - ECO.FIN.NO,demo47,demo47,A13.profile.Economics.Classic
+RR - Demo User 47 - ECO.FIN.NO,demo47,demo47,A16.profile.Finance.Classic
+RR - Demo User 47 - ECO.FIN.NO,demo47,demo47,data.Norway
+RR - Demo User 48 - SPARE,demo48,demo48,00DEFAULT
+RR - Demo User 49 - SPARE,demo49,demo49,00DEFAULT
+RR - Demo User 50 - PORT.HO,demo50,demo50,A19.profile.Portfolio.Classic
+RR - Demo User 50 - PORT.HO,demo50,demo50,data.Corporate
+RR - Demo User 51 - PORT.Petrom,demo51,demo51,A19.profile.Portfolio.Classic
+RR - Demo User 51 - PORT.Petrom,demo51,demo51,data.Bulgaria
+RR - Demo User 51 - PORT.Petrom,demo51,demo51,data.Georgia
+RR - Demo User 51 - PORT.Petrom,demo51,demo51,data.Romania
+RR - Demo User 52 - PORT.Superuser,demo52,demo52,A12.profile.Auditor
+RR - Demo User 52 - PORT.Superuser,demo52,demo52,A26.profile.Portfolio.Plus
+RR - Demo User 52 - PORT.Superuser,demo52,demo52,data.Corporate
+RR - Demo User 53 - Portfolio.Plus.HO,demo53,demo53,00DEFAULT
+RR - Demo User 53 - Portfolio.Plus.HO,demo53,demo53,A26.profile.Portfolio.Plus
+RR - Demo User 53 - Portfolio.Plus.HO,demo53,demo53,data.Corporate
+RR - Demo User 54 - SPARE,demo54,demo54,00DEFAULT
+RR - Demo User 55 - SPARE,demo55,demo55,00DEFAULT
+RR - Demo User 56 - SPARE,demo56,demo56,00DEFAULT
+RR - Demo User 57 - SPARE,demo57,demo57,00DEFAULT
+RR - Demo User 58 - SPARE,demo58,demo58,00DEFAULT
+RR - Demo User 59 - SPARE,demo59,demo59,00DEFAULT
+RR - Demo User 60 - RES.NO,demo60,demo60,A20.profile.Reserves.local.QRE
+RR - Demo User 60 - RES.NO,demo60,demo60,data.Norway
+RR - Demo User 61 - RES.HO,demo61,demo61,A21.profile.Reserves.Headoffice
+RR - Demo User 61 - RES.HO,demo61,demo61,data.Corporate
+RR - Demo User 62 - RES.Power.HO,demo62,demo62,A17.profile.Finance.Regimes
+RR - Demo User 62 - RES.Power.HO,demo62,demo62,A22.profile.Reserves.Headoffice.Power
+RR - Demo User 62 - RES.Power.HO,demo62,demo62,data.Corporate
+RR - Demo User 63 - RES.Approver.HO,demo63,demo63,A23.profile.Reserves.Headoffice.Approve
+RR - Demo User 63 - RES.Approver.HO,demo63,demo63,data.Corporate
+RR - Demo User 64 - RES.PVR.NO,demo64,demo64,A02.profile.PetroVR
+RR - Demo User 64 - RES.PVR.NO,demo64,demo64,A20.profile.Reserves.local.QRE
+RR - Demo User 64 - RES.PVR.NO,demo64,demo64,data.Norway
+RR - Demo User 65 - SPARE,demo65,demo65,00DEFAULT
+RR - Demo User 66 - SPARE,demo66,demo66,data.Corporate
+RR - Demo User 67 - SPARE,demo67,demo67,00DEFAULT
+RR - Demo User 68 - Exp.Assurance.HO,demo68,demo68,A24.profile.Exploration.Assurance
+RR - Demo User 68 - Exp.Assurance.HO,demo68,demo68,data.Corporate
+RR - Demo User 69 -  Exp.OA.Admin.HO,demo69,demo69,A25.profile.Exploration.OA.Admin
+RR - Demo User 69 -  Exp.OA.Admin.HO,demo69,demo69,data.Corporate
+RR - Demo User 70 - SPARE,demo70,demo70,00DEFAULT
+RR - Demo User 71 - SPARE,demo71,demo71,00DEFAULT
+RR - Demo User 72 - Exp.Ass.OA.Admin.HO,demo72,demo72,A24.profile.Exploration.Assurance
+RR - Demo User 72 - Exp.Ass.OA.Admin.HO,demo72,demo72,A25.profile.Exploration.OA.Admin
+RR - Demo User 72 - Exp.Ass.OA.Admin.HO,demo72,demo72,data.Corporate
+RR - Demo User 73 - SPARE,demo73,demo73,00DEFAULT
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,data.Corporate
+,,,A12.profile.Auditor
+,,,A26.profile.Portfolio.Plus
+,,,data.Corporate
+,,,A26.profile.Portfolio.Plus
+,,,data.Norway
+,,,A20.profile.Reserves.local.QRE
+,,,data.Corporate
+,,,A21.profile.Reserves.Headoffice
+,,,data.Corporate
+,,,A22.profile.Reserves.Headoffice.Power
+,,,A17.profile.Finance.Regimes
+,,,data.Corporate
+,,,A22.profile.Reserves.Headoffice.Power
+,,,A23.profile.Reserves.Headoffice.Approve
+,,,data.Corporate
+,,,data.Corporate
+,,,A24.profile.Exploration.Assurance
+,,,data.Corporate
+,,,A25.profile.Exploration.OA.Admin
+,,,data.Corporate
+,,,A24.profile.Exploration.Assurance
+,,,A25.profile.Exploration.OA.Admin
+,,,data.Corporate
+,,,A22.profile.Reserves.Headoffice.Power
+,,,A17.profile.Finance.Regimes
+,,,A18.profile.Finance.Plus

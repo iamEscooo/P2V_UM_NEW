@@ -1,0 +1,418 @@
+﻿Name,Login ID,Authentication method,Domain,Description,Deactivated,Workgroup Name,Workgroup Description,Workgroup Comment
+Administrator,Administrator,LOCAL,,Administrator,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Alexandru Andreea,XALEXAN,WINDOWS_AD,ww,OMV Team RU,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Alexandru Andreea,XALEXAN,WINDOWS_AD,ww,OMV Team RU,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Alexandru Andreea,XALEXAN,WINDOWS_AD,ww,OMV Team RU,false,OMV_Russia,are allowed to see on data from BO Russia,OMV BO Russia users
+Andreev Andrey,XANDREEV,WINDOWS_AD,ww,OMV Team RU,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Andreev Andrey,XANDREEV,WINDOWS_AD,ww,OMV Team RU,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Andreev Andrey,XANDREEV,WINDOWS_AD,ww,OMV Team RU,false,OMV_Russia,are allowed to see on data from BO Russia,OMV BO Russia users
+Antes Gerald,X449077,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Antes Gerald,X449077,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Antes Gerald,X449077,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Arekhov Vladislav,VLADISLAV9,WINDOWS_AD,ww,OMV Team RU,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Arekhov Vladislav,VLADISLAV9,WINDOWS_AD,ww,OMV Team RU,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Arekhov Vladislav,VLADISLAV9,WINDOWS_AD,ww,OMV Team RU,false,OMV_Russia,are allowed to see on data from BO Russia,OMV BO Russia users
+Asmar Chloe,CHLOE1,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Asmar Chloe,CHLOE1,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Asmar Chloe,CHLOE1,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Asmar Chloe,CHLOE1,WINDOWS_AD,ww,OMV Team headoffice,false,Economics_key,Economics user in HO + BO,Economics key user
+Balomiri Victor-Emanuel,VICTOR8,WINDOWS_AD,ww,OMV Team RU,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Balomiri Victor-Emanuel,VICTOR8,WINDOWS_AD,ww,OMV Team RU,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Balomiri Victor-Emanuel,VICTOR8,WINDOWS_AD,ww,OMV Team RU,false,OMV_Russia,are allowed to see on data from BO Russia,OMV BO Russia users
+Barbu Ionica,X01000651,WINDOWS_AD,ww,OMV Team Petrom,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Barbu Ionica,X01000651,WINDOWS_AD,ww,OMV Team Petrom,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Barbu Ionica,X01000651,WINDOWS_AD,ww,OMV Team Petrom,false,OMV_Petrom,are allowed to see on data from OMV Petrom,OMV Petrom users
+Behrend Jens,X011450,WINDOWS_AD,ww,OMV Team AT headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Behrend Jens,X011450,WINDOWS_AD,ww,OMV Team AT headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Behrend Jens,X011450,WINDOWS_AD,ww,OMV Team AT headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Behrend Jens,X011450,WINDOWS_AD,ww,OMV Team AT headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Berge Siri,SIRI02,WINDOWS_AD,ww,OMV Team NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Berge Siri,SIRI02,WINDOWS_AD,ww,OMV Team NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Berge Siri,SIRI02,WINDOWS_AD,ww,OMV Team NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Berghofer Karl,XBERGHOKA,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Berghofer Karl,XBERGHOKA,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Blazekovic Sasa,X011451,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Blazekovic Sasa,X011451,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Blecha Christian,X450582,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Blecha Christian,X450582,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Blecha Christian,X450582,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Blecha Christian,X450582,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Bresciani Marco,MARCO9,WINDOWS_AD,ww,OMV Team NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Bresciani Marco,MARCO9,WINDOWS_AD,ww,OMV Team NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Bresciani Marco,MARCO9,WINDOWS_AD,ww,OMV Team NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Brocklebank Doug (Ext),DOUG04,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Brocklebank Doug (Ext),DOUG04,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Brocklebank Doug (Ext),DOUG04,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Bruns Dimitri,XBRUNSDI,WINDOWS_AD,ww,OMV Team NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Bruns Dimitri,XBRUNSDI,WINDOWS_AD,ww,OMV Team NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Bruns Dimitri,XBRUNSDI,WINDOWS_AD,ww,OMV Team NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Bruset Lars,LARS3,WINDOWS_AD,ww,OMV Team NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Bruset Lars,LARS3,WINDOWS_AD,ww,OMV Team NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Bruset Lars,LARS3,WINDOWS_AD,ww,OMV Team NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Buha Sebastian,SEBASTIAN15,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Buha Sebastian,SEBASTIAN15,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Buha Sebastian,SEBASTIAN15,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Bulgariu Razvan,X01001805,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Bulgariu Razvan,X01001805,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Bulgariu Razvan,X01001805,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Bulgariu Razvan,X01001805,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Bulgariu Razvan,X01001805,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Carlier Gael (Ext),gael04,LOCAL,,AUCERNA,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Carlier Gael (Ext),gael04,LOCAL,,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Carlier Gael (Ext),gael04,LOCAL,,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Carlier Gael (Ext),gael04,LOCAL,,AUCERNA,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Carlier Gael (Ext),GAEL04,WINDOWS_AD,ww,AUCERNA,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Carlier Gael (Ext),GAEL04,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Carlier Gael (Ext),GAEL04,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Carlier Gael (Ext),GAEL04,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Carlier Gael (Ext),GAEL04,WINDOWS_AD,ww,AUCERNA,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Carrasco Armando (Ext),ARMANDO1,WINDOWS_AD,ww,AUCERNA,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Carrasco Armando (Ext),ARMANDO1,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Carrasco Armando (Ext),ARMANDO1,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Carrasco Armando (Ext),ARMANDO1,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Carrasco Armando (Ext),ARMANDO1,WINDOWS_AD,ww,AUCERNA,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Carrasco Armando (Ext),ARMANDO1,LOCAL,,AUCERNA (Local),false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Carrasco Armando (Ext),ARMANDO1,LOCAL,,AUCERNA (Local),false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Carrasco Armando (Ext),ARMANDO1,LOCAL,,AUCERNA (Local),false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Carrasco Armando (Ext),ARMANDO1,LOCAL,,AUCERNA (Local),false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Coada-Petre Madalina,X01024526,WINDOWS_AD,ww,OMV Team AT NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Coada-Petre Madalina,X01024526,WINDOWS_AD,ww,OMV Team AT NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Coada-Petre Madalina,X01024526,WINDOWS_AD,ww,OMV Team AT NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Coughlin Matthew Kent,MATTHEW9,WINDOWS_AD,ww,OMV Team MEA TN AE YE LY,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Culjak Sandra,SANDRA18,WINDOWS_AD,ww,OMV Team Headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Culjak Sandra,SANDRA18,WINDOWS_AD,ww,OMV Team Headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Culjak Sandra,SANDRA18,WINDOWS_AD,ww,OMV Team Headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Culjak Sandra,SANDRA18,WINDOWS_AD,ww,OMV Team Headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Davidescu Bogdan-George,X01026000,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Davidescu Bogdan-George,X01026000,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Davidescu Bogdan-George,X01026000,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Dinu Bogdan-Marius,X01022417,WINDOWS_AD,ww,OMV Team NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Dinu Bogdan-Marius,X01022417,WINDOWS_AD,ww,OMV Team NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Dinu Bogdan-Marius,X01022417,WINDOWS_AD,ww,OMV Team NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Dirtl Carina,CARINA21,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Dirtl Carina,CARINA21,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Dirtl Carina,CARINA21,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Dirtl Carina,CARINA21,WINDOWS_AD,ww,OMV Team headoffice,false,Useradmin,permissions to add/change users,workgroups,…,User for useradministration
+Domnanovich Alexander Martin,ALEXANDER47,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Domnanovich Alexander Martin,ALEXANDER47,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Donner Josef,X451062,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Donner Josef,X451062,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Donner Josef,X451062,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Drage Lars,LARS1,WINDOWS_AD,ww,OMV Team RU,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Drage Lars,LARS1,WINDOWS_AD,ww,OMV Team RU,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Drage Lars,LARS1,WINDOWS_AD,ww,OMV Team RU,false,OMV_Russia,are allowed to see on data from BO Russia,OMV BO Russia users
+Dutzler Florian,FLORIAN109,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Dutzler Florian,FLORIAN109,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Dutzler Florian,FLORIAN109,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Dutzler Florian,FLORIAN109,WINDOWS_AD,ww,OMV Team headoffice,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Dutzler Florian,FLORIAN109,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Eichinger Michael Stefan,MICHAEL139,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Eichinger Michael Stefan,MICHAEL139,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Eichinger Michael Stefan,MICHAEL139,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Ellis Susan,SUSAN2,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Ellis Susan,SUSAN2,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Ellis Susan,SUSAN2,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Ellis Susan,SUSAN2,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Ellis Susan,SUSAN2,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Ementon Neil,NEIL08,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Ementon Neil,NEIL08,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Ementon Neil,NEIL08,WINDOWS_AD,ww,OMV Team headoffice,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Ementon Neil,NEIL08,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Enzendorfer Christian,X437426,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Enzendorfer Christian,X437426,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Fedorov Pavel,RU000076,WINDOWS_AD,ww,OMV Team RU,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Fedorov Pavel,RU000076,WINDOWS_AD,ww,OMV Team RU,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Fedorov Pavel,RU000076,WINDOWS_AD,ww,OMV Team RU,false,OMV_Russia,are allowed to see on data from BO Russia,OMV BO Russia users
+Florian Thomas,X451684,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Florian Thomas,X451684,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Führmann Paul,PAUL77,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Führmann Paul,PAUL77,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Führmann Paul,PAUL77,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Führmann Paul,PAUL77,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Gaber Christina Maria,X449891,WINDOWS_AD,ww,OMV Team Headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Gaber Christina Maria,X449891,WINDOWS_AD,ww,OMV Team Headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Gaber Christina Maria,X449891,WINDOWS_AD,ww,OMV Team Headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Gäbler Thomas,X448827,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Gäbler Thomas,X448827,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Gäbler Thomas,X448827,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Gall Sergej,SERGEJ2,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Gall Sergej,SERGEJ2,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Garzonio Luca,LUCA09,WINDOWS_AD,ww,OMV Team NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Garzonio Luca,LUCA09,WINDOWS_AD,ww,OMV Team NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Garzonio Luca,LUCA09,WINDOWS_AD,ww,OMV Team NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Gerstner Alexander,X449282,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Gerstner Alexander,X449282,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Gerstner Alexander,X449282,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Giden Ilhami,X452074,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Giden Ilhami,X452074,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Haver Reidar,REIDAR1,WINDOWS_AD,ww,OMV Team NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Haver Reidar,REIDAR1,WINDOWS_AD,ww,OMV Team NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Haver Reidar,REIDAR1,WINDOWS_AD,ww,OMV Team NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Hercus Sam,XHERCUSSA,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Hercus Sam,XHERCUSSA,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Hercus Sam,XHERCUSSA,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Hercus Sam,XHERCUSSA,WINDOWS_AD,ww,PetroVR,false,OMV_Tunisia,are allowed to see on data from BO Tunisisa,OMV BO Tunisia users
+Hollerer Andrea,X449596,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Hollerer Andrea,X449596,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Hollerer Andrea,X449596,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Hubbig Martin,MARTIN26,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Hubbig Martin,MARTIN26,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Hubbig Martin,MARTIN26,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Hubbig Martin,MARTIN26,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Hussain Fida,xhussaifi,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Hussain Fida,xhussaifi,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Hussain Fida,xhussaifi,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Hussain Fida,xhussaifi,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Hussain Fida,xhussaifi,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Hütter Kurt,X450246,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Hütter Kurt,X450246,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Iancu Simona,Simona10,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Iancu Simona,Simona10,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Iancu Simona,Simona10,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Iancu Simona,Simona10,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Jacobs Bas,X449381,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Jacobs Bas,X449381,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Jacobs Bas,X449381,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Johnson Aaron (Ext),AARON6,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Johnson Aaron (Ext),AARON6,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Johnson Aaron (Ext),AARON6,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Johnson Aaron (Ext),AARON6,LOCAL,,AUCERNA,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Johnson Aaron (Ext),AARON6,LOCAL,,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Johnson Aaron (Ext),AARON6,LOCAL,,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Johnson Aaron (Ext),AARON6,LOCAL,,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Jones Adrian,ADRIAN18,WINDOWS_AD,ww,OMV Team NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Jones Adrian,ADRIAN18,WINDOWS_AD,ww,OMV Team NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Jones Adrian,ADRIAN18,WINDOWS_AD,ww,OMV Team NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Kalas Rade,RADE01,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Kalas Rade,RADE01,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Kalas Rade,RADE01,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Klein Eduard,X409094,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Klein Eduard,X409094,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Klein Eduard,X409094,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Klein Eduard,X409094,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Klein Eduard,X409094,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Kocyigit Semra,SEMRA1,WINDOWS_AD,ww,OMV Team AT,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Kocyigit Semra,SEMRA1,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Kocyigit Semra,SEMRA1,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Kocyigit Semra,SEMRA1,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Kozlov Stanislav (Ext),STANISLAV7,LOCAL,,AUCERNA,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Kozlov Stanislav (Ext),STANISLAV7,LOCAL,,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Kozlov Stanislav (Ext),STANISLAV7,LOCAL,,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Kozlov Stanislav (Ext),STANISLAV7,LOCAL,,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Kozlov Stanislav (Ext),STANISLAV7,LOCAL,,AUCERNA,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Kozlov Stanislav (Ext),STANISLAV7,LOCAL,,AUCERNA,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Kozlov Stanislav (Ext),STANISLAV7,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Kozlov Stanislav (Ext),STANISLAV7,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Kozlov Stanislav (Ext),STANISLAV7,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Kozlov Stanislav (Ext),STANISLAV7,WINDOWS_AD,ww,AUCERNA,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Kozlov Stanislav (Ext),STANISLAV7,WINDOWS_AD,ww,AUCERNA,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Kressnik Daniel,DANIEL51,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Kressnik Daniel,DANIEL51,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Kressnik Daniel,DANIEL51,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Krüger Anna,ANNA39,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Krüger Anna,ANNA39,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Krüger Anna,ANNA39,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Kufner Martin,X449222,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Kufner Martin,X449222,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Kufner Martin,X449222,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Kufner Martin,X449222,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Kufner Martin,X449222,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Kufner Martin,X449222,WINDOWS_AD,ww,OMV Team headoffice,false,Useradmin,permissions to add/change users,workgroups,…,User for useradministration
+Kufner Martin (Admin),adminx449222@ww.omv.com,SAML2,,OMV core team,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Kufner Martin (Admin),adminx449222@ww.omv.com,SAML2,,OMV core team,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Kufner Martin (Admin),adminx449222@ww.omv.com,SAML2,,OMV core team,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Kufner Martin (Admin),adminx449222@ww.omv.com,SAML2,,OMV core team,false,Useradmin,permissions to add/change users,workgroups,…,User for useradministration
+Leitgeb Anita (Ext),ANITA15,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Leitgeb Anita (Ext),ANITA15,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Leitgeb Anita (Ext),ANITA15,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Leitner Manfred,MANFRED5,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Leitner Manfred,MANFRED5,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Lipp Felix,FELIX3,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Lipp Felix,FELIX3,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Lipp Felix,FELIX3,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Luchian Radu-Ovidiu,RADU50,WINDOWS_AD,ww,PetroVR SM,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Luchian Radu-Ovidiu,RADU50,WINDOWS_AD,ww,PetroVR SM,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Luchian Radu-Ovidiu,RADU50,WINDOWS_AD,ww,PetroVR SM,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Lukesch Stephanie,STEPHANIE3,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Lukesch Stephanie,STEPHANIE3,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Lukesch Stephanie,STEPHANIE3,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+MacDonald Doug (Ext),DOUG03,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+MacDonald Doug (Ext),DOUG03,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+MacDonald Doug (Ext),DOUG03,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+MacDonald Doug (Ext),DOUG03,WINDOWS_AD,ww,AUCERNA,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Makar Ivan,X01026348,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Makar Ivan,X01026348,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Makar Ivan,X01026348,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Maknine Yosri,XMAKNINYO,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Maknine Yosri,XMAKNINYO,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Maknine Yosri,XMAKNINYO,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Malle Christian,X450118,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Malle Christian,X450118,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Malle Christian,X450118,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Mann Trevor (Ext),TREVOR4,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Mann Trevor (Ext),TREVOR4,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Mann Trevor (Ext),TREVOR4,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+McCurdy Richard (Ext),RICHARD44,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+McCurdy Richard (Ext),RICHARD44,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+McCurdy Richard (Ext),RICHARD44,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Nolte Frank,X011798,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Nolte Frank,X011798,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Nolte Frank,X011798,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Northover Ross,X451775,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Northover Ross,X451775,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Northover Ross,X451775,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Nüsslein Markus,X450313,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Nüsslein Markus,X450313,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Nüsslein Markus,X450313,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Nüsslein Markus,X450313,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Nüsslein Markus,X450313,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Orlova Tatiana,RU000051,WINDOWS_AD,ww,OMV Team RU,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Orlova Tatiana,RU000051,WINDOWS_AD,ww,OMV Team RU,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Orlova Tatiana,RU000051,WINDOWS_AD,ww,OMV Team RU,false,OMV_Russia,are allowed to see on data from BO Russia,OMV BO Russia users
+Paces Nicole,X451731,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Paces Nicole,X451731,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Paces Nicole,X451731,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Paraschiv Catalin,X01005176,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Paraschiv Catalin,X01005176,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Paraschiv Catalin,X01005176,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Paraschiv Catalin,X01005176,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Paraschiv Catalin,X01005176,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Pasca Iulia-Gabriela,X01022380,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Pasca Iulia-Gabriela,X01022380,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Pasca Iulia-Gabriela,X01022380,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Perez Oscar Alberto,X01PEROSC,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Perez Oscar Alberto,X01PEROSC,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Perez Oscar Alberto,X01PEROSC,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Pertl Maria,X449156,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Pertl Maria,X449156,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Pertl Maria,X449156,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Pertl Maria,X449156,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Piller Peter,X449362,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Piller Peter,X449362,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Pinzon Fabian (Ext),FABIAN37,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Pinzon Fabian (Ext),FABIAN37,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Pinzon Fabian (Ext),FABIAN37,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Posch Wolfgang,X449602,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Posch Wolfgang,X449602,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Posch Wolfgang,X449602,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Posch Wolfgang,X449602,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Puettmann Jost,X011462,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Puettmann Jost,X011462,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Puettmann Jost,X011462,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Renkema Wietse,X452111,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Renkema Wietse,X452111,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Renkema Wietse,X452111,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Rock Gregory John,GREGORY1,WINDOWS_AD,ww,OMV Team NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Rock Gregory John,GREGORY1,WINDOWS_AD,ww,OMV Team NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Rock Gregory John,GREGORY1,WINDOWS_AD,ww,OMV Team NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Rodgers Emma,X449890,WINDOWS_AD,ww,OMV Team Sapura,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Rodgers Emma,X449890,WINDOWS_AD,ww,OMV Team Sapura,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Rodgers Emma,X449890,WINDOWS_AD,ww,OMV Team Sapura,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Rodgers Emma,X449890,WINDOWS_AD,ww,OMV Team Sapura,false,OMV_Sapura,are allowed to see on data from OMV Sapura,OMV Sapura users
+Rodriguez Chavez Mario-Luis,X451671,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Rodriguez Chavez Mario-Luis,X451671,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Rodriguez Chavez Mario-Luis,X451671,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Rodriguez Chavez Mario-Luis,X451671,WINDOWS_AD,ww,OMV Team headoffice,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Rodriguez Chavez Mario-Luis,X451671,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Rodriguez Chavez Mario-Luis,X451671,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Romich Nina (Ext),NINA35,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Romich Nina (Ext),NINA35,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Romich Nina (Ext),NINA35,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Rooney Kevin (Ext),KEVIN32,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Rooney Kevin (Ext),KEVIN32,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Rooney Kevin (Ext),KEVIN32,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Rooney Kevin (Ext),KEVIN32,WINDOWS_AD,ww,AUCERNA,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Rossak Simon,SIMON30,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Rossak Simon,SIMON30,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Rossak Simon,SIMON30,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Safiullin Eduard,RU000017,WINDOWS_AD,ww,OMV Team RU,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Safiullin Eduard,RU000017,WINDOWS_AD,ww,OMV Team RU,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Safiullin Eduard,RU000017,WINDOWS_AD,ww,OMV Team RU,false,OMV_Russia,are allowed to see on data from BO Russia,OMV BO Russia users
+Sanchez Camilo,sancheca,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Sanchez Camilo,sancheca,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Sanchez Camilo,sancheca,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Sanchez Camilo,sancheca,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Scholz Christian,CHRISTIAN130,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Scholz Christian,CHRISTIAN130,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Scholz Christian,CHRISTIAN130,WINDOWS_AD,ww,OMV Team AT,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Scholz Christian,CHRISTIAN130,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Schumacher Georg,X01schgeo,WINDOWS_AD,ww,OMV Team headoffice,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Schumacher Georg,X01schgeo,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Schumacher Georg,X01schgeo,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Schumacher Georg,X01schgeo,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Seidl Georg,GEORG2,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Seidl Georg,GEORG2,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Seidl Georg,GEORG2,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Shaw Arun (Admin),adminarun05,WINDOWS_AD,ww,AUCERNA,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Shaw Arun (Admin),adminarun05,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Shaw Arun (Admin),adminarun05,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Shaw Arun (Ext),ARUN05,WINDOWS_AD,ww,AUCERNA,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Shaw Arun (Ext),ARUN05,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Shaw Arun (Ext),ARUN05,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Shaw Arun (Ext),ARUN05,WINDOWS_AD,ww,AUCERNA,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Six Jörg,X451555,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Six Jörg,X451555,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Six Jörg,X451555,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Skeete Jennifer (Ext),JENNIFER11,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Skeete Jennifer (Ext),JENNIFER11,WINDOWS_AD,ww,AUCERNA,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Skeete Jennifer (Ext),JENNIFER11,WINDOWS_AD,ww,AUCERNA,false,AUCERNA,all external AUCERNA experts to support,Group for AUCERNA experts
+Skeie Elin,ELIN01,WINDOWS_AD,ww,OMV Team NO,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Skeie Elin,ELIN01,WINDOWS_AD,ww,OMV Team NO,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Skeie Elin,ELIN01,WINDOWS_AD,ww,OMV Team NO,false,OMV_Norway,are allowed to see on data from BO Norway,OMV BO Norway users
+Sledz Christian,CHRISTIAN87,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Sledz Christian,CHRISTIAN87,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Sledz Christian,CHRISTIAN87,WINDOWS_AD,ww,OMV Team headoffice,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Sledz Christian,CHRISTIAN87,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Stancu Nicoleta,X01000648,WINDOWS_AD,ww,OMV Team Petrom,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Stancu Nicoleta,X01000648,WINDOWS_AD,ww,OMV Team Petrom,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Stancu Nicoleta,X01000648,WINDOWS_AD,ww,OMV Team Petrom,false,OMV_Petrom,are allowed to see on data from OMV Petrom,OMV Petrom users
+Stoiser Birgit,X449810,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Stoiser Birgit,X449810,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Stoiser Birgit,X449810,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Swales Marc Steven,MARC23,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Swales Marc Steven,MARC23,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Swales Marc Steven,MARC23,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Ullmann Horst,X450400,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Ullmann Horst,X450400,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Umani Leonardo,LEONARDO1,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Umani Leonardo,LEONARDO1,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Umani Leonardo,LEONARDO1,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Umani Leonardo,LEONARDO1,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+User Administration,useradmin,LOCAL,,local User for User Administration,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+User Administration,useradmin,LOCAL,,local User for User Administration,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+User Administration,useradmin,LOCAL,,local User for User Administration,false,Useradmin,permissions to add/change users,workgroups,…,User for useradministration
+Volker Lukas,LUKAS80,WINDOWS_AD,ww,OMV Team AT,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Volker Lukas,LUKAS80,WINDOWS_AD,ww,OMV Team AT,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Volker Lukas,LUKAS80,WINDOWS_AD,ww,OMV Team AT,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+Waldner Martina,X449157,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Waldner Martina,X449157,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Waldner Martina,X449157,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+Weber Stefan,STEFAN42,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Weber Stefan,STEFAN42,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Weber Stefan,STEFAN42,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Weber Stefan,X012779,WINDOWS_AD,ww,PetroVR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Weber Stefan,X012779,WINDOWS_AD,ww,PetroVR,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Weber Stefan,X012779,WINDOWS_AD,ww,PetroVR,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+Weber Tanja Maria,X451558,WINDOWS_AD,ww,OMV Team headoffice,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Weber Tanja Maria,X451558,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+Weber Tanja Maria,X451558,WINDOWS_AD,ww,OMV Team headoffice,false,OMV_Upstream,are allowed to see data from all countries,OMV Headoffice users (corporate)
+ZZ - Demo User 1,demo1,LOCAL,,Plan2Value local DEMO user for Training + Test,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+ZZ - Demo User 1,demo1,LOCAL,,Plan2Value local DEMO user for Training + Test,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+ZZ - Demo User 1,demo1,LOCAL,,Plan2Value local DEMO user for Training + Test,false,Dataflow_key,DF Key user in Branchoffice,DF Key user
+ZZ - Demo User 2,demo2,LOCAL,,Plan2Value local DEMO user for Training + Test,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+ZZ - Demo User 2,demo2,LOCAL,,Plan2Value local DEMO user for Training + Test,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+ZZ - Demo User 2,demo2,LOCAL,,Plan2Value local DEMO user for Training + Test,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+ZZ - Demo User 3,demo3,LOCAL,,Plan2Value local DEMO user for Training + Test,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+ZZ - Demo User 3,demo3,LOCAL,,Plan2Value local DEMO user for Training + Test,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+ZZ - Demo User 3,demo3,LOCAL,,Plan2Value local DEMO user for Training + Test,false,OMV_CoreTeam,temp. Group for initial project phast - should disappear at later stage,OMV Core Team Members
+ZZ - Demo User 3,demo3,LOCAL,,Plan2Value local DEMO user for Training + Test,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+ZZ - Demo User 4,demo4,LOCAL,,Plan2Value local DEMO user for Training + Test,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+ZZ - Demo User 4,demo4,LOCAL,,Plan2Value local DEMO user for Training + Test,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+ZZ - Demo User 4,demo4,LOCAL,,Plan2Value local DEMO user for Training + Test,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+ZZ - Demo User 5,demo5,LOCAL,,Plan2Value local DEMO user for Training + Test,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+ZZ - Demo User 5,demo5,LOCAL,,Plan2Value local DEMO user for Training + Test,false,PetroVR_users,Users are allowed to use Economics as a Service ; DataLoader,PetroVR user
+ZZ - Demo User 5,demo5,LOCAL,,Plan2Value local DEMO user for Training + Test,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+ZZ - Demo User 6,demo6,LOCAL,,Plan2Value local DEMO user for Training + Test,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+ZZ - Demo User 6,demo6,LOCAL,,Plan2Value local DEMO user for Training + Test,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users
+ZZ - Demo User 7,demo7,LOCAL,,Plan2Value local DEMO user for Training + Test,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+ZZ - Demo User 7,demo7,LOCAL,,Plan2Value local DEMO user for Training + Test,false,OMV_Austria,are allowed to see on data from BO Austria,OMV BO Austria users

@@ -1,0 +1,52 @@
+displayname,CHRISTIAN130,logonID,profile,ptype,trim,Column1,Column2
+Abdalla Hannes (HANNES1),HANNES1,Hannes.Abdalla@omv.com,A08.profile.Projectmanager.Classic,profile,,,
+Abdalla Hannes (HANNES1),HANNES1,Hannes.Abdalla@omv.com,data.Austria,data,,,
+Abdalla Hannes (HANNES1),HANNES1,Hannes.Abdalla@omv.com,data.Austria.PRMS,data,,,manually
+Bogar Andras (ANDRAS9),ANDRAS9,Andras.Bogar@omv.com,data.Corporate,data,Andras.Bogar@omv.com,,
+Bogar Andras (ANDRAS9),ANDRAS9,Andras.Bogar@omv.com,A06.profile.Light.Fin.Port,profile,Andras.Bogar@omv.com,in training,
+Calin Livia-Madalina (LIVIA11),LIVIA11,LiviaMadalina.Calin@omv.com,data.Corporate,data,LiviaMadalina.Calin@omv.com,,
+Calin Livia-Madalina (LIVIA11),LIVIA11,LiviaMadalina.Calin@omv.com,A06.profile.Light.Fin.Port,profile,LiviaMadalina.Calin@omv.com,in training,
+Datler Martin (MARTIN106),MARTIN106,Martin.Datler@omv.com,A08.profile.Projectmanager.Classic,profile,,,
+Datler Martin (MARTIN106),MARTIN106,Martin.Datler@omv.com,data.Austria,data,,,
+Datler Martin (MARTIN106),MARTIN106,Martin.Datler@omv.com,data.Austria.PRMS,data,,,
+Dinu Bogdan-Marius (X01022417),X01022417,BogdanMarius.Dinu@omv.com,data.access.GAS.allow,data,,,manually
+Eder Thomas (X446583),X446583,Thomas.Eder@omv.com,A24.profile.Exploration.Assurance,profile,,,
+Eder Thomas (X446583),X446583,Thomas.Eder@omv.com,A25.profile.Exploration.OA.Admin,profile,,,
+Eder Thomas (X446583),X446583,Thomas.Eder@omv.com,data.Corporate,data,,,
+Gauer Albert Lorenz (ALBERT3),ALBERT3,AlbertLorenz.Gauer@omv.com,A08.profile.Projectmanager.Classic,profile,,,
+Gauer Albert Lorenz (ALBERT3),ALBERT3,AlbertLorenz.Gauer@omv.com,data.Austria,data,,,
+Gauer Albert Lorenz (ALBERT3),ALBERT3,AlbertLorenz.Gauer@omv.com,data.Austria.PRMS,data,,,
+Köksal Özge Aygerim (X012773),X012773,Ozge.Koksal@omv.com,data.Corporate,data,,,manually
+Kovacs Adam Milan (ADAM30),ADAM30,AdamMilan.Kovacs@omv.com,A08.profile.Projectmanager.Classic,profile,,,
+Kovacs Adam Milan (ADAM30),ADAM30,AdamMilan.Kovacs@omv.com,data.Austria,data,,,
+Kovacs Adam Milan (ADAM30),ADAM30,AdamMilan.Kovacs@omv.com,data.Austria.PRMS,data,,,
+Krenn Christof (CHRISTOF3),CHRISTOF3,Christof.Krenn@omv.com,A08.profile.Projectmanager.Classic,profile,,,
+Krenn Christof (CHRISTOF3),CHRISTOF3,Christof.Krenn@omv.com,data.Austria,data,,,
+Krenn Christof (CHRISTOF3),CHRISTOF3,Christof.Krenn@omv.com,data.Austria.PRMS,data,,,
+Malle Christian (X450118),X450118,Christian.Malle@omv.com,data.Corporate,data,,,
+Malle Christian (X450118),X450118,Christian.Malle@omv.com,A06.profile.Light.Fin.Port,profile,,,
+Mayer Jan (JAN013),JAN013,Jan.Mayer@omv.com,data.Tunisia.PRMS,data,,,manually
+Medina Herman Alexis Alberto (ALEXIS2),ALEXIS2,AlexisAlberto.MedinaHerman@omv.com,A08.profile.Projectmanager.Classic,profile,,,
+Medina Herman Alexis Alberto (ALEXIS2),ALEXIS2,AlexisAlberto.MedinaHerman@omv.com,data.Austria,data,,,
+Medina Herman Alexis Alberto (ALEXIS2),ALEXIS2,AlexisAlberto.MedinaHerman@omv.com,data.Austria.PRMS,data,,,
+Pircher Julia (JULIA10),JULIA10,Julia.Pircher@omv.com,A08.profile.Projectmanager.Classic,profile,,,existed
+Pircher Julia (JULIA10),JULIA10,Julia.Pircher@omv.com,data.Austria,data,,,existed
+Pircher Julia (JULIA10),JULIA10,Julia.Pircher@omv.com,data.Austria.PRMS,data,,,existed
+Scholz Christian (CHRISTIAN130),CHRISTIAN130,Christian.Scholz@omv.com,A08.profile.Projectmanager.Classic,profile,,,
+Scholz Christian (CHRISTIAN130),CHRISTIAN130,Christian.Scholz@omv.com,A10.profile.Planning.Classic,profile,,,
+Scholz Christian (CHRISTIAN130),CHRISTIAN130,Christian.Scholz@omv.com,A13.profile.Economics.Classic,profile,,,
+Scholz Christian (CHRISTIAN130),CHRISTIAN130,Christian.Scholz@omv.com,A19.profile.Portfolio.Classic,profile,,,
+Scholz Christian (CHRISTIAN130),CHRISTIAN130,Christian.Scholz@omv.com,data.Austria,data,,,
+Scholz Christian (CHRISTIAN130),CHRISTIAN130,Christian.Scholz@omv.com,data.Austria.Economics,data,,,
+Scholz Christian (CHRISTIAN130),CHRISTIAN130,Christian.Scholz@omv.com,data.Austria.Finance,data,,,
+Sicala Perez Adriana (ADRIANA35),ADRIANA35,Adriana.SicalaPerez@omv.com,data.Libya,data,Adriana.SicalaPerez@omv.com,NEW,
+Sicala Perez Adriana (ADRIANA35),ADRIANA35,Adriana.SicalaPerez@omv.com,data.Russia,data,Adriana.SicalaPerez@omv.com,NEW,
+Sicala Perez Adriana (ADRIANA35),ADRIANA35,Adriana.SicalaPerez@omv.com,A06.profile.Light.Fin.Port,profile,Adriana.SicalaPerez@omv.com,,
+Süle Zoltan (ZOLTAN30),ZOLTAN30,Zoltan.Suele@omv.com,data.access.GAS.allow,,,,manually
+Verient Gery (X451624),X451624,Gery.Verient@omv.com,data.Austria,data,,,manually on test
+Verient Gery (X451624),X451624,Gery.Verient@omv.com,data.Austria,data,,,
+Verient Gery (X451624),X451624,Gery.Verient@omv.com,A08.profile.Projectmanager.Classic,profile,,,
+Verient Gery (X451624),X451624,Gery.Verient@omv.com,A02.profile.PetroVR,profile,,,
+Verient Gery (X451624),X451624,Gery.Verient@omv.com,data.Libya,data,,,
+Davidescu Bogdan-George (X01026000),X01026000,BogdanGeorge.Davidescu@omv.com,A08.profile.Projectmanager.Classic,profile,,,
+Davidescu Bogdan-George (X01026000),X01026000,BogdanGeorge.Davidescu@omv.com,data.Austria,data,,,

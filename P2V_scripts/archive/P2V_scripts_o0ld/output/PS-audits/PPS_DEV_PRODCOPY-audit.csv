@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"4885094","PalantirCASH","Successfully logged in","JOSHUA4","User","Login","JOSHUA4","TSOMVAT423002","2020-07-10T10:07:39.387Z"
+"4885093","PlanningSpace","The user [JOSHUA4] has logged in.","JOSHUA4","User","Login","JOSHUA4","10.12.166.134","2020-07-10T10:07:37.497Z"
+"4885092","PalantirCASH","Successfully logged in","Daniel263","User","Login","Daniel263","TSOMVAT423003","2020-07-10T09:27:48.520Z"
+"4885091","PlanningSpace","The user [Daniel263] has logged in.","Daniel263","User","Login","Daniel263","10.12.166.29","2020-07-10T09:27:46.427Z"
+"4885090","PlanningSpace","Login for user <Daniel263> was unsuccessful. Reason: Invalid Password","Daniel263","User","Login","Daniel263","10.12.166.29","2020-07-10T09:27:38.597Z"
+"4885089","PlanningSpace","User Account Lockout History and Account Locked","Daniel263","User","Updated","Daniel Edeki (Aucerna)","TSOMVAT502898","2020-07-10T09:27:38.457Z"
+"4885088","PalantirCASH","Successfully logged in","gael04","User","Login","gael04","TSOMVAT423003","2020-07-10T07:47:08.540Z"
+"4885087","PlanningSpace","The user [gael04] has logged in.","gael04","User","Login","gael04","10.12.166.29","2020-07-10T07:47:06.400Z"
+"4885086","PalantirCASH","Project Node","MTP 2020_2.1a Post OCM submission (ringf asset)\Corporate-Rollup\Malaysia\MTP2020_Post OCM Submission\2a_Malaysia\MTP2020_2a_submission_MTP\SK408_2a\38% tax Level\Jerun\SK408__Jerun_2a(3)","Consolidation","Deleted","TIMOTHY5","TSOMVAT423002","2020-07-09T22:16:44.467Z"
+"4885085","PalantirCASH","Project Document","MTP 2020_2.1a Post OCM submission (ringf asset)\SK408__Jerun_2a(3)","Project","Deleted","TIMOTHY5","TSOMVAT423002","2020-07-09T22:16:44.420Z"

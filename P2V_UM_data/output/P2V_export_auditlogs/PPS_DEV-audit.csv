@@ -1,0 +1,12 @@
+﻿#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"126928","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.10.93","2021-07-19T08:08:51.873Z"
+"126927","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.10.93","2021-07-16T13:26:53.483Z"
+"126926","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.10.93","2021-07-16T12:53:12.697Z"
+"126925","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.10.93","2021-07-15T12:23:25.327Z"
+"126924","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.10.93","2021-07-14T10:24:40.627Z"
+"126923","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.10.93","2021-07-14T07:10:55.257Z"
+"126922","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.10.93","2021-07-14T04:40:19.380Z"
+"126921","PlanningSpace Economics","The user <ALEXEY6@ww.omv.com> has logged out.","ALEXEY6@ww.omv.com","User","Logout","ALEXEY6@ww.omv.com","TSOMVAT423002","2021-07-13T17:03:03.193Z"
+"126920","PlanningSpace Dataflow","The user <ALEXEY6@ww.omv.com> has logged out.","ALEXEY6@ww.omv.com","User","Logout","ALEXEY6@ww.omv.com","TSOMVAT423002","2021-07-13T17:03:03.090Z"
+"126919","PlanningSpace","The user [useradmin] started an API session using API key authentication.","useradmin","User","Login","useradmin","10.12.10.93","2021-07-13T13:49:43.937Z"

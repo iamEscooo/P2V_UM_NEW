@@ -1,0 +1,182 @@
+Id,Name,Description,Comments
+,Auditor,users can check auditlogs,permission to read and check audit-logs
+,bd.001.allow,Group of members with allow rights to manage a business development project ,
+,bd.001.deny,Group of members to deny any rights for a business development project ,
+,bd.access.01,Access group for Neptun,
+,bd.access.02,Access group for BD Test1 (N),
+,bd.access.03,Access group for BD Test2+Test3 (S+C),
+,bd.base,General workgroup that has access to the BD hierarchy,
+,bd.deny.01,Deny group for Neptun,
+,bd.deny.02,Deny group for BD Test1 (N),
+,bd.deny.03,Deny group for BD Test2+Test3 (S+C),
+,data.ArabEmirates,Data access to country UnitedArabEmirates,[DATA] PRMS read-update
+,data.ArabEmirates.Economics,Data access to country UnitedArabEmirates (economist),[DATA] PRMS create-read-update-delete 
+,data.ArabEmirates.Finance,Data access to country UnitedArabEmirates (financials),[DATA] PRMS create-read-update-delete 
+,data.ArabEmirates.key,Data access to country UnitedArabEmirates (full access),[DATA] PRMS full access
+,data.Australia,Data access to country Australia,[DATA] PRMS read-update
+,data.Australia.Economics,Data access to country Australia (economist),[DATA] PRMS create-read-update-delete 
+,data.Australia.Finance,Data access to country Australia (financials),[DATA] PRMS create-read-update-delete 
+,data.Australia.key,Data access to country Australia (full access),[DATA] PRMS full access
+,data.Austria,Data access to country Austria,[DATA] PRMS read-update
+,data.Austria.Economics,Data access to country Austria (economist),[DATA] PRMS create-read-update-delete 
+,data.Austria.Finance,Data access to country Austria (financials),[DATA] PRMS create-read-update-delete 
+,data.Austria.Key,Data access to country Austria (full access),[DATA] PRMS full access
+,data.BD.project,Business Development project ,Business Development power user HO
+,data.Bulgaria,Data access to country Bulgaria,[DATA] PRMS read-update
+,data.Bulgaria.Economics,Data access to country Bulgaria (economist),[DATA] PRMS create-read-update-delete 
+,data.Bulgaria.Finance,Data access to country Bulgaria (financials),[DATA] PRMS create-read-update-delete 
+,data.Bulgaria.key,Data access to country Bulgaria (full access),[DATA] PRMS full access
+,data.Corporate,Data access to ALL countries,[DATA] PRMS read-update
+,data.Corporate.Economics,Data access to ALL countries (economist),[DATA] PRMS create-read-update-delete 
+,data.Corporate.Finance,Data access to ALL countries (financials),[DATA] PRMS create-read-update-delete 
+,data.Corporate.key,Data access to ALL countries (full access),[DATA] PRMS full access
+,data.Everyone.Economics,combining all data.country.Economics,combining all data.country.Economics
+,data.Georgia,Data access to country Georgia,[DATA] PRMS read-update
+,data.Georgia.Economics,Data access to country Georgia (economist),[DATA] PRMS create-read-update-delete 
+,data.Georgia.Finance,Data access to country Georgia (financials),[DATA] PRMS create-read-update-delete 
+,data.Georgia.key,Data access to country Georgia (full access),[DATA] PRMS full access
+,data.Kurdistan,Data access to country Kurdistan,[DATA] PRMS read-update
+,data.Kurdistan.Economics,Data access to country Kurdistan (economist),[DATA] PRMS create-read-update-delete 
+,data.Kurdistan.Finance,Data access to country Kurdistan (financials),[DATA] PRMS create-read-update-delete 
+,data.Kurdistan.key,Data access to country Kurdistan (full access),[DATA] PRMS full access
+,data.Libya,Data access to country Libya,[DATA] PRMS read-update
+,data.Libya.Economics,Data access to country Libya (economist),[DATA] PRMS create-read-update-delete 
+,data.Libya.Finance,Data access to country Libya (financials),[DATA] PRMS create-read-update-delete 
+,data.Libya.key,Data access to country Libya (full access),[DATA] PRMS full access
+,data.Malaysia,Data access to country Malaysia,[DATA] PRMS read-update
+,data.Malaysia.Economics,Data access to country Malaysia (economist),[DATA] PRMS create-read-update-delete 
+,data.Malaysia.Finance,Data access to country Malaysia (financials),[DATA] PRMS create-read-update-delete 
+,data.Malaysia.key,Data access to country Malaysia (full access),[DATA] PRMS full access
+,data.Mexico,Data access to country Mexico,[DATA] PRMS read-update
+,data.Mexico.Economics,Data access to country Mexico (economist),[DATA] PRMS create-read-update-delete 
+,data.Mexico.Finance,Data access to country Mexico (financials),[DATA] PRMS create-read-update-delete 
+,data.Mexico.key,Data access to country Mexico (full access),[DATA] PRMS full access
+,data.NewZealand,Data access to country NewZealand,[DATA] PRMS read-update
+,data.NewZealand.Economics,Data access to country NewZealand (economist),[DATA] PRMS create-read-update-delete 
+,data.NewZealand.Finance,Data access to country NewZealand (financials),[DATA] PRMS create-read-update-delete 
+,data.NewZealand.key,Data access to country NewZealand (full access),[DATA] PRMS full access
+,data.Norway,Data access to country Norway,[DATA] PRMS read-update
+,data.Norway.Economics,Data access to country Norway (economist),[DATA] PRMS create-read-update-delete 
+,data.Norway.Finance,Data access to country Norway (financials),[DATA] PRMS create-read-update-delete 
+,data.Norway.Key,Data access to country Norway (full access),[DATA] PRMS full access
+,data.Reserves_resultsets,WG for AUCERNA Reserves to get the correct resultsets,
+,data.Romania,Data access to country Romania,[DATA] PRMS read-update
+,data.Romania.economics,Data access to country Romania (economist),[DATA] PRMS create-read-update-delete 
+,data.Romania.Finance,Data access to country Romania (financials),[DATA] PRMS create-read-update-delete 
+,data.Romania.key,Data access to country Romania (full access),[DATA] PRMS full access
+,data.Russia,Data access to country Russia,[DATA] PRMS read-update
+,data.Russia.Economics,Data access to country Russia (economist),[DATA] PRMS create-read-update-delete 
+,data.Russia.Finance,Data access to country Russia (financials),[DATA] PRMS create-read-update-delete 
+,data.Russia.Key,Data access to country Russia (full access),[DATA] PRMS full access
+,data.Sapura.Australia,Data access to country Australia,[DATA] PRMS read-update
+,data.Sapura.Australia.Economics,Data access to country Australia (economist),[DATA] PRMS create-read-update-delete 
+,data.Sapura.Australia.Finance,Data access to country Australia (financials),[DATA] PRMS create-read-update-delete 
+,data.Sapura.Australia.key,Data access to country Australia (full access),[DATA] PRMS full access
+,data.Sapura.NewZealand,Data access to country NewZealand,[DATA] PRMS read-update
+,data.Sapura.NewZealand.Economics,Data access to country NewZealand (economist),[DATA] PRMS create-read-update-delete 
+,data.Sapura.NewZealand.Finance,Data access to country NewZealand (financials),[DATA] PRMS create-read-update-delete 
+,data.Sapura.NewZealand.key,Data access to country NewZealand (full access),[DATA] PRMS full access
+,data.Tunisia,Data access to country Tunisia,[DATA] PRMS read-update
+,data.Tunisia.Economics,Data access to country Tunisia (economist),[DATA] PRMS create-read-update-delete 
+,data.Tunisia.Finance,Data access to country Tunisia (financials),[DATA] PRMS create-read-update-delete 
+,data.Tunisia.Key,Data access to country Tunisia (full access),[DATA] PRMS full access
+,data.Yemen,Data access to country Yemen,[DATA] PRMS read-update
+,data.Yemen.Economics,Data access to country Yemen (economist),[DATA] PRMS create-read-update-delete 
+,data.Yemen.Finance,Data access to country Yemen (financials),[DATA] PRMS create-read-update-delete 
+,data.Yemen.key,Data access to country Yemen (full access),[DATA] PRMS full access
+,DataFlow.key,Dataflow Key user ,Dataflow Key user in Branchoffice
+,DataFlow.power,Dataflow Power user,Dataflow Power user in Headoffice
+,Developer,internal & external developers,permissions needed for developers
+,Economics.key,Economics key user ,Economics user in Branchoffice
+,Economics.power,Economics power user,Economics power user in headoffice - global settings
+,Economics.regimes,additional permission for Economics user to access Regime Library,
+,Economics.regimes.readonly,readonly access to the regimes lib,readonly access to the regimes lib
+,Economics.unlock,Economics.unlock,unlock objects in Economics
+,Financials.key,Financials key user,Controlling key user in Branchoffice
+,Financials.power,Financials power user HO,Controlling power user  in Headoffice
+,Financials.regimes,additional permission for Financials user to access Regime Library,
+,Financials.unlock,Financials.unlock,unlock objects in Financials
+,Input.Approve,Input.Approve,
+,Input.Confirm,Input.Confirm,
+,license.heavy,Heavy license users,to manage the license-requirments
+,license.light,Light licences users,to manage the license-requirments
+,Dataflow.unlock,Dataflow.unlock,Unlock objects in Dataflow
+,P2V.admin,Plan2Value administrators,permissions to almost everything
+,P2V.base,P2V base access,user are allowed to update their project data
+,P2V.developer,Group of internal/external developers,all external AUCERNA experts to support 
+,PetroVR,PetroVR user,Users are allowed to use Economics as a Service via PetroVR
+,Portfolio,Portfolio user,Portfolio power user in HO
+,profile.Admin.Developer,profile.Admin.Developer,
+,profile.Admin.Headoffice,profile.Admin.Headoffice,
+,profile.Economics.Headoffice,profile.Economics.Headoffice,
+,profile.Economics.local,profile.Economics.local,
+,profile.Finance.Headoffice,profile.Finance.Headoffice,
+,profile.Finance.local,profile.Finance.local,
+,profile.Finance.Regimes,profile.Finance.Regimes,
+,profile.LightUser.Headoffice,profile.LightUser.Headoffice,
+,profile.LightUser.local,profile.LightUser.local,
+,profile.PetroVR,profile.PetroVR,
+,profile.PP.Headoffice,profile.PP.Headoffice,
+,profile.PP.Headoffice.Power,profile.PP.Headoffice.Power,
+,profile.PP.local,profile.PP.local,
+,profile.Projectmanager,profile.Projectmanager,
+,profile.Reserves.Headoffice,profile.Reserves.Headoffice,
+,profile.Reserves.Headoffice.Approve,profile.Reserves.Headoffice.Approve,
+,profile.Reserves.Headoffice.Power,profile.Reserves.Headoffice.Power,
+,profile.Reserves.local.Approve,profile.Reserves.local.Approve,
+,profile.Reserves.local.QRE,profile.Reserves.local.QRE,
+,profile.Reserves.readonly,profile.Reserves.readonly,
+,profile.Resources.Headoffice,profile.Resources.Headoffice,
+,profile.Resources.local,profile.Resources.local,
+,profile.Student.local,profile.Student.local,
+,Reporting,External Data interface using Odata,permissions to use Odata as interface
+,Reserves.Administrator,Reserves.Administrator,
+,Reserves.Approver,Reserves.Approver,
+,Reserves.Approver.bo,Reserves.Approver.bo,
+,Reserves.Approver.ho,Reserves.Approver.ho,
+,Reserves.base,Reserves.base,
+,Reserves.key,Reserves.key,
+,Reserves.power,Reserves.power,
+,Reserves.Security,Reserves.useradmin + Reserves.DataAdmin,
+,Reserves.Submitter,Reserves.Submitter,
+,temp.adjust.admin,temp.adjust.admin,
+,temp.adjust.admin.deny,temp.adjust.admin.deny,
+,temp.adjust.admin.readonly,temp.adjust.admin.readonly,
+,temp.adjust.eco,temp.adjust.eco,
+,temp.adjust.eco.deny,temp.adjust.eco.deny,
+,temp.adjust.eco.readonly,temp.adjust.eco.readonly,
+,temp.adjust.ecoresults,temp.adjust.ecoresults,
+,temp.adjust.ecoresults.deny,temp.adjust.ecoresults.deny,
+,temp.adjust.ecoresults.readonly,temp.adjust.ecoresults.readonly,
+,temp.adjust.fin,temp.adjust.fin,
+,temp.adjust.fin.deny,temp.adjust.fin.deny,
+,temp.adjust.fin.readonly,temp.adjust.fin.readonly,
+,temp.adjust.input,temp.adjust.input,
+,temp.adjust.input.deny,temp.adjust.input.deny,
+,temp.adjust.input.readonly,temp.adjust.input.readonly,
+,temp.admin,temp.admin,
+,temp.admin.deny,temp.admin.deny,
+,temp.admin.readonly,temp.admin.readonly,
+,temp.economics,temp.economics,
+,temp.economics.deny,temp.economics.deny,
+,temp.economics.readonly,temp.economics.readonly,
+,temp.ecoresults,temp.ecoresults,
+,temp.ecoresults.deny,temp.ecoresults.deny,
+,temp.ecoresults.readonly,temp.ecoresults.readonly,
+,temp.financials,temp.financials,
+,temp.financials.deny,temp.financials.deny,
+,temp.financials.readonly,temp.financials.readonly,
+,temp.input,temp.input,
+,temp.input.deny,temp.input.deny,
+,temp.input.readonly,temp.input.readonly,
+,User.admin,User for useradministration,permissions to add/change user /workgroup assignments
+,Administrators,Default Admin workgroup.,This group consists all the permissions on the engine.
+,Everyone,Default workgroup.,This group consists only public permission on the engine.
+,data.OMVEP,Data access to ValueCenters,[DATA] PRMS read-update
+,data.OMVEP.Economics,Data access to ValueCenters (economist),[DATA] PRMS create-read-update-delete 
+,data.OMVEP.Finance,Data access to ValueCenters (financials),[DATA] PRMS create-read-update-delete 
+,data.OMVEP.Key,Data access to ValueCenters (full access),[DATA] PRMS full access
+,temp.calc,temp.calc,
+,temp.calc.deny,temp.calc.deny,
+,temp.calc.readonly,temp.calc.readonly,
+,rollover,Workgroup used to limit access during the rollover activities,used to temporary limit access to  new versions.

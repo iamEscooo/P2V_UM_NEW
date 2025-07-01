@@ -1,0 +1,17 @@
+               >>>>>     WARNING     <<<<<
+
+Due to an data issue we have to restore the production system to the status of today 10:00 VIE time.
+
+We will stop the production system immediatley. 
+
+Please logout  - we will inform you once the system is up and running again.
+
+Due to the restore activity all changes done since today 10:00 VIE time will be lost.
+
+All P2V session will be terminated.
+
+
+Thanks for you understanding
+and we apologize for the inconveniences
+
+Your P2V team

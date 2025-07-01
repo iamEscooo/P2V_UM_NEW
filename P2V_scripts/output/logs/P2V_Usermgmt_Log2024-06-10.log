@@ -1,0 +1,108 @@
+﻿[2024-06-10 09:51:52] - [INFO] [WW/adminx449222] started check_userprofile -xkey LEONARDO1
+[2024-06-10 09:51:52] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-10 09:54:48] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey LEONARDO1
+[2024-06-10 09:54:54] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-10 09:55:08] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-10 09:55:17] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-10 09:55:26] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-10 09:55:36] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-10 09:55:45] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-10 09:55:56] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-10 09:56:31] - [INFO] [WW/adminx449222] started check_userprofile -xkey LEONARDO1
+[2024-06-10 09:56:31] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-10 09:56:53] - [INFO] [WW/adminx449222] started check_userprofile -xkey LEONARDO1
+[2024-06-10 09:56:53] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-10 10:06:51] - [INFO] [WW/adminx449222] started check_userprofile -xkey LEONARDO1
+[2024-06-10 10:06:51] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-10 10:07:37] - [INFO] [WW/adminx449222] started P2V_check_UPNs 
+[2024-06-10 10:07:41] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-10 10:24:20] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-06-10 10:24:21] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-06-10 10:25:12] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-10 10:25:53] - [INFO] [P2V_PRODTEST]-[bd.base] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:25:53] - [INFO] [P2V_PRODTEST]-[Z.BD.021.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:25:54] - [INFO] [P2V_PRODTEST]-[Z.BD.021.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:25:55] - [INFO] [P2V_PRODTEST]-[Z.BD.022.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:25:56] - [INFO] [P2V_PRODTEST]-[Z.BD.022.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:25:56] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-10 10:26:26] - [INFO] [P2V-PROD]-[bd.base] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:26:27] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:26:28] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:26:29] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:26:29] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:26:29] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-10 10:26:57] - [INFO] [P2V_BENCHMARK]-[bd.base] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:26:57] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:26:58] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:26:58] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:26:59] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:26:59] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-10 10:27:42] - [INFO] [P2V_DEMO]-[bd.base] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:27:43] - [INFO] [P2V_DEMO]-[Z.BD.021.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:27:44] - [INFO] [P2V_DEMO]-[Z.BD.021.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:27:44] - [INFO] [P2V_DEMO]-[Z.BD.022.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:27:45] - [INFO] [P2V_DEMO]-[Z.BD.022.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:27:45] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-10 10:28:15] - [INFO] [P2V_TEST]-[bd.base] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:28:15] - [INFO] [P2V_TEST]-[Z.BD.021.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:28:16] - [INFO] [P2V_TEST]-[Z.BD.021.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:28:17] - [INFO] [P2V_TEST]-[Z.BD.022.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:28:18] - [INFO] [P2V_TEST]-[Z.BD.022.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:28:18] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-10 10:28:46] - [INFO] [P2V_UPDATE]-[bd.base] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:28:47] - [INFO] [P2V_UPDATE]-[Z.BD.021.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:28:48] - [INFO] [P2V_UPDATE]-[Z.BD.021.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:28:48] - [INFO] [P2V_UPDATE]-[Z.BD.022.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:28:49] - [INFO] [P2V_UPDATE]-[Z.BD.022.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:28:49] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-10 10:29:20] - [INFO] [P2V_TRAINING]-[bd.base] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:29:21] - [INFO] [P2V_TRAINING]-[Z.BD.021.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:29:22] - [INFO] [P2V_TRAINING]-[Z.BD.021.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:29:22] - [INFO] [P2V_TRAINING]-[Z.BD.022.deny] : remove Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:29:23] - [INFO] [P2V_TRAINING]-[Z.BD.022.allow] : add Umani Leonardo (LEONARDO1) - done
+[2024-06-10 10:33:38] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X450289
+[2024-06-10 10:36:37] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X451207
+[2024-06-10 10:36:42] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-10 10:37:30] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-10 10:37:41] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-10 10:37:51] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-10 10:38:00] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-10 10:38:43] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X452088
+[2024-06-10 10:38:55] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-10 10:39:05] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-10 10:39:25] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey X452088
+[2024-06-10 10:41:39] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X903144
+[2024-06-10 10:43:39] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X452244
+[2024-06-10 10:44:07] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey X452244
+[2024-06-10 10:46:09] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X450654
+[2024-06-10 10:48:56] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X01000632
+[2024-06-10 10:49:00] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-10 10:49:22] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-10 10:49:33] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-10 10:49:42] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-10 10:49:52] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-10 10:50:03] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-10 10:50:13] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-10 10:50:42] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey X01000632
+[2024-06-10 10:51:49] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey XINOUN
+[2024-06-10 10:52:26] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey XINOUN
+[2024-06-10 10:54:51] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01010664
+[2024-06-10 10:54:51] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-10 10:55:01] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey X01010664
+[2024-06-10 11:14:01] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01010664
+[2024-06-10 11:14:01] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-10 11:16:03] - [INFO] [WW/adminx449222] started check_userprofile -xkey XINOUN
+[2024-06-10 11:16:03] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-10 11:16:36] - [INFO] [WW/adminx449222] started check_userprofile -xkey X01010664
+[2024-06-10 11:16:36] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-10 16:32:51] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X449194
+[2024-06-10 16:32:55] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-10 16:33:59] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-10 16:34:09] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-10 16:34:19] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-10 16:34:30] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-10 16:34:40] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-10 16:34:51] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-10 16:35:12] - [INFO] [WW/adminx449222] started P2V_deactivate_user -xkey X449194
+[2024-06-12 10:11:39] - [INFO] [WW/adminx449222] started check_userprofile -xkey ALEXANDRU170
+[2024-06-12 10:11:39] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]

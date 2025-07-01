@@ -1,0 +1,73 @@
+LogonId,authenticationMethod,Domain,DisplayName,Description,IsDeactivated,IsAccountLocked,EmailAddress,,,,,,,
+demo1,LOCAL,,ZZ - Demo User 1 - ECO corporate,Headoffice Economist,FALSE,FALSE,,demo1,ZZ - Demo User 1 - ECO corporate,1,ECO,corporate,,P2V Headoffice Controller
+demo2,LOCAL,,ZZ - Demo User 2 - PP corporate,Headoffice PP Power User,FALSE,FALSE,,demo2,ZZ - Demo User 2 - PP corporate,2,PP,corporate,,P2V Headoffice Economist
+demo3,LOCAL,,ZZ - Demo User 3 - FIN corporate,Headoffice Controller,FALSE,FALSE,,demo3,ZZ - Demo User 3 - FIN corporate,3,FIN,corporate,,P2V Headoffice Exploration User
+demo4,LOCAL,,ZZ - Demo User 4 - RES corporate,Headoffice Reserves Power User,FALSE,FALSE,,demo4,ZZ - Demo User 4 - RES corporate,4,RES,corporate,,P2V Headoffice Administrator
+demo5,LOCAL,,ZZ - Demo User 5 - ECO AUT,Local Country Economist Austria,FALSE,FALSE,,demo5,ZZ - Demo User 5 - ECO AUT,5,ECO,AUT,Austria,P2V Headoffice PP Power User
+demo6,LOCAL,,ZZ - Demo User 6 - PP AUT,Local Country PP User Austria,FALSE,FALSE,,demo6,ZZ - Demo User 6 - PP AUT,6,PP,AUT,,P2V Headoffice PP User
+demo7,LOCAL,,ZZ - Demo User 7 - FIN AUT,Local Country Controller Austria,FALSE,FALSE,,demo7,ZZ - Demo User 7 - FIN AUT,7,FIN,AUT,,P2V Headoffice Readonly User
+demo8,LOCAL,,ZZ - Demo User 8 - RES AUT,Local Country QRE Austria,FALSE,FALSE,,demo8,ZZ - Demo User 8 - RES AUT,8,RES,AUT,,P2V Headoffice Reserves Power User
+demo9,LOCAL,,ZZ - Demo User 9 - ECO NOR,Local Country Economist Norway,FALSE,FALSE,,demo9,ZZ - Demo User 9 - ECO NOR,9,ECO,NOR,Norway,P2V Headoffice Reserves User
+demo10,LOCAL,,ZZ - Demo User 10 - PP NOR,Local Country PP User Norway,FALSE,FALSE,,demo10,ZZ - Demo User 10 - PP NOR,10,PP,NOR,,P2V Local Country Controller
+demo11,LOCAL,,ZZ - Demo User 11 - FIN NOR,Local Country Controller Norway,FALSE,FALSE,,demo11,ZZ - Demo User 11 - FIN NOR,11,FIN,NOR,,P2V Local Country Economist
+demo12,LOCAL,,ZZ - Demo User 12 - RES NOR,Local Country QRE Norway,FALSE,FALSE,,demo12,ZZ - Demo User 12 - RES NOR,12,RES,NOR,,P2V Local Country Exploration User
+demo13,LOCAL,,ZZ - Demo User 13 - ECO RUS,Local Country Economist Russia,FALSE,FALSE,,demo13,ZZ - Demo User 13 - ECO RUS,13,ECO,RUS,Russia,P2V Local Country PP User
+demo14,LOCAL,,ZZ - Demo User 14 - PP RUS,Local Country PP User Russia,FALSE,FALSE,,demo14,ZZ - Demo User 14 - PP RUS,14,PP,RUS,,P2V Local Country QRE
+demo15,LOCAL,,ZZ - Demo User 15 - FIN RUS,Local Country Controller Russia,FALSE,FALSE,,demo15,ZZ - Demo User 15 - FIN RUS,15,FIN,RUS,,P2V Local Readonly User
+demo16,LOCAL,,ZZ - Demo User 16 - RES RUS,Local Country QRE Russia,FALSE,FALSE,,demo16,ZZ - Demo User 16 - RES RUS,16,RES,RUS,,P2V Administrator
+demo17,LOCAL,,ZZ - Demo User 17 - ECO ARE,Local Country Economist UnitedArabEmirates,FALSE,FALSE,,demo17,ZZ - Demo User 17 - ECO ARE,17,ECO,ARE,UnitedArabEmirates,P2V Production System
+demo18,LOCAL,,ZZ - Demo User 18 - ECO AUS,Local Country Economist Australia,FALSE,FALSE,,demo18,ZZ - Demo User 18 - ECO AUS,18,ECO,AUS,Australia,P2V Projectmanager
+demo19,LOCAL,,ZZ - Demo User 19 - ECO AUS (Sapura),Local Country Economist Australia (Sapura),FALSE,FALSE,,demo19,ZZ - Demo User 19 - ECO AUS (Sapura),19,ECO,AUS (Sapura),Australia  (Sapura),
+demo20,LOCAL,,ZZ - Demo User 20 - ECO BGR,Local Country Economist Bulgaria,FALSE,FALSE,,demo20,ZZ - Demo User 20 - ECO BGR,20,ECO,BGR,Bulgaria,
+demo21,LOCAL,,ZZ - Demo User 21 - ECO GEO,Local Country Economist Georgia,FALSE,FALSE,,demo21,ZZ - Demo User 21 - ECO GEO,21,ECO,GEO,Georgia,
+demo22,LOCAL,,ZZ - Demo User 22 - ECO KRI,Local Country Economist Kurdistan,FALSE,FALSE,,demo22,ZZ - Demo User 22 - ECO KRI,22,ECO,KRI,Kurdistan,
+demo23,LOCAL,,ZZ - Demo User 23 - ECO LBY,Local Country Economist Lybia,FALSE,FALSE,,demo23,ZZ - Demo User 23 - ECO LBY,23,ECO,LBY,Lybia,
+demo24,LOCAL,,ZZ - Demo User 24 - ECO MEX,Local Country Economist Mexico,FALSE,FALSE,,demo24,ZZ - Demo User 24 - ECO MEX,24,ECO,MEX,Mexico,
+demo25,LOCAL,,ZZ - Demo User 25 - ECO MYS,Local Country Economist Malaysia,FALSE,FALSE,,demo25,ZZ - Demo User 25 - ECO MYS,25,ECO,MYS,Malaysia,
+demo26,LOCAL,,ZZ - Demo User 26 - ECO NZL,Local Country Economist New Zealand,FALSE,FALSE,,demo26,ZZ - Demo User 26 - ECO NZL,26,ECO,NZL,New Zealand,
+demo27,LOCAL,,ZZ - Demo User 27 - ECO NZL (Sapura),Local Country Economist New Zealand (Sapura),FALSE,FALSE,,demo27,ZZ - Demo User 27 - ECO NZL (Sapura),27,ECO,NZL (Sapura),New Zealand (Sapura),
+demo28,LOCAL,,ZZ - Demo User 28 - ECO ROU,Local Country Economist Romania,FALSE,FALSE,,demo28,ZZ - Demo User 28 - ECO ROU,28,ECO,ROU,Romania,
+demo29,LOCAL,,ZZ - Demo User 29 - ECO TUN,Local Country Economist Tunisia,FALSE,FALSE,,demo29,ZZ - Demo User 29 - ECO TUN,29,ECO,TUN,Tunisia,
+demo30,LOCAL,,ZZ - Demo User 30 - ECO YEM,Local Country Economist Yemen,FALSE,FALSE,,demo30,ZZ - Demo User 30 - ECO YEM,30,ECO,YEM,Yemen,
+demo31,LOCAL,,ZZ - Demo User 31 - FIN ARE,ZZ - Demo User 31 - FIN ARE,FALSE,FALSE,,demo31,ZZ - Demo User 31 - FIN ARE,31,FIN,ARE,,
+demo32,LOCAL,,ZZ - Demo User 32 - FIN AUS,ZZ - Demo User 32 - FIN AUS,FALSE,FALSE,,demo32,ZZ - Demo User 32 - FIN AUS,32,FIN,AUS,,
+demo33,LOCAL,,ZZ - Demo User 33 - FIN AUS (Sapura),ZZ - Demo User 33 - FIN AUS (Sapura),FALSE,FALSE,,demo33,ZZ - Demo User 33 - FIN AUS (Sapura),33,FIN,AUS (Sapura),,
+demo34,LOCAL,,ZZ - Demo User 34 - FIN BGR,ZZ - Demo User 34 - FIN BGR,FALSE,FALSE,,demo34,ZZ - Demo User 34 - FIN BGR,34,FIN,BGR,,
+demo35,LOCAL,,ZZ - Demo User 35 - FIN GEO,ZZ - Demo User 35 - FIN GEO,FALSE,FALSE,,demo35,ZZ - Demo User 35 - FIN GEO,35,FIN,GEO,,
+demo36,LOCAL,,ZZ - Demo User 36 - FIN KRI,ZZ - Demo User 36 - FIN KRI,FALSE,FALSE,,demo36,ZZ - Demo User 36 - FIN KRI,36,FIN,KRI,,
+demo37,LOCAL,,ZZ - Demo User 37 - FIN LBY,ZZ - Demo User 37 - FIN LBY,FALSE,FALSE,,demo37,ZZ - Demo User 37 - FIN LBY,37,FIN,LBY,,
+demo38,LOCAL,,ZZ - Demo User 38 - FIN MEX,ZZ - Demo User 38 - FIN MEX,FALSE,FALSE,,demo38,ZZ - Demo User 38 - FIN MEX,38,FIN,MEX,,
+demo39,LOCAL,,ZZ - Demo User 39 - FIN MYS,ZZ - Demo User 39 - FIN MYS,FALSE,FALSE,,demo39,ZZ - Demo User 39 - FIN MYS,39,FIN,MYS,,
+demo40,LOCAL,,ZZ - Demo User 40 - FIN NZL,ZZ - Demo User 40 - FIN NZL,FALSE,FALSE,,demo40,ZZ - Demo User 40 - FIN NZL,40,FIN,NZL,,
+demo41,LOCAL,,ZZ - Demo User 41 - FIN NZL (Sapura),ZZ - Demo User 41 - FIN NZL (Sapura),FALSE,FALSE,,demo41,ZZ - Demo User 41 - FIN NZL (Sapura),41,FIN,NZL (Sapura),,
+demo42,LOCAL,,ZZ - Demo User 42 - FIN ROU,ZZ - Demo User 42 - FIN ROU,FALSE,FALSE,,demo42,ZZ - Demo User 42 - FIN ROU,42,FIN,ROU,,
+demo43,LOCAL,,ZZ - Demo User 43 - FIN TUN,ZZ - Demo User 43 - FIN TUN,FALSE,FALSE,,demo43,ZZ - Demo User 43 - FIN TUN,43,FIN,TUN,,
+demo44,LOCAL,,ZZ - Demo User 44 - FIN YEM,ZZ - Demo User 44 - FIN YEM,FALSE,FALSE,,demo44,ZZ - Demo User 44 - FIN YEM,44,FIN,YEM,,
+demo45,LOCAL,,ZZ - Demo User 45 - PP ARE,ZZ - Demo User 45 - PP ARE,FALSE,FALSE,,demo45,ZZ - Demo User 45 - PP ARE,45,PP,ARE,,
+demo46,LOCAL,,ZZ - Demo User 46 - PP AUS,ZZ - Demo User 46 - PP AUS,FALSE,FALSE,,demo46,ZZ - Demo User 46 - PP AUS,46,PP,AUS,,
+demo47,LOCAL,,ZZ - Demo User 47 - PP AUS (Sapura),ZZ - Demo User 47 - PP AUS (Sapura),FALSE,FALSE,,demo47,ZZ - Demo User 47 - PP AUS (Sapura),47,PP,AUS (Sapura),,
+demo48,LOCAL,,ZZ - Demo User 48 - PP BGR,ZZ - Demo User 48 - PP BGR,FALSE,FALSE,,demo48,ZZ - Demo User 48 - PP BGR,48,PP,BGR,,
+demo49,LOCAL,,ZZ - Demo User 49 - PP GEO,ZZ - Demo User 49 - PP GEO,FALSE,FALSE,,demo49,ZZ - Demo User 49 - PP GEO,49,PP,GEO,,
+demo50,LOCAL,,ZZ - Demo User 50 - PP KRI,ZZ - Demo User 50 - PP KRI,FALSE,FALSE,,demo50,ZZ - Demo User 50 - PP KRI,50,PP,KRI,,
+demo51,LOCAL,,ZZ - Demo User 51 - PP LBY,ZZ - Demo User 51 - PP LBY,FALSE,FALSE,,demo51,ZZ - Demo User 51 - PP LBY,51,PP,LBY,,
+demo52,LOCAL,,ZZ - Demo User 52 - PP MEX,ZZ - Demo User 52 - PP MEX,FALSE,FALSE,,demo52,ZZ - Demo User 52 - PP MEX,52,PP,MEX,,
+demo53,LOCAL,,ZZ - Demo User 53 - PP MYS,ZZ - Demo User 53 - PP MYS,FALSE,FALSE,,demo53,ZZ - Demo User 53 - PP MYS,53,PP,MYS,,
+demo54,LOCAL,,ZZ - Demo User 54 - PP NZL,ZZ - Demo User 54 - PP NZL,FALSE,FALSE,,demo54,ZZ - Demo User 54 - PP NZL,54,PP,NZL,,
+demo55,LOCAL,,ZZ - Demo User 55 - PP NZL (Sapura),ZZ - Demo User 55 - PP NZL (Sapura),FALSE,FALSE,,demo55,ZZ - Demo User 55 - PP NZL (Sapura),55,PP,NZL (Sapura),,
+demo56,LOCAL,,ZZ - Demo User 56 - PP ROU,ZZ - Demo User 56 - PP ROU,FALSE,FALSE,,demo56,ZZ - Demo User 56 - PP ROU,56,PP,ROU,,
+demo57,LOCAL,,ZZ - Demo User 57 - PP TUN,ZZ - Demo User 57 - PP TUN,FALSE,FALSE,,demo57,ZZ - Demo User 57 - PP TUN,57,PP,TUN,,
+demo58,LOCAL,,ZZ - Demo User 58 - PP YEM,ZZ - Demo User 58 - PP YEM,FALSE,FALSE,,demo58,ZZ - Demo User 58 - PP YEM,58,PP,YEM,,
+demo59,LOCAL,,ZZ - Demo User 59 - RES ARE,ZZ - Demo User 59 - RES ARE,FALSE,FALSE,,demo59,ZZ - Demo User 59 - RES ARE,59,RES,ARE,,
+demo60,LOCAL,,ZZ - Demo User 60 - RES AUS,ZZ - Demo User 60 - RES AUS,FALSE,FALSE,,demo60,ZZ - Demo User 60 - RES AUS,60,RES,AUS,,
+demo61,LOCAL,,ZZ - Demo User 61 - RES AUS (Sapura),ZZ - Demo User 61 - RES AUS (Sapura),FALSE,FALSE,,demo61,ZZ - Demo User 61 - RES AUS (Sapura),61,RES,AUS (Sapura),,
+demo62,LOCAL,,ZZ - Demo User 62 - RES BGR,ZZ - Demo User 62 - RES BGR,FALSE,FALSE,,demo62,ZZ - Demo User 62 - RES BGR,62,RES,BGR,,
+demo63,LOCAL,,ZZ - Demo User 63 - RES GEO,ZZ - Demo User 63 - RES GEO,FALSE,FALSE,,demo63,ZZ - Demo User 63 - RES GEO,63,RES,GEO,,
+demo64,LOCAL,,ZZ - Demo User 64 - RES KRI,ZZ - Demo User 64 - RES KRI,FALSE,FALSE,,demo64,ZZ - Demo User 64 - RES KRI,64,RES,KRI,,
+demo65,LOCAL,,ZZ - Demo User 65 - RES LBY,ZZ - Demo User 65 - RES LBY,FALSE,FALSE,,demo65,ZZ - Demo User 65 - RES LBY,65,RES,LBY,,
+demo66,LOCAL,,ZZ - Demo User 66 - RES MEX,ZZ - Demo User 66 - RES MEX,FALSE,FALSE,,demo66,ZZ - Demo User 66 - RES MEX,66,RES,MEX,,
+demo67,LOCAL,,ZZ - Demo User 67 - RES MYS,ZZ - Demo User 67 - RES MYS,FALSE,FALSE,,demo67,ZZ - Demo User 67 - RES MYS,67,RES,MYS,,
+demo68,LOCAL,,ZZ - Demo User 68 - RES NZL,ZZ - Demo User 68 - RES NZL,FALSE,FALSE,,demo68,ZZ - Demo User 68 - RES NZL,68,RES,NZL,,
+demo69,LOCAL,,ZZ - Demo User 69 - RES NZL (Sapura),ZZ - Demo User 69 - RES NZL (Sapura),FALSE,FALSE,,demo69,ZZ - Demo User 69 - RES NZL (Sapura),69,RES,NZL (Sapura),,
+demo70,LOCAL,,ZZ - Demo User 70 - RES ROU,ZZ - Demo User 70 - RES ROU,FALSE,FALSE,,demo70,ZZ - Demo User 70 - RES ROU,70,RES,ROU,,
+demo71,LOCAL,,ZZ - Demo User 71 - RES TUN,ZZ - Demo User 71 - RES TUN,FALSE,FALSE,,demo71,ZZ - Demo User 71 - RES TUN,71,RES,TUN,,
+demo72,LOCAL,,ZZ - Demo User 72 - RES YEM,ZZ - Demo User 72 - RES YEM,FALSE,FALSE,,demo72,ZZ - Demo User 72 - RES YEM,72,RES,YEM,,

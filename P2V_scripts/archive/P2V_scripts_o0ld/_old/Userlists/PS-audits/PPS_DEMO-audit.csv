@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"51368","PlanningSpace Dataflow","The user <useradmin> has logged in. ","useradmin","User","Login","useradmin","TSOMVAT423002","2019-12-19T10:35:52.297Z"
+"51367","PlanningSpace","The user [useradmin] has logged in.","useradmin","User","Login","useradmin","10.12.205.20","2019-12-19T10:35:41.720Z"
+"51366","PlanningSpace Financials","The user <ww\X01001805> has logged in. ","ww\X01001805","User","Login","ww\X01001805","TSOMVAT423002","2019-12-19T10:35:12.483Z"
+"51364","PlanningSpace Dataflow","The user <ww\X01001805> has logged in. ","ww\X01001805","User","Login","ww\X01001805","TSOMVAT423002","2019-12-19T10:12:26.323Z"
+"51363","PlanningSpace","The user [ww\X01001805] has logged in.","ww\X01001805","User","Login","ww\X01001805","10.12.205.19","2019-12-19T10:12:15.540Z"
+"51362","PlanningSpace Dataflow","The user <ww\CARINA21> has logged out.","ww\CARINA21","User","Logout","ww\CARINA21","TSOMVAT423002","2019-12-19T10:11:02.717Z"
+"51361","PlanningSpace Dataflow","The user <ww\CARINA21> has logged in. ","ww\CARINA21","User","Login","ww\CARINA21","TSOMVAT423002","2019-12-19T10:10:39.170Z"
+"51360","PlanningSpace","The user [ww\CARINA21] has logged in.","ww\CARINA21","User","Login","ww\CARINA21","10.12.205.19","2019-12-19T10:10:28.843Z"
+"51359","PlanningSpace","Login for user <WW\CARINA21> was unsuccessful. Reason: Invalid Password","WW\CARINA21","User","Login","WW\CARINA21","10.12.205.19","2019-12-19T10:10:21.107Z"
+"51358","PlanningSpace","Login for user <ww\susan2> was unsuccessful. Reason: Invalid Password","ww\susan2","User","Login","ww\susan2","10.12.205.21","2019-12-19T10:07:16.483Z"

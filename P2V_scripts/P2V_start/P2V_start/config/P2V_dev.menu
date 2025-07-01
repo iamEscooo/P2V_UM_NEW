@@ -1,0 +1,20 @@
+Section,Method,Command,Arguments,Name,Description
+Plan2Value TEST environment (20.x),cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,https://ips20-test.ww.omv.com/TEST1,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST1 Web,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST1 Web
+Plan2Value TEST environment (20.x),cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-test.ww.omv.com/TEST1,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST1 DESKTOP,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST1 Desktop
+
+Plan2Value TEST environment (20.x),cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,https://ips20-test.ww.omv.com/TEST2,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST2 Web,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST2 Web
+Plan2Value TEST environment (20.x),cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-test.ww.omv.com/TEST2,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST2 DESKTOP,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST2 Desktop
+
+Plan2Value TEST environment (20.x),cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,https://ips20-test.ww.omv.com/TRAINING,Plan2Value <linebreak />Planningspace 20.4<linebreak />TRAINING Web,Plan2Value <linebreak />Planningspace 20.4<linebreak />TRAINING Web
+Plan2Value TEST environment (20.x),cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-test.ww.omv.com/TRAINING,Plan2Value <linebreak />Planningspace 20.4<linebreak />TRAINING DESKTOP,Plan2Value <linebreak />Planningspace 20.4<linebreak />TRAINING Desktop
+
+PS 16.5 TEST environments,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TEST,Planningspace TEST,Planningspace tenant: [P2V_TEST]
+PS 16.5 TEST environments,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,-app=https://tsomvat503129.ww.omv.com/OMVTEST,Reserves TEST,Reserves tenant: [OMVTEST]
+PS 16.5 TEST environments,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_DEMO,Planningspace DEMO,Planningspace tenant: [P2V_DEMO]
+PS 16.5 TEST environments,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,-app=https://tsomvat502103.ww.omv.com/OMVDEMO,Reserves DEMO,Reserves tenant: [OMVDEMO]
+PS 16.5 TEST environments,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TRAINING,Planningspace TRAINING,Planningspace tenant: [P2V_TRAINING]
+PS 16.5 TEST environments,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,-app=https://tsomvat502103.ww.omv.com/OMVTRAINING,Reserves TRAINING,Reserves tenant: [OMVTRAINING]
+
+Helper Apps,cmd,"C:\Program Files\Microsoft Power BI Desktop\bin\PBIDesktop.exe",,Power BI Desktop, Microsoft Power BI Desktop
+EXIT,exit,exit,,EXIT,exit this menu
+EXIT,cmd,logoff,,EXIT all sessions,closes all DEV P2V sessions and exit

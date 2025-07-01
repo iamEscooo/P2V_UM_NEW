@@ -1,0 +1,37 @@
+Section,Method,Command,Arguments,Name,Description
+Check user accounts,powershell_inline,.\lib\check_userprofile.ps1,,Check user profile,Check individual user(s) in Active Directory and PS
+Check user accounts,powershell_inline,.\lib\check_P2V_user.ps1,,P2V_user profile,Check individual user(s) in (all) P2V tenants
+Userrequest,powershell_inline,& .\lib\P2V_sync_user.ps1,,[STEP1] sync user ,synchronize single user with AD (P2V_sync_user.ps1)
+Userrequest,powershell_inline,& .\lib\P2V_set_profiles.ps1,,[STEP2] Apply profiles ,apply user profiles (P2V_set_profiles.ps1)
+Userrequest,powershell_inline,& .\lib\P2V_calculate_groups_dependencies.ps1,,[STEP3] Check  permissions (datagroups),calculate Access groups(datagroups)
+Userrequest,powershell_inline,& .\lib\P2V_calculate_groups_bd,,[STEP4] Check  permissions (BD-groups),overwrite BD-permission following the central config
+Userrequest,powershell_inline,& .\lib\P2V_calculate_groups.ps1,,[STEP5] Check  permissions (template),calculate Access groups (template)
+Userrequest,powershell_inline,& .\lib\P2V_super_sync.ps1,,Super-SYNC,sync selected user <LineBreak />(under contruction)
+Manage user accounts,powershell_inline,& .\lib\P2V_sync_user.ps1,,sync user,synchronize single user with AD (P2V_sync_user.ps1)
+Manage user accounts,powershell_inline,& .\lib\P2V_update_tenantusers.ps1,,update user infos,get updated user infos from AD  (P2V_update_tenantusers.ps1)
+Manage user accounts,powershell_inline,& .\lib\P2V_sync_tenant.ps1,,sync tenant,synchronize tenant with AD (P2V_sync_tenant.ps1)
+Export user lists,powershell_inline,& .\lib\P2V_export_AD_users.ps1,,AD user lists,export Active Directory lists for P2V (P2V_export_AD_users.ps1)
+Export user lists,powershell_inline,& .\lib\P2V_export_users.ps1;pause,,P2V user lists,export P2V userlists all tenants
+Export user lists,powershell_inline,& .\lib\P2V_export_auditlogs.ps1,,P2V auditlogs,export P2V auditlogs
+Backup / Restore,powershell_inline,& .\lib\get_ps_users_and_groups.ps1,,Backup,backup user-workgroup settings
+Backup / Restore,powershell_inline,& .\lib\update_ps_users_and_groups.ps1,,Restore,restore user-workgroup settings
+Profiles,powershell_inline,& .\lib\P2V_profile_manager.ps1,,Profile Manager,Profile manager
+Profiles,powershell_inline,& .\lib\P2V_set_profiles.ps1,,Apply profiles,apply user profiles
+Profiles,powershell_inline,& .\lib\P2V_calculate_groups.ps1,,Check  permissions (template),calculate Access groups (template)
+Profiles,powershell_inline,& .\lib\P2V_calculate_groups_dependencies.ps1,,Check  permissions (datagroups),calculate Access groups(datagroups)
+Profiles,powershell_inline,& .\lib\P2V_new_users_tenant.ps1,,manage user workgroups  (single user),manage user workgroups  (single user)
+Profiles,powershell_inline,& .\lib\P2V_users_WG_assignment_1.ps1,,manage user workgroups - UI (single user),manage user workgroups - UI (single user)
+Administration,powershell_inline,& .\lib\admin_central_uptime.ps1,,check uptime,check Server uptime
+Administration,powershell_inline,& .\lib\admin_central_check_user_session.ps1,,check user sessions
+Administration,powershell_inline,& .\lib\admin_check_ips.ps1,,check IPS server,check IPS Servers' monitoring port
+Administration,powershell_inline,& .\lib\admin_check_P2V_admins.ps1,,check Admins,check admin accounts
+Administration,powershell_inline,& .\lib\check_aucerna.ps1,,check Aucerna ,check all AUCERNA accounts
+Administration,powershell_inline,& .\lib\admin_check_P2V_lastlogin.ps1,,check last logins,check last logins
+Administration,powershell_inline,& .\lib\admin_AD_check_groups.ps1,,check AD groups,check if all AD groups are set up
+-- under construction --,powershell_inline,& .\lib\P2V_new_user.ps1,,create new user(s),create new user(s)
+-- under construction --,powershell_inline,& .\lib\X_profile.ps1,,PROFILES-create,PROFILES-create
+-- under construction --,powershell_inline,& .\lib\P2V_lock_user.ps1,,user lock status?,check locked users
+-- under construction --,powershell_inline,& .\lib\P2V_lock_allusers.ps1,,all locked users,check all locked users
+
+EXIT,exit,exit,,EXIT,exit this menu
+EXIT,cmd,logoff,,EXIT,closes all server sessions and logoff

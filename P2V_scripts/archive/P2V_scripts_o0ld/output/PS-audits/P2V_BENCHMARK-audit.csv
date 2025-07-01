@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"76721","PlanningSpace Economics","The user <Chloe.Asmar@omv.com> has logged in. ","Chloe.Asmar@omv.com","User","Login","Chloe.Asmar@omv.com","TSOMVAT423003","2020-07-10T08:22:33.567Z"
+"76720","PlanningSpace Dataflow","The user <Chloe.Asmar@omv.com> has logged in. ","Chloe.Asmar@omv.com","User","Login","Chloe.Asmar@omv.com","TSOMVAT423003","2020-07-10T08:21:42.033Z"
+"76719","PlanningSpace","The user [Chloe.Asmar@omv.com] has logged in.","Chloe.Asmar@omv.com","User","Login","Chloe.Asmar@omv.com","10.12.205.20","2020-07-10T08:21:35.813Z"
+"76718","PlanningSpace Economics","The user <Fida.Hussain@omv.com> has logged in. ","Fida.Hussain@omv.com","User","Login","Fida.Hussain@omv.com","TSOMVAT423002","2020-07-10T07:30:08.103Z"
+"76717","PlanningSpace Dataflow","The user <Mario-Luis.Rodriguez_Chavez@omv.com> has logged in. ","Mario-Luis.Rodriguez_Chavez@omv.com","User","Login","Mario-Luis.Rodriguez_Chavez@omv.com","TSOMVAT423003","2020-07-10T07:06:17.297Z"
+"76716","PlanningSpace Economics","The user <Mario-Luis.Rodriguez_Chavez@omv.com> has logged in. ","Mario-Luis.Rodriguez_Chavez@omv.com","User","Login","Mario-Luis.Rodriguez_Chavez@omv.com","TSOMVAT423003","2020-07-10T07:06:16.483Z"
+"76715","PlanningSpace","The user [Mario-Luis.Rodriguez_Chavez@omv.com] has logged in.","Mario-Luis.Rodriguez_Chavez@omv.com","User","Login","Mario-Luis.Rodriguez_Chavez@omv.com","10.12.205.21","2020-07-10T07:06:09.233Z"
+"76714","PlanningSpace Dataflow","The user <Fida.Hussain@omv.com> has logged in. ","Fida.Hussain@omv.com","User","Login","Fida.Hussain@omv.com","TSOMVAT423002","2020-07-10T07:00:17.747Z"
+"76713","PlanningSpace","The user [Fida.Hussain@omv.com] has logged in.","Fida.Hussain@omv.com","User","Login","Fida.Hussain@omv.com","10.12.205.20","2020-07-10T07:00:06.400Z"
+"76712","PlanningSpace Economics","The user <Daniel263> has logged out.","Daniel263","User","Logout","Daniel263","TSOMVAT423003","2020-07-09T16:49:02.033Z"

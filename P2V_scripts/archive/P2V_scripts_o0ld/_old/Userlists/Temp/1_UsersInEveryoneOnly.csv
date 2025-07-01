@@ -1,0 +1,11 @@
+Name,Login ID,Authentication method,Domain,Deactivated,Description,Workgroups
+Aaron Johnson,AARON6,WINDOWS_AD,ww,False,AUCERNA,Everyone
+Administrator,Administrator,LOCAL,,False,Administrator,Administrators
+Arun Shaw,ARUN05,WINDOWS_AD,ww,False,AUCERNA,Everyone
+Camilo Sanchez,sancheca,WINDOWS_AD,ww,False,core team,Everyone
+Catalin Paraschiv,X01005176,WINDOWS_AD,ww,False,core team,Everyone
+Georg Schumacher,X01schgeo,WINDOWS_AD,ww,False,core team,Everyone
+Kevin Rooney,KEVIN32,WINDOWS_AD,ww,False,AUCERNA,Everyone
+Markus Nuesslein,X450313,WINDOWS_AD,ww,False,core team,Everyone
+Shilpa  Taylor,SHILPA1,WINDOWS_AD,ww,False,AUCERNA,Everyone
+Susan Ellis,SUSAN2,WINDOWS_AD,ww,False,core team,Everyone

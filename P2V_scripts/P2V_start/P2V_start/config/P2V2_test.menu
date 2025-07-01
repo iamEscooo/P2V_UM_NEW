@@ -1,0 +1,12 @@
+Section,Method,Command,Arguments,Name,Description
+Plan2Value TEST environment (20.x),cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,https://ips20-test.ww.omv.com/TEST1,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST1 Web,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST1 Web
+Plan2Value TEST environment (20.x),cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-test.ww.omv.com/TEST1,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST1 DESKTOP,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST1 Desktop
+
+Plan2Value TEST environment (20.x),cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,https://ips20-test.ww.omv.com/TEST2,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST2 Web,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST2 Web
+Plan2Value TEST environment (20.x),cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-test.ww.omv.com/TEST2,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST2 DESKTOP,Plan2Value <linebreak />Planningspace 20.4<linebreak />TEST2 Desktop
+
+Plan2Value TEST environment (20.x),cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,https://ips20-test.ww.omv.com/TRAINING,Plan2Value <linebreak />Planningspace 20.4<linebreak />TRAINING Web,Plan2Value <linebreak />Planningspace 20.4<linebreak />TRAINING Web
+Plan2Value TEST environment (20.x),cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-test.ww.omv.com/TRAINING,Plan2Value <linebreak />Planningspace 20.4<linebreak />TRAINING DESKTOP,Plan2Value <linebreak />Planningspace 20.4<linebreak />TRAINING Desktop
+
+EXIT,exit,exit,,EXIT,exit this menu
+EXIT,cmd,logoff,,EXIT,closes all TEST P2V sessions and logoff from CITRIX

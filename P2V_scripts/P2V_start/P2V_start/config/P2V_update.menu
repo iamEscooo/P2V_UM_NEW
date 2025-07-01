@@ -1,0 +1,5 @@
+Section,Method,Command,Arguments,Name,Description
+Plan2Value UPDATE 20.x,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe ,https://ips20-update.ww.omv.com/UPDATE,Plan2Value<LineBreak />Planningspace 20.4<LineBreak />WEB,Plan2Value Update<LineBreak />Planningspace 20.4 WEB<LineBreak />(Office 2016)
+Plan2Value UPDATE 20.x,cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-update.ww.omv.com/UPDATE,Plan2Value<LineBreak />Planningspace 20.4<LineBreak />DESKTOP,Plan2Value Update<LineBreak />Planningspace 20.4 DESKTOP<LineBreak/>(Office 2016)
+EXIT,exit,exit,,EXIT,exit menu
+EXIT,cmd,logoff,,EXIT,closes all UPDATE P2V sessions and logoff from CITRIX

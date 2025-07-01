@@ -1,0 +1,6 @@
+﻿[2023-08-22 09:25:49] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_AD_users]
+[2023-08-22 09:25:49] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\\Myusers.csv] deleted
+[2023-08-22 09:25:49] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\All_AD_users.csv] deleted
+[2023-08-22 14:37:25] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-08-23 13:17:55] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_lock_inactive_users.ps1]
+[2023-08-23 14:19:29] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]

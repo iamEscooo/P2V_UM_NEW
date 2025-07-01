@@ -1,0 +1,74 @@
+﻿[2024-05-24 13:05:45] - [INFO] [WW/adminx449222] started check_userprofile -xkey X449638
+[2024-05-24 13:05:45] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-05-24 13:13:33] - [INFO] [WW/adminx449222] started P2V_activate_user -xkey X449638
+[2024-05-24 13:13:38] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-05-24 13:13:47] - [INFO] loading userlist from tenant P2V-PROD
+[2024-05-24 13:13:56] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-05-24 13:14:04] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-05-24 13:14:13] - [INFO] loading userlist from tenant P2V_TEST
+[2024-05-24 13:14:24] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-05-24 13:14:35] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-05-24 13:18:05] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X449638
+[2024-05-24 13:23:35] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X449638
+[2024-05-24 13:23:41] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-05-24 13:23:49] - [INFO] loading userlist from tenant P2V-PROD
+[2024-05-24 13:23:57] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-05-24 13:24:05] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-05-24 13:24:13] - [INFO] loading userlist from tenant P2V_TEST
+[2024-05-24 13:24:22] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-05-24 13:24:30] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-05-24 13:24:49] - [INFO] [WW/adminx449222] started check_P2V_user -xkey X449638
+[2024-05-24 13:24:49] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2024-05-24 16:02:12] - [INFO] [WW/adminx449222] started P2V_super_sync -xkey X449638 
+[2024-05-24 16:02:13] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync]
+[2024-05-24 16:03:17] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-05-24 16:10:53] - [INFO] [WW/adminx449222] started P2V_check_UPNs 
+[2024-05-24 16:10:59] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-05-24 16:16:08] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-05-24 16:16:09] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-05-24 16:17:46] - [INFO] [P2V_PRODTEST]-[Z.BD.016.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:18:09] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-05-24 16:18:09] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-05-24 16:18:54] - [INFO] [P2V_PRODTEST]-[Z.BD.016.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:18:54] - [INFO] [P2V_PRODTEST]-[Z.BD.039.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:18:55] - [INFO] [P2V_PRODTEST]-[Z.BD.009.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:18:56] - [INFO] [P2V_PRODTEST]-[Z.BD.001.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:18:57] - [INFO] [P2V_PRODTEST]-[Z.BD.027.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:18:59] - [INFO] [P2V_PRODTEST]-[Z.BD.026.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:00] - [INFO] [P2V_PRODTEST]-[Z.BD.031.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:01] - [INFO] [P2V_PRODTEST]-[Z.BD.033.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:02] - [INFO] [P2V_PRODTEST]-[Z.BD.013.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:03] - [INFO] [P2V_PRODTEST]-[Z.BD.029.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:04] - [INFO] [P2V_PRODTEST]-[Z.BD.004.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:05] - [INFO] [P2V_PRODTEST]-[Z.BD.025.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:06] - [INFO] [P2V_PRODTEST]-[Z.BD.037.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:07] - [INFO] [P2V_PRODTEST]-[Z.BD.003.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:08] - [INFO] [P2V_PRODTEST]-[Z.BD.006.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:09] - [INFO] [P2V_PRODTEST]-[Z.BD.038.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:10] - [INFO] [P2V_PRODTEST]-[Z.BD.007.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:11] - [INFO] [P2V_PRODTEST]-[Z.BD.019.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:12] - [INFO] [P2V_PRODTEST]-[Z.BD.005.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:13] - [INFO] [P2V_PRODTEST]-[Z.BD.024.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:14] - [INFO] [P2V_PRODTEST]-[Z.BD.018.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:15] - [INFO] [P2V_PRODTEST]-[Z.BD.035.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:16] - [INFO] [P2V_PRODTEST]-[Z.BD.010.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:17] - [INFO] [P2V_PRODTEST]-[Z.BD.032.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:19] - [INFO] [P2V_PRODTEST]-[Z.BD.012.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:20] - [INFO] [P2V_PRODTEST]-[Z.BD.014.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:21] - [INFO] [P2V_PRODTEST]-[Z.BD.028.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:22] - [INFO] [P2V_PRODTEST]-[Z.BD.023.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:23] - [INFO] [P2V_PRODTEST]-[Z.BD.002.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:24] - [INFO] [P2V_PRODTEST]-[Z.BD.040.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:25] - [INFO] [P2V_PRODTEST]-[Z.BD.015.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:26] - [INFO] [P2V_PRODTEST]-[Z.BD.017.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:27] - [INFO] [P2V_PRODTEST]-[Z.BD.011.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:28] - [INFO] [P2V_PRODTEST]-[Z.BD.020.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:29] - [INFO] [P2V_PRODTEST]-[Z.BD.030.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:30] - [INFO] [P2V_PRODTEST]-[Z.BD.034.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:32] - [INFO] [P2V_PRODTEST]-[Z.BD.036.deny] : add Kornberger Martin (X449638) - done
+[2024-05-24 16:19:32] - [INFO] loading userlist from tenant P2V-PROD
+[2024-05-24 16:19:53] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-05-24 16:20:18] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-05-24 16:20:43] - [INFO] loading userlist from tenant P2V_TEST
+[2024-05-24 16:21:26] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-05-24 16:22:41] - [INFO] loading userlist from tenant P2V_TRAINING

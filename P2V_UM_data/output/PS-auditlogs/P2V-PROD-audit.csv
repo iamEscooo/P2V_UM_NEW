@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"192417","PlanningSpace Dataflow","The user <Vladislav.Arekhov@omv.com> has logged in. ","Vladislav.Arekhov@omv.com","User","Login","Vladislav.Arekhov@omv.com","SOMVAT422009","2020-11-17T12:00:02.210Z"
+"192416","PlanningSpace","The user [Vladislav.Arekhov@omv.com] has logged in.","Vladislav.Arekhov@omv.com","User","Login","Vladislav.Arekhov@omv.com","10.12.205.19","2020-11-17T11:59:55.623Z"
+"192415","PlanningSpace Economics","The user <Madalina.CoadaPetre@omv.com> has logged in. ","Madalina.CoadaPetre@omv.com","User","Login","Madalina.CoadaPetre@omv.com","SOMVAT422008","2020-11-17T11:53:08.923Z"
+"192414","PlanningSpace Dataflow","The user <Robert.Koehazy@omv.com> has logged in. ","Robert.Koehazy@omv.com","User","Login","Robert.Koehazy@omv.com","SOMVAT422003","2020-11-17T11:39:48.833Z"
+"192413","PlanningSpace","The user [Robert.Koehazy@omv.com] has logged in.","Robert.Koehazy@omv.com","User","Login","Robert.Koehazy@omv.com","10.12.205.19","2020-11-17T11:39:42.607Z"
+"192411","PlanningSpace Dataflow","The user <Ian.Mallinson@omv.com> has logged in. ","Ian.Mallinson@omv.com","User","Login","Ian.Mallinson@omv.com","SOMVAT422008","2020-11-17T11:11:23.010Z"
+"192410","PlanningSpace","The user [Ian.Mallinson@omv.com] has logged in.","Ian.Mallinson@omv.com","User","Login","Ian.Mallinson@omv.com","10.12.205.19","2020-11-17T11:11:16.840Z"
+"192409","PlanningSpace Dataflow","The user <Razvan.Bulgariu@omv.com> has logged out.","Razvan.Bulgariu@omv.com","User","Logout","Razvan.Bulgariu@omv.com","SOMVAT422001","2020-11-17T11:10:49.160Z"
+"192408","PlanningSpace Dataflow","The user <Razvan.Bulgariu@omv.com> has logged out.","Razvan.Bulgariu@omv.com","User","Logout","Razvan.Bulgariu@omv.com","SOMVAT422001","2020-11-17T11:00:52.047Z"
+"192407","PlanningSpace Dataflow","The user <Razvan.Bulgariu@omv.com> has logged in. ","Razvan.Bulgariu@omv.com","User","Login","Razvan.Bulgariu@omv.com","SOMVAT422001","2020-11-17T10:49:39.427Z"

@@ -1,0 +1,73 @@
+﻿[2024-08-19 17:14:07] - [INFO] [WW/adminx449222] started check_userprofile -xkey JELISAVETA1
+[2024-08-19 17:14:07] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-08-19 17:37:30] - [INFO] [WW/adminx449222] started check_userprofile -xkey JELISAVETA1
+[2024-08-19 17:37:30] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-08-19 17:37:40] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey JELISAVETA1
+[2024-08-19 17:37:45] - [INFO] [P2V_PRODTEST] , [] , [08/19/2024 17:37:45] , [] 
+[2024-08-19 17:37:52] - [INFO] loading userlist from tenant P2V_PRODTEST  [7.5684656 s]
+[2024-08-19 17:38:08] - [INFO] [P2V-PROD] , [] , [08/19/2024 17:38:08] , [] 
+[2024-08-19 17:38:15] - [INFO] loading userlist from tenant P2V-PROD  [6.888142 s]
+[2024-08-19 17:38:16] - [INFO] [P2V_BENCHMARK] , [] , [08/19/2024 17:38:16] , [] 
+[2024-08-19 17:38:24] - [INFO] loading userlist from tenant P2V_BENCHMARK  [8.411114 s]
+[2024-08-19 17:38:25] - [INFO] [P2V_DEMO] , [] , [08/19/2024 17:38:25] , [] 
+[2024-08-19 17:38:33] - [INFO] loading userlist from tenant P2V_DEMO  [8.2160024 s]
+[2024-08-19 17:38:34] - [INFO] [P2V_TEST] , [] , [08/19/2024 17:38:34] , [] 
+[2024-08-19 17:38:41] - [INFO] loading userlist from tenant P2V_TEST  [6.8843249 s]
+[2024-08-19 17:38:42] - [INFO] [P2V_UPDATE] , [] , [08/19/2024 17:38:42] , [] 
+[2024-08-19 17:38:49] - [INFO] loading userlist from tenant P2V_UPDATE  [7.8800709 s]
+[2024-08-19 17:38:51] - [INFO] [P2V_TRAINING] , [] , [08/19/2024 17:38:51] , [] 
+[2024-08-19 17:38:58] - [INFO] loading userlist from tenant P2V_TRAINING  [7.3815809 s]
+[2024-08-19 17:39:45] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey ISABELL1
+[2024-08-19 17:39:49] - [INFO] [P2V_PRODTEST] , [08/19/2024 17:37:45] , [08/19/2024 17:39:49] , [2.073376395] 
+[2024-08-19 17:39:52] - [INFO] [P2V-PROD] , [08/19/2024 17:38:08] , [08/19/2024 17:39:52] , [1.73166379333333] 
+[2024-08-19 17:39:53] - [INFO] [P2V_BENCHMARK] , [08/19/2024 17:38:16] , [08/19/2024 17:39:53] , [1.61534472666667] 
+[2024-08-19 17:39:53] - [INFO] [P2V_DEMO] , [08/19/2024 17:38:25] , [08/19/2024 17:39:53] , [1.47291221833333] 
+[2024-08-19 17:39:54] - [INFO] [P2V_TEST] , [08/19/2024 17:38:34] , [08/19/2024 17:39:54] , [1.334886825] 
+[2024-08-19 17:39:55] - [INFO] [P2V_UPDATE] , [08/19/2024 17:38:42] , [08/19/2024 17:39:55] , [1.22025900166667] 
+[2024-08-19 17:39:55] - [INFO] [P2V_TRAINING] , [08/19/2024 17:38:51] , [08/19/2024 17:39:55] , [1.072039705] 
+[2024-08-19 17:40:20] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-08-19 17:40:20] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-08-19 17:41:27] - [INFO] [P2V_PRODTEST] , [08/19/2024 17:37:45] , [08/19/2024 17:41:27] , [3.707181075] 
+[2024-08-19 17:42:55] - [INFO] [P2V_PRODTEST]-[bd.base] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:42:56] - [INFO] [P2V_PRODTEST]-[Z.BD.021.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:42:57] - [INFO] [P2V_PRODTEST]-[Z.BD.021.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:42:57] - [INFO] [P2V_PRODTEST]-[Z.BD.022.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:42:58] - [INFO] [P2V_PRODTEST]-[Z.BD.022.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:42:58] - [INFO] [P2V-PROD] , [08/19/2024 17:38:08] , [08/19/2024 17:42:58] , [4.83495413833333] 
+[2024-08-19 17:43:48] - [INFO] [P2V-PROD]-[bd.base] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:43:48] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:43:49] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:43:50] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:43:51] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:43:51] - [INFO] [P2V_BENCHMARK] , [08/19/2024 17:38:16] , [08/19/2024 17:43:51] , [5.59056051666667] 
+[2024-08-19 17:44:42] - [INFO] [P2V_BENCHMARK]-[bd.base] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:44:42] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:44:43] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:44:44] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:44:45] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:44:45] - [INFO] [P2V_DEMO] , [08/19/2024 17:38:25] , [08/19/2024 17:44:45] , [6.330556425] 
+[2024-08-19 17:45:43] - [INFO] [P2V_DEMO]-[bd.base] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:45:44] - [INFO] [P2V_DEMO]-[Z.BD.021.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:45:44] - [INFO] [P2V_DEMO]-[Z.BD.021.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:45:45] - [INFO] [P2V_DEMO]-[Z.BD.022.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:45:46] - [INFO] [P2V_DEMO]-[Z.BD.022.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:45:46] - [INFO] [P2V_TEST] , [08/19/2024 17:38:34] , [08/19/2024 17:45:46] , [7.19592671833333] 
+[2024-08-19 17:46:41] - [INFO] [P2V_TEST]-[bd.base] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:46:42] - [INFO] [P2V_TEST]-[Z.BD.021.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:46:43] - [INFO] [P2V_TEST]-[Z.BD.021.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:46:43] - [INFO] [P2V_TEST]-[Z.BD.022.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:46:44] - [INFO] [P2V_TEST]-[Z.BD.022.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:46:44] - [INFO] [P2V_UPDATE] , [08/19/2024 17:38:42] , [08/19/2024 17:46:44] , [8.045126105] 
+[2024-08-19 17:47:26] - [INFO] [P2V_UPDATE]-[bd.base] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:47:27] - [INFO] [P2V_UPDATE]-[Z.BD.021.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:47:28] - [INFO] [P2V_UPDATE]-[Z.BD.021.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:47:28] - [INFO] [P2V_UPDATE]-[Z.BD.022.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:47:29] - [INFO] [P2V_UPDATE]-[Z.BD.022.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:47:29] - [INFO] [P2V_TRAINING] , [08/19/2024 17:38:51] , [08/19/2024 17:47:29] , [8.64339952666667] 
+[2024-08-19 17:47:59] - [INFO] [P2V_TRAINING]-[bd.base] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:47:59] - [INFO] [P2V_TRAINING]-[Z.BD.021.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:48:00] - [INFO] [P2V_TRAINING]-[Z.BD.021.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:48:01] - [INFO] [P2V_TRAINING]-[Z.BD.022.deny] : remove Oliva Marti David (DAVID199) - done
+[2024-08-19 17:48:02] - [INFO] [P2V_TRAINING]-[Z.BD.022.allow] : add Oliva Marti David (DAVID199) - done
+[2024-08-19 17:58:30] - [INFO] [WW/adminx449222] started check_userprofile -xkey JELISAVETA1
+[2024-08-19 17:58:30] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]

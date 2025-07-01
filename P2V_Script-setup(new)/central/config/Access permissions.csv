@@ -1,0 +1,49 @@
+,,,Active Directory Groups,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,dlg.WW.ADM-Services. P2V.access.production,dlg.WW.ADM-Services. P2V.access.development,dlg.WW.ADM-Services. P2V.access.test,dlg.WW.ADM-Services. P2V.access.training,dlg.WW.ADM-Services. P2V.access.update,dlg.WW.ADM-Services. P2V.access.CASH,dlg.WW.ADM-Services. P2V.access.NAMR,dlg.WW.ADM-Services. PetroVR,dlg.WW.ADM-Services. PetroVR.citrixdesktop,dlg.WW.ADM-Services. P2V.serveradmin,dlg.WW.ADM-Services. P2V.testserveradmin,dlg.WW.ADM-Services. P2V.Admin,dlg.WW.ADM-Services. P2V.Interfaces,dlg.WW.ADM-Services. P2V.useradmin,,,,
+,,,,,,,,,,,,,,,,,,,,
+CITRIX published apps,comment,,,,,,,,,,,,,,,,FARM,command,argument,MCS
+P2V_PROD ,,,x,,,,,,,,,,,,,,PROD,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe,/tenanturl=https://ips-prod.ww.omv.com/P2V-PROD,somvat502671
+P2V_Production ,,,x,,,,,,,,,,,,,,PROD,C:\P2V_start\P2V_prod.bat,,somvat502671
+P2V_RESERVES_PROD,,,x,,,,,,,,,,x,,,,PROD,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,-app=https://somvat502674.ww.omv.com/OMVPROD,somvat502671
+NAMR_Reporttool PROD,,,,,,,,,x,,,,,x,x,,PROD,C:\P2V_start\NAMR-report_tool.bat,,somvat502671
+P2V CASH,,,,,,,,x,,,,,,,,,PROD,C:\P2V_start\P2V_CASH.bat,,somvat502671
+PetroVR,,,,,,,,,,x,,,,,,,PROD,C:\P2V_start\PetroVR_prod.bat,,somvat502671
+Desktop PetroVR,,,,,,,,,,,x,,,,,,PROD,,,somvat502671
+NAMR_Reporttool TEST ,,,,,,,,,x,,,,,x,,,TEST,C:\P2V_start\NAMR-report_tool.bat,,tsomvat502895
+P2V_UserMgmt,,,,,,,,,,,,,,,,x,TEST,C:\P2V_UM\P2V_UM.bat,,tsomvat502895
+P2V_Development,,,,x,,,,,,,,,x,,,,TEST,C:\P2V_start\P2V_dev.bat,,tsomvat502895
+P2V_Test,,,,,x,,,,,,,,,,,,TEST,C:\P2V_start\P2V_test.bat,,tsomvat502895
+P2V_Training,,,,,,x,,,,,,,,,,,TEST,C:\P2V_start\P2V_training.bat,,tsomvat502895
+PetroVR test,,,,,,,,,,x,,,,,,,TEST,C:\P2V_start\PetroVR_test.bat,,tsomvat502895
+P2V_Update,,,,,,,x,,,,,,,,,,UPDATE,C:\P2V_start\P2V_update.bat,,somvat502671
+Palantir CASH AT 16_3,,,,,,,,,,,,,,,,,,,,
+Palantir CASH RO 16_3,,,,,,,,,,,,,,,,,,,,
+Palantir PLAN AT 16_3,,,,,,,,,,,,,,,,,,,,
+Palantir PLAN RO 16_3,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Fileshares,,,,,,,,,,,,,,,,,,command,argument,comment
+Plan2Value,,,,,,,,,,,,,,,,,,,,
+PPS_share,,,,,,,,,,,,,,,,,,,,
+PPS_cluster,,,,,,,,,,,,,,,,,,,,
+PetroVR,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Teams-Channel,,,,,,,,,,,,,,,,,,command,argument,comment
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+2connect,,,,,,,,,,,,,,,,,,command,argument,comment
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+PowerBI,,,,,,,,,,,,,,,,,,command,argument,comment
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+PRTG Monitoring,,,,,,,,,,,,,,,,,,command,argument,comment

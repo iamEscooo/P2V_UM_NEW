@@ -1,0 +1,18 @@
+#reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+ 
+
+$serverlist_all = import-csv "\\somvat202005\PPS_share\P2V_Script-setup(new)\central\config\P2V_server.csv"
+$serverlist=$serverlist_all|out-gridview -title "select server(s) to contact" -outputmode multiple
+ foreach ($remote in $serverlist ) 
+ {
+write-output -fgcolor yellow ">> checking  $($remote.servername) <<"
+   (Invoke-Command -ComputerName $remote.servername -ScriptBlock {
+          netsh winhttp show proxy
+          # netsh winhttp reset proxy 
+          # netsh winhttp set proxy proxy-server="zscaler.omv.com:80" bypass-list="*.omv*.*;*.petrom.*;10.*;172.16.*;192.168.*;<local>" 
+    	}
+   )
+   write-output ""	
+}
+write-output "`n--- check finished ---"
+

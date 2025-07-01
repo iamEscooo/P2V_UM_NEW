@@ -1,0 +1,24 @@
+LogonId,DisplayName,Description,IsDeactivated,IsAccountLocked,EmailAddress,authenticationMethod
+IoanaCristina.Banea@omv.com,Banea Ioana-Cristina (X01024050),EP-E Perf. Portf. & Planning MEA,False,False,,SAML2
+Stefan.Pfneisl@omv.com,Pfneisl Stefan (X451646),EP-E Perf. Portf. & Planning MEA,False,False,,SAML2
+Richard.Kwon@omv.com,Kwon Richard (RICHARD31),EP-E Perf. Portf. & Planning MEA,False,False,,SAML2
+Mathias.Etz@omv.com,Etz Mathias (X450761),EF-M Finance MEA,False,False,,SAML2
+Waqas.Qureshi@omv.com,Qureshi Waqas (XQURESHWA),EFM-C Controlling,False,False,,SAML2
+Teodor_Vladut.Nastase@petrom.com,Nastase Teodor-Vladut (X01022484),EFM-C Controlling,False,False,,SAML2
+Andrew.Redford@omv.com,Redford Andrew (XREDFORD),EFM-E Project Finance & Economics,False,False,,SAML2
+khwajah.basem@omv.com,Hasan Khawaja Basem (XBASEMKH),EFM-E Project Finance & Economics,False,False,,SAML2
+Slim.Sellami@omv.com,Sellami Slim (XSELLAMSL),EFMT-C Controlling,False,False,,SAML2
+Malek.Derbal@omv.com,Derbal Malek (MALEK3),EFMT-C Controlling,False,False,,SAML2
+Ozge.Koksal@omv.com,Köksal Özge Aygerim (X012773),EFMT-C Controlling,False,False,,SAML2
+Iulia_Maria.Tirscoveanu@petrom.com,Tirscoveanu Iulia-Maria (X01024168),EML-B Business Support LY,False,False,,SAML2
+Razvan.Malin@omv.com,Malin Razvan (X903143),EFM-L Finance LY,False,False,,SAML2
+hisham.dukaly@omv.com,Dukaly Hisham (XDUKALY),EFM-L Finance LY,False,False,,SAML2
+Klemens.Haidacher@omv.com,Haidacher Klemens (X450042),EF-M Finance MEA,False,False,,SAML2
+James.Wallace@omv.com,Wallace James (XWALJAM),EFM-T Finance TN,False,False,,SAML2
+David.Gmoser@omv.com,Gmoser David (X451547),EF-M Finance MEA,False,False,,SAML2
+Samuel.Hercus@omv.com,Hercus Sam (XHERCUSSA),EMX-R Development & Reservoir Eng.MEA,False,False,,SAML2
+MatthewKent.Coughlin@omv.com,Coughlin Matthew Kent (MATTHEW9),EMXR-R Reservoir Engineering,False,False,,SAML2
+MohammadOggi.Refani@omv.com,Refani Mohammad Oggi (X01026884),EMXR-P Production G&G,False,False,,SAML2
+Hichem.Zar@omv.com,Zar Hichem (HICHEM1),EMTXR-R Reservoir Engineering,False,False,,SAML2
+Gerhard.Frey@omv.com,Frey Gerhard (X449132),EML-X Exploration Develop. & Prod LY,False,False,,SAML2
+Joerg_Michael.Six@omv.com,Six Jörg (X451555),EML-X Exploration Develop. & Prod LY,False,False,,SAML2

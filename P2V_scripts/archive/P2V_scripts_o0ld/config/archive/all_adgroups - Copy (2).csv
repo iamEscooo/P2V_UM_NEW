@@ -1,0 +1,42 @@
+ADgroup,Lic_type,PSgroup,RESgroup,Description,Comments
+dlg.WW.ADM-Services.P2V.Admin,3,Administrators,Administrators,Default Admin workgroup.,This group consists all the permissions on the engine.
+dlg.WW.ADM-Services.P2V.approver,1,Approver,Approver,Group of approvers,approval permissions 
+dlg.WW.ADM-Services.P2V.Aucerna,3,AUCERNA,AUCERNA,Group for AUCERNA experts,all external AUCERNA experts to support 
+dlg.WW.ADM-Services.P2V.auditor,1,Auditor,Auditor,users can check auditlogs,permission to read and check audit-logs
+dlg.WW.ADM-Services.P2V.BD.key,3,BusinessDev_key,BusinessDev_key,Business Development key user,Business Development key user
+dlg.WW.ADM-Services.P2V.BD.power,3,BusinessDev_power,BusinessDev_power,Business Development power user HO,Business Development power user HO
+dlg.WW.ADM-Services.P2V.CO.key,3,Controlling_key,Controlling_key,Controlling key user,Controlling key user
+dlg.WW.ADM-Services.P2V.CO.power,3,Controlling_power,Controlling_power,Controlling power user HO,Controlling power user HO
+dlg.WW.ADM-Services.P2V.DataLoader,1,Data_Loader,Data_Loader,Data provider,user are allowed to update their project data
+dlg.WW.ADM-Services.P2V.DF.key,3,Dataflow_key,Dataflow_key,DF Key user ,DF Key user in Branchoffice
+dlg.WW.ADM-Services.P2V.DF.power,3,Dataflow_power,Dataflow_power,DF Power user in HO,DF Power user in Headoffice
+dlg.WW.ADM-Services.P2V.ECO.key,3,Economics_key,Economics_key,Economics key user ,Economics user in HO + BO
+dlg.WW.ADM-Services.P2V.ECO.power,3,Economics_power,Economics_power,Economics power user in HO,Economics power user in headoffice - global settings
+dlg.WW.ADM-Services.P2V.EX.key,3,Exploration_key,Exploration_key,Exploration key user,Exploration key user
+dlg.WW.ADM-Services.P2V.EX.power,3,Exploration_power,Exploration_power,Exploration power user HO,Exploration power user HO
+dlg.WW.ADM-Services.P2V.Interfaces,1,Interfaces,Interfaces,group for API usage,permissions used for interface APIs
+dlg.WW.ADM-Services.P2V.Odata,1,OData,OData,External Data interface using Odata,permissions to use Odata as interface
+dlg.WW.ADM-Services.P2V.data.AE,1,OMV_ArabEmirates,OMV_ArabEmirates,OMV BO ArabEmirates users,are allowed to see on data from BO ArabEmirates
+dlg.WW.ADM-Services.P2V.data.AT,1,OMV_Austria,OMV_Austria,OMV BO Austria users,are allowed to see on data from BO Austria
+dlg.WW.ADM-Services.P2V.data.KZ,1,OMV_Kazakhstan,OMV_Kazakhstan,OMV BO Kazakhstan users,are allowed to see on data from BO Kazakhstan
+dlg.WW.ADM-Services.P2V.data.LY,1,OMV_Libya,OMV_Libya,OMV BO Libya users,are allowed to see on data from BO Libya
+dlg.WW.ADM-Services.P2V.data.NZ,1,OMV_NewZealand,OMV_NewZealand,OMV BO New Zealand users,are allowed to see on data from BO New Zealand
+dlg.WW.ADM-Services.P2V.data.NO,1,OMV_Norway,OMV_Norway,OMV BO Norway users,are allowed to see on data from BO Norway
+dlg.WW.ADM-Services.P2V.data.Petrom,1,OMV_Petrom,OMV_Petrom,OMV Petrom users,are allowed to see on data from OMV Petrom
+dlg.WW.ADM-Services.P2V.data.RU,1,OMV_Russia,OMV_Russia,OMV BO Russia users,are allowed to see on data from BO Russia
+dlg.WW.ADM-Services.P2V.data.Sapura,1,OMV_Sapura,OMV_Sapura,OMV Sapura users,are allowed to see on data from OMV Sapura
+dlg.WW.ADM-Services.P2V.data.TN,1,OMV_Tunisia,OMV_Tunisia,OMV BO Tunisia users,are allowed to see on data from BO Tunisisa
+dlg.WW.ADM-Services.P2V.data.Upstream,1,OMV_Upstream,OMV_Upstream,OMV Headoffice users (corporate) ,are allowed to see data from all countries 
+dlg.WW.ADM-Services.P2V.data.YE,1,OMV_Yemen,OMV_Yemen,OMV BO Yemen users,are allowed to see on data from BO Yemen
+dlg.WW.ADM-Services.P2V.serveradmin,0,Everyone,Everyone,Standard account,minimum permission
+dlg.WW.ADM-Services.P2V.users,1,Everyone,Everyone,Standard account,minimum permission
+dlg.WW.ADM-Services.P2V.testusers,1,OMV_CoreTeam,OMV_CoreTeam,OMV Core Team Members,temp. Group for initial project phast - should disappear at later stage
+dlg.WW.ADM-Services.P2V.testserveradmin,0,Everyone,Everyone,Standard account,minimum permission
+dlg.WW.ADM-Services.PetroVR,2,PetroVR_users,PetroVR_users,PetroVR user,Users are allowed to use Economics as a Service
+dlg.WW.ADM-Services.P2V.PP.key,3,PlanPort_key,PlanPort_key,Planning & Portfolio key user,Planning & Portfolio key user
+dlg.WW.ADM-Services.P2V.PP.power,3,PlanPort_power,PlanPort_power,Planning & Portfolio power user in HO,Planning & Portfolio power user in HO
+dlg.WW.ADM-Services.P2V.RES.key,3,Reserves_key,Reserves key user,Reserves key user ,
+dlg.WW.ADM-Services.P2V.RES.power,3,Reserves_power,Reserves_power,Reserves power user HO,Reserves power user HO
+dlg.WW.ADM-Services.P2V.useradmin,1,Useradmin,Useradmin,User for useradministration,permissions to add/change users
+dlg.WW.ADM-Services.P2V.developer,3,Developer,Developer,internal & external developers,permission to access the developmentsystem & needed permissions
+

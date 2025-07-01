@@ -1,0 +1,1149 @@
+﻿tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),data.Everyone.Economics,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),Economics.key,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),Economics.regimes.readonly,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),license.heavy,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),P2V.base,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),Portfolio,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),profile.Economics.local,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),Reporting,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),Reserves.base,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),temp.adjust.admin,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),temp.adjust.eco,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),temp.adjust.ecoresults,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),temp.adjust.fin.readonly,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),temp.adjust.input,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),temp.admin,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),temp.economics,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),temp.ecoresults,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),temp.financials.readonly,ADD
+P2V_TEST,Jonathan.Wood@omv.com,Wood Jonathan (JONATHAN14),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),data.Everyone.Economics,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Economics.key,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Economics.regimes.readonly,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),license.heavy,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),P2V.base,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Portfolio,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),profile.Economics.local,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Reporting,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Reserves.base,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.adjust.admin,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.adjust.eco,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.adjust.ecoresults,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.adjust.fin.readonly,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.adjust.input,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.admin,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.economics,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.ecoresults,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.financials.readonly,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Auditor,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),data.Everyone.Economics,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Economics.key,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Economics.regimes.readonly,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),license.heavy,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),P2V.base,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Portfolio,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),profile.Economics.local,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Reporting,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),Reserves.base,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.adjust.admin,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.adjust.eco,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.adjust.ecoresults,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.adjust.fin.readonly,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.adjust.input,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.admin,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.economics,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.ecoresults,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.financials.readonly,ADD
+P2V_TEST,Lewis.Brock@omv.com,Brock Lewis (LEWIS1),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),P2V.base,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),Portfolio,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),Financials.key,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),Reporting,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.economics.readonly,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.admin.readonly,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.financials,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.input,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.ecoresults.readonly,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.eco,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.ecoresults,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.admin.readonly,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.fin,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.input.readonly,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.001.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),license.heavy,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),data.ArabEmirates.Finance,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Kurdistan.Finance,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),data.ArabEmirates,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Kurdistan,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),profile.LightUser.local,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Yemen,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),profile.Finance.local,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Yemen.Finance,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.002.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.003.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.007.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.004.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.005.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.006.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.012.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.010.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.009.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.018.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.020.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.008.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.013.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.017.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.014.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.019.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.016.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.011.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.015.deny,REMOVE
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Malaysia,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Mexico,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Sapura.Australia,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Sapura.NewZealand,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),Financials.key,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),license.heavy,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),P2V.base,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),Portfolio,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),profile.Finance.local,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),Reporting,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.admin.readonly,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.eco,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.ecoresults,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.fin,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.input.readonly,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.admin.readonly,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.economics.readonly,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.ecoresults.readonly,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.financials,ADD
+P2V_TEST,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),P2V.base,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),Portfolio,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),Financials.key,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),Reporting,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.economics.readonly,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.admin.readonly,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.financials,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.input,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.ecoresults.readonly,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.eco,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.ecoresults,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.admin.readonly,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.fin,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.input.readonly,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.001.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),license.heavy,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),data.ArabEmirates.Finance,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Kurdistan.Finance,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),data.ArabEmirates,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Kurdistan,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),profile.LightUser.local,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Yemen,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),profile.Finance.local,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Yemen.Finance,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.002.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.003.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.007.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.004.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.005.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.006.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.012.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.010.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.009.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.018.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.020.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.008.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.013.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.017.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.014.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.019.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.016.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.011.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),bd.015.deny,REMOVE
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Malaysia,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Mexico,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Sapura.Australia,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),data.Sapura.NewZealand,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),Financials.key,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),license.heavy,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),P2V.base,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),Portfolio,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),profile.Finance.local,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),Reporting,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.admin.readonly,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.eco,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.ecoresults,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.fin,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.adjust.input.readonly,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.admin.readonly,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.economics.readonly,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.ecoresults.readonly,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.financials,ADD
+P2V-PROD,Mathias.Etz@omv.com,Etz Mathias (X450761),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,Catarina.MartaAmaro@omv.com,Marta Amaro Catarina (CATARINA1),P2V.base,ADD
+P2V-PROD,Catarina.MartaAmaro@omv.com,Marta Amaro Catarina (CATARINA1),PetroVR,ADD
+P2V-PROD,Catarina.MartaAmaro@omv.com,Marta Amaro Catarina (CATARINA1),profile.PetroVR,ADD
+P2V-PROD,Catarina.MartaAmaro@omv.com,Marta Amaro Catarina (CATARINA1),Reporting,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),Financials.key,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),license.heavy,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),P2V.base,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),PetroVR,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),Portfolio,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),profile.Finance.local,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),profile.PetroVR,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),Reporting,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),temp.adjust.admin.readonly,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),temp.adjust.eco,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),temp.adjust.ecoresults,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),temp.adjust.fin,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),temp.adjust.input.readonly,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),temp.admin.readonly,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),temp.economics.readonly,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),temp.ecoresults.readonly,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),temp.financials,ADD
+P2V-PROD,Philipp.Knauhs@omv.com,Knauhs Philipp (PHILIPP30),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),DataFlow.key,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),DataFlow.key,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),DataFlow.key,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),DataFlow.key,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,DataFlow.key,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),Economics.key,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),Economics.key,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),Economics.key,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),Economics.key,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,Economics.key,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),license.heavy,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),license.heavy,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),license.heavy,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),license.heavy,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,license.heavy,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),P2V.base,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),P2V.base,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),P2V.base,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),P2V.base,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,P2V.base,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),Portfolio,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),Portfolio,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),Portfolio,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),Portfolio,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,Portfolio,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),profile.PP.Headoffice,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),profile.PP.Headoffice,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),profile.PP.Headoffice,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),profile.PP.Headoffice,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,profile.PP.Headoffice,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),Reporting,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),Reporting,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),Reporting,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),Reporting,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,Reporting,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),Reserves.base,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),Reserves.base,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),Reserves.base,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),Reserves.base,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,Reserves.base,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),temp.adjust.admin.readonly,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),temp.adjust.admin.readonly,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),temp.adjust.admin.readonly,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),temp.adjust.admin.readonly,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,temp.adjust.admin.readonly,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),temp.adjust.eco.readonly,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),temp.adjust.eco.readonly,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),temp.adjust.eco.readonly,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),temp.adjust.eco.readonly,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,temp.adjust.eco.readonly,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),temp.adjust.fin.readonly,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),temp.adjust.fin.readonly,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),temp.adjust.fin.readonly,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),temp.adjust.fin.readonly,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,temp.adjust.fin.readonly,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),temp.adjust.input.readonly,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),temp.adjust.input.readonly,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),temp.adjust.input.readonly,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),temp.adjust.input.readonly,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,temp.adjust.input.readonly,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),temp.admin,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),temp.admin,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),temp.admin,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),temp.admin,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,temp.admin,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),temp.economics.readonly,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),temp.economics.readonly,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),temp.economics.readonly,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),temp.economics.readonly,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,temp.economics.readonly,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),temp.ecoresults.readonly,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),temp.ecoresults.readonly,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),temp.ecoresults.readonly,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),temp.ecoresults.readonly,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,temp.ecoresults.readonly,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),temp.financials.readonly,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),temp.financials.readonly,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),temp.financials.readonly,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),temp.financials.readonly,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,temp.financials.readonly,ADD
+P2V_TEST,Tam.Lovett@omv.com,Lovett Tam (X903365),temp.input,ADD
+P2V_TEST,Harald.Scheruga@omv.com,Scheruga-Rosmarion Harald (X011481),temp.input,ADD
+P2V_TEST,Bernd.Apelt@omv.com,Apelt Bernd (X449766),temp.input,ADD
+P2V_TEST,Andreas.Beidinger@omv.com,Beidinger Andreas (ANDREAS11),temp.input,ADD
+P2V_TEST,Samuel.Hercus@omv.com,Hercus Sam,temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),data.Corporate,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),data.Corporate,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),Financials.key,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),Financials.key,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),Financials.power,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),Financials.power,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),license.heavy,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),license.heavy,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),P2V.base,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),P2V.base,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),Portfolio,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),Portfolio,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),profile.Finance.Headoffice,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),profile.Finance.Headoffice,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),profile.Finance.Regimes,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),profile.Finance.Regimes,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),Reporting,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),Reporting,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),temp.adjust.admin.readonly,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),temp.adjust.admin.readonly,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),temp.adjust.eco,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),temp.adjust.eco,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),temp.adjust.ecoresults,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),temp.adjust.ecoresults,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),temp.adjust.fin,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),temp.adjust.fin,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),temp.adjust.input,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),temp.adjust.input,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),temp.admin.readonly,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),temp.admin.readonly,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),temp.economics.readonly,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),temp.economics.readonly,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),temp.ecoresults.readonly,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),temp.ecoresults.readonly,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),temp.financials,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),temp.financials,ADD
+P2V_TEST,Diana.Chetrone@omv.com,Chetrone Diana (X01025240),temp.input,ADD
+P2V_TEST,Rade.Kalas@omv.com,Kalas Rade (RADE01),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Romania,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),license.light,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),P2V.base,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),profile.LightUser.local,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Reporting,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.admin.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.eco.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.fin.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.input.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.admin.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.economics.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.ecoresults.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.financials.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.input.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Bulgaria,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Georgia,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Romania,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),license.light,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),P2V.base,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),profile.LightUser.local,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Reporting,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.admin.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.eco.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.ecoresults.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.fin.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.input.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.admin.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.economics.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.ecoresults.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.financials.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.input.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),P2V.base,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Reporting,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.economics.readonly,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.admin.readonly,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.financials.readonly,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.input.readonly,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.ecoresults.readonly,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.eco.readonly,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.ecoresults.readonly,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.admin.readonly,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.fin.readonly,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.input.readonly,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.001.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Romania,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),license.light,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),profile.LightUser.local,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.002.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.003.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.007.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.004.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.005.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.006.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.012.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.010.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.009.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.018.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.020.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.008.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.013.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.017.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.014.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.019.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.016.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.011.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.015.deny,REMOVE
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Bulgaria,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Georgia,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Romania,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Input.Confirm,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),license.light,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),P2V.base,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Portfolio,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),profile.Projectmanager,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Reporting,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.admin.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.eco.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.ecoresults.deny,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.fin.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.input.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.admin.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.economics.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.ecoresults.deny,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.financials.deny,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),data.Everyone.Economics,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Economics.key,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Economics.regimes.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),license.heavy,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),P2V.base,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Portfolio,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),profile.Economics.local,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Reporting,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Reserves.base,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.admin,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.eco,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.ecoresults,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.fin.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.input,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.admin,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.economics,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.ecoresults,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.financials.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,P2V.base,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,DataFlow.key,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,Portfolio,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,Reporting,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,Input.Confirm,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.economics.readonly,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.admin,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.financials.readonly,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.input,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,Reserves.base,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.ecoresults.readonly,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.adjust.eco.readonly,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.adjust.ecoresults.readonly,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.adjust.admin,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.adjust.fin.readonly,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.adjust.input.readonly,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.001.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,license.heavy,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,data.Kurdistan,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,data.Kurdistan.key,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,profile.PP.local,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.002.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.003.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.007.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.004.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.005.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.006.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.012.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.010.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.009.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.018.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.020.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.008.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.013.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.017.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.014.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.019.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.016.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.011.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,bd.015.deny,REMOVE
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,data.Austria,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,Input.Confirm,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,license.light,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,P2V.base,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,Portfolio,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,profile.Projectmanager,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,Reporting,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.adjust.admin.readonly,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.adjust.eco.readonly,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.adjust.ecoresults.deny,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.adjust.fin.readonly,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.adjust.input.readonly,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.admin.readonly,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.economics.readonly,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.ecoresults.deny,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.financials.deny,ADD
+P2V_TEST,demo50,ZZ - Demo User 50 - ProjMgr AUT,temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),DataFlow.key,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),Input.Confirm,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),license.heavy,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),P2V.base,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),Portfolio,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),profile.PP.local,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),Reporting,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),Reserves.base,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),temp.adjust.admin,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),temp.adjust.eco.readonly,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),temp.adjust.fin.readonly,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),temp.adjust.input.readonly,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),temp.admin,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),temp.economics.readonly,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),temp.ecoresults.readonly,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),temp.financials.readonly,ADD
+P2V_TEST,Elena.Alexandru@petrom.com,Dimitriu Elena-Cristina (X01014234),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),DataFlow.key,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),Economics.key,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),license.heavy,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),P2V.base,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),Portfolio,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),profile.PP.Headoffice,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),Reporting,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),Reserves.base,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),temp.adjust.admin.readonly,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),temp.adjust.eco.readonly,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),temp.adjust.fin.readonly,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),temp.adjust.input.readonly,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),temp.admin,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),temp.economics.readonly,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),temp.ecoresults.readonly,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),temp.financials.readonly,ADD
+P2V_TEST,Severin.Secklehner@omv.com,Secklehner Severin (X449657),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),license.light,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),P2V.base,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),profile.LightUser.Headoffice,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),Reporting,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.admin.readonly,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.eco.readonly,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.ecoresults.readonly,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.fin.readonly,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.input.readonly,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.admin.readonly,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.economics.readonly,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.ecoresults.readonly,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.financials.readonly,ADD
+P2V_PRODTEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.input.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),license.light,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),P2V.base,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),profile.LightUser.Headoffice,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),Reporting,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.admin.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.eco.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.fin.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.input.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.admin.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.economics.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.ecoresults.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.financials.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.input.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),license.light,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),P2V.base,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),profile.LightUser.Headoffice,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),Reporting,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.admin.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.eco.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.ecoresults.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.fin.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.input.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.admin.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.economics.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.ecoresults.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.financials.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.input.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),DataFlow.key,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),DataFlow.power,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),Economics.key,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),license.heavy,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),P2V.base,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),Portfolio,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),profile.PP.Headoffice.Power,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),Reporting,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),Reserves.base,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.adjust.admin,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.adjust.eco.readonly,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.adjust.fin.readonly,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.adjust.input.readonly,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.admin,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.calc,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.economics.readonly,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.ecoresults.readonly,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.financials.readonly,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.input,ADD
+P2V_TEST,DAVID171@ww.omv.com,Maya David (DAVID171),temp.quicklook,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),license.light,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),P2V.base,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),Portfolio,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),profile.Reserves.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),Reporting,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),Reserves.base,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.admin.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.eco.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.ecoresults.deny,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.fin.deny,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.input.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.admin.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.economics.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.ecoresults.readonly,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.financials.deny,ADD
+P2V_TEST,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),license.light,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),P2V.base,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),Portfolio,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),profile.Reserves.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),Reporting,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),Reserves.base,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.admin.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.eco.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.ecoresults.deny,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.fin.deny,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.adjust.input.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.admin.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.economics.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.ecoresults.readonly,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.financials.deny,ADD
+P2V-PROD,s.ro.checkmw@petrom.com,Check MW (s.ro.checkmw),temp.input,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,Lukas.Volker@omv.com,Volker Lukas Johannes (LUKAS80),Financials.regimes,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,BJORG1@ww.omv.com,Fredriksen Bjorg (BJORG1),PetroVR,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),license.light,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),P2V.base,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Portfolio,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),profile.Portfolio.Power,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Reporting,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.admin.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.eco.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.fin.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.input.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.admin.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.economics.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.ecoresults.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.financials.readonly,ADD
+P2V_TEST,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.input.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,s.ro.testagent2,P2V.developer,REMOVE
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,s.ro.testagent2,Reporting,REMOVE
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,s.ro.testagent2,Developer,REMOVE
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,s.ro.testagent2,profile.PP.local,REMOVE
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,s.ro.testagent2,data.Corporate,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),data.Corporate,REMOVE
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),Developer,REMOVE
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),data.Corporate,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),DataFlow.key,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),Input.Confirm,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),license.heavy,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),P2V.base,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),Portfolio,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),profile.PP.local,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),Reporting,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),Reserves.base,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.adjust.admin,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.adjust.eco.readonly,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.adjust.fin.readonly,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.adjust.input.readonly,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.admin,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.calc.readonly,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.economics.readonly,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.ecoresults.readonly,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.financials.readonly,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.input,ADD
+P2V_TEST,svc.ww.ro.testagent2@petrom.com,TEST-AGENT2 (s.ro.testagent2),temp.quicklook.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),data.Austria,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),P2V.base,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),Portfolio,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),Reporting,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),Input.Confirm,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.economics.readonly,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.admin.readonly,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.financials.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.input,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.ecoresults.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.eco.readonly,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.ecoresults.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.admin.readonly,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.fin.readonly,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.input.readonly,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.001.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),license.light,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),profile.Projectmanager,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.002.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.003.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.007.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.004.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.005.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.006.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.012.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.010.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.009.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.018.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.020.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.008.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.013.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.017.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.014.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.019.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.016.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.011.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.015.deny,REMOVE
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),data.Corporate,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),license.light,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),P2V.base,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),profile.LightUser.Headoffice,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),Reporting,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.admin.readonly,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.eco.readonly,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.ecoresults.readonly,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.fin.readonly,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.input.readonly,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.admin.readonly,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.economics.readonly,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.ecoresults.readonly,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.financials.readonly,ADD
+P2V-PROD,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.input.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),data.Austria,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),P2V.base,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),Portfolio,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),Reporting,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),Input.Confirm,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.economics.readonly,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.admin.readonly,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.financials.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.input,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.ecoresults.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.eco.readonly,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.ecoresults.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.admin.readonly,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.fin.readonly,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.input.readonly,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.001.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),license.light,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),profile.Projectmanager,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.002.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.003.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.007.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.004.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.005.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.006.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.012.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.010.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.009.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.018.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.020.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.008.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.013.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.017.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.014.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.019.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.016.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.011.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),bd.015.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.calc.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.quicklook.deny,REMOVE
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),data.Corporate,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),license.light,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),P2V.base,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),profile.LightUser.Headoffice,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),Reporting,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.admin.readonly,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.eco.readonly,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.fin.readonly,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.adjust.input.readonly,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.admin.readonly,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.economics.readonly,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.ecoresults.readonly,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.financials.readonly,ADD
+P2V_TEST,DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),temp.input.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),data.Corporate,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),P2V.base,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Portfolio,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Reporting,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Input.Approve,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.economics.readonly,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.admin,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.financials.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.input,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.ecoresults.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.eco.readonly,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.ecoresults.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.admin.readonly,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.fin.readonly,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.input.readonly,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.001.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),license.light,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),profile.Resources.Headoffice,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.002.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.003.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.007.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.004.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.005.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.006.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.012.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.010.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.009.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.018.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.020.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.008.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.013.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.017.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.014.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.019.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.016.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.011.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),bd.015.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),data.Corporate.Exploration,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.calc.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.quicklook.deny,REMOVE
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),data.Corporate,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),data.Everyone.Economics,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),DataFlow.key,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),DataFlow.power,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Economics.key,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Economics.regimes.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Input.Confirm,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),license.heavy,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),license.light,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),P2V.base,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Portfolio,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),profile.Economics.local,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),profile.PP.Headoffice.Power,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),profile.PP.local,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),profile.Projectmanager,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Reporting,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),Reserves.base,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.admin,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.admin.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.eco,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.eco.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.ecoresults,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.ecoresults.deny,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.ecoresults.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.fin.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.input,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.adjust.input.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.admin,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.admin.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.calc,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.calc.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.economics,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.economics.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.ecoresults,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.ecoresults.deny,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.ecoresults.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.financials.deny,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.financials.readonly,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.input,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.quicklook,ADD
+P2V_TEST,Sterre.Dortland@omv.com,Dortland Sterre (STERRE1),temp.quicklook.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),P2V.base,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Reporting,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.economics.readonly,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.admin.readonly,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.financials.readonly,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.input.readonly,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.ecoresults.readonly,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.eco.readonly,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.ecoresults.readonly,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.admin.readonly,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.fin.readonly,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.input.readonly,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.001.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.base,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Romania,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),license.light,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),profile.LightUser.local,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Georgia,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Bulgaria,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.002.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.003.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.007.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.004.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.005.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.006.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.012.allow,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.011.allow,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.018.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.020.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.013.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.017.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.019.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.016.deny,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.008.allow,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.015.allow,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.009.allow,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.014.allow,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),bd.010.allow,REMOVE
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Bulgaria,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Georgia,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),data.Romania,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),DataFlow.key,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Input.Confirm,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),license.heavy,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),P2V.base,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Portfolio,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),profile.PP.local,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Reporting,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),Reserves.base,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.admin,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.eco.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.ecoresults.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.fin.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.adjust.input.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.admin,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.calc.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.economics.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.ecoresults.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.financials.readonly,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.input,ADD
+P2V-PROD,Aurelian.Pencea@petrom.com,Pencea Aurelian (X01000580),temp.quicklook.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,Octavian.Duta@petrom.com,Duta Octavian (X01023297),Input.Confirm.RO.PM,ADD
+P2V-PROD,Octavian.Duta@petrom.com,Duta Octavian (X01023297),profile.Projectmanager.RO,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,Mohammad.Fallah@omv.com,Fallah Mohammad (X903220),data.Bulgaria,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.001.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.002.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.003.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.007.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.004.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.005.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.006.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.012.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.010.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.009.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.018.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.020.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.008.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.013.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.017.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.014.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.019.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.016.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.011.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),bd.015.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.001.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.002.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.003.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.007.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.004.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.005.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.006.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.012.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.010.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.009.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.018.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.020.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.008.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.013.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.017.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.014.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.019.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.016.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.011.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),bd.015.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.001.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.002.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.003.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.007.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.004.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.005.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.006.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.012.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.010.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.009.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.018.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.020.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.008.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.013.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.017.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.014.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.019.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.016.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.011.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),bd.015.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.001.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.002.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.003.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.007.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.004.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.005.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.006.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.012.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.010.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.009.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.018.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.020.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.008.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.013.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.017.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.014.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.019.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.016.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.011.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),bd.015.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.001.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.002.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.003.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.007.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.004.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.005.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.006.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.012.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.010.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.009.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.018.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.020.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.008.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.013.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.017.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.014.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.019.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.016.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.011.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),bd.015.deny,REMOVE
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),data.Corporate,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),data.Corporate,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),data.Corporate,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),data.Corporate,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),data.Corporate,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),license.light,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),license.light,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),license.light,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),license.light,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),license.light,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),P2V.base,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),P2V.base,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),P2V.base,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),P2V.base,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),P2V.base,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),profile.LightUser.Headoffice,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),profile.LightUser.Headoffice,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),profile.LightUser.Headoffice,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),profile.LightUser.Headoffice,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),profile.LightUser.Headoffice,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),Reporting,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),Reporting,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),Reporting,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),Reporting,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),Reporting,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),temp.adjust.admin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),temp.adjust.admin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),temp.adjust.admin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),temp.adjust.admin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),temp.adjust.admin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),temp.adjust.eco.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),temp.adjust.eco.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),temp.adjust.eco.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),temp.adjust.eco.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),temp.adjust.eco.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),temp.adjust.ecoresults.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),temp.adjust.ecoresults.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),temp.adjust.ecoresults.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),temp.adjust.ecoresults.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),temp.adjust.ecoresults.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),temp.adjust.fin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),temp.adjust.fin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),temp.adjust.fin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),temp.adjust.fin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),temp.adjust.fin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),temp.adjust.input.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),temp.adjust.input.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),temp.adjust.input.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),temp.adjust.input.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),temp.adjust.input.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),temp.admin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),temp.admin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),temp.admin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),temp.admin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),temp.admin.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),temp.economics.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),temp.economics.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),temp.economics.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),temp.economics.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),temp.economics.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),temp.ecoresults.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),temp.ecoresults.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),temp.ecoresults.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),temp.ecoresults.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),temp.ecoresults.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),temp.financials.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),temp.financials.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),temp.financials.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),temp.financials.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),temp.financials.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent1@petrom.com,TEST-AGENT 1 (s.ro.testagent1),temp.input.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent5@petrom.com,TEST-AGENT 5 (s.ro.testagent5),temp.input.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent3@petrom.com,TEST-AGENT 3 (s.ro.testagent3),temp.input.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent2@petrom.com,TEST-AGENT 2 (s.ro.testagent2),temp.input.readonly,ADD
+P2V-PROD,svc.ww.ro.testagent4@petrom.com,TEST-AGENT 4 (s.ro.testagent4),temp.input.readonly,ADD
+tenant,LogonId,DisplayName,workgroup,activity
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),data.Corporate,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),license.light,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),P2V.base,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),PetroVR,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),profile.LightUser.Headoffice,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),Reporting,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),temp.adjust.admin.readonly,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),temp.adjust.eco.readonly,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),temp.adjust.ecoresults.readonly,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),temp.adjust.fin.readonly,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),temp.adjust.input.readonly,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),temp.admin.readonly,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),temp.economics.readonly,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),temp.ecoresults.readonly,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),temp.financials.readonly,ADD
+P2V-PROD,Anass.AlDidi@external.omv.com,Al Didi Anass (ANASS1),temp.input.readonly,ADD

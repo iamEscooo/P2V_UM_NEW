@@ -1,0 +1,11 @@
+The new version of PetroVR - PetroVR 2024 (v18.017 64-bit) - was successfully installed in the test environment.&#10;
+&#10;
+Models using older versions of PetroVR will be upgraded to 2024 version automatically when opened using the new version.&#10;
+&#10;
+Be careful as once opened in the latest version a project can not be used in an older version anymore (consider copying a project before opening in this new version).
+&#10;
+Release notes for the update can be found on the PetroVR CoP.
+&#10;
+&#10;
+best regards &#10;
+PetroVR team

@@ -1,0 +1,721 @@
+DisplayName,xkey,logonID,profile,ptype,Description,ADgroup
+Ivanciu Adrian-Mihail (ADRIAN75),ADRIAN75,AdrianMihail.Ivanciu@petrom.com,Administrators,SPECIAL,,dlg.WW.ADM-Services.P2V.Admin
+Knauhs Philipp (PHILIPP30),PHILIPP30,Philipp.Knauhs@omv.com,Administrators,SPECIAL,,dlg.WW.ADM-Services.P2V.Admin
+Bulgariu Razvan (X01001805),X01001805,Razvan.Bulgariu@omv.com,Administrators,SPECIAL,,dlg.WW.ADM-Services.P2V.Admin
+Baumgartner Tanja Maria (X451558),X451558,Tanja.Weber@omv.com,Administrators,SPECIAL,,dlg.WW.ADM-Services.P2V.Admin
+Neff Pascale (X450712),X450712,Pascale.Neff@omv.com,Administrators,SPECIAL,,dlg.WW.ADM-Services.P2V.Admin
+Nüsslein Markus (X450313),X450313,markus.nuesslein@omv.com,Administrators,SPECIAL,,dlg.WW.ADM-Services.P2V.Admin
+Knauhs Philipp (PHILIPP30),PHILIPP30,Philipp.Knauhs@omv.com,A12.profile.Auditor,PROFILE,,dlg.WW.ADM-Services.P2V.auditor
+Bulgariu Razvan (X01001805),X01001805,Razvan.Bulgariu@omv.com,A12.profile.Auditor,PROFILE,,dlg.WW.ADM-Services.P2V.auditor
+Baumgartner Tanja Maria (X451558),X451558,Tanja.Weber@omv.com,A12.profile.Auditor,PROFILE,,dlg.WW.ADM-Services.P2V.auditor
+Neff Pascale (X450712),X450712,Pascale.Neff@omv.com,A12.profile.Auditor,PROFILE,,dlg.WW.ADM-Services.P2V.auditor
+Kufner Martin (X449222),X449222,Martin.Kufner@omv.com,A12.profile.Auditor,PROFILE,,dlg.WW.ADM-Services.P2V.auditor
+Nüsslein Markus (X450313),X450313,markus.nuesslein@omv.com,A12.profile.Auditor,PROFILE,,dlg.WW.ADM-Services.P2V.auditor
+Baumgartner Tanja Maria (X451558),X451558,Tanja.Weber@omv.com,data.access.ADJUST.allow,DATA,,dlg.WW.ADM-Services.P2V.data.access.ADJUSTMENT
+Zabel David (DAVID27),DAVID27,David.Zabel@omv.com,data.access.GAS.allow,DATA,,dlg.WW.ADM-Services.P2V.data.access.GAS
+Medina Herman Alexis Alberto (ALEXIS2),ALEXIS2,AlexisAlberto.MedinaHerman@omv.com,data.access.PRMS.allow,DATA,,dlg.WW.ADM-Services.P2V.data.access.PRMS
+Gauer Albert Lorenz (ALBERT3),ALBERT3,AlbertLorenz.Gauer@omv.com,data.access.PRMS.allow,DATA,,dlg.WW.ADM-Services.P2V.data.access.PRMS
+Davidescu Bogdan-George (X01026000),X01026000,BogdanGeorge.Davidescu@omv.com,data.access.PRMS.allow,DATA,,dlg.WW.ADM-Services.P2V.data.access.PRMS
+Baumgartner Tanja Maria (X451558),X451558,Tanja.Weber@omv.com,data.access.PRMS.allow,DATA,,dlg.WW.ADM-Services.P2V.data.access.PRMS
+Dinescu Anca-Ica (ANCA10),ANCA10,AncaIca.Dinescu@omv.com,data.ArabEmirates,DATA,,dlg.WW.ADM-Services.P2V.data.ARE
+Ho Ik Sing Francis (X01020712),X01020712,Francis.Ho@omv.com,data.ArabEmirates,DATA,,dlg.WW.ADM-Services.P2V.data.ARE
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,data.ArabEmirates,DATA,,dlg.WW.ADM-Services.P2V.data.ARE
+Hasan Khwajah Basem (XBASEMKH),XBASEMKH,khwajah.basem@omv.com,data.ArabEmirates,DATA,,dlg.WW.ADM-Services.P2V.data.ARE
+Duque Rafael (JOSE1),JOSE1,Rafael.Duque@omv.com,data.ArabEmirates,DATA,,dlg.WW.ADM-Services.P2V.data.ARE
+Gieles Thomas Ruben (X452110),X452110,ThomasRuben.Gieles@petrom.com,data.ArabEmirates,DATA,,dlg.WW.ADM-Services.P2V.data.ARE
+Gmoser David (X451547),X451547,David.Gmoser@omv.com,data.ArabEmirates,DATA,,dlg.WW.ADM-Services.P2V.data.ARE
+Fisher Samuel (XFISHERSA),XFISHERSA,Sam.Fisher@omv.com,data.ArabEmirates,DATA,,dlg.WW.ADM-Services.P2V.data.ARE
+Gonzalez Uribe German Alonso (X450706),X450706,German.Gonzalez@omv.com,data.ArabEmirates,DATA,,dlg.WW.ADM-Services.P2V.data.ARE
+Hendizadeh Hadi (X450133),X450133,Hadi.Hendizadeh@omv.com,data.ArabEmirates,DATA,,dlg.WW.ADM-Services.P2V.data.ARE
+Wood Jonathan (JONATHAN14),JONATHAN14,Jonathan.Wood@omv.com,data.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS
+Bracegirdle Hamish (HAMISH2),HAMISH2,Hamish.Bracegirdle@omv.com,data.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS
+Rodriguez Craig Martin (CRAIG8),CRAIG8,CraigMartin.Rodriguez@petrom.com,data.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS
+Bencsik Enikö (ENIKOE1),ENIKOE1,Enikoe.Bencsik@omv.com,data.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS
+Brock Lewis Daniel (LEWIS1),LEWIS1,Lewis.Brock@omv.com,data.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,data.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS
+Fisher Samuel (XFISHERSA),XFISHERSA,Sam.Fisher@omv.com,data.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS
+Azhar Amanina (AMANINA1),AMANINA1,Amanina.Azhar@external.omv.com,data.Sapura.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS.sapura
+Labitoria Katrina (KATRINA1),KATRINA1,Katrina.Labitoria@external.omv.com,data.Sapura.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS.sapura
+Moaganasundram Samyukutha (SAMYUKUTHA1),SAMYUKUTHA1,SAMYUKUTHA1@ww.omv.com,data.Sapura.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS.sapura
+Tay Sze Ying (SZE001),SZE001,SZE001@ww.omv.com,data.Sapura.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS.sapura
+Dasri Norbailis (NORBAILIS1),NORBAILIS1,Norbailis.Dasri@external.omv.com,data.Sapura.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS.sapura
+Hong Danny Chan Ching (CHAN01),CHAN01,CHAN01@ww.omv.com,data.Sapura.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS.sapura
+Majeth Nasarene Majeth (NASARENE1),NASARENE1,NASARENE1@ww.omv.com,data.Sapura.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS.sapura
+Tong Priscilla (PRISCILLA1),PRISCILLA1,PRISCILLA1@ww.omv.com,data.Sapura.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS.sapura
+Harith Farah (FARAH1),FARAH1,FARAH1@ww.omv.com,data.Sapura.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS.sapura
+Etz Mathias Michael (X450761),X450761,Mathias.Etz@omv.com,data.Sapura.Australia,DATA,,dlg.WW.ADM-Services.P2V.data.AUS.sapura
+Sicala Perez Adriana (ADRIANA35),ADRIANA35,Adriana.SicalaPerez@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Anders Lukas (LUKAS10),LUKAS10,Lukas.Anders@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Kovacs Adam Milan (ADAM30),ADAM30,AdamMilan.Kovacs@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Medina Herman Alexis Alberto (ALEXIS2),ALEXIS2,AlexisAlberto.MedinaHerman@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Grames Jakob (JAKOB22),JAKOB22,Jakob.Grames@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Krenn Christof (CHRISTOF3),CHRISTOF3,Christof.Krenn@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Romich Nina (NINA35),NINA35,Nina.Romich@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Zabel David (DAVID27),DAVID27,David.Zabel@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Martin Daniela (DANIELA51),DANIELA51,Daniela.Martin@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Datler Martin (MARTIN106),MARTIN106,Martin.Datler@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Pamminger Johannes (JOHANNES43),JOHANNES43,Johannes.Pamminger@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+List David (DAVID77),DAVID77,David.List@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Wolff Larissa (LARISSA2),LARISSA2,Larissa.Wolff@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Hurch Sarah (SARAH22),SARAH22,Sarah.Hurch@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Prinz Stefan (STEFAN131),STEFAN131,Stefan.Prinz@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Stanciu Bogdan-Ionut (X01026906),X01026906,BogdanIonut.Stanciu@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Gauer Albert Lorenz (ALBERT3),ALBERT3,AlbertLorenz.Gauer@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Schiffmann Monika (MONIKA2),MONIKA2,Monika.Schiffmann@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Domnanovich Alexander Martin (ALEXANDER47),ALEXANDER47,AlexanderMartin.Domnanovich@petrom.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Brandtner Sascha (SASCHA2),SASCHA2,Sascha.Brandtner@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Pircher Julia (JULIA10),JULIA10,Julia.Pircher@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Volpini Sebastian Maria (SEBASTIAN14),SEBASTIAN14,SebastianMaria.Volpini@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Leitner Manfred (MANFRED5),MANFRED5,Manfred.Leitner1@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Davidescu Bogdan-George (X01026000),X01026000,BogdanGeorge.Davidescu@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Tatzber Anna (X452228),X452228,Anna.Tatzber1@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Schreiber Josef (X452244),X452244,Josef.Schreiber@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Verient Gery (X451624),X451624,Gery.Verient@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Dordea Daniela (X450334),X450334,Daniela.Dordea@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Wiedemann Gerhard (X451148),X451148,Gerhard.Wiedemann@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Mitterlehner Paul (X451207),X451207,Paul.Mitterlehner@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Donner Josef (X451062),X451062,Josef.Donner@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Hollerer Andrea (X449596),X449596,Andrea.Hollerer@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Piller Peter (X449362),X449362,Peter.Piller@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Behrend Jens (X011450),X011450,Jens.Behrend@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Blazekovic Sasa (X011451),X011451,Sasa.Blazekovic@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Hönig Bettina (X449824),X449824,Bettina.Hoenig@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Suer Elisabeth (X450621),X450621,Elisabeth.Suer@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Otto Volker (X449571),X449571,Volker.Otto@omv.com,data.Austria,DATA,,dlg.WW.ADM-Services.P2V.data.AUT
+Tudor Georgeta (GEORGETA18),GEORGETA18,Georgeta.Tudor1@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Culjak Sandra (SANDRA18),SANDRA18,sandra.culjak@omv.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Dimitriu Elena-Cristina (X01014234),X01014234,Elena.Alexandru@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Nicolaescu Daniela-Cristina (DANIELA34),DANIELA34,DanielaCristina.Nicolaescu@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Coanda Simona-Daniela (X01007748),X01007748,SimonaDaniela.Coanda@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Pencea Aurelian (X01000580),X01000580,Aurelian.Pencea@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Chitu Maria Valentina (X01020092),X01020092,Valentina.Chitu@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Calinescu Petruta Alina (X01015446),X01015446,PetrutaAlina.Calinescu@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Ciora Octavian-Mihai (X01022560),X01022560,Octavian_Mihai.Ciora@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Sava Raluca Maria (X01SAVRAL),X01SAVRAL,Raluca.Sava@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Ene Elena (X01022657),X01022657,Elena.Ene@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Bauer Franz (X450683),X450683,Franz.Bauer@omv.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Matei Elena (X01014962),X01014962,Elena.Matei4@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Barbu Stefania (X01012113),X01012113,Stefania.Barbu@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Auer Dominik (X449884),X449884,Dominik.Auer@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+File Daniela Aurelia (X01012158),X01012158,DanielaAurelia.File@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Catu-Sascioreanu Roxana (X01000582),X01000582,Roxana.Catu-Sascioreanu@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Dinu Irene-Claudia (X01000584),X01000584,Irene.Dinu@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Bunescu Florina (X01003515),X01003515,Loredana.Bunescu@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Duta Gabriela-Georgeta (X01000587),X01000587,Gabriela-Georgeta.Duta@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Stanca Mihaela-Cristina (X01000589),X01000589,Mihaela-Cristina.Stanca@petrom.com,data.Bulgaria,DATA,,dlg.WW.ADM-Services.P2V.data.BGR
+Ponz Moreno Sara (SARA27),SARA27,Sara.PonzMoreno@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Tahirov Tahir (TAHIR3),TAHIR3,Tahir.Tahirov@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Podurets Petro (PEDRO8),PEDRO8,Petro.Podurets@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Calin Livia-Madalina (LIVIA11),LIVIA11,LiviaMadalina.Calin@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Wagner Larisa (LARISA9),LARISA9,Larisa.Wagner@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Reiter Stefan (STEFAN377),STEFAN377,Stefan.Reiter1@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Tulan Emilia (X01025982),X01025982,Emilia.Tulan@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Lameiro Manuel Victoriano (MANUEL97),MANUEL97,ManuelVictoriano.Lameiro@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Dobany Kinga (KINGA7),KINGA7,Kinga.Dobany@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Martinus Gabriela (GABRIELA43),GABRIELA43,Gabriela.Martinus@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Borovina Ante (ANTE01),ANTE01,Ante.Borovina@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Sageder Stefan (STEFAN221),STEFAN221,Stefan.Sageder@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Butler Claire (CLAIRE3),CLAIRE3,Claire.Butler@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Eichinger-Klemm Michael Stefan (MICHAEL139),MICHAEL139,MichaelStefan.EichingerKlemm@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Ementon Neil Andrew (NEIL08),NEIL08,Neil.Ementon@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Volker Lukas Johannes (LUKAS80),LUKAS80,Lukas.Volker@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Novotny Bernhard (X011443),X011443,Bernhard.Novotny@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Griac Michal (MICHAL29),MICHAL29,Michal.Griac@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Dobre Mihaela-Nicoleta (MIHAELA37),MIHAELA37,MihaelaNicoleta.Dobre@petrom.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Köhler Maik (KOEHLEMA),KOEHLEMA,Maik.Koehler@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Knauhs Philipp (PHILIPP30),PHILIPP30,Philipp.Knauhs@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Stockinger Andreas (ANDREAS60),ANDREAS60,Andreas.Stockinger@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Kovacs Daniel Alexander (DANIEL63),DANIEL63,DanielAlexander.Kovacs@petrom.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Neubauer Elisabeth (ELISABETH10),ELISABETH10,Elisabeth.Neubauer@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Rock Gregory John (GREGORY1),GREGORY1,GregoryJohn.Rock@petrom.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Martinez Porqueras Ester (ESTER1),ESTER1,Ester.MartinezPorqueras@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Mayer Jan (JAN013),JAN013,Jan.Mayer@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Muntean Iulia-Gabriela (X01022380),X01022380,IuliaGabriela.Muntean@petrom.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Hussain Fida (XHUSSAIFI),XHUSSAIFI,Fida.Hussain@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Hubbig Martin (MARTIN26),MARTIN26,Martin.Hubbig@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Elliott Michael Thomas (MICHAEL21),MICHAEL21,Michael.Elliott@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Qureshi Waqas (XQURESHWA),XQURESHWA,Waqas.Qureshi@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Bulgariu Razvan (X01001805),X01001805,Razvan.Bulgariu@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Sever Vitez Zarko (ZARKO3),ZARKO3,Zarko.SeverVitez@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Bieg Ulrich (ULRICH2),ULRICH2,Ulrich.Bieg@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Heimann-Sorger Judith (JUDITH2),JUDITH2,Judith.HeimannSorger@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Floimayr Martin (X452159),X452159,Martin.Floimayr@Omv.Com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Rech Arno (X452124),X452124,Arno.Rech@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Costa de Almeida Sousa Teles Catarina Sofia (X452088),X452088,Catarina.Teles@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Posch Lisa (X452007),X452007,Lisa.Posch@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Hercus Samuel James (XHERCUSSA),XHERCUSSA,Samuel.Hercus@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Köksal Özge Aygerim (X012773),X012773,Ozge.Koksal@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Baumgartner Tanja Maria (X451558),X451558,Tanja.Weber@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Poldlehner Andreas (X451272),X451272,Andreas.Poldlehner@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Danek Susanne (X370957),X370957,Susanne.Danek@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Waldner Martina (X449157),X449157,Martina.Waldner@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Grader Richard (X451820),X451820,Richard.Grader@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Mitterlehner Paul (X451207),X451207,Paul.Mitterlehner@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Lovett Tam (X903365),X903365,Tam.Lovett@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Torres Jauregui Pablo Antonio (X450766),X450766,Pablo_Antonio.Torres_Jauregui@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Neff Pascale (X450712),X450712,Pascale.Neff@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Nüsslein Markus (X450313),X450313,markus.nuesslein@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Blecha Christian (X450582),X450582,Christian.Blecha@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Hlavacek Josef (X450149),X450149,Josef.Hlavacek@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Hannke Katharine Louise (X449612),X449612,Katie.Hannke@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Bierbaumer Michael (X436733),X436733,Michael.Bierbaumer@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Secklehner Severin (X449657),X449657,Severin.Secklehner@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Kostner Albert (X439364),X439364,Albert.Kostner@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Krois Peter (X427542),X427542,Peter.Krois@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Werth Thomas (X011614),X011614,Thomas.Werth@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Scheruga-Rosmarion Harald (X011481),X011481,Harald.Scheruga@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Balomiri Victor-Emanuel (VICTOR8),VICTOR8,Victor.Balomiri@omv.com,data.Corporate,DATA,,dlg.WW.ADM-Services.P2V.data.corporate
+Tudor Georgeta (GEORGETA18),GEORGETA18,Georgeta.Tudor1@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Culjak Sandra (SANDRA18),SANDRA18,sandra.culjak@omv.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Dimitriu Elena-Cristina (X01014234),X01014234,Elena.Alexandru@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Nicolaescu Daniela-Cristina (DANIELA34),DANIELA34,DanielaCristina.Nicolaescu@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Sledz Christian (CHRISTIAN87),CHRISTIAN87,Christian.Sledz@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Coanda Simona-Daniela (X01007748),X01007748,SimonaDaniela.Coanda@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Potoroaca Eglapie (X01025538),X01025538,Eglapie.Potoroaca@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Pencea Aurelian (X01000580),X01000580,Aurelian.Pencea@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Vatafu Simona (X01026139),X01026139,Simona.Vatafu@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Chitu Maria Valentina (X01020092),X01020092,Valentina.Chitu@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Calinescu Petruta Alina (X01015446),X01015446,PetrutaAlina.Calinescu@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Ciora Octavian-Mihai (X01022560),X01022560,Octavian_Mihai.Ciora@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Sava Raluca Maria (X01SAVRAL),X01SAVRAL,Raluca.Sava@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Ene Elena (X01022657),X01022657,Elena.Ene@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Malin Razvan (X903143),X903143,Razvan.Malin@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Lupu Elena (X01012359),X01012359,Elena.Lupu@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Auer Dominik (X449884),X449884,Dominik.Auer@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+File Daniela Aurelia (X01012158),X01012158,DanielaAurelia.File@petrom.com,data.Georgia,DATA,,dlg.WW.ADM-Services.P2V.data.GEO
+Dinescu Anca-Ica (ANCA10),ANCA10,AncaIca.Dinescu@omv.com,data.Kurdistan,DATA,,dlg.WW.ADM-Services.P2V.data.KRI
+Ho Ik Sing Francis (X01020712),X01020712,Francis.Ho@omv.com,data.Kurdistan,DATA,,dlg.WW.ADM-Services.P2V.data.KRI
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,data.Kurdistan,DATA,,dlg.WW.ADM-Services.P2V.data.KRI
+Hasan Khwajah Basem (XBASEMKH),XBASEMKH,khwajah.basem@omv.com,data.Kurdistan,DATA,,dlg.WW.ADM-Services.P2V.data.KRI
+Cantarella Giuseppe (X452241),X452241,Giuseppe.Cantarella@omv.com,data.Kurdistan,DATA,,dlg.WW.ADM-Services.P2V.data.KRI
+Gmoser David (X451547),X451547,David.Gmoser@omv.com,data.Kurdistan,DATA,,dlg.WW.ADM-Services.P2V.data.KRI
+Fisher Samuel (XFISHERSA),XFISHERSA,Sam.Fisher@omv.com,data.Kurdistan,DATA,,dlg.WW.ADM-Services.P2V.data.KRI
+Mumtaz Muhammad Ajmal (XMUMTAZMU),XMUMTAZMU,ajmal.mumtaz@omv.com,data.Kurdistan,DATA,,dlg.WW.ADM-Services.P2V.data.KRI
+Gonzalez Uribe German Alonso (X450706),X450706,German.Gonzalez@omv.com,data.Kurdistan,DATA,,dlg.WW.ADM-Services.P2V.data.KRI
+Hendizadeh Hadi (X450133),X450133,Hadi.Hendizadeh@omv.com,data.Kurdistan,DATA,,dlg.WW.ADM-Services.P2V.data.KRI
+Sicala Perez Adriana (ADRIANA35),ADRIANA35,Adriana.SicalaPerez@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Evans Christopher William (CHRISTOPHE26),CHRISTOPHE26,Christopher.Evans@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Pöttler Daniel (DANIEL22),DANIEL22,Daniel.Poettler@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Ionescu Gabriel-Liviu (X01000927),X01000927,Gabriel.Ionescu@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Verient Gery (X451624),X451624,Gery.Verient@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Pantazescu Cosmin-Ionut (X01022598),X01022598,Cosmin_Ionut.Pantazescu@petrom.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Stairs Michael (X01022519),X01022519,Michael.Stairs@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Mandl Johannes (X450654),X450654,Johannes.Mandl@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Bramlage Andreas (X01BRAAND),X01BRAAND,Andreas.Bramlage@petrom.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Kunaver Daniel (X450017),X450017,Daniel.Kunaver@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Scsepka Hermann (X400044),X400044,Hermann.Scsepka@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Frey Gerhard (X449132),X449132,Gerhard.Frey@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Yahya Abdulkhalek Mohamed (ABDULKHAL1),ABDULKHAL1,Abdulkhalek.Mohamed@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Inoun Serajeddin Mohamed (XINOUN),XINOUN,Serajeddin.Inoun@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Khalfallah Fatma (XKHALFALLAH),XKHALFALLAH,fatma.khalfallah@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Alzayani Alhusayn (XZIYANI),XZIYANI,Hussein.Ziyani@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Dukaly Hisham (XDUKALY),XDUKALY,hisham.dukaly@omv.com,data.Libya,DATA,,dlg.WW.ADM-Services.P2V.data.LBY
+Azhar Amanina (AMANINA1),AMANINA1,Amanina.Azhar@external.omv.com,data.Mexico,DATA,,dlg.WW.ADM-Services.P2V.data.MEX
+Labitoria Katrina (KATRINA1),KATRINA1,Katrina.Labitoria@external.omv.com,data.Mexico,DATA,,dlg.WW.ADM-Services.P2V.data.MEX
+Moaganasundram Samyukutha (SAMYUKUTHA1),SAMYUKUTHA1,SAMYUKUTHA1@ww.omv.com,data.Mexico,DATA,,dlg.WW.ADM-Services.P2V.data.MEX
+Hafiz Isnami Ahmad Ariff (AHMAD14),AHMAD14,AHMAD14@ww.omv.com,data.Mexico,DATA,,dlg.WW.ADM-Services.P2V.data.MEX
+Tay Sze Ying (SZE001),SZE001,SZE001@ww.omv.com,data.Mexico,DATA,,dlg.WW.ADM-Services.P2V.data.MEX
+Dasri Norbailis (NORBAILIS1),NORBAILIS1,Norbailis.Dasri@external.omv.com,data.Mexico,DATA,,dlg.WW.ADM-Services.P2V.data.MEX
+Hong Danny Chan Ching (CHAN01),CHAN01,CHAN01@ww.omv.com,data.Mexico,DATA,,dlg.WW.ADM-Services.P2V.data.MEX
+Azhar Amanina (AMANINA1),AMANINA1,Amanina.Azhar@external.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Labitoria Katrina (KATRINA1),KATRINA1,Katrina.Labitoria@external.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Mohd Karim Ashaary Razmy (ASHAARY1),ASHAARY1,ASHAARY1@ww.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Moaganasundram Samyukutha (SAMYUKUTHA1),SAMYUKUTHA1,SAMYUKUTHA1@ww.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Hafiz Isnami Ahmad Ariff (AHMAD14),AHMAD14,AHMAD14@ww.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Tay Sze Ying (SZE001),SZE001,SZE001@ww.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Dasri Norbailis (NORBAILIS1),NORBAILIS1,Norbailis.Dasri@external.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Abdul Rahman Norshafarina (NORSHAFARIN1),NORSHAFARIN1,NORSHAFARIN1@ww.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Hong Danny Chan Ching (CHAN01),CHAN01,CHAN01@ww.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Shafie Shaizatul Fatihah (SHAIZATUL1),SHAIZATUL1,SHAIZATUL1@ww.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Majeth Nasarene Majeth (NASARENE1),NASARENE1,NASARENE1@ww.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Tong Priscilla (PRISCILLA1),PRISCILLA1,PRISCILLA1@ww.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Harith Farah (FARAH1),FARAH1,FARAH1@ww.omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Mallinson Ian (IAN006),IAN006,Ian.Mallinson@omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Etz Mathias Michael (X450761),X450761,Mathias.Etz@omv.com,data.Malaysia,DATA,,dlg.WW.ADM-Services.P2V.data.MYS
+Skår Simon (SIMON92),SIMON92,Simon.Skar@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Sværen Elisabeth (ELISABETH28),ELISABETH28,Elisabeth.Svaeren@external.omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Birsa David-Teodor (DAVID103),DAVID103,DavidTeodor.Birsa@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Obiacoro Maricel (MARICEL10),MARICEL10,Maricel.Obiacoro@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Ponte Wuilmer Jose (WUILMER1),WUILMER1,Wuilmer.Ponte@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Michielsen Bastiaan Hendrikus (BASTIAAN2),BASTIAAN2,BastiaanHendrikus.Michielsen@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Brock Lewis Daniel (LEWIS1),LEWIS1,Lewis.Brock@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Øverland Øivind (OEIVIND1),OEIVIND1,Oivind.Overland@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Bresciani Marco Renzo (MARCO9),MARCO9,Marco.Bresciani@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Haver Reidar (REIDAR1),REIDAR1,Reidar.Haver@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Hasan Khwajah Basem (XBASEMKH),XBASEMKH,khwajah.basem@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Holmgard Tor Oskar Haukland (TOR001),TOR001,TorOskar.Holmgard@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Melgaard Thomas (THOMAS15),THOMAS15,Thomas.Melgaard@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Stensland Hege (HEGE1),HEGE1,Hege.Stensland@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Haram Helene (XHARAMHE),XHARAMHE,Helene.Haram@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Coada-Petre Madalina (X01024526),X01024526,Madalina.CoadaPetre@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Abdoli Mostafa (XABDOLI),XABDOLI,Mostafa.Abdoli@omv.com,data.Norway,DATA,,dlg.WW.ADM-Services.P2V.data.NOR
+Struwig Lorinda (LORINDA1),LORINDA1,Lorinda.Struwig@omv.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+Wood Jonathan (JONATHAN14),JONATHAN14,Jonathan.Wood@omv.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+German Michael (MICHAEL164),MICHAEL164,Michael.German@omv.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+Reid Brendon (BRENDON2),BRENDON2,Brendon.Reid@omv.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+Powell Ross (ROSS04),ROSS04,Ross.Powell@omv.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+Bracegirdle Hamish (HAMISH2),HAMISH2,Hamish.Bracegirdle@omv.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+Rodriguez Craig Martin (CRAIG8),CRAIG8,CraigMartin.Rodriguez@petrom.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+Thomas Oliver (OLIVER30),OLIVER30,Oliver.Thomas@omv.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+Hutchinson Bex (BEX001),BEX001,Bex.Hutchinson@omv.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+Bencsik Enikö (ENIKOE1),ENIKOE1,Enikoe.Bencsik@omv.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+Brock Lewis Daniel (LEWIS1),LEWIS1,Lewis.Brock@omv.com,data.NewZealand,DATA,,dlg.WW.ADM-Services.P2V.data.NZL
+Stürzenbecher Sascha (SASCHA15),SASCHA15,sascha.stuerzenbecher@omv.com,data.OMVEP,DATA,,dlg.WW.ADM-Services.P2V.data.OMVEP
+Kalas Rade (RADE01),RADE01,Rade.Kalas@omv.com,data.OMVEP,DATA,,dlg.WW.ADM-Services.P2V.data.OMVEP
+Verbruggen Marinus Hendricus Wilhelmus (MARINUS1),MARINUS1,Marinus.Verbruggen@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Trana Virginia (VIRGINIA2),VIRGINIA2,Virginia.Trana@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Tudor Georgeta (GEORGETA18),GEORGETA18,Georgeta.Tudor1@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Rebega Mariana (MARIANA31),MARIANA31,Mariana.Rebega@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Toader Simona (SIMONA21),SIMONA21,Simona.Toader@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Zetocha Ioana-Alina (IOANA28),IOANA28,IoanaAlina.Zetocha@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Culjak Sandra (SANDRA18),SANDRA18,sandra.culjak@omv.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Dimitriu Elena-Cristina (X01014234),X01014234,Elena.Alexandru@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Nicolaescu Daniela-Cristina (DANIELA34),DANIELA34,DanielaCristina.Nicolaescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Despa Liliana (X01012582),X01012582,Liliana.Despa@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Sledz Christian (CHRISTIAN87),CHRISTIAN87,Christian.Sledz@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Dutu Cristina Mariana (X01014211),X01014211,Cristina.Dutu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Andrei Elena Iuliana (X01018903),X01018903,ElenaIuliana.Andrei@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Gonzalez Rojas Jose Maria (X01GONJOS),X01GONJOS,Jose.Gonzalez@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Badea Carmina (X01027069),X01027069,Carmina.Badea@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Tanase George-Alin (X01027076),X01027076,GeorgeAlin.Tanase@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Chiri Carlo (X01025468),X01025468,Carlo.Chiri@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Potoroaca Eglapie (X01025538),X01025538,Eglapie.Potoroaca@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Ghergu Andrei (X01022561),X01022561,Andrei.Ghergu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Pencea Aurelian (X01000580),X01000580,Aurelian.Pencea@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Muntean Iulia-Gabriela (X01022380),X01022380,IuliaGabriela.Muntean@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Vatafu Simona (X01026139),X01026139,Simona.Vatafu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Costache Florica (X01005992),X01005992,Florica.Costache@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Apostol Ionut (X01012183),X01012183,Ionut.Apostol@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Chitu Maria Valentina (X01020092),X01020092,Valentina.Chitu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Chis Nicoleta-Marinela (X01022493),X01022493,Nicoleta.Chis@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Stoecke Ewald (X01STOEWA),X01STOEWA,Ewald.Stoecke@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Calinescu Petruta Alina (X01015446),X01015446,PetrutaAlina.Calinescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Lubene Catalina-Andreea (X01025934),X01025934,CatalinaAndreea.Lubene@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Puscasu Denisa-Florentina (X01025667),X01025667,DenisaFlorentina.Puscasu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Uspanov Marat (MARAT1),MARAT1,Marat.Uspanov@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Rizea Marian (X01RIZMAR),X01RIZMAR,Marian.Rizea@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Ciora Octavian-Mihai (X01022560),X01022560,Octavian_Mihai.Ciora@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Cojocaru Petruta (X01000630),X01000630,Petruta.Cojocaru@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Radu Ionut-Andrei (X01024948),X01024948,Ionut_Andrei.Radu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Duta Octavian (X01024886),X01024886,Octavian.Duta1@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Toma Gerasel (X01001437),X01001437,Gerasel.Toma@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Janiczek Peter (X451740),X451740,Peter.Janiczek@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Panduru Anton-Cristian (X01024026),X01024026,Anton.Panduru@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Chioran Dragos-Dorel (X01022508),X01022508,Dragos.Chioran1@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Jipa Radu-Ionut (X01023752),X01023752,Radu.Jipa@omv.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Filimon Alexandru (X01023737),X01023737,Alexandru.Filimon@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Sava Raluca Maria (X01SAVRAL),X01SAVRAL,Raluca.Sava@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Popa Marinel (X01022834),X01022834,Marinel.Popa@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Ene Elena (X01022657),X01022657,Elena.Ene@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Sukosd Zoltan (X01022656),X01022656,Zoltan.Sukosd@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Dumitrache Marius (X01022402),X01022402,Marius.Dumitrache@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Nastase Teodor-Vladut (X01022484),X01022484,Teodor_Vladut.Nastase@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Chiriac Madalina (X01022492),X01022492,Madalina.Chiriac@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Huber Stephanie (X450894),X450894,Stephanie.Huber@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Malin Razvan (X903143),X903143,Razvan.Malin@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Fallah Kheirkhah Mohammad (X903220),X903220,Mohammad.Fallah@omv.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Panait Emil-Gheorghe (X01020120),X01020120,Emil.Panait@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Soricu Mihai (X01020563),X01020563,Mihai.Soricu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Pantazescu Elena (X01019014),X01019014,Elena.Rotaru3@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Matei Elena (X01014962),X01014962,Elena.Matei4@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Sandu Radita (X01014455),X01014455,Radita.Sandu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Mujescu Nicoleta (X01016018),X01016018,Nicoleta.Mujescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Uta Elena (X01013566),X01013566,Elena.Uta@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Moise Adriana Venera (X01015991),X01015991,AdrianaVenera.Moise@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Palistan Maria Adriana (X01015869),X01015869,MariaAdriana.Palistan@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Georgescu Oana Crinuta (X01015586),X01015586,OanaCrinuta.Georgescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Popescu Camelia Elena (X01015410),X01015410,CameliaElena.Popescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Mihai Maria Camelia (X01015872),X01015872,CameliaMaria.Mihai@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Raducanu Mihaela Gratiela (X01016000),X01016000,Mihaela.Raducanu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Farcas Iuliana (X01015981),X01015981,Iuliana.Farcas@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Ivan Liliana-Ionica (X01015881),X01015881,Liliana-Ionica.Ivan@Petrom.Com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Branescu Mihai (X01012860),X01012860,Mihai.Branescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Pruna Daniela (X01013682),X01013682,Daniela.Pruna@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Felea Viorel-Theodor (X01008370),X01008370,Viorel.Felea@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Porumb Calin (X01011206),X01011206,Calin.Porumb@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Babici Calin (X01005079),X01005079,Calin.Babici@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Amzar Tiberiu-Alexandru (X01011568),X01011568,TiberiuAlexandru.Amzar@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Pavel Laurentiu (X01006617),X01006617,Laurentiu.Pavel@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Munteanu Rodica Victoria (X01011210),X01011210,Rodica.Munteanu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Mezei Adriana (X01012825),X01012825,Adriana.Mezei@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Anagnastopol Mihaela-Creola (X01007059),X01007059,Mihaela.Anagnastopol@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Man Silviu (X01009245),X01009245,Silviu.Man@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Apostoiu Ion (X01010924),X01010924,Ion.Apostoiu1@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Enea Irinel-Ioan (X01010994),X01010994,Ioan_Irinel.Enea@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Lungu Daniel-Constantin (X01009153),X01009153,Daniel_Constantin.Lungu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Popescu Adrian (X01004806),X01004806,Adrian.Popescu2@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Jipa Ancuta (X01010591),X01010591,Ancuta.Jipa@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Caiter Aura-Rodica (X01009740),X01009740,AuraRodica.Caiter@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Pop Iuliana (X01011196),X01011196,Iuliana.Pop@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Voica Ramona (X01010567),X01010567,Ramona.Voica@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Mihalcea Constantin (X01005384),X01005384,Constantin.Mihalcea@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Tirliman Adrian (X01013919),X01013919,Adrian.Tirliman@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Iosif Emil-Eugen (X01005899),X01005899,Emil_Eugen.Iosif@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Vindt Emil Cornel (X01000632),X01000632,Emil-Cornel.Vindt@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Surubaru Iulia Carmen (X01004284),X01004284,Iulia_Carmen.Surubaru@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Todea Cristian-Ion (X01005430),X01005430,Cristian_Ion.Todea@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Manta Andrea-Gabriela (X01001941),X01001941,Andreea.Manta@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Camuescu Marius Adrian (X01013271),X01013271,Marius.Camuescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Barbu Stefania (X01012113),X01012113,Stefania.Barbu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Icatoiu Gabriela (X01002577),X01002577,Gabriela.Icatoiu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Dima Georgeta-Alina (X01000527),X01000527,GeorgetaAlina.Dima@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Wildförster Arndt (X449370),X449370,Arndt.Wildfoerster@omv.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Corbu Razvan Florin (X01013107),X01013107,Razvan.Corbu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Popa Elena (X01005827),X01005827,Elena.Popa1@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Barcsa Gabriela-Livia (X01006078),X01006078,Gabriela.Barcsa@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Pop Alina Simona (X01010854),X01010854,AlinaSimona.Pop@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Lungu Lenuta (X01009774),X01009774,Lenuta.Lungu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Petrache Gabriel (X01001165),X01001165,Gabriel.Petrache@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Dragoi Ionut (X01006486),X01006486,Ionut.Dragoi@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Ionescu Viorel (X01004087),X01004087,Viorel.Ionescu1@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Hannke Stephan (X449593),X449593,Stephan.Hannke@omv.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Rizea Florin Mihai (X01006035),X01006035,Florin_Mihai.Rizea@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Stefan Nicolae (X01007286),X01007286,Nicolae.Stefan2@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Prisnel Tatiana-Mirela (X01007916),X01007916,Tatiana.Prisnel@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Simionescu Bianca Mihaiela (X01007099),X01007099,Mihaela.Simionescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Joita Emilian-Eugeniu (X01001936),X01001936,Emilian.Joita@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Anghelescu Valentina (X01008024),X01008024,Valentina.Anghelescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Grigore-Popa Luminita (X01010501),X01010501,Luminita.GrigorePopa@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Popescu Catalina (X01010203),X01010203,Catalina.Popescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Vindt Manuela Corina (X01001056),X01001056,Manuela.Vindt@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Cruceru Irina-Raluca (X01003379),X01003379,Raluca.Cruceru@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Catu-Sascioreanu Roxana (X01000582),X01000582,Roxana.Catu-Sascioreanu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Stoica Emilia-Daniela (X01000585),X01000585,Emilia-Daniela.Stoica@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Dinu Irene-Claudia (X01000584),X01000584,Irene.Dinu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Cujba Valentina (X01000845),X01000845,Valentina.Cujba@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Pop Anca-Mariana (X01000877),X01000877,Anca-Mariana.Pop@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Bunescu Florina (X01003515),X01003515,Loredana.Bunescu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Duta Gabriela-Georgeta (X01000587),X01000587,Gabriela-Georgeta.Duta@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Banciu Traian (X01000994),X01000994,Traian.Banciu@petrom.com,data.Romania,DATA,,dlg.WW.ADM-Services.P2V.data.ROU
+Kalas Rade (RADE01),RADE01,Rade.Kalas@omv.com,data.Russia,DATA,,dlg.WW.ADM-Services.P2V.data.RUS
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,data.Russia,DATA,,dlg.WW.ADM-Services.P2V.data.RUS
+Arekhov Vladislav (VLADISLAV9),VLADISLAV9,Vladislav.Arekhov1@omv.com,data.Russia,DATA,,dlg.WW.ADM-Services.P2V.data.RUS
+Bahri Chahine (CHAHINE1),CHAHINE1,Chahine.Bahri@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Jafari Gol Farzad (FARZAD1),FARZAD1,Farzad.JafariGol@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Wallace James William Neil (XWALJAM),XWALJAM,James.Wallace@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Kebaier Dorsaf (DORSAF1),DORSAF1,Dorsaf.Kebaier@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Kooli Imen (IMEN1),IMEN1,Imen.Kooli@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Cantarella Giuseppe (X452241),X452241,Giuseppe.Cantarella@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Saidi Sara (XSAIDISA),XSAIDISA,Sarra.Saidi@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Bouziani Aymen (XBOUZIAAY),XBOUZIAAY,Aymen.Bouziani@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Deckers Marie (X451659),X451659,Marie.Deckers@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Khalifa Mohammad (X01022534),X01022534,Mohammad.Khalifa@petrom.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Fisher Samuel (XFISHERSA),XFISHERSA,Sam.Fisher@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Ben Ameur Asma (X903144),X903144,Asma.Benameur@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Ayari Noura (XAYARI),XAYARI,noura.ayari@omv.com,data.Tunisia,DATA,,dlg.WW.ADM-Services.P2V.data.TUN
+Dinescu Anca-Ica (ANCA10),ANCA10,AncaIca.Dinescu@omv.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Ho Ik Sing Francis (X01020712),X01020712,Francis.Ho@omv.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Hasan Khwajah Basem (XBASEMKH),XBASEMKH,khwajah.basem@omv.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Glück Robert (ROBERT20),ROBERT20,Robert.Glueck@omv.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Toma Nicoleta-Adriana (X01026454),X01026454,NicoletaAdriana.Toma@omv.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Jafari Gol Farzad (FARZAD1),FARZAD1,Farzad.JafariGol@omv.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Cantarella Giuseppe (X452241),X452241,Giuseppe.Cantarella@omv.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Maknine Yosri (XMAKNINYO),XMAKNINYO,Yosri.Maknine@omv.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Khalifa Mohammad (X01022534),X01022534,Mohammad.Khalifa@petrom.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Fisher Samuel (XFISHERSA),XFISHERSA,Sam.Fisher@omv.com,data.Yemen,DATA,,dlg.WW.ADM-Services.P2V.data.YEM
+Volker Lukas Johannes (LUKAS80),LUKAS80,Lukas.Volker@omv.com,Developer,SPECIAL,,dlg.WW.ADM-Services.P2V.developer
+Ivanciu Adrian-Mihail (ADRIAN75),ADRIAN75,AdrianMihail.Ivanciu@petrom.com,Developer,SPECIAL,,dlg.WW.ADM-Services.P2V.developer
+Bulgariu Razvan (X01001805),X01001805,Razvan.Bulgariu@omv.com,Developer,SPECIAL,,dlg.WW.ADM-Services.P2V.developer
+Kufner Martin (X449222),X449222,Martin.Kufner@omv.com,Developer,SPECIAL,,dlg.WW.ADM-Services.P2V.developer
+Culjak Sandra (SANDRA18),SANDRA18,sandra.culjak@omv.com,Dataflow.unlock,SPECIAL,,dlg.WW.ADM-Services.P2V.DF.unlock
+Sledz Christian (CHRISTIAN87),CHRISTIAN87,Christian.Sledz@petrom.com,A14.profile.Economics.Regimes,SPECIAL,,dlg.WW.ADM-Services.P2V.ECO.regimes
+Hussain Fida (XHUSSAIFI),XHUSSAIFI,Fida.Hussain@omv.com,A14.profile.Economics.Regimes,SPECIAL,,dlg.WW.ADM-Services.P2V.ECO.regimes
+Burchisis Alexandru-Mihai (ALEXANDRU170),ALEXANDRU170,AlexandruMihai.Burchisis@omv.com,A17.profile.Finance.Regimes,SPECIAL,,dlg.WW.ADM-Services.P2V.FIN.regimes
+Umani Leonardo (LEONARDO1),LEONARDO1,Leonardo.Umani@omv.com,A17.profile.Finance.Regimes,SPECIAL,,dlg.WW.ADM-Services.P2V.FIN.regimes
+Bulgariu Razvan (X01001805),X01001805,Razvan.Bulgariu@omv.com,A17.profile.Finance.Regimes,SPECIAL,,dlg.WW.ADM-Services.P2V.FIN.regimes
+Baumgartner Tanja Maria (X451558),X451558,Tanja.Weber@omv.com,A17.profile.Finance.Regimes,SPECIAL,,dlg.WW.ADM-Services.P2V.FIN.regimes
+Martinez Porqueras Ester (ESTER1),ESTER1,Ester.MartinezPorqueras@omv.com,A03.profile.CAPDAT,PROFILE,,dlg.WW.ADM-Services.P2V.profile.CAPDAT
+Wannenmacher Nico (NICO23),NICO23,Nico.Wannenmacher@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Tahirov Tahir (TAHIR3),TAHIR3,Tahir.Tahirov@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Sicala Perez Adriana (ADRIANA35),ADRIANA35,Adriana.SicalaPerez@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Mohd Karim Ashaary Razmy (ASHAARY1),ASHAARY1,ASHAARY1@ww.omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Moaganasundram Samyukutha (SAMYUKUTHA1),SAMYUKUTHA1,SAMYUKUTHA1@ww.omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Hanafi Hanita (HANITA1),HANITA1,HANITA1@ww.omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Tong Priscilla (PRISCILLA1),PRISCILLA1,PRISCILLA1@ww.omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Harith Farah (FARAH1),FARAH1,FARAH1@ww.omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Wood Jonathan (JONATHAN14),JONATHAN14,Jonathan.Wood@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Reid Brendon (BRENDON2),BRENDON2,Brendon.Reid@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Scholz Christian (CHRISTIAN130),CHRISTIAN130,Christian.Scholz@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Brock Lewis Daniel (LEWIS1),LEWIS1,Lewis.Brock@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Schumacher Georg (X01SCHGEO),X01SCHGEO,Georg.Schumacher@petrom.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Hasan Khwajah Basem (XBASEMKH),XBASEMKH,khwajah.basem@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Haberfehlner Stephanie (STEPHANIE3),STEPHANIE3,Stephanie.Haberfehlner@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Calinescu Petruta Alina (X01015446),X01015446,PetrutaAlina.Calinescu@petrom.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Dordea Daniela (X450334),X450334,Daniela.Dordea@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Fisher Samuel (XFISHERSA),XFISHERSA,Sam.Fisher@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Coada-Petre Madalina (X01024526),X01024526,Madalina.CoadaPetre@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Bauer Franz (X450683),X450683,Franz.Bauer@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Matei Elena (X01014962),X01014962,Elena.Matei4@petrom.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Rodgers Emma (X449890),X449890,Emma.Rodgers@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+File Daniela Aurelia (X01012158),X01012158,DanielaAurelia.File@petrom.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Catu-Sascioreanu Roxana (X01000582),X01000582,Roxana.Catu-Sascioreanu@petrom.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Duta Gabriela-Georgeta (X01000587),X01000587,Gabriela-Georgeta.Duta@petrom.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Stanca Mihaela-Cristina (X01000589),X01000589,Mihaela-Cristina.Stanca@petrom.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Dukaly Hisham (XDUKALY),XDUKALY,hisham.dukaly@omv.com,A13.profile.Economics.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Classic
+Podurets Petro (PEDRO8),PEDRO8,Petro.Podurets@omv.com,A15.profile.Economics.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Plus
+Sledz Christian (CHRISTIAN87),CHRISTIAN87,Christian.Sledz@petrom.com,A15.profile.Economics.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Plus
+Hussain Fida (XHUSSAIFI),XHUSSAIFI,Fida.Hussain@omv.com,A15.profile.Economics.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Plus
+Qureshi Waqas (XQURESHWA),XQURESHWA,Waqas.Qureshi@omv.com,A15.profile.Economics.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Economics.Plus
+Bierbaumer Michael (X436733),X436733,Michael.Bierbaumer@omv.com,A24.profile.Exploration.Assurance,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Exploration.Assurance
+Eder Thomas (X446583),X446583,Thomas.Eder@omv.com,A24.profile.Exploration.Assurance,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Exploration.Assurance
+Bieg Ulrich (ULRICH2),ULRICH2,Ulrich.Bieg@omv.com,A25.profile.Exploration.OA.Admin,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Exploration.OAAdmin
+Eder Thomas (X446583),X446583,Thomas.Eder@omv.com,A25.profile.Exploration.OA.Admin,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Exploration.OAAdmin
+Azhar Amanina (AMANINA1),AMANINA1,Amanina.Azhar@external.omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Labitoria Katrina (KATRINA1),KATRINA1,Katrina.Labitoria@external.omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Skår Simon (SIMON92),SIMON92,Simon.Skar@omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Sværen Elisabeth (ELISABETH28),ELISABETH28,Elisabeth.Svaeren@external.omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Trana Virginia (VIRGINIA2),VIRGINIA2,Virginia.Trana@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Matis Cristina (CRISTINA76),CRISTINA76,Cristina.Matis@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Tay Sze Ying (SZE001),SZE001,SZE001@ww.omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Grames Jakob (JAKOB22),JAKOB22,Jakob.Grames@omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Dasri Norbailis (NORBAILIS1),NORBAILIS1,Norbailis.Dasri@external.omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Abdul Rahman Norshafarina (NORSHAFARIN1),NORSHAFARIN1,NORSHAFARIN1@ww.omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Struwig Lorinda (LORINDA1),LORINDA1,Lorinda.Struwig@omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Burchisis Alexandru-Mihai (ALEXANDRU170),ALEXANDRU170,AlexandruMihai.Burchisis@omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Obiacoro Maricel (MARICEL10),MARICEL10,Maricel.Obiacoro@omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Bracegirdle Hamish (HAMISH2),HAMISH2,Hamish.Bracegirdle@omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Kalas Rade (RADE01),RADE01,Rade.Kalas@omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Bonifate Catalina (X01016753),X01016753,Catalina.Bonifate@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Sandu Radita (X01014455),X01014455,Radita.Sandu@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Mujescu Nicoleta (X01016018),X01016018,Nicoleta.Mujescu@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Mehes Stefan (X01014441),X01014441,Stefan.Mehes1@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Moise Adriana Venera (X01015991),X01015991,AdrianaVenera.Moise@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Vierita Nicoleta (X01016011),X01016011,Nicoleta.Vierita@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Mihai Maria Camelia (X01015872),X01015872,CameliaMaria.Mihai@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Vladila Daniela (X01015430),X01015430,Daniela.Vladila@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Raducanu Mihaela Gratiela (X01016000),X01016000,Mihaela.Raducanu@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Mogosanu Tabita (X01015875),X01015875,Tabita.Mogosanu@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Farcas Iuliana (X01015981),X01015981,Iuliana.Farcas@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Ivan Liliana-Ionica (X01015881),X01015881,Liliana-Ionica.Ivan@Petrom.Com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Anagnastopol Mihaela-Creola (X01007059),X01007059,Mihaela.Anagnastopol@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Voica Ramona (X01010567),X01010567,Ramona.Voica@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Manta Andrea-Gabriela (X01001941),X01001941,Andreea.Manta@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Pop Alina Simona (X01010854),X01010854,AlinaSimona.Pop@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Suer Elisabeth (X450621),X450621,Elisabeth.Suer@omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Prisnel Tatiana-Mirela (X01007916),X01007916,Tatiana.Prisnel@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Simionescu Bianca Mihaiela (X01007099),X01007099,Mihaela.Simionescu@petrom.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Galyautdinov Marsel (RU000040),RU000040,Marsel.Galyautdinov@omv.com,A16.profile.Finance.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Classic
+Calin Livia-Madalina (LIVIA11),LIVIA11,LiviaMadalina.Calin@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Wagner Larisa (LARISA9),LARISA9,Larisa.Wagner@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Süle Zoltan (ZOLTAN30),ZOLTAN30,Zoltan.Suele@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Lameiro Manuel Victoriano (MANUEL97),MANUEL97,ManuelVictoriano.Lameiro@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Martinus Gabriela (GABRIELA43),GABRIELA43,Gabriela.Martinus@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Bogar Andras (ANDRAS9),ANDRAS9,Andras.Bogar@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Griac Michal (MICHAL29),MICHAL29,Michal.Griac@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Culjak Sandra (SANDRA18),SANDRA18,sandra.culjak@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Umani Leonardo (LEONARDO1),LEONARDO1,Leonardo.Umani@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Chetrone Diana (X01025240),X01025240,Diana.Chetrone@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Mitterlehner Paul (X451207),X451207,Paul.Mitterlehner@omv.com,A18.profile.Finance.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Finance.Plus
+Verbruggen Marinus Hendricus Wilhelmus (MARINUS1),MARINUS1,Marinus.Verbruggen@petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Reiter Stefan (STEFAN377),STEFAN377,Stefan.Reiter1@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Tulan Emilia (X01025982),X01025982,Emilia.Tulan@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Hafiz Isnami Ahmad Ariff (AHMAD14),AHMAD14,AHMAD14@ww.omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Shafie Shaizatul Fatihah (SHAIZATUL1),SHAIZATUL1,SHAIZATUL1@ww.omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Borovina Ante (ANTE01),ANTE01,Ante.Borovina@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Sageder Stefan (STEFAN221),STEFAN221,Stefan.Sageder@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Eichinger-Klemm Michael Stefan (MICHAEL139),MICHAEL139,MichaelStefan.EichingerKlemm@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Ementon Neil Andrew (NEIL08),NEIL08,Neil.Ementon@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Rebega Mariana (MARIANA31),MARIANA31,Mariana.Rebega@petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Zetocha Ioana-Alina (IOANA28),IOANA28,IoanaAlina.Zetocha@petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Kwon Soon Chul (RICHARD31),RICHARD31,Richard.Kwon@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Köhler Maik (KOEHLEMA),KOEHLEMA,Maik.Koehler@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Badea Carmina (X01027069),X01027069,Carmina.Badea@petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Badescu Sorina  Maria (X01013375),X01013375,Sorina_Maria.Armasescu@Omv.Com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Costache Florica (X01005992),X01005992,Florica.Costache@petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Elliott Michael Thomas (MICHAEL21),MICHAEL21,Michael.Elliott@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Sever Vitez Zarko (ZARKO3),ZARKO3,Zarko.SeverVitez@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Lubene Catalina-Andreea (X01025934),X01025934,CatalinaAndreea.Lubene@petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Heimann-Sorger Judith (JUDITH2),JUDITH2,Judith.HeimannSorger@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Floimayr Martin (X452159),X452159,Martin.Floimayr@Omv.Com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Uspanov Marat (MARAT1),MARAT1,Marat.Uspanov@petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Rizea Marian (X01RIZMAR),X01RIZMAR,Marian.Rizea@petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Cojocaru Petruta (X01000630),X01000630,Petruta.Cojocaru@petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Rech Arno (X452124),X452124,Arno.Rech@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Bouw Sander (X451921),X451921,Sander.Bouw@omv.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Aninoiu Ion (X01006406),X01006406,Ion.Aninoiu@external.petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Birtoiu Melania (X01007044),X01007044,Melania.Birtoiu@petrom.com,A04.profile.Light,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser
+Gnauer Matthias (X450615),X450615,Matthias.Gnauer@omv.com,A06.profile.Light.Fin.Port,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser.FinPort
+Anghelescu Valentina (X01008024),X01008024,Valentina.Anghelescu@petrom.com,A06.profile.Light.Fin.Port,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser.FinPort
+Bunescu Florina (X01003515),X01003515,Loredana.Bunescu@petrom.com,A06.profile.Light.Fin.Port,PROFILE,,dlg.WW.ADM-Services.P2V.profile.LightUser.FinPort
+Dobany Kinga (KINGA7),KINGA7,Kinga.Dobany@omv.com,A19.profile.Portfolio.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Portfolio.Classic
+Scholz Christian (CHRISTIAN130),CHRISTIAN130,Christian.Scholz@omv.com,A19.profile.Portfolio.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Portfolio.Classic
+Pencea Aurelian (X01000580),X01000580,Aurelian.Pencea@petrom.com,A19.profile.Portfolio.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Portfolio.Classic
+Vatafu Simona (X01026139),X01026139,Simona.Vatafu@petrom.com,A19.profile.Portfolio.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Portfolio.Classic
+Costa de Almeida Sousa Teles Catarina Sofia (X452088),X452088,Catarina.Teles@omv.com,A19.profile.Portfolio.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Portfolio.Classic
+Stoica Emilia-Daniela (X01000585),X01000585,Emilia-Daniela.Stoica@petrom.com,A19.profile.Portfolio.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Portfolio.Classic
+Dinu Irene-Claudia (X01000584),X01000584,Irene.Dinu@petrom.com,A19.profile.Portfolio.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Portfolio.Classic
+Haberfehlner Stephanie (STEPHANIE3),STEPHANIE3,Stephanie.Haberfehlner@omv.com,A26.profile.Portfolio.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Portfolio.Plus
+Pascanu Ioana (IOANA5),IOANA5,Ioana.Pascanu@omv.com,A26.profile.Portfolio.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Portfolio.Plus
+Nüsslein Markus (X450313),X450313,markus.nuesslein@omv.com,A26.profile.Portfolio.Plus,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Portfolio.Plus
+Pourmohammadi Shahram (SHAHRAM2),SHAHRAM2,Shahram.Pourmohammadi@external.omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Anders Lukas (LUKAS10),LUKAS10,Lukas.Anders@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Kovacs Adam Milan (ADAM30),ADAM30,AdamMilan.Kovacs@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Medina Herman Alexis Alberto (ALEXIS2),ALEXIS2,AlexisAlberto.MedinaHerman@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Broto Palomera Victor (VICTOR77),VICTOR77,Victor.BrotoPalomera@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Trana Virginia (VIRGINIA2),VIRGINIA2,Virginia.Trana@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Ledoux Tony (TONY09),TONY09,TONY09@ww.omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Salam Suzanah (SUZANAH1),SUZANAH1,SUZANAH1@ww.omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Stürzenbecher Sascha (SASCHA15),SASCHA15,sascha.stuerzenbecher@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Matis Cristina (CRISTINA76),CRISTINA76,Cristina.Matis@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Hong Danny Chan Ching (CHAN01),CHAN01,CHAN01@ww.omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Krenn Christof (CHRISTOF3),CHRISTOF3,Christof.Krenn@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Birsa David-Teodor (DAVID103),DAVID103,DavidTeodor.Birsa@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Marta Amaro Catarina (CATARINA1),CATARINA1,Catarina.MartaAmaro@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Small Warwick (WARWICK4),WARWICK4,Warwick.Small@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Smith Warwick (WARWICK5),WARWICK5,Warwick.Smith@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+German Michael (MICHAEL164),MICHAEL164,Michael.German@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Powell Ross (ROSS04),ROSS04,Ross.Powell@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Inwood Andrew (ANDREW25),ANDREW25,Andrew.Inwood@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Rodriguez Craig Martin (CRAIG8),CRAIG8,CraigMartin.Rodriguez@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Thomas Oliver (OLIVER30),OLIVER30,Oliver.Thomas@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Ponte Wuilmer Jose (WUILMER1),WUILMER1,Wuilmer.Ponte@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Kreiger Stephan (STEPHAN27),STEPHAN27,Stephan.Kreiger@omv-gas-storage.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Zabel David (DAVID27),DAVID27,David.Zabel@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Scholz Christian (CHRISTIAN130),CHRISTIAN130,Christian.Scholz@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Datler Martin (MARTIN106),MARTIN106,Martin.Datler@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Evans Christopher William (CHRISTOPHE26),CHRISTOPHE26,Christopher.Evans@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Dutzler Florian (FLORIAN109),FLORIAN109,Florian.Dutzler@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+List David (DAVID77),DAVID77,David.List@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Michielsen Bastiaan Hendrikus (BASTIAAN2),BASTIAAN2,BastiaanHendrikus.Michielsen@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Hurch Sarah (SARAH22),SARAH22,Sarah.Hurch@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Prinz Stefan (STEFAN131),STEFAN131,Stefan.Prinz@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Despa Liliana (X01012582),X01012582,Liliana.Despa@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Haver Reidar (REIDAR1),REIDAR1,Reidar.Haver@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Bahri Chahine (CHAHINE1),CHAHINE1,Chahine.Bahri@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Fortelny Andrada Simina (XNEAGUAND),XNEAGUAND,AndradaSimina.Fortelny@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Pascale Tudor-Mihai (X01026833),X01026833,TudorMihai.Pascale@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Schretter Isabell (ISABELL1),ISABELL1,Isabell.Schretter@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Krogh Morten (MORTEN2),MORTEN2,Morten.Krogh@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Gauer Albert Lorenz (ALBERT3),ALBERT3,AlbertLorenz.Gauer@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Haaland Pål Marius (XHAALANPA),XHAALANPA,pmhaaland@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Haram Helene (XHARAMHE),XHARAMHE,Helene.Haram@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Ionescu Gabriel-Liviu (X01000927),X01000927,Gabriel.Ionescu@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Dobbins Robert Shane (XDOBBINRO),XDOBBINRO,Rob.Dobbins@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Möbius Rolf (X452109),X452109,Rolf.Moebius@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Rech Arno (X452124),X452124,Arno.Rech@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Hercus Samuel James (XHERCUSSA),XHERCUSSA,Samuel.Hercus@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Toma Gerasel (X01001437),X01001437,Gerasel.Toma@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Zabalza Isabelle (X451087),X451087,Isabelle.Zabalza@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Malin Razvan (X903143),X903143,Razvan.Malin@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Mumtaz Muhammad Ajmal (XMUMTAZMU),XMUMTAZMU,ajmal.mumtaz@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Pantazescu Elena (X01019014),X01019014,Elena.Rotaru3@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Hollerer Andrea (X449596),X449596,Andrea.Hollerer@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Noe-Nordberg Florian (X450695),X450695,Florian.Noe-Nordberg@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Mujescu Nicoleta (X01016018),X01016018,Nicoleta.Mujescu@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Mehes Stefan (X01014441),X01014441,Stefan.Mehes1@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Vierita Nicoleta (X01016011),X01016011,Nicoleta.Vierita@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Palistan Maria Adriana (X01015869),X01015869,MariaAdriana.Palistan@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Georgescu Oana Crinuta (X01015586),X01015586,OanaCrinuta.Georgescu@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Mihai Maria Camelia (X01015872),X01015872,CameliaMaria.Mihai@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Vladila Daniela (X01015430),X01015430,Daniela.Vladila@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Raducanu Mihaela Gratiela (X01016000),X01016000,Mihaela.Raducanu@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Mogosanu Tabita (X01015875),X01015875,Tabita.Mogosanu@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Ivan Liliana-Ionica (X01015881),X01015881,Liliana-Ionica.Ivan@Petrom.Com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Treichel Andreas (XTREIAN),XTREIAN,Andreas.Treichel@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Roman Catalin-Adrian (X01000682),X01000682,Catalin-Adrian.Roman@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Lobodan Dan (X01001298),X01001298,Dan.Lobodan@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Dima Georgeta-Alina (X01000527),X01000527,GeorgetaAlina.Dima@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Wildförster Arndt (X449370),X449370,Arndt.Wildfoerster@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Gerstner Alexander (X449282),X449282,Alexander.Gerstner@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Kunaver Daniel (X450017),X450017,Daniel.Kunaver@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Corbu Razvan Florin (X01013107),X01013107,Razvan.Corbu@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Podeanu Teodor (X01008606),X01008606,Teodor.Podeanu@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Nastase Petruta Lorena (X01001141),X01001141,Petruta.Nastase@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Cruceru Irina-Raluca (X01003379),X01003379,Raluca.Cruceru@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Stoica Emilia-Daniela (X01000585),X01000585,Emilia-Daniela.Stoica@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Dinu Irene-Claudia (X01000584),X01000584,Irene.Dinu@petrom.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Scsepka Hermann (X400044),X400044,Hermann.Scsepka@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Forberich Christian (X448916),X448916,Christian.Forberich@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Drage Lars (LARS1),LARS1,Lars.Drage@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Paul Jan (X449344),X449344,Jan.Paul@omv.com,A08.profile.Projectmanager.Classic,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic
+Ponz Moreno Sara (SARA27),SARA27,Sara.PonzMoreno@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Romich Nina (NINA35),NINA35,Nina.Romich@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Novotny Bernhard (X011443),X011443,Bernhard.Novotny@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Bresciani Marco Renzo (MARCO9),MARCO9,Marco.Bresciani@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Neubauer Elisabeth (ELISABETH10),ELISABETH10,Elisabeth.Neubauer@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Pachner Michael (XPACHNE),XPACHNE,Michael.Pachner@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Mayer Jan (JAN013),JAN013,Jan.Mayer@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Loidl Benjamin (X452233),X452233,Benjamin.Loidl@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Posch Thomas (X451690),X451690,Thomas.Posch@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Poldlehner Andreas (X451272),X451272,Andreas.Poldlehner@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Grader Richard (X451820),X451820,Richard.Grader@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Secklehner Severin (X449657),X449657,Severin.Secklehner@omv.com,A09.profile.Projectmanager.LCB,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB
+Savulescu Valentin-Bogdan (VALENTIN74),VALENTIN74,ValentinBogdan.Savulescu@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Toader Simona (SIMONA21),SIMONA21,Simona.Toader@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Sbarcea Dan Aureliu (X01024255),X01024255,Aureliu.Sbarcea@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Gonzalez Rojas Jose Maria (X01GONJOS),X01GONJOS,Jose.Gonzalez@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Chiri Carlo (X01025468),X01025468,Carlo.Chiri@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Windisch Bernhard (BERNHARD10),BERNHARD10,Bernhard.Windisch@omv.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Tiganasu Cezar-Gabriel (X01026058),X01026058,CezarGabriel.Tiganasu@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Stoecke Ewald (X01STOEWA),X01STOEWA,Ewald.Stoecke@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Simpkins Anthony (ANTHONY1),ANTHONY1,Anthony.Simpkins@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Krezsek Csaba (X01KRECSA),X01KRECSA,Csaba.Krezsek@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Radu Ionut-Andrei (X01024948),X01024948,Ionut_Andrei.Radu@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Gieles Thomas Ruben (X452110),X452110,ThomasRuben.Gieles@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Duta Octavian (X01024886),X01024886,Octavian.Duta1@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Janiczek Peter (X451740),X451740,Peter.Janiczek@petrom.com,A07.profile.Projectmanager.PET,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET
+Hubbig Martin (MARTIN26),MARTIN26,Martin.Hubbig@omv.com,A21.profile.Reserves.Headoffice,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice
+Bauer Jan Erik (X450487),X450487,Jan.Bauer@omv.com,A21.profile.Reserves.Headoffice,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice
+Butler Claire (CLAIRE3),CLAIRE3,Claire.Butler@omv.com,A23.profile.Reserves.Headoffice.Approve,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Approve
+Burchisis Alexandru-Mihai (ALEXANDRU170),ALEXANDRU170,AlexandruMihai.Burchisis@omv.com,A22.profile.Reserves.Headoffice.Power,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Power
+Volker Lukas Johannes (LUKAS80),LUKAS80,Lukas.Volker@omv.com,A22.profile.Reserves.Headoffice.Power,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Power
+Ivanciu Adrian-Mihail (ADRIAN75),ADRIAN75,AdrianMihail.Ivanciu@petrom.com,A22.profile.Reserves.Headoffice.Power,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Power
+Kufner Martin (X449222),X449222,Martin.Kufner@omv.com,A22.profile.Reserves.Headoffice.Power,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Power
+Majeth Nasarene Majeth (NASARENE1),NASARENE1,NASARENE1@ww.omv.com,A27.profile.Reserves.local.Approve,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.Approve
+German Michael (MICHAEL164),MICHAEL164,Michael.German@omv.com,A27.profile.Reserves.local.Approve,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.Approve
+Holmgard Tor Oskar Haukland (TOR001),TOR001,TorOskar.Holmgard@omv.com,A27.profile.Reserves.local.Approve,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.Approve
+Toma Nicoleta-Adriana (X01026454),X01026454,NicoletaAdriana.Toma@omv.com,A27.profile.Reserves.local.Approve,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.Approve
+Zar Hichem (HICHEM1),HICHEM1,Hichem.Zar@omv.com,A27.profile.Reserves.local.Approve,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.Approve
+Hendizadeh Hadi (X450133),X450133,Hadi.Hendizadeh@omv.com,A27.profile.Reserves.local.Approve,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.Approve
+Behrend Jens (X011450),X011450,Jens.Behrend@omv.com,A27.profile.Reserves.local.Approve,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.Approve
+Majeth Nasarene Majeth (NASARENE1),NASARENE1,NASARENE1@ww.omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+German Michael (MICHAEL164),MICHAEL164,Michael.German@omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Thomas Oliver (OLIVER30),OLIVER30,Oliver.Thomas@omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Ponte Wuilmer Jose (WUILMER1),WUILMER1,Wuilmer.Ponte@omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Boeru Adelin-Ionut (X01000963),X01000963,Adelin-Ionut.Boeru@petrom.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+D Amore Karine (KARINE1),KARINE1,Karine.GuibertDAmore@omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Arafat Marilena-Carmen (X01012397),X01012397,Carmen.Arafat@petrom.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Stanciu Bogdan-Ionut (X01026906),X01026906,BogdanIonut.Stanciu@omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Holmgard Tor Oskar Haukland (TOR001),TOR001,TorOskar.Holmgard@omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Toma Nicoleta-Adriana (X01026454),X01026454,NicoletaAdriana.Toma@omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Zar Hichem (HICHEM1),HICHEM1,Hichem.Zar@omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Hendizadeh Hadi (X450133),X450133,Hadi.Hendizadeh@omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Stancu Nicoleta (X01000648),X01000648,Nicoleta.Stancu@petrom.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Corbu Razvan Florin (X01013107),X01013107,Razvan.Corbu@petrom.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Baciu Mihai-Ciprian (X01012179),X01012179,Ciprian.Baciu@petrom.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Popescu Catalina (X01010203),X01010203,Catalina.Popescu@petrom.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Pop Anca-Mariana (X01000877),X01000877,Anca-Mariana.Pop@petrom.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Khalfallah Fatma (XKHALFALLAH),XKHALFALLAH,fatma.khalfallah@omv.com,A20.profile.Reserves.local.QRE,PROFILE,,dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE
+Ivanciu Adrian-Mihail (ADRIAN75),ADRIAN75,AdrianMihail.Ivanciu@petrom.com,User.admin,SPECIAL,,dlg.WW.ADM-Services.P2V.useradmin
+Verbruggen Marinus Hendricus Wilhelmus (MARINUS1),MARINUS1,Marinus.Verbruggen@petrom.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Inglis Michael (MICHAEL282),MICHAEL282,Michael.Inglis@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Hong Danny Chan Ching (CHAN01),CHAN01,CHAN01@ww.omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Borovina Ante (ANTE01),ANTE01,Ante.Borovina@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Pineda Emma (EMMA04),EMMA04,Emma.Pineda@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Birsa David-Teodor (DAVID103),DAVID103,DavidTeodor.Birsa@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Susanto Maria Indriaty (MARIA92),MARIA92,MariaIndriaty.Susanto@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Daae Helene Virkesdal (HELENE2),HELENE2,Helene.Daae@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Baily Heather (HEATHER4),HEATHER4,Heather.Baily@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Badescu Sorina  Maria (X01013375),X01013375,Sorina_Maria.Armasescu@Omv.Com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Hagedorn Peter (PETER41),PETER41,Peter.Hagedorn@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Mallinson Ian (IAN006),IAN006,Ian.Mallinson@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Lindstrøm Stian (XLINDSTST),XLINDSTST,Stian.Lindstrom@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Zar Hichem (HICHEM1),HICHEM1,Hichem.Zar@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Uspanov Marat (MARAT1),MARAT1,Marat.Uspanov@petrom.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Haram Helene (XHARAMHE),XHARAMHE,Helene.Haram@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Möbius Rolf (X452109),X452109,Rolf.Moebius@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Bouw Sander (X451921),X451921,Sander.Bouw@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Deckers Marie (X451659),X451659,Marie.Deckers@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Janiczek Peter (X451740),X451740,Peter.Janiczek@petrom.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Verient Gery (X451624),X451624,Gery.Verient@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Kwiecinski Edward (X451861),X451861,Edward.Kwiecinski@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Kufner Martin (X449222),X449222,Martin.Kufner@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Kosi Walter (X448630),X448630,Walter.Kosi@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Secklehner Severin (X449657),X449657,Severin.Secklehner@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Antes Gerald (X449077),X449077,Gerald.Antes@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR
+Khalfallah Fatma (XKHALFALLAH),XKHALFALLAH,fatma.khalfallah@omv.com,A02.profile.PetroVR,PROFILE,,dlg.WW.ADM-Services.PetroVR

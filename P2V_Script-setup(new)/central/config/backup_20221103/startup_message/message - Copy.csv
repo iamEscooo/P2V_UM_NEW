@@ -1,0 +1,7 @@
+app,severity,msgfile
+P2V_DEV,information,welcome_DEV.txt
+P2V_PROD,information,welcome_PROD.txt
+P2V_TEST,information,welcome_TEST.txt
+P2V_TRAINING,information,welcome_TRAINING.txt
+P2V_UPDATE,information,welcome_UPDATE.txt
+ALL,warning,20211119IT_MW.txt

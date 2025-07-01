@@ -1,0 +1,9 @@
+﻿[2025-04-16 12:30:06] - [INFO] [WW/adminx449222] started check_userprofile -xkey BARTLOMIEJ3
+[2025-04-16 12:30:07] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2025-04-16 12:31:03] - [INFO] [WW/adminx449222] started check_userprofile -xkey XBEKKEHRA
+[2025-04-16 12:31:03] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2025-04-16 12:31:40] - [INFO] [WW/adminx449222] started P2V_export_AD_users 
+[2025-04-16 12:31:40] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_AD_users]
+[2025-04-16 12:31:40] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\P2V_SAMLusers_profiles_AUTO.csv] deleted
+[2025-04-16 16:14:39] - [INFO] [WW/adminx449222] started check_userprofile -xkey XBEKKEHRA
+[2025-04-16 16:14:39] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]

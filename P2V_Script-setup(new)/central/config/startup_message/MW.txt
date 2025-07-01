@@ -1,0 +1,9 @@
+Dear colleagues,&#10;
+&#10There is the monthly IT maintenance window scheduled &#10
+&#10from:  Friday    23.07.2021 19:00 (CET) 
+&#10until: Saturday  24.07.2021 05:00 (CET).
+&#10
+&#10Please expect degraded availabilty during this time slot. We kindly ask you to save your work and logout before the start of the maintenance window.
+&#10
+&#10Thanks
+&#10Plan2Value team

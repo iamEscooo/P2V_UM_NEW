@@ -1,0 +1,5 @@
+Section,Method,Command,Arguments,Name,Description
+NAMR Report Production,cmd,C:\OMV_NAMR_Report_App\PROD\Aucerna.PSEconExtractor.Gui.exe,,NAMR report<LineBreak />Production<LineBreak />only for RO,NAMR Reporting Tool <LineBreak />(connected to P2V tenant PROD) <LineBreak />- only for Romania -
+NAMR Report Test,cmd,C:\OMV_NAMR_Report_App\TEST\Aucerna.PSEconExtractor.Gui.exe,,NAMR report<LineBreak />Test<LineBreak />only for RO,NAMR Reporting Tool <LineBreak />(connected to P2V tenant TEST1) <LineBreak />- only for Romania -
+EXIT,exit,exit,,EXIT,exit this menu
+EXIT,cmd,logoff,,EXIT,closes all PROD P2V sessions and exit

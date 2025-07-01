@@ -1,0 +1,1 @@
+Get-ComputerInfo|select CsCaption, WindowsProductName, OsSerialNumber, CsTotalPhysicalMemory, CsNumberOfProcessors, CsNumberOfLogicalProcessors|ft

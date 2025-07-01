@@ -1,0 +1,28 @@
+﻿[2023-11-22 08:49:50] - [INFO] [WW/adminx449222] started check_userprofile -xkey ADRIAN75
+[2023-11-22 08:49:50] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-11-22 08:50:20] - [INFO] [WW/adminx449222] started check_P2V_user -xkey ADRIAN75
+[2023-11-22 08:50:20] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2023-11-22 09:52:42] - [INFO] [WW/adminx449222] started P2V_lock_user -xkey ADRIAN75
+[2023-11-22 09:53:11] - [INFO] [WW/adminx449222] started check_userprofile -xkey ADRIAN75
+[2023-11-22 09:53:11] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-11-22 09:53:20] - [INFO] [WW/adminx449222] started P2V_unlock_user -xkey ADRIAN75
+[2023-11-22 09:53:39] - [INFO] [WW/adminx449222] started check_userprofile -xkey ADRIAN75
+[2023-11-22 09:53:39] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-11-22 09:54:33] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey ADRIAN75
+[2023-11-22 09:56:18] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-22 09:56:18] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-22 09:58:27] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-22 09:58:27] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-22 13:27:31] - [INFO] [WW/adminx449222] started check_userprofile -xkey TAHIR3
+[2023-11-22 13:27:31] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-11-22 13:28:33] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-22 13:28:33] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-22 13:30:17] - [INFO] [P2V-PROD]-[bd.base] : add Tahirov Tahir (TAHIR3) - done
+[2023-11-22 13:31:05] - [INFO] [P2V_TEST]-[bd.base] : add Tahirov Tahir (TAHIR3) - done
+[2023-11-22 13:31:06] - [INFO] [P2V_TEST]-[Z.BD.021.deny] : remove Tahirov Tahir (TAHIR3) - done
+[2023-11-22 13:31:07] - [INFO] [P2V_TEST]-[Z.BD.022.deny] : remove Tahirov Tahir (TAHIR3) - done
+[2023-11-22 13:31:47] - [INFO] [P2V_TRAINING]-[bd.base] : add Tahirov Tahir (TAHIR3) - done
+[2023-11-22 13:31:50] - [INFO] [P2V_TRAINING]-[Z.BD.021.deny] : remove Tahirov Tahir (TAHIR3) - done
+[2023-11-22 13:31:52] - [INFO] [P2V_TRAINING]-[Z.BD.022.deny] : remove Tahirov Tahir (TAHIR3) - done
+[2023-11-22 13:35:11] - [INFO] [WW/adminx449222] started check_P2V_user -xkey TAHIR3
+[2023-11-22 13:35:11] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]

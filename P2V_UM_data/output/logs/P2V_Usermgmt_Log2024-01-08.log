@@ -1,0 +1,115 @@
+﻿[2024-01-08 10:55:26] - [INFO] [WW/adminx449222] started check_userprofile -xkey MARINUS1
+[2024-01-08 10:55:26] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-01-09 16:01:51] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-09 16:01:52] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-01-09 16:03:14] - [INFO] [P2V_TRAINING]-[Z.BD.008.allow] : add Verbruggen Marinus Hendricus Wilhelmus (MARINUS1) - done
+[2024-01-09 16:03:47] - [INFO] [P2V-PROD]-[Z.BD.008.allow] : add Verbruggen Marinus Hendricus Wilhelmus (MARINUS1) - done
+[2024-01-10 15:10:13] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync-SEC2.ps1]
+[2024-01-10 15:17:14] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-10 15:17:14] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-01-10 15:21:50] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-10 15:21:50] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-01-10 15:23:42] - [INFO] [P2V-PROD]-[Z.BD.008.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:27:52] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-10 15:27:52] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-01-10 15:38:20] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:38:24] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:38:27] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:38:29] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:48:54] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-10 15:48:54] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-01-10 15:50:21] - [INFO] [P2V_PRODTEST]-[Z.BD.016.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:25] - [INFO] [P2V_PRODTEST]-[Z.BD.022.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:26] - [INFO] [P2V_PRODTEST]-[Z.BD.016.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:27] - [INFO] [P2V_PRODTEST]-[Z.BD.031.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:28] - [INFO] [P2V_PRODTEST]-[Z.BD.035.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:28] - [INFO] [P2V_PRODTEST]-[Z.BD.029.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:29] - [INFO] [P2V_PRODTEST]-[Z.BD.028.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:30] - [INFO] [P2V_PRODTEST]-[Z.BD.030.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:31] - [INFO] [P2V_PRODTEST]-[Z.BD.021.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:32] - [INFO] [P2V_PRODTEST]-[Z.BD.030.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:33] - [INFO] [P2V_PRODTEST]-[Z.BD.022.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:34] - [INFO] [P2V_PRODTEST]-[Z.BD.029.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:35] - [INFO] [P2V_PRODTEST]-[Z.BD.032.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:36] - [INFO] [P2V_PRODTEST]-[Z.BD.028.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:37] - [INFO] [P2V_PRODTEST]-[Z.BD.031.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:38] - [INFO] [P2V_PRODTEST]-[Z.BD.027.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:39] - [INFO] [P2V_PRODTEST]-[Z.BD.035.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:40] - [INFO] [P2V_PRODTEST]-[Z.BD.032.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:41] - [INFO] [P2V_PRODTEST]-[Z.BD.027.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:42] - [INFO] [P2V_PRODTEST]-[Z.BD.021.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:43] - [INFO] [P2V_PRODTEST]-[Z.BD.008.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:50:44] - [INFO] [P2V_PRODTEST]-[bd.base] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:51:43] - [INFO] [WW/adminx449222] started check_userprofile -xkey SARA27
+[2024-01-10 15:51:43] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-01-10 15:52:13] - [INFO] [WW/adminx449222] started check_P2V_user -xkey SARA27
+[2024-01-10 15:52:14] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2024-01-10 15:58:24] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-10 15:58:24] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-01-10 15:59:57] - [INFO] [P2V_TEST]-[Z.BD.022.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:59:58] - [INFO] [P2V_TEST]-[Z.BD.008.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 15:59:59] - [INFO] [P2V_TEST]-[Z.BD.021.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:01] - [INFO] [P2V_TEST]-[Z.BD.022.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:02] - [INFO] [P2V_TEST]-[Z.BD.021.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:45] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:47] - [INFO] [P2V-PROD]-[Z.BD.016.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:48] - [INFO] [P2V-PROD]-[Z.BD.029.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:49] - [INFO] [P2V-PROD]-[Z.BD.028.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:50] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:51] - [INFO] [P2V-PROD]-[Z.BD.030.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:52] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:53] - [INFO] [P2V-PROD]-[Z.BD.027.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:54] - [INFO] [P2V-PROD]-[Z.BD.032.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:55] - [INFO] [P2V-PROD]-[Z.BD.031.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:56] - [INFO] [P2V-PROD]-[Z.BD.035.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:57] - [INFO] [P2V-PROD]-[Z.BD.008.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:00:58] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:28] - [INFO] [P2V_PRODTEST]-[Z.BD.022.deny] : remove remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:28] - [INFO] [P2V_PRODTEST]-[Z.BD.016.deny] : remove remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:29] - [INFO] [P2V_PRODTEST]-[Z.BD.029.deny] : remove remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:30] - [INFO] [P2V_PRODTEST]-[Z.BD.028.deny] : remove remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:30] - [INFO] [P2V_PRODTEST]-[Z.BD.021.deny] : remove remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:31] - [INFO] [P2V_PRODTEST]-[Z.BD.030.deny] : remove remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:32] - [INFO] [P2V_PRODTEST]-[Z.BD.022.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:33] - [INFO] [P2V_PRODTEST]-[Z.BD.027.deny] : remove remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:34] - [INFO] [P2V_PRODTEST]-[Z.BD.031.deny] : remove remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:34] - [INFO] [P2V_PRODTEST]-[Z.BD.035.deny] : remove remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:35] - [INFO] [P2V_PRODTEST]-[Z.BD.032.deny] : remove remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:36] - [INFO] [P2V_PRODTEST]-[Z.BD.008.allow] : add remove Ponz Moreno Sara (SARA27) Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:37] - [INFO] [P2V_PRODTEST]-[Z.BD.021.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:01:41] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-10 16:01:41] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-01-10 16:03:45] - [INFO] [P2V-PROD]-[Z.BD.016.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:03:46] - [INFO] [P2V-PROD]-[Z.BD.032.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:03:47] - [INFO] [P2V-PROD]-[Z.BD.035.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:03:48] - [INFO] [P2V-PROD]-[Z.BD.027.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:03:49] - [INFO] [P2V-PROD]-[Z.BD.008.allow] : remove Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:03:51] - [INFO] [P2V-PROD]-[Z.BD.028.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:03:52] - [INFO] [P2V-PROD]-[Z.BD.030.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:03:53] - [INFO] [P2V-PROD]-[Z.BD.029.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:03:54] - [INFO] [P2V-PROD]-[bd.base] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-10 16:03:55] - [INFO] [P2V-PROD]-[Z.BD.031.allow] : add Ponz Moreno Sara (SARA27) - done
+[2024-01-11 08:53:10] - [INFO] [WW/adminx449222] started check_userprofile -xkey X450334
+[2024-01-11 08:53:10] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-01-12 16:38:10] - [INFO] [WW/adminx449222] started check_userprofile -xkey X450334
+[2024-01-12 16:38:10] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-01-12 17:06:27] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-12 17:06:27] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-01-12 17:09:20] - [INFO] [P2V-PROD]-[bd.base] : add Dordea Daniela (X450334) - done
+[2024-01-12 17:14:34] - [INFO] [WW/adminx449222] started check_P2V_user -xkey X450334
+[2024-01-12 17:14:34] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2024-01-12 17:15:00] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-12 17:15:00] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-01-12 17:17:21] - [INFO] [P2V-PROD]-[Z.BD.008.allow] : add Dordea Daniela (X450334) - done
+[2024-01-12 17:17:22] - [INFO] [P2V-PROD]-[Z.BD.008.deny] : remove Dordea Daniela (X450334) - done
+[2024-01-12 17:22:20] - [INFO] [WW/adminx449222] started check_P2V_user -xkey X450334
+[2024-01-12 17:22:20] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2024-01-12 17:23:11] - [INFO] [WW/adminx449222] started P2V_check_data_access 
+[2024-01-12 17:23:11] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_check_data_access]
+[2024-01-12 17:46:37] - [INFO] [WW/adminx449222] started P2V_check_data_access 
+[2024-01-12 17:46:37] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_check_data_access]
+[2024-01-12 17:58:25] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X450334
+[2024-01-16 11:18:12] - [INFO] [WW/adminx449222] started check_userprofile -xkey SARA27
+[2024-01-16 11:18:12] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-01-16 11:18:33] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-16 11:18:33] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]

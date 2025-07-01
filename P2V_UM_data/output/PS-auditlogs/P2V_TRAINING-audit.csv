@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"168018","PlanningSpace Dataflow","The user <PetrutaAlina.Calinescu@petrom.com> has logged in. ","PetrutaAlina.Calinescu@petrom.com","User","Login","PetrutaAlina.Calinescu@petrom.com","TSOMVAT423005","2020-11-17T11:57:31.250Z"
+"168017","PlanningSpace","The user [PetrutaAlina.Calinescu@petrom.com] has logged in.","PetrutaAlina.Calinescu@petrom.com","User","Login","PetrutaAlina.Calinescu@petrom.com","10.12.205.21","2020-11-17T11:57:25.143Z"
+"168016","PlanningSpace Dataflow","The user <Ramona.Schlager@petrom.com> has logged in. ","Ramona.Schlager@petrom.com","User","Login","Ramona.Schlager@petrom.com","TSOMVAT423003","2020-11-17T11:55:06.573Z"
+"168015","PlanningSpace","The user [Ramona.Schlager@petrom.com] has logged in.","Ramona.Schlager@petrom.com","User","Login","Ramona.Schlager@petrom.com","10.12.205.21","2020-11-17T11:55:00.240Z"
+"168014","PlanningSpace Economics","The user <Enikoe.Bencsik@omv.com> has logged in. ","Enikoe.Bencsik@omv.com","User","Login","Enikoe.Bencsik@omv.com","TSOMVAT423005","2020-11-17T11:40:20.103Z"
+"168013","PlanningSpace Dataflow","The user <Enikoe.Bencsik@omv.com> has logged in. ","Enikoe.Bencsik@omv.com","User","Login","Enikoe.Bencsik@omv.com","TSOMVAT423005","2020-11-17T11:40:18.510Z"
+"168012","PlanningSpace","The user [Enikoe.Bencsik@omv.com] has logged in.","Enikoe.Bencsik@omv.com","User","Login","Enikoe.Bencsik@omv.com","10.12.205.20","2020-11-17T11:40:11.840Z"
+"168011","PlanningSpace Dataflow","The user <Nona.Audochii@petrom.com> has logged in. ","Nona.Audochii@petrom.com","User","Login","Nona.Audochii@petrom.com","TSOMVAT423002","2020-11-17T11:33:44.167Z"
+"168010","PlanningSpace","The user [Nona.Audochii@petrom.com] has logged in.","Nona.Audochii@petrom.com","User","Login","Nona.Audochii@petrom.com","10.12.205.21","2020-11-17T11:33:37.850Z"
+"168009","PlanningSpace Dataflow","Set workgroup permissions for Node type: <Project ROU (PRMS)>. Node name: <PEC Ticleni> to CanRead, CanUpdate, CanDelete","data.Romania.key","Project ROU (PRMS)","Created","Beatrice.Iovita@petrom.com","TSOMVAT423006","2020-11-17T11:31:40.960Z"

@@ -1,0 +1,55 @@
+﻿[2025-04-30 08:50:09] - [INFO] [WW/adminx449222] started check_userprofile -xkey VICTOR77
+[2025-04-30 08:50:09] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2025-04-30 09:24:57] - [INFO] [WW/adminx449222] started check_P2V_user -xkey VICTOR77
+[2025-04-30 09:24:57] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2025-04-30 09:25:04] - [INFO] [PROD] , [] , [04/30/2025 09:25:03] , [] 
+[2025-04-30 09:25:11] - [INFO] loading userlist from tenant PROD  [7.7335282 s]
+[2025-04-30 09:25:25] - [INFO] [WW/adminx449222] started P2V_activate_user -xkey VICTOR77
+[2025-04-30 09:25:38] - [INFO] [TRAINING] , [] , [04/30/2025 09:25:38] , [] 
+[2025-04-30 09:25:45] - [INFO] loading userlist from tenant TRAINING  [6.8740538 s]
+[2025-04-30 09:25:46] - [INFO] [PROD] , [04/30/2025 09:25:03] , [04/30/2025 09:25:46] , [0.709845221666667] 
+[2025-04-30 09:25:56] - [INFO] [WW/adminx449222] started check_userprofile -xkey VICTOR77
+[2025-04-30 09:25:56] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2025-04-30 09:27:09] - [INFO] [WW/adminx449222] started P2V_activate_user -xkey VICTOR77
+[2025-04-30 09:27:12] - [INFO] [TRAINING] , [04/30/2025 09:25:38] , [04/30/2025 09:27:12] , [1.565041125] 
+[2025-04-30 09:27:13] - [INFO] [P2V-PROD] , [] , [04/30/2025 09:27:13] , [] 
+[2025-04-30 09:27:13] - [INFO] loading userlist from tenant P2V-PROD  [0.0090014 s]
+[2025-04-30 09:27:14] - [INFO] [BASE_PROD] , [] , [04/30/2025 09:27:14] , [] 
+[2025-04-30 09:27:15] - [INFO] loading userlist from tenant BASE_PROD  [0.0621285 s]
+[2025-04-30 09:27:16] - [INFO] [TEST2] , [] , [04/30/2025 09:27:16] , [] 
+[2025-04-30 09:27:23] - [INFO] loading userlist from tenant TEST2  [6.7083377 s]
+[2025-04-30 09:27:24] - [INFO] [P2V_TEST] , [] , [04/30/2025 09:27:24] , [] 
+[2025-04-30 09:27:32] - [INFO] loading userlist from tenant P2V_TEST  [8.0974479 s]
+[2025-04-30 09:27:33] - [INFO] [PRODTEST] , [] , [04/30/2025 09:27:33] , [] 
+[2025-04-30 09:27:49] - [INFO] loading userlist from tenant PRODTEST  [15.7226026 s]
+[2025-04-30 09:27:50] - [INFO] [P2V_PRODTEST] , [] , [04/30/2025 09:27:50] , [] 
+[2025-04-30 09:27:50] - [INFO] loading userlist from tenant P2V_PRODTEST  [0.0120003 s]
+[2025-04-30 09:27:52] - [INFO] [TEST1] , [] , [04/30/2025 09:27:52] , [] 
+[2025-04-30 09:28:00] - [INFO] loading userlist from tenant TEST1  [7.95573 s]
+[2025-04-30 09:28:00] - [INFO] [BASE_TEST] , [] , [04/30/2025 09:28:00] , [] 
+[2025-04-30 09:28:00] - [INFO] loading userlist from tenant BASE_TEST  [0.0110006 s]
+[2025-04-30 09:28:01] - [INFO] [BASE_UPDATE] , [] , [04/30/2025 09:28:01] , [] 
+[2025-04-30 09:28:01] - [INFO] loading userlist from tenant BASE_UPDATE  [0.0150001 s]
+[2025-04-30 09:28:02] - [INFO] [P2V_UPDATE] , [] , [04/30/2025 09:28:02] , [] 
+[2025-04-30 09:28:11] - [INFO] loading userlist from tenant P2V_UPDATE  [8.8639715 s]
+[2025-04-30 09:28:11] - [INFO] [UPDATE] , [] , [04/30/2025 09:28:11] , [] 
+[2025-04-30 09:28:19] - [INFO] loading userlist from tenant UPDATE  [7.7833361 s]
+[2025-04-30 09:28:20] - [INFO] [PROD] , [04/30/2025 09:25:03] , [04/30/2025 09:28:20] , [3.28204310833333] 
+[2025-04-30 09:28:22] - [INFO] [P2V_TRAINING] , [] , [04/30/2025 09:28:22] , [] 
+[2025-04-30 09:28:22] - [INFO] loading userlist from tenant P2V_TRAINING  [0.0079985 s]
+[2025-04-30 09:28:24] - [INFO] [P2V_DEMO] , [] , [04/30/2025 09:28:24] , [] 
+[2025-04-30 09:28:32] - [INFO] loading userlist from tenant P2V_DEMO  [8.1542559 s]
+[2025-04-30 09:29:07] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey VICTOR77
+[2025-04-30 09:29:13] - [INFO] [TRAINING] , [04/30/2025 09:25:38] , [04/30/2025 09:29:13] , [3.57910352166667] 
+[2025-04-30 09:29:18] - [INFO] [PROD] , [04/30/2025 09:25:03] , [04/30/2025 09:29:18] , [4.23495840666667] 
+[2025-04-30 09:29:27] - [INFO] [WW/adminx449222] started check_userprofile -xkey VICTOR77
+[2025-04-30 09:29:27] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2025-04-30 12:05:08] - [INFO] [WW/adminx449222] started P2V_export_users
+[2025-04-30 12:05:09] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_users]
+[2025-04-30 12:05:09] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\dashboard\all_users.csv] deleted
+[2025-04-30 12:05:09] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\dashboard\all_groups.csv] deleted
+[2025-04-30 12:05:09] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\dashboard\all_user_groups.csv] deleted
+[2025-04-30 12:06:00] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\\PROD-groups.csv] deleted
+[2025-04-30 12:06:30] - [INFO] [PROD] , [] , [04/30/2025 12:06:30] , [] 
+[2025-04-30 12:06:38] - [INFO] loading userlist from tenant PROD  [7.5643846 s]
+[2025-04-30 12:06:38] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\\PROD-users.csv] deleted

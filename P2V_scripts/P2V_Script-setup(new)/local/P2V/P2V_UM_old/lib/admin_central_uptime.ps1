@@ -1,0 +1,36 @@
+
+$serverlist = @(
+	"tsomvat423002.ww.omv.com",
+	"tsomvat423003.ww.omv.com",
+	"tsomvat423005.ww.omv.com",
+	"tsomvat423006.ww.omv.com",
+	"tsomvat422010.ww.omv.com",
+	"somvat422001.ww.omv.com",
+	"somvat422003.ww.omv.com",
+	"somvat422008.ww.omv.com",
+	"somvat422009.ww.omv.com",
+    "tsomvat502898.ww.omv.com",
+	"tsomvat502899.ww.omv.com",
+	"tsomvat502101.ww.omv.com",
+	"tsomvat502102.ww.omv.com",
+	"tsomvat502103.ww.omv.com",
+	"tsomvat502104.ww.omv.com",
+	"tsomvat502060.ww.omv.com",
+	"tsomvat502033.ww.omv.com",
+	"somvat502672.ww.omv.com",
+	"somvat502673.ww.omv.com",
+	"somvat502674.ww.omv.com",
+	"somvat502675.ww.omv.com"
+)
+
+
+foreach ($remote in $serverlist ) 
+{
+ $line=">>{0,-30} Last system boot at : {1,-25}"
+# write-host -foregroundcolor yellow -nonewline ">> $remote :"
+$line -f $remote,(Invoke-Command -ComputerName $remote -ScriptBlock {(Get-CimInstance -ClassName Win32_OperatingSystem).LastBootUpTime})
+
+}
+
+
+pause

@@ -1,0 +1,9 @@
+﻿[2023-11-23 17:26:47] - [INFO] [WW/adminx449222] started check_userprofile -xkey DAVID27
+[2023-11-23 17:26:47] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-11-23 17:27:11] - [INFO] [WW/adminx449222] started check_P2V_user -xkey DAVID27
+[2023-11-23 17:27:11] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2023-11-23 17:49:15] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey DAVID27
+[2023-11-23 17:51:24] - [INFO] [WW/adminx449222] started check_P2V_user -xkey DAVID27
+[2023-11-23 17:51:24] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2023-11-23 18:20:36] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync-SEC2.ps1]
+[2023-11-23 18:24:15] - [INFO] user=WW/adminx449222,script=P2V_super_sync-SEC2.ps1,tenant=P2V_TEST,uid=615/David.Zabel@omv.com,gid=/userworkgroups/489 /userworkgroups/501 /userworkgroups/492 /userworkgroups/500 /userworkgroups/491 /userworkgroups/462 /userworkgroups/444 /userworkgroups/450 /userworkgroups/493 /userworkgroups/490 /userworkgroups/480 /userworkgroups/494 /userworkgroups/486 /userworkgroups/478,remove add add add add add add add add add add add add add,[DONE]

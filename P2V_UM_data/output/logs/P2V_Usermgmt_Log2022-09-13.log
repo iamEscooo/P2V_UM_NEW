@@ -1,0 +1,4 @@
+﻿[2022-09-13 16:07:13] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_update_WG_roles.ps1]
+[2022-09-13 16:08:16] - [INFO] workgroup=Financials.unlock,script=P2V_update_WG_roles.ps1,tenant=P2V_PRODTEST,gid=166,rid=/allowedRoles/22,add,[DONE]
+[2022-09-13 16:08:17] - [INFO] workgroup=Financials.power,script=P2V_update_WG_roles.ps1,tenant=P2V_PRODTEST,gid=29,rid=/allowedRoles/22,remove,[DONE]
+[2022-09-13 16:13:45] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_update_groups.ps1]

@@ -1,0 +1,16 @@
+Section,Method,Command,Arguments,Name,Description
+PS 16.5 TEST environments,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TEST,Planningspace TEST,Planningspace tenant: [P2V_TEST]
+PS 16.5 TEST environments,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,-app=https://tsomvat502103.ww.omv.com/OMVTEST,Reserves TEST,Reserves tenant: [OMVTEST]
+PS 16.5 TEST environments,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_DEMO,Planningspace DEMO,Planningspace tenant: [P2V_DEMO]
+PS 16.5 TEST environments,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,-app=https://tsomvat502103.ww.omv.com/OMVDEMO,Reserves DEMO,Reserves tenant: [OMVDEMO]
+PS 16.5 TEST environments,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TRAINING,Planningspace TRAINING,Planningspace tenant: [P2V_TRAINING]
+PS 16.5 TEST environments,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,-app=https://tsomvat502103.ww.omv.com/OMVTRAINING,Reserves TRAINING,Reserves tenant: [OMVTRAINING]
+PS 16.5 TEST environments,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_BENCHMARK,Planningspace BENCHMARK,Planningspace tenant: [P2V_BENCHMARK] 
+PS 16.5 TEST environments,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_PRODTEST,Planningspace PRODTEST,Planningspace tenant: [PRODTEST] 
+PS 20.4 TEST environments,cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-test.ww.omv.com/TEST1,Client PS 20.4 TEST1,PS 20.4 client  tenant: [TEST1] 
+PS 20.4 TEST environments,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,-app=https://ips20-test.ww.omv.com/TEST1,Web PS 20.4 TEST1,PS 20.4 web  tenant: [TEST1] 
+Palantir Cash,cmd,"C:\Program Files\Palantir\PlanningSpace 16.5\PalantirCASH\PalantirCASH.exe",   /tenanturl=https://ips-test.ww.omv.com/P2V_Palantir16_3 ,"OLD" Palantir Cash, OMV Classic: Palantir Cash TEST
+FD-Plan Test,cmd,"C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe",/tenanturl=https://eu-nonprod.planningspace.quorumsoftware.app/omv_fdplan_test, FD-Plan,Planningspace 20.4.8 FDPLAN <> P2V test
+NAMR Report,cmd,C:\OMV_NAMR_Report_App\debug\Aucerna.PSEconExtractor.Gui.exe,,NAMR report,only for RO (connected to P2V_TEST)
+EXIT,exit,exit,,EXIT,exit this menu
+EXIT,cmd,logoff,,EXIT all sessions,closes all DEV P2V sessions and exit

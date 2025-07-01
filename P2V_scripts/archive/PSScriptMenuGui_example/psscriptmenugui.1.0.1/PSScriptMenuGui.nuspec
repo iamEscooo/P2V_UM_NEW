@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PSScriptMenuGui</id>
+    <version>1.0.1</version>
+    <authors>Dan O'Sullivan</authors>
+    <owners>Dan O'Sullivan</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/weebsnore/PowerShell-Script-Menu-Gui/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/weebsnore/PowerShell-Script-Menu-Gui</projectUrl>
+    <description>Use a CSV file to make a graphical menu of PowerShell scripts. Easy to customise and fast to launch.
+
+You can also add Windows programs and files to the menu.
+
+See the Project Site on GitHub for full documentation.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>(c) Dan O'Sullivan. Released under the MIT License.</copyright>
+    <tags>PSEdition_Desktop PSEdition_Core Windows PSModule PSIncludes_Function PSFunction_Show-ScriptMenuGui PSFunction_New-ScriptMenuGuiExample PSCommand_Show-ScriptMenuGui PSCommand_New-ScriptMenuGuiExample</tags>
+  </metadata>
+</package>

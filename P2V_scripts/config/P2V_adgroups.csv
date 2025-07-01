@@ -1,0 +1,94 @@
+ADgroup,category,Lic_type,PSgroup,RESgroup,Description,Comments,Activity,category1,userclaim,SNOW-title,SNOW-Description
+dlg.WW.ADM-Services.P2V.access.CASH,ACCESS,1,,,P2V Access CASH system,access to old Palantir Cash (via Citrix),,,,,
+dlg.WW.ADM-Services.P2V.access.development,ACCESS,1,,,P2V Access Development System,access to P2V Development System (via Citrix),,,,,
+dlg.WW.ADM-Services.P2V.access.NAMR,ACCESS,1,,,P2V NAMR Report Tool,access to NAMR Reporting Tool (via Citrix),,,,,
+dlg.WW.ADM-Services.P2V.access.production,ACCESS,1,Everyone,,P2V Access Production System,access to P2V Production System (via Citrix),,,,P2V Production System,Access to the P2V Production system (tenant P2V-PROD)
+dlg.WW.ADM-Services.P2V.access.test,ACCESS,1,Everyone,,P2V Access Test System,"access to P2V TEST System (via Citrix , multiple tenants)",,,,P2V Test System,Access to the P2V Test system
+dlg.WW.ADM-Services.P2V.access.training,ACCESS,1,Everyone,,P2V Access Training System,access to P2V TRAINING System (via Citrix),,,,P2V Training System,Access to the P2V Training system (tenant P2V_TRAINING)
+dlg.WW.ADM-Services.P2V.access.update,ACCESS,1,Everyone,,P2V Access Update System,access to P2V UPDATE System (via Citrix),,,,,
+dlg.WW.ADM-Services.P2V.Admin,SPECIAL,3,Administrators,,P2V Administrator,special permissions for Plan2Value Admins,,,x,,
+dlg.WW.ADM-Services.P2V.approver,not in use,,,,P2V Approver,,,,,,
+dlg.WW.ADM-Services.P2V.Aucerna,not in use,,,,P2V Vendor,Group for external consultants  & support people with P2V access,,,,,
+dlg.WW.ADM-Services.P2V.auditor,PROFILE,,A12.profile.Auditor,,P2V Auditor,special permission to access audit-logs,,,x,,
+dlg.WW.ADM-Services.P2V.BD.key,not in use,,,,P2V Business Development Key User,,,,,,
+dlg.WW.ADM-Services.P2V.BD.power,not in use,,,,P2V Business Development Power User,,,,,,
+dlg.WW.ADM-Services.P2V.CO.key,not in use,,,,P2V Controlling Key User,,,,,,
+dlg.WW.ADM-Services.P2V.CO.power,not in use,,,,P2V Controlling Power User,,,,,,
+dlg.WW.ADM-Services.P2V.data.access.ADJUSTMENT,DATA,,data.access.ADJUST.allow,,,,,,,,
+dlg.WW.ADM-Services.P2V.data.access.GAS,DATA,,data.access.GAS.allow,,,,,,,,
+dlg.WW.ADM-Services.P2V.data.access.LCB,DATA,,data.access.LCB.allow,,,,,,,,
+dlg.WW.ADM-Services.P2V.data.access.PRMS,DATA,,data.access.PRMS.allow,,,,,,,,
+dlg.WW.ADM-Services.P2V.data.ARE,DATA,,data.ArabEmirates,,P2V Data ArabEmirates,Data access to country UnitedArabEmirates,,,,United Arab Emirates,Access to P2V data from United Arab Emirates
+dlg.WW.ADM-Services.P2V.data.AUS,DATA,,data.Australia,,P2V Data Australia,Data access to country Australia,,,,Australia (OMV),Access to P2V data from Australia (OMV)
+dlg.WW.ADM-Services.P2V.data.AUS.sapura,DATA,,data.Sapura.Australia,,P2V Data Australia Sapura,Data access to country  Sapura- Australia,,,,Australia (SAPURA),Access to P2V data from Australia (SAPURA)
+dlg.WW.ADM-Services.P2V.data.AUT,DATA,,data.Austria,,P2V Data Austria,Data access to country Austria,,,,Austria,Access to P2V data from Austria
+dlg.WW.ADM-Services.P2V.data.BGR,DATA,,data.Bulgaria,,P2V Data Bulgaria,Data access to country Bulgaria,,,,Bulgaria (PETROM),Access to P2V data from Bulgaria
+dlg.WW.ADM-Services.P2V.data.CHE,DATA,,data.Switzerland,,P2V Data Switzerland,,,,,,
+dlg.WW.ADM-Services.P2V.data.corporate,DATA,,data.Corporate,,P2V Data Corporate OMV,Data access OMV global (OMV Headoffice) ,,,,All OMV data (corporate),Access to all OMV areas (w/o confidential projects)
+dlg.WW.ADM-Services.P2V.data.DEU,DATA,,data.Germany,,P2V Data Germany,,,,,Data access P2V Germany,
+dlg.WW.ADM-Services.P2V.data.GEO,DATA,,data.Georgia,,P2V Data Georgia,Data access to country Georgia,,,,Georgia (PETROM),Access to P2V data from Georgia
+dlg.WW.ADM-Services.P2V.data.HRV,DATA,,data.Croatia,,P2V Data Croatia,,,,,,
+dlg.WW.ADM-Services.P2V.data.HUN,DATA,,data.Hungary,,P2V Data Hungary,,,,,,
+dlg.WW.ADM-Services.P2V.data.KRI,DATA,,data.Kurdistan,,P2V Data Kurdistan,Data access to country Kurdistan,,,,Kurdistan,Access to P2V data from Kurdistan
+dlg.WW.ADM-Services.P2V.data.KZ,not in use,,,,P2V OMV KZ User,,,,,,
+dlg.WW.ADM-Services.P2V.data.LBY,DATA,,data.Libya,,P2V Data Libya,Data access to country Libya,,,,Libya,Access to P2V data from Libya
+dlg.WW.ADM-Services.P2V.data.MEX,DATA,,data.Mexico,,P2V Data Mexico,Data access to country Mexico,,,,Mexico (SAPURA),Access to P2V data from Mexico
+dlg.WW.ADM-Services.P2V.data.MYS,DATA,,data.Malaysia,,P2V Data Malaysia,Data access to country Malaysia,,,,Malaysia (SAPURA),Access to P2V data from Malaysia
+dlg.WW.ADM-Services.P2V.data.NOR,DATA,,data.Norway,,P2V Data Norway,Data access to country Norway,,,,Norway,Access to P2V data from Norway
+dlg.WW.ADM-Services.P2V.data.NZL,DATA,,data.NewZealand,,P2V Data New Zealand,Data access to country NewZealand,,,,New Zealand (OMV),Access to P2V data from New Zealand (OMV)
+dlg.WW.ADM-Services.P2V.data.NZL.sapura,DATA,,data.Sapura.NewZealand,,P2V Data New Zealand Sapura,Data access to country  Sapura- NewZealand,,,,New Zealand (SAPURA),Access to P2V data from New Zealand (SAPURA)
+dlg.WW.ADM-Services.P2V.data.OMVEP,DATA,,data.OMVEP,,P2V Data E&P Valuecenter,Data access to ValueCenters,,,,OMV E&P International,"Access to special area for EP Value Centers, LCB, GAS"
+dlg.WW.ADM-Services.P2V.data.ROU,DATA,,data.Romania,,P2V Data Romania,Data access to country Romania,,,,Romania (PETROM),Access to P2V data from Romania
+dlg.WW.ADM-Services.P2V.data.RUS,DATA,,data.Russia,,P2V Data Russia,Data access to country Russia,,,,Russia,Access to P2V data from Russia
+dlg.WW.ADM-Services.P2V.data.Sapura,not in use,,,,P2V OMV Sapura User,,,,,,
+dlg.WW.ADM-Services.P2V.data.TUN,DATA,,data.Tunisia,,P2V Data Tunisia,Data access to country Tunisia,,,,Tunisia,Access to P2V data from Tunisia
+dlg.WW.ADM-Services.P2V.data.YEM,DATA,,data.Yemen,,P2V Data Yemen,Data access to country Yemen,,,,Yemen,Access to P2V data from Yemen
+dlg.WW.ADM-Services.P2V.developer,SPECIAL,,Developer,,P2V Developer,internal & external developers,,,,,
+dlg.WW.ADM-Services.P2V.DF.key,not in use,,,,P2V Dataflow Key User,,,,,,
+dlg.WW.ADM-Services.P2V.DF.power,not in use,,,,P2V Dataflow Power User,,,,,,
+dlg.WW.ADM-Services.P2V.DF.unlock,SPECIAL,,Dataflow.unlock,,P2V DataFlow Unlock,permission to unlock  objects in DATAFLOW module,,,,,
+dlg.WW.ADM-Services.P2V.ECO.key,not in use,,,,P2V Economics Key User,,,,,,
+dlg.WW.ADM-Services.P2V.ECO.power,not in use,,,,P2V Economics Power User,,,,,,
+dlg.WW.ADM-Services.P2V.ECO.regimes,SPECIAL,,A14.profile.Economics.Regimes,,P2V Economics Regimes,Economics Regime Coding (r/w access),,,,Economics Regimes,Read/write access to Economics regimes library
+dlg.WW.ADM-Services.P2V.ECO.unlock,SPECIAL,,Economics.unlock,,P2V Economics Unlock,permission to unlock  objects in ECONOMICS module,,,,,
+dlg.WW.ADM-Services.P2V.EX.key,not in use,,,,P2V Exploration Key User,,,,,,
+dlg.WW.ADM-Services.P2V.FIN.regimes,SPECIAL,,A17.profile.Finance.Regimes,,P2V Finance Regimes,Financials Regime Coding (r/w access),,,,Finance Regimes,read/write access to PS Financials regime library
+dlg.WW.ADM-Services.P2V.FIN.unlock,SPECIAL,,Financials.unlock,,P2V Financials Unlock,permission to unlock  objects in FINANCIALS module,,,,,
+dlg.WW.ADM-Services.P2V.Interfaces,??,,,,P2V Interface User,,,,,,
+dlg.WW.ADM-Services.P2V.PP.power,??,,,,P2V Planning & Portfolio Power User,,,,,,
+dlg.WW.ADM-Services.P2V.profile.Admin.Headoffice,not in use,,,,P2V Headoffice Administrator,,,,,,
+dlg.WW.ADM-Services.P2V.profile.CAPDAT,PROFILE,,A03.profile.CAPDAT,,P2V CAPDAT User,Profile for CAPDAT interface users.,,,,CAPDAT,rights for CAPDAT users to connect to Plan2Value
+dlg.WW.ADM-Services.P2V.profile.Economics.Classic,PROFILE,,A13.profile.Economics.Classic,,P2V Economics Classic,Base Economist (includes DF Unlock and Quicklook Admin),,,,Economics Classic,Base Economist profile
+dlg.WW.ADM-Services.P2V.profile.Economics.Plus,PROFILE,,A15.profile.Economics.Plus,,P2V Economics Plus,Base Economist enhanced with PSE Power and PSE Unlock roles,,,,Economics Plus,Base Economist enhanced with PS Economics Power and PS Economics Unlock roles
+dlg.WW.ADM-Services.P2V.profile.Exploration.Assurance,PROFILE,,A24.profile.Exploration.Assurance,,P2V Exploration Assurance,OMV Corporate Exploration Assurance user.  Previously profile.Resources.Headoffice,,,,Exploration Assurance,profile for Exploration Assurance team
+dlg.WW.ADM-Services.P2V.profile.Exploration.OAAdmin,PROFILE,,A25.profile.Exploration.OA.Admin,,P2V Exploration OA Admin,extended rights for Exploration Opportunity Assessor Admins,,,,Exploration Opportunity Assessor Admin,extended rights for Exploration Opportunity Assessor Admins
+dlg.WW.ADM-Services.P2V.profile.Finance.Classic,PROFILE,,A16.profile.Finance.Classic,,P2V Finance Classic,Base Controller,,,,Finance Classic,Base Controller profile
+dlg.WW.ADM-Services.P2V.profile.Finance.Plus,PROFILE,,A18.profile.Finance.Plus,,P2V Finance Plus,OMV Corporate controller role,,,,Finance Plus,Base Controller enhanced with PSF Power and PSF Unlock roles
+dlg.WW.ADM-Services.P2V.profile.LightUser,PROFILE,,A04.profile.Light,,P2V Light User,Readonly access DF only (light user),,,,Light (Readonly) User,Readonly access DF only (light user)
+dlg.WW.ADM-Services.P2V.profile.LightUser.FinPort,PROFILE,,A06.profile.Light.Fin.Port,,P2V Finance and Portfolio Light User,,,,,Finance / Portfolio Light user,Finance and Portfolio light users (readonly access) DataFlow plus PS Economics/ PS Financials /PS Portfolio
+dlg.WW.ADM-Services.P2V.profile.LightUser.local,not in use,,,,P2V Local Readonly User,,,,,,
+dlg.WW.ADM-Services.P2V.profile.LightUser.Reserves,PROFILE,,A05.profile.Light.reserves,,P2V Reserves Light User,Reserves readonly role,,,,Light (Readonly) Reserves User,Reserves readonly role
+dlg.WW.ADM-Services.P2V.profile.Planning.Classic,PROFILE,,A10.profile.Planning.Classic,,P2V Planning Classic,Planner (includes DF Unlock),,,,Planning Classic,P2V Base Planner profile (includes DataFlow Unlock)
+dlg.WW.ADM-Services.P2V.profile.Planning.Plus,PROFILE,,A11.profile.Planning.Plus,,P2V Planning Plus,Enhanced Dataflow: (includes DF Power role; DF Tab FULL access),,,,Planning Plus,Planner profile with extended rights in DataFlow
+dlg.WW.ADM-Services.P2V.profile.Portfolio.Classic,PROFILE,,A19.profile.Portfolio.Classic,,P2V Portfolio Classic,OMV Portfolio role (standard user),,,,Portfolio Classic,Base Portfolio user profile
+dlg.WW.ADM-Services.P2V.profile.Portfolio.Plus,PROFILE,,A26.profile.Portfolio.Plus,,P2V Portfolio Plus,OMV Corporate Planning & Portfolio role (power user),,,,Portfolio Plus,extended rights for Portfolio power users
+dlg.WW.ADM-Services.P2V.profile.Projectmanager.Classic,PROFILE,,A08.profile.Projectmanager.Classic,,P2V Projectmanager Classic,"P2V Classic Projectmanager role (data entry & ""full input"" tagging)",,,,Projectmanager Classic,"P2V Classic Projectmanager role (data entry & ""full input"" tagging)"
+dlg.WW.ADM-Services.P2V.profile.Projectmanager.LCB,PROFILE,,A09.profile.Projectmanager.LCB,,P2V Projectmanager LCB,Classic Project Manager for LCB,,,,Projectmanager (LCB),specific profile for LCB projectmanagers
+dlg.WW.ADM-Services.P2V.profile.Projectmanager.PET,PROFILE,,A07.profile.Projectmanager.PET,,P2V Projectmanager Petrom,P2V Projectmanager role (data entry - specific for Petrom),,,,Projectmanager (Petrom),specific profile for Petrom projectmanagers
+dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice,PROFILE,,A21.profile.Reserves.Headoffice,,P2V Headoffice Reserves User,OMV Corporate reserves role (standard user),,,,Reserves Headoffice User,profiles for Headoffice Reserves team
+dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Approve,PROFILE,,A23.profile.Reserves.Headoffice.Approve,,P2V Reserves Headoffice Approval,special approval role for Headoffice RESERVES ,,,,Reserves Headoffice Approval,specific profile for headoffice reserves approvers
+dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Power,PROFILE,,A22.profile.Reserves.Headoffice.Power,,P2V Headoffice Reserves Power User,OMV Corporate reserves role (power user),,,,Reserves Headoffice Power User,extended rights for Headoffice Reserves power user
+dlg.WW.ADM-Services.P2V.profile.Reserves.local.Approve,PROFILE,,A27.profile.Reserves.local.Approve,,P2V Reserves Local Approval,Reserves local country approval role ,,,,Reserves Local Country Approval,Reserves local country approval role
+dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE,PROFILE,,A20.profile.Reserves.local.QRE,,P2V Local Country QRE,extra profile for QREs,,,,Reserves QRE,profile for country QREs in Planningspace and Reserves
+dlg.WW.ADM-Services.P2V.profile.Resources.local,PROFILE,,,,P2V Local Country Exploration User,,,,,,
+dlg.WW.ADM-Services.P2V.RES.key,not in use,,,,P2V Reserves Key User,,,,,,
+dlg.WW.ADM-Services.P2V.RES.power,not in use,,,,P2V Reserves Power User,,,,,,
+dlg.WW.ADM-Services.P2V.serveradmin,SYSTEM,,,,P2V Production Server Admin,admin access to production servers,,,,,
+dlg.WW.ADM-Services.P2V.testserveradmin,SYSTEM,,,,P2V Test Server Admin,admin access to test servers,,,,,
+dlg.WW.ADM-Services.P2V.useradmin,SPECIAL,,User.admin,,P2V User Admin,permissions for Plan2Value useradministration,,,,,
+dlg.WW.ADM-Services.PetroVR,PROFILE,,A02.profile.PetroVR,,PetroVR,PetroVR user,,,,PetroVR,permissions for PetroVR users to get access to Economics-as-a-Service
+dlg.WW.ADM-Services.PetroVR.citrixdesktop,PETROVR,,,,PetroVR Citrix Desktop,access to PetroVR on Citrix Desktop rather than published application,,,,,
+papp.drms.AE.GhashaConfidential,BD,,Z.BD.022,,Ghasha,,,,,,
+papp.drms.AE.UmmLuluSarb.all,BD,,Z.BD.021,,UmmLuluSarb,,,,,,
+dlg.WW.ADM-Services.P2V.data.GasEast,DATA,,data.GasEast,,P2V Data Gas East,GasEast treated like a dedicated country,,,,Gas East,Access to data from Gas East
+dlg.WW.ADM-Services.P2V.data.GasWest,DATA,,data.GasWest,,P2V Data Gas West,Gas West treated lik a dedicated country,,,,Gas West,Access to data from Gas West

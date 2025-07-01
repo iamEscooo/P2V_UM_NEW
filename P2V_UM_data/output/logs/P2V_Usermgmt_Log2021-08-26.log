@@ -1,0 +1,145 @@
+﻿[2021-08-26 08:34:20] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_users]
+[2021-08-26 08:34:20] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\all_users.csv] deleted
+[2021-08-26 08:34:21] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\all_groups.csv] deleted
+[2021-08-26 08:34:21] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\all_user_groups.csv] deleted
+[2021-08-26 08:34:27] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_users\P2V_BENCHMARK-groups.csv] deleted
+[2021-08-26 08:34:29] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_users\P2V_BENCHMARK-users.csv] deleted
+[2021-08-26 08:34:51] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_users\P2V_PRODTEST-groups.csv] deleted
+[2021-08-26 08:34:54] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_users\P2V_PRODTEST-users.csv] deleted
+[2021-08-26 08:35:32] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_users\P2V-PROD-groups.csv] deleted
+[2021-08-26 08:35:50] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_users\P2V-PROD-users.csv] deleted
+[2021-08-26 08:37:28] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_users\P2V_TEST-groups.csv] deleted
+[2021-08-26 08:37:32] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_users\P2V_TEST-users.csv] deleted
+[2021-08-26 08:39:33] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_users\P2V_DEMO-groups.csv] deleted
+[2021-08-26 08:39:37] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_users\P2V_DEMO-users.csv] deleted
+[2021-08-26 08:40:45] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_AD_users]
+[2021-08-26 08:40:45] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\Myuserworkgroup.csv] deleted
+[2021-08-26 08:40:45] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\Myusers.csv] deleted
+[2021-08-26 08:40:45] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\All_AD_users.csv] deleted
+[2021-08-26 08:40:46] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.access.development.csv] deleted
+[2021-08-26 08:40:47] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.access.production.csv] deleted
+[2021-08-26 08:41:27] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.access.test.csv] deleted
+[2021-08-26 08:41:58] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.access.training.csv] deleted
+[2021-08-26 08:41:58] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.access.update.csv] deleted
+[2021-08-26 08:42:00] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.Admin.csv] deleted
+[2021-08-26 08:42:01] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.Aucerna.csv] deleted
+[2021-08-26 08:42:02] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.auditor.csv] deleted
+[2021-08-26 08:42:03] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.BD.key.csv] deleted
+[2021-08-26 08:42:03] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.BD.power.csv] deleted
+[2021-08-26 08:42:03] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.ARE.csv] deleted
+[2021-08-26 08:42:04] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.AUS.csv] deleted
+[2021-08-26 08:42:05] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.AUT.csv] deleted
+[2021-08-26 08:42:10] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.BGR.csv] deleted
+[2021-08-26 08:42:12] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.corporate.csv] deleted
+[2021-08-26 08:42:20] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.GEO.csv] deleted
+[2021-08-26 08:42:23] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.KRI.csv] deleted
+[2021-08-26 08:42:24] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.LBY.csv] deleted
+[2021-08-26 08:42:26] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.MEX.csv] deleted
+[2021-08-26 08:42:28] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.MYS.csv] deleted
+[2021-08-26 08:42:30] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.NOR.csv] deleted
+[2021-08-26 08:42:34] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.NZL.csv] deleted
+[2021-08-26 08:42:37] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.ROU.csv] deleted
+[2021-08-26 08:42:51] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.RUS.csv] deleted
+[2021-08-26 08:42:52] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.Sapura.csv] deleted
+[2021-08-26 08:42:54] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.TUN.csv] deleted
+[2021-08-26 08:42:56] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.YEM.csv] deleted
+[2021-08-26 08:42:57] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.developer.csv] deleted
+[2021-08-26 08:42:59] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.DF.unlock.csv] deleted
+[2021-08-26 08:42:59] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.ECO.regimes.csv] deleted
+[2021-08-26 08:43:00] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.ECO.unlock.csv] deleted
+[2021-08-26 08:43:01] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.FIN.regimes.csv] deleted
+[2021-08-26 08:43:01] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.FIN.unlock.csv] deleted
+[2021-08-26 08:43:03] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.PP.key.csv] deleted
+[2021-08-26 08:43:03] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.PP.power.csv] deleted
+[2021-08-26 08:43:03] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Admin.Headoffice.csv] deleted
+[2021-08-26 08:43:03] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Economics.Headoffice.csv] deleted
+[2021-08-26 08:43:04] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Economics.local.csv] deleted
+[2021-08-26 08:43:08] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Finance.Headoffice.csv] deleted
+[2021-08-26 08:43:09] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Finance.local.csv] deleted
+[2021-08-26 08:43:15] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.LightUser.Headoffice.csv] deleted
+[2021-08-26 08:43:19] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.LightUser.local.csv] deleted
+[2021-08-26 08:43:30] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.PP.Headoffice.csv] deleted
+[2021-08-26 08:43:30] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.PP.Headoffice.Power.csv] deleted
+[2021-08-26 08:43:31] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.PP.local.csv] deleted
+[2021-08-26 08:43:33] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Projectmanager.csv] deleted
+[2021-08-26 08:43:42] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.csv] deleted
+[2021-08-26 08:43:42] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Approve.csv] deleted
+[2021-08-26 08:43:42] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Power.csv] deleted
+[2021-08-26 08:43:42] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.local.Approve.csv] deleted
+[2021-08-26 08:43:43] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE.csv] deleted
+[2021-08-26 08:43:46] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.readonly.csv] deleted
+[2021-08-26 08:43:46] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Resources.Headoffice.csv] deleted
+[2021-08-26 08:43:47] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Resources.local.csv] deleted
+[2021-08-26 08:43:47] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.useradmin.csv] deleted
+[2021-08-26 08:43:47] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.PetroVR.csv] deleted
+[2021-08-26 11:15:50] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [admin_AD_check_groups]
+[2021-08-26 11:18:52] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [admin_AD_check_groups]
+[2021-08-26 11:23:07] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [admin_AD_check_groups]
+[2021-08-26 11:30:47] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [admin_check_P2V_admins]
+[2021-08-26 11:32:52] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [admin_check_P2V_lastlogin]
+[2021-08-26 11:35:45] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_AD_users]
+[2021-08-26 11:35:45] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\Myuserworkgroup.csv] deleted
+[2021-08-26 11:35:45] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\Myusers.csv] deleted
+[2021-08-26 11:35:45] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\dashboard\All_AD_users.csv] deleted
+[2021-08-26 11:35:45] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.access.development.csv] deleted
+[2021-08-26 11:35:46] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.access.production.csv] deleted
+[2021-08-26 11:36:23] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.access.test.csv] deleted
+[2021-08-26 11:36:53] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.access.training.csv] deleted
+[2021-08-26 11:36:54] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.access.update.csv] deleted
+[2021-08-26 11:36:55] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.Admin.csv] deleted
+[2021-08-26 11:36:56] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.Aucerna.csv] deleted
+[2021-08-26 11:36:58] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.auditor.csv] deleted
+[2021-08-26 11:36:58] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.BD.key.csv] deleted
+[2021-08-26 11:36:58] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.BD.power.csv] deleted
+[2021-08-26 11:36:58] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.ARE.csv] deleted
+[2021-08-26 11:37:00] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.AUS.csv] deleted
+[2021-08-26 11:37:01] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.AUT.csv] deleted
+[2021-08-26 11:37:05] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.BGR.csv] deleted
+[2021-08-26 11:37:08] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.corporate.csv] deleted
+[2021-08-26 11:37:16] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.GEO.csv] deleted
+[2021-08-26 11:37:19] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.KRI.csv] deleted
+[2021-08-26 11:37:20] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.LBY.csv] deleted
+[2021-08-26 11:37:22] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.MEX.csv] deleted
+[2021-08-26 11:37:24] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.MYS.csv] deleted
+[2021-08-26 11:37:26] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.NOR.csv] deleted
+[2021-08-26 11:37:30] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.NZL.csv] deleted
+[2021-08-26 11:37:33] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.ROU.csv] deleted
+[2021-08-26 11:37:47] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.RUS.csv] deleted
+[2021-08-26 11:37:48] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.Sapura.csv] deleted
+[2021-08-26 11:37:51] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.TUN.csv] deleted
+[2021-08-26 11:37:52] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.data.YEM.csv] deleted
+[2021-08-26 11:37:53] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.developer.csv] deleted
+[2021-08-26 11:37:55] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.DF.unlock.csv] deleted
+[2021-08-26 11:37:55] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.ECO.regimes.csv] deleted
+[2021-08-26 11:37:56] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.ECO.unlock.csv] deleted
+[2021-08-26 11:37:57] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.FIN.regimes.csv] deleted
+[2021-08-26 11:37:57] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.FIN.unlock.csv] deleted
+[2021-08-26 11:37:58] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.PP.key.csv] deleted
+[2021-08-26 11:37:59] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.PP.power.csv] deleted
+[2021-08-26 11:37:59] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Admin.Headoffice.csv] deleted
+[2021-08-26 11:37:59] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Economics.Headoffice.csv] deleted
+[2021-08-26 11:38:00] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Economics.local.csv] deleted
+[2021-08-26 11:38:04] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Finance.Headoffice.csv] deleted
+[2021-08-26 11:38:05] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Finance.local.csv] deleted
+[2021-08-26 11:38:12] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.LightUser.Headoffice.csv] deleted
+[2021-08-26 11:38:16] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.LightUser.local.csv] deleted
+[2021-08-26 11:38:26] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.PP.Headoffice.csv] deleted
+[2021-08-26 11:38:27] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.PP.Headoffice.Power.csv] deleted
+[2021-08-26 11:38:27] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.PP.local.csv] deleted
+[2021-08-26 11:38:30] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Projectmanager.csv] deleted
+[2021-08-26 11:38:38] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.csv] deleted
+[2021-08-26 11:38:38] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Approve.csv] deleted
+[2021-08-26 11:38:38] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.Headoffice.Power.csv] deleted
+[2021-08-26 11:38:39] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.local.Approve.csv] deleted
+[2021-08-26 11:38:40] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.local.QRE.csv] deleted
+[2021-08-26 11:38:42] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Reserves.readonly.csv] deleted
+[2021-08-26 11:38:43] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Resources.Headoffice.csv] deleted
+[2021-08-26 11:38:43] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.profile.Resources.local.csv] deleted
+[2021-08-26 11:38:43] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.P2V.useradmin.csv] deleted
+[2021-08-26 11:38:44] - [INFO] [\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users\dlg.WW.ADM-Services.PetroVR.csv] deleted
+[2021-08-26 12:29:44] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2021-08-26 12:32:04] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2021-08-26 15:09:26] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2021-08-26 15:42:43] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2021-08-26 16:52:56] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2021-08-26 18:51:25] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]

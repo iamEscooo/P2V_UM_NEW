@@ -1,0 +1,3 @@
+﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
+Mayer Jan,JAN013,SAML2,,Jan.Mayer@omv.com,Jan.Mayer@omv.com,ESM-B Low Carbon Business Steering,,FALSE,
+Baumgartner Tanja Maria,X451558,SAML2,,Tanja.Weber@omv.com,Tanja.Weber@omv.com,FE-C Energy Controlling & Performance Mgmt.,,FALSE,

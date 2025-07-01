@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"83816","PlanningSpace Dataflow","The user <MichaelStefan.EichingerKlemm@omv.com> has logged out.","MichaelStefan.EichingerKlemm@omv.com","User","Logout","MichaelStefan.EichingerKlemm@omv.com","TSOMVAT423005","2020-11-17T09:26:39.660Z"
+"83815","PlanningSpace Dataflow","The user <MichaelStefan.EichingerKlemm@omv.com> has logged in. ","MichaelStefan.EichingerKlemm@omv.com","User","Login","MichaelStefan.EichingerKlemm@omv.com","TSOMVAT423005","2020-11-17T07:55:41.900Z"
+"83814","PlanningSpace","The user [MichaelStefan.EichingerKlemm@omv.com] has logged in.","MichaelStefan.EichingerKlemm@omv.com","User","Login","MichaelStefan.EichingerKlemm@omv.com","10.12.205.21","2020-11-17T07:55:34.560Z"
+"83813","PlanningSpace","The user [MichaelStefan.EichingerKlemm@omv.com] has logged in.","MichaelStefan.EichingerKlemm@omv.com","User","Login","MichaelStefan.EichingerKlemm@omv.com","10.12.205.20","2020-11-17T07:39:46.523Z"
+"83812","PlanningSpace Dataflow","The user <MichaelStefan.EichingerKlemm@omv.com> has logged out.","MichaelStefan.EichingerKlemm@omv.com","User","Logout","MichaelStefan.EichingerKlemm@omv.com","TSOMVAT423003","2020-11-16T15:23:54.440Z"
+"83811","PlanningSpace Dataflow","The user <MichaelStefan.EichingerKlemm@omv.com> has logged in. ","MichaelStefan.EichingerKlemm@omv.com","User","Login","MichaelStefan.EichingerKlemm@omv.com","TSOMVAT423003","2020-11-16T11:12:26.643Z"
+"83810","PlanningSpace","The user [MichaelStefan.EichingerKlemm@omv.com] has logged in.","MichaelStefan.EichingerKlemm@omv.com","User","Login","MichaelStefan.EichingerKlemm@omv.com","10.12.205.19","2020-11-16T11:12:20.427Z"
+"83809","PlanningSpace Dataflow","The user <MichaelStefan.EichingerKlemm@omv.com> has logged out.","MichaelStefan.EichingerKlemm@omv.com","User","Logout","MichaelStefan.EichingerKlemm@omv.com","TSOMVAT423003","2020-11-16T11:06:35.703Z"
+"83808","PlanningSpace Dataflow","The user <MichaelStefan.EichingerKlemm@omv.com> has logged in. ","MichaelStefan.EichingerKlemm@omv.com","User","Login","MichaelStefan.EichingerKlemm@omv.com","TSOMVAT423003","2020-11-16T11:04:18.867Z"
+"83807","PlanningSpace","The user [MichaelStefan.EichingerKlemm@omv.com] has logged in.","MichaelStefan.EichingerKlemm@omv.com","User","Login","MichaelStefan.EichingerKlemm@omv.com","10.12.205.20","2020-11-16T11:04:12.103Z"

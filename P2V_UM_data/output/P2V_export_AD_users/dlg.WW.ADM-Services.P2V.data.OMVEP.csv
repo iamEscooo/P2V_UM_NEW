@@ -1,0 +1,3 @@
+﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
+Stürzenbecher Sascha,SASCHA15,SAML2,,sascha.stuerzenbecher@omv.com,sascha.stuerzenbecher@omv.com,FEF-G Governance & Accounting,,FALSE,
+Kalas Rade,RADE01,SAML2,,Rade.Kalas@omv.com,Rade.Kalas@omv.com,FP-I Invest & Value Controlling,,FALSE,

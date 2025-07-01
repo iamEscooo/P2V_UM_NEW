@@ -1,0 +1,9 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","displayName","logOnId","authenticationMethod","domain","accountExpirationDate","isDeactivated","isAccountLocked","description","authenticationType","enforcePasswordPolicy","enforcePasswordExpiration","userMustChangePassword","userCanChangePassword","isAdministrator","isInAdministratorGroup","emailAddress","useADEmailAddress","changePassword","password","lastLogin","accountLockedDate","deactivatedDate","userWorkgroups","apiKey"
+"14","ZZ - Demo DF-key","demo1","LOCAL","",,"False","False","Plan2Value local DEMO user for Training + Test",,"False","False","False","False","False","False","","False","False",,"2019-10-10T09:53:02.633Z",,,"",
+"3","ZZ - Demo ECO-key","demo2","LOCAL","",,"False","False","Plan2Value local DEMO user for Training + Test",,"False","False","False","False","False","False","","False","False",,"2019-05-16T09:21:58.453Z",,,"",
+"23","ZZ - Demo RES-key","demo3","LOCAL","",,"False","False","Plan2Value local DEMO user for Training + Test",,"False","False","False","False","False","False","","False","False",,,,,"",
+"42","ZZ - Demo User 4","demo4","LOCAL","",,"False","False","Plan2Value local DEMO user for Training + Test",,"False","False","False","False","False","False","","False","False",,,,,"",
+"43","ZZ - Demo User 5","demo5","LOCAL","",,"False","False","Plan2Value local DEMO user for Training + Test",,"False","False","False","False","False","False","","False","False",,,,,"",
+"53","ZZ - Demo User 6","demo6","LOCAL","",,"False","False","Plan2Value local DEMO user for Training + Test",,"False","False","False","False","False","False","","False","False",,,,,"",
+"59","ZZ - Demo User 7","demo7","LOCAL","",,"False","False","Plan2Value local DEMO user for Training + Test",,"False","False","False","False","False","False","","False","False",,,,,"",

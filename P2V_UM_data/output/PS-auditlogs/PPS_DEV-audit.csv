@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"102950","PlanningSpace Economics","The user <LOGAN1@ww.omv.com> has logged in. ","LOGAN1@ww.omv.com","User","Login","LOGAN1@ww.omv.com","TSOMVAT423005","2020-11-16T23:45:38.177Z"
+"102949","PlanningSpace Dataflow","The user <LOGAN1@ww.omv.com> has logged in. ","LOGAN1@ww.omv.com","User","Login","LOGAN1@ww.omv.com","TSOMVAT423005","2020-11-16T23:45:25.470Z"
+"102948","PlanningSpace","The user [LOGAN1@ww.omv.com] has logged in.","LOGAN1@ww.omv.com","User","Login","LOGAN1@ww.omv.com","10.12.166.135","2020-11-16T23:45:19.067Z"
+"102947","PlanningSpace Economics","The user <TIMOTHY5> has logged out.","TIMOTHY5","User","Logout","TIMOTHY5","TSOMVAT423006","2020-11-16T21:56:33.453Z"
+"102946","PlanningSpace Dataflow","The user <TIMOTHY5> has logged out.","TIMOTHY5","User","Logout","TIMOTHY5","TSOMVAT423006","2020-11-16T21:56:33.400Z"
+"102945","PlanningSpace Economics","The user <TIMOTHY5> has logged in. ","TIMOTHY5","User","Login","TIMOTHY5","TSOMVAT423006","2020-11-16T20:59:42.983Z"
+"102944","PlanningSpace Dataflow","The user <TIMOTHY5> has logged in. ","TIMOTHY5","User","Login","TIMOTHY5","TSOMVAT423006","2020-11-16T20:59:31.447Z"
+"102943","PlanningSpace","The user [TIMOTHY5] has logged in.","TIMOTHY5","User","Login","TIMOTHY5","10.12.166.32","2020-11-16T20:59:25.103Z"
+"102942","PlanningSpace","Login for user <timothy5> was unsuccessful. Reason: Invalid Password","timothy5","User","Login","timothy5","10.12.166.32","2020-11-16T20:59:13.650Z"
+"102941","PlanningSpace","User Account Lockout History and Account Locked","TIMOTHY5","User","Updated","Gaw Timothy (Ext)","TSOMVAT502898","2020-11-16T20:59:13.507Z"

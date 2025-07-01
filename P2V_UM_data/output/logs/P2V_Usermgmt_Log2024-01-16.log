@@ -1,0 +1,5 @@
+﻿[2024-01-16 13:13:43] - [INFO] [WW/adminx449222] started check_userprofile -xkey PEDRO8
+[2024-01-16 13:13:43] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-01-16 13:21:47] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-01-16 13:21:47] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-01-16 13:37:56] - [INFO] [P2V-PROD]-[bd.base] : add Podurets Petro (PEDRO8) - done

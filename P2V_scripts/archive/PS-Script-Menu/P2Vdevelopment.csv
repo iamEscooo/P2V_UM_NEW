@@ -1,0 +1,4 @@
+Section,Method,Command,Arguments,Name,Description
+DEVELOPMENT Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502898.ww.omv.com/PPS_DEV,PPS_DEV,Development tenant (Aucerna only)
+DEVELOPMENT Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502898.ww.omv.com/PPS_DEV_PRODCOPY,PPS_DEV_PRODCOPY,Copy od productive CASH (only for migration purposes)
+DEVELOPMENT Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502898.ww.omv.com/P2V_DEV_2,P2V_DEV_2,Development2 system (for merging)

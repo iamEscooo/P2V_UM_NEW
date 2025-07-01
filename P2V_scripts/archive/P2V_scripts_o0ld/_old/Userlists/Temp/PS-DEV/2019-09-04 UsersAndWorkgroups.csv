@@ -1,0 +1,107 @@
+Name	Login ID	Authentication method	Domain	Description	Deactivated	Workgroup Name	Workgroup Description	Workgroup Comment
+Aaron Johnson	AARON6	LOCAL		AUCERNA	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Aaron Johnson	AARON6	LOCAL		AUCERNA	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Aaron Johnson	AARON6	LOCAL		AUCERNA	FALSE	OMV_CoreTeam		OMV Core Team Members
+Administrator	Administrator	LOCAL		Administrator	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Armando Carrasco	ARMANDO1	WINDOWS_AD	ww	AUCERNA	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Armando Carrasco	ARMANDO1	WINDOWS_AD	ww	AUCERNA	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Armando Carrasco	ARMANDO1	LOCAL		AUCERNA (Local)	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Armando Carrasco	ARMANDO1	LOCAL		AUCERNA (Local)	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Arun Shaw	ARUN05	WINDOWS_AD	ww	AUCERNA	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Arun Shaw	ARUN05	WINDOWS_AD	ww	AUCERNA	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Arun Shaw (Aucerna)	adminarun05	WINDOWS_AD	ww	Arun Shaw (Aucerna)	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Arun Shaw (Aucerna)	adminarun05	WINDOWS_AD	ww	Arun Shaw (Aucerna)	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Birgit Stoiser	X449810	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Birgit Stoiser	X449810	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Birgit Stoiser	X449810	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Bogdan Banu	X01BanuBo	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Bogdan Banu	X01BanuBo	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Bogdan Banu	X01BanuBo	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Camilo Sanchez	sancheca	WINDOWS_AD	ww	core team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Camilo Sanchez	sancheca	WINDOWS_AD	ww	core team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Camilo Sanchez	sancheca	WINDOWS_AD	ww	core team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Catalin Paraschiv	X01005176	WINDOWS_AD	ww	core team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Catalin Paraschiv	X01005176	WINDOWS_AD	ww	core team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Catalin Paraschiv	X01005176	WINDOWS_AD	ww	core team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Christian Blecha	X450582	WINDOWS_AD	ww	OMV PPS project team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Christian Blecha	X450582	WINDOWS_AD	ww	OMV PPS project team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Christian Blecha	X450582	WINDOWS_AD	ww	OMV PPS project team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Christian Scholz	CHRISTIAN130	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Christian Scholz	CHRISTIAN130	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Christian Scholz	CHRISTIAN130	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Christian Sledz	CHRISTIAN87	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Christian Sledz	CHRISTIAN87	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Christian Sledz	CHRISTIAN87	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Eduard Klein	X409094	WINDOWS_AD	ww	OMV P2V project team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Eduard Klein	X409094	WINDOWS_AD	ww	OMV P2V project team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Eduard Klein	X409094	WINDOWS_AD	ww	OMV P2V project team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Emma Rodgers	X449890	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Emma Rodgers	X449890	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Emma Rodgers	X449890	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Fida Hussain	xhussaifi	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Fida Hussain	xhussaifi	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Fida Hussain	xhussaifi	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Florian Dutzler	FLORIAN109	WINDOWS_AD	ww	core team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Florian Dutzler	FLORIAN109	WINDOWS_AD	ww	core team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Florian Dutzler	FLORIAN109	WINDOWS_AD	ww	core team	FALSE	User_heavy		heavy users
+Florian Dutzler	FLORIAN109	WINDOWS_AD	ww	core team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Gael Carlier	gael04	LOCAL		AUCERNA	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Gael Carlier	gael04	LOCAL		AUCERNA	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Georg Schumacher	X01schgeo	WINDOWS_AD	ww	core team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Georg Schumacher	X01schgeo	WINDOWS_AD	ww	core team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Georg Schumacher	X01schgeo	WINDOWS_AD	ww	core team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Ioan Alexandru Tataru (Admin)	admintataruioa@ww.omv.com	SAML2		Ioan Alexandru Tataru (Admin)	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Ioan Alexandru Tataru (Admin)	admintataruioa@ww.omv.com	SAML2		Ioan Alexandru Tataru (Admin)	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Kevin Rooney	KEVIN32	WINDOWS_AD	ww	AUCERNA	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Kevin Rooney	KEVIN32	WINDOWS_AD	ww	AUCERNA	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Leonardo Umani	LEONARDO1	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Leonardo Umani	LEONARDO1	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Leonardo Umani	LEONARDO1	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Madalina Coada-Petre	X01024526	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Madalina Coada-Petre	X01024526	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Madalina Coada-Petre	X01024526	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Marc Swales	MARC23	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Marc Swales	MARC23	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Marc Swales	MARC23	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Maria Pertl	X449156	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Maria Pertl	X449156	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Maria Pertl	X449156	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Mario-Luis Rodriguez Chavez	X451671	WINDOWS_AD	ww	OMV testuser	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Mario-Luis Rodriguez Chavez	X451671	WINDOWS_AD	ww	OMV testuser	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Mario-Luis Rodriguez Chavez	X451671	WINDOWS_AD	ww	OMV testuser	FALSE	OMV_CoreTeam		OMV Core Team Members
+Markus Nuesslein	X450313	WINDOWS_AD	ww	core team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Markus Nuesslein	X450313	WINDOWS_AD	ww	core team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Markus Nuesslein	X450313	WINDOWS_AD	ww	core team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Martin Hubbig	MARTIN26	WINDOWS_AD	ww	OMV P2V project team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Martin Hubbig	MARTIN26	WINDOWS_AD	ww	OMV P2V project team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Martin Hubbig	MARTIN26	WINDOWS_AD	ww	OMV P2V project team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Martin Kufner	X449222	WINDOWS_AD	ww	MKR	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Martin Kufner	X449222	WINDOWS_AD	ww	MKR	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Martin Kufner	X449222	WINDOWS_AD	ww	MKR	FALSE	User_heavy		heavy users
+Martin Kufner	X449222	WINDOWS_AD	ww	MKR	FALSE	OMV_CoreTeam		OMV Core Team Members
+Martin Kufner (Admin)	adminx449222@ww.omv.com	SAML2		Martin Kufner (Admin)	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Martin Kufner (Admin)	adminx449222@ww.omv.com	SAML2		Martin Kufner (Admin)	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Paul Führmann	PAUL77	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Paul Führmann	PAUL77	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Paul Führmann	PAUL77	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Razvan Bulgariu	X01001805	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Razvan Bulgariu	X01001805	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Razvan Bulgariu	X01001805	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Semra Kocyigit	SEMRA1	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Semra Kocyigit	SEMRA1	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Semra Kocyigit	SEMRA1	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Shilpa  Taylor	SHILPA1	WINDOWS_AD	ww	AUCERNA	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Shilpa  Taylor	SHILPA1	WINDOWS_AD	ww	AUCERNA	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Simona Lancu	Simona10	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Simona Lancu	Simona10	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Simona Lancu	Simona10	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members
+Stanislav Kozlov	STANISLAV7	WINDOWS_AD	ww	AUCERNA	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Stanislav Kozlov	STANISLAV7	WINDOWS_AD	ww	AUCERNA	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Susan Ellis	SUSAN2	WINDOWS_AD	ww	core team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Susan Ellis	SUSAN2	WINDOWS_AD	ww	core team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Susan Ellis	SUSAN2	WINDOWS_AD	ww	core team	FALSE	OMV_CoreTeam		OMV Core Team Members
+User Administration	useradmin	LOCAL		local User for User Administration	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+User Administration	useradmin	LOCAL		local User for User Administration	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Wolfgang Posch	X449602	WINDOWS_AD	ww	OMV Core Team	FALSE	Administrators	This group consists all the permissions on the engine.	Default Admin workgroup.
+Wolfgang Posch	X449602	WINDOWS_AD	ww	OMV Core Team	FALSE	Everyone	This group consists only public permission on the engine.	Default workgroup.
+Wolfgang Posch	X449602	WINDOWS_AD	ww	OMV Core Team	FALSE	OMV_CoreTeam		OMV Core Team Members

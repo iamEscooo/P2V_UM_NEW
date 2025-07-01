@@ -1,0 +1,40 @@
+﻿[2024-07-25 17:24:04] - [INFO] [WW/adminx449222] started check_userprofile -xkey X450774
+[2024-07-25 17:24:04] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-07-25 17:24:25] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-07-25 17:24:25] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-07-25 17:25:05] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-07-25 17:25:29] - [INFO] [P2V_PRODTEST]-[bd.base] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:25:29] - [INFO] [P2V_PRODTEST]-[Z.BD.021.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:25:30] - [INFO] [P2V_PRODTEST]-[Z.BD.021.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:25:31] - [INFO] [P2V_PRODTEST]-[Z.BD.022.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:25:32] - [INFO] [P2V_PRODTEST]-[Z.BD.022.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:25:32] - [INFO] loading userlist from tenant P2V-PROD
+[2024-07-25 17:26:00] - [INFO] [P2V-PROD]-[bd.base] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:26:01] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:26:02] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:26:03] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:26:04] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:26:04] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-07-25 17:26:30] - [INFO] [P2V_DEMO]-[bd.base] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:26:31] - [INFO] [P2V_DEMO]-[Z.BD.021.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:26:32] - [INFO] [P2V_DEMO]-[Z.BD.021.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:26:32] - [INFO] [P2V_DEMO]-[Z.BD.022.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:26:33] - [INFO] [P2V_DEMO]-[Z.BD.022.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:26:33] - [INFO] loading userlist from tenant P2V_TEST
+[2024-07-25 17:27:03] - [INFO] [P2V_TEST]-[bd.base] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:27:04] - [INFO] [P2V_TEST]-[Z.BD.021.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:27:04] - [INFO] [P2V_TEST]-[Z.BD.021.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:27:05] - [INFO] [P2V_TEST]-[Z.BD.022.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:27:06] - [INFO] [P2V_TEST]-[Z.BD.022.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:27:06] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-07-25 17:27:43] - [INFO] [P2V_UPDATE]-[bd.base] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:27:44] - [INFO] [P2V_UPDATE]-[Z.BD.021.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:27:46] - [INFO] [P2V_UPDATE]-[Z.BD.021.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:27:47] - [INFO] [P2V_UPDATE]-[Z.BD.022.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:27:49] - [INFO] [P2V_UPDATE]-[Z.BD.022.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:27:49] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-07-25 17:28:19] - [INFO] [P2V_TRAINING]-[bd.base] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:28:19] - [INFO] [P2V_TRAINING]-[Z.BD.021.allow] : add Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:28:20] - [INFO] [P2V_TRAINING]-[Z.BD.021.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:28:21] - [INFO] [P2V_TRAINING]-[Z.BD.022.deny] : remove Sonnleitner Gabriele (X450774) - done
+[2024-07-25 17:28:22] - [INFO] [P2V_TRAINING]-[Z.BD.022.allow] : add Sonnleitner Gabriele (X450774) - done

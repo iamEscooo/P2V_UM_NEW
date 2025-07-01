@@ -1,0 +1,3 @@
+﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
+Bierbaumer Michael,X436733,SAML2,,Michael.Bierbaumer@omv.com,Michael.Bierbaumer@omv.com,EDES-O Exploration Operations,,FALSE,
+Eder Thomas,X446583,SAML2,,Thomas.Eder@omv.com,Thomas.Eder@omv.com,ED-E Exploration,,FALSE,

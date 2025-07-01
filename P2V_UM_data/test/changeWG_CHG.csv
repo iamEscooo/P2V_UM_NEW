@@ -1,0 +1,123 @@
+﻿WGname_ASIS,WGname_TOBE,Description,Comments
+Portfolio,Portfolio.base,Role: Access to Portfolio Tool,
+data.Austria.Key,data.Austria.Planning,Data access to country Austria (full access),[DATA] PRMS full access
+data.Norway.Key,data.Norway.Planning,Data access to country Norway (planner),[DATA] PRMS full access
+data.Russia.Key,data.Russia.Planning,Data access to country Russia (full access),[DATA] PRMS full access
+temp.economics,T.PRMS.economics,DF Eco Input Tab FULL access,
+temp.economics.readonly,T.PRMS.economics.readonly,DF Eco Input Tab READ access,
+temp.economics.deny,T.PRMS.economics.deny,DF Eco Input Tab DENY access,
+temp.admin,T.PRMS.admin,DF Admin Tab FULL access,
+temp.admin.readonly,T.PRMS.admin.readonly,DF Admin Tab READ access,
+temp.admin.deny,T.PRMS.admin.deny,DF Admin Tab DENY access,
+temp.financials,T.PRMS.financials,DF Fin Input Tab FULL access,
+temp.financials.readonly,T.PRMS.financials.readonly,DF Fin Input Tab READ access,
+temp.financials.deny,T.PRMS.financials.deny,DF Fin Input Tab DENY access,
+temp.input,T.PRMS.input,DF Input Tabs FULL access,Overview; Production; Cap Up-Down; Capex; Opex & Other Revenue; Resources/Reserves
+temp.input.readonly,T.PRMS.input.readonly,DF Input Tabs READ access,Overview; Production; Cap Up-Down; Capex; Opex & Other Revenue; Resources/Reserves
+temp.input.deny,T.PRMS.input.deny,DF Input Tabs DENY access,Overview; Production; Cap Up-Down; Capex; Opex & Other Revenue; Resources/Reserves
+data.Tunisia.Key,data.Tunisia.Planning,Data access to country Tunisia (full access),[DATA] PRMS full access
+data.Libya.key,data.Libya.Planning,Data access to country Libya (full access),[DATA] PRMS full access
+temp.ecoresults,T.PRMS.ecoresults,DF Eco Results Tab FULL access,
+temp.ecoresults.readonly,T.PRMS.ecoresults.readonly,DF Eco Results Tab READ access,
+temp.ecoresults.deny,T.PRMS.ecoresults.deny,DF Eco Results Tab DENY access,
+temp.adjust.eco,T.ADJUST.eco,DF Eco Input Tab FULL access,Adjustment Document only
+temp.adjust.eco.readonly,T.ADJUST.eco.readonly,DF Eco Input Tabs READ access,Adjustment Document only
+temp.adjust.eco.deny,T.ADJUST.eco.deny,DF Eco Input Tab DENY access,Adjustment Document only
+temp.adjust.ecoresults,T.ADJUST.ecoresults,DF Eco Results Tab FULL access,Adjustment Document only
+temp.adjust.ecoresults.readonly,T.ADJUST.ecoresults.readonly,DF Eco Results Tab READ access,Adjustment Document only
+temp.adjust.ecoresults.deny,T.ADJUST.ecoresults.deny,DF Eco Results Tab DENY access,Adjustment Document only
+temp.adjust.admin,T.ADJUST.admin,DF Admin Tab FULL access,Adjustment Document only
+temp.adjust.admin.readonly,T.ADJUST.admin.readonly,DF Admin Tab READ access,Adjustment Document only
+temp.adjust.fin,T.ADJUST.fin,DF Fin Input Tab FULL access,Adjustment Document only
+temp.adjust.fin.readonly,T.ADJUST.fin.readonly,DF Fin Input Tabs READ access,Adjustment Document only
+temp.adjust.input,T.ADJUST.input,DF Input Tabs FULL access,Adjustment Document only
+temp.adjust.input.readonly,T.ADJUST.input.readonly,DF Input Tabs READ access,Adjustment Document only
+temp.adjust.input.deny,T.ADJUST.input.deny,DF Input Tabs DENY access,Adjustment Document only
+temp.adjust.admin.deny,T.ADJUST.admin.deny,DF Admin Tab DENY access,Adjustment Document only
+temp.adjust.fin.deny,T.ADJUST.fin.deny,DF Fin Input Tab DENY access,Adjustment Document only
+data.Corporate.key,data.Corporate.Planning,Data access to ALL countries (full access),[DATA] PRMS full access
+bd.001.allow,Z.BD.001.allow,Group of people allowed to see the specific project data,NAUTILUS
+bd.001.deny,Z.BD.001.deny,Group of people NOT allowed to see this project data,NAUTILUS
+profile.Admin.Developer,X.profile.Admin.Developer.OLD,Developer P2V Administrator access,Assess with ML if we need this
+profile.PetroVR,A02.profile.PetroVR,PetroVR user access to PSE for Headless Calculation.  Must be combined with an appropriate base profile eg UltraLight; Light or Project Manager,
+profile.Student.local,X.profile.Student.local.OLD,Students profile (training purposes),Not needed in PROD.  Questionable in Test tenants - users should get used to their own profile.  Not one they won't have in real life
+profile.Reserves.Headoffice.Power,A22.profile.Reserves.Headoffice.Power,OMV Corporate reserves role (power user),
+profile.Economics.local,A13.profile.Economics.local,Base Economist (includes DF Unlock and Quicklook Admin),Roles included PSE Key; DF BasePlus; PSF Base; PSP Base.  
+profile.Admin.Headoffice,X.profile.Admin.Headoffice.OLD,Headoffice P2V Administrator access,Assess with MK if we need this
+profile.Resources.local,X.profile.Resources.local, Branch office Exporation user (ressource access).,Redundant - Same profile as a classic project manager.  This would only change if they had OA create rights which has currently been suspended
+data.Georgia.key,data.Georgia.Planning,Data access to country Georgia (full access),[DATA] PRMS full access
+profile.Reserves.local.QRE,A20.profile.Reserves.local.QRE,Branch office QRE role,17.05.22 Updated for Lukas' Changes
+profile.Resources.Headoffice,PP.profile.Exploration.Assurance,OMV Corporate Exploration Assurance user.  Previously profile.Resources.Headoffice,
+data.Bulgaria.key,data.Bulgaria.Planning,Data access to country Bulgaria (full access),[DATA] PRMS full access
+profile.LightUser.local,X.profile.LightUser.local.OLD,Branch Office readonly access (light user),Redundant.  All light users here should be moved to A04.profile.Light
+profile.Finance.Regimes,A17.profile.Finance.Regimes,Financial Regime Coding,This profile is applied to designated regime coders.  These can be located in HO or Venture.
+profile.Reserves.readonly,A05.profile.Light.reserves,Reserves readonly role,
+profile.PP.Headoffice.Power,profile.PP.Headoffice.Power.OLD,OMV Corporate Planning & Portfolio role (power user),
+profile.Projectmanager,A08.profile.Projectmanager.Classic,"P2V Classic Projectmanager role (data entry & ""full input"" tagging)",
+data.Mexico.key,data.Mexico.Planning,Data access to country Mexico (full access),[DATA] PRMS full access
+data.ArabEmirates.key,data.ArabEmirates.Planning,Data access to country UnitedArabEmirates (full access),[DATA] PRMS full access
+profile.LightUser.Headoffice,A04.profile.Light,Readonly access DF only (light user),"PRMS (all DF tabs excl Calc & Admin); ADJUST (Overview, Eco_Results, Fin Input, QA/QC only)"
+data.Kurdistan.key,data.Kurdistan.Planning,Data access to country Kurdistan (full access),[DATA] PRMS full access
+data.Yemen.key,data.Yemen.Planning,Data access to country Yemen (full access),[DATA] PRMS full access
+data.NewZealand.key,data.NewZealand.Planning,Data access to country NewZealand (full access).  Dataflow Tool Support (country planners),[DATA] PRMS full access
+profile.PP.Headoffice,A19.profile.Portfolio.Classic,OMV Portfolio role (standard user),
+profile.Reserves.Headoffice.Approve,A23.profile.Reserves.Headoffice.Approve,special approval role for Headoffice RESERVES ,17.05.22 Updated with changes advised by Lukas
+profile.PP.local,A10.PP.profile.Planning.Local,Planner (includes DF Unlock),Previously PP.Local
+data.Malaysia.key,data.Malaysia.Planning,Data access to country Malaysia (full access),[DATA] PRMS full access
+profile.Reserves.local.Approve,X.profile.Reserves.local.Approve,REDUNDANT.  Special approval role for branch offices RESERVES ,17.05.22 Redundant role.  Lukas advised that there will be no local reserves approvers only HO approval
+data.Australia.key,data.Australia.Planning,Data access to country Australia (full access),[DATA] PRMS full access
+profile.Economics.Headoffice,A15.profile.Economics.Headoffice,Base Economist enhanced with PSE Power and PSE Unlock roles,Designed for Economics Governance Team
+profile.Finance.local,A16.profile.Finance.Local,Base Controller,Roles included PSF Key; DF BasePlus.  
+data.Romania.key,data.Romania.Planning,Data access to country Romania (full access),[DATA] PRMS full access
+profile.Finance.Headoffice,A18.profile.Finance.HeadOffice,Base Controller enhanced with PSF Power and PSF Unlock roles,Designed for Head Office Controlling
+profile.Reserves.Headoffice,A21.profile.Reserves.Headoffice,OMV Corporate reserves role (standard user),
+data.Sapura.NewZealand.key,data.Sapura.NewZealand.Planning,Data access to country  Sapura- NewZealand (full access),[DATA] PRMS full access
+data.Sapura.Australia.key,data.Sapura.Australia.Planning,Data access to country  Sapura- Australia (full access),[DATA] PRMS full access
+data.OMVEP.Key,data.OMVEP.Planning,Data access to ValueCenters (full access),[DATA] PRMS full access
+bd.002.allow,Z.BD.002.allow,Group of people allowed to see the specific project data,TANIA
+bd.002.deny,Z.BD.002.deny,Group of people NOT allowed to see this project data,TANIA
+bd.003.allow,Z.BD.003.allow,Group of people allowed to see the specific project data,LEXY
+bd.003.deny,Z.BD.003.deny,Group of people NOT allowed to see this project data,LEXY
+bd.007.deny,Z.BD.007.deny,Group of people NOT allowed to see this project data,Athena 
+bd.005.allow,Z.BD.005.allow,Group of people allowed to see the specific project data,Elios
+bd.004.deny,Z.BD.004.deny,Group of people NOT allowed to see this project data,Violin
+bd.006.allow,Z.BD.006.allow,Group of people allowed to see the specific project data,Alya
+bd.005.deny,Z.BD.005.deny,Group of people NOT allowed to see this project data,Elios
+bd.006.deny,Z.BD.006.deny,Group of people NOT allowed to see this project data,Alya
+bd.007.allow,Z.BD.007.allow,Group of people allowed to see the specific project data,Athena 
+bd.004.allow,Z.BD.004.allow,Group of people allowed to see the specific project data,Violin
+bd.012.allow,Z.BD.012.allow,Group of people allowed to see the specific project data,PEC Turnu Pr - Divestments round 3 and 4 
+bd.012.deny,Z.BD.012.deny,Group of people NOT allowed to see this project data,PEC Turnu Pr - Divestments round 3 and 4 
+bd.011.allow,Z.BD.011.allow,Group of people allowed to see the specific project data,PEC Timis Pr - Divestments round 3 and 4 
+bd.010.deny,Z.BD.010.deny,Group of people NOT allowed to see this project data,Sitar + Cajon
+bd.009.deny,Z.BD.009.deny,Group of people NOT allowed to see this project data,Nay
+bd.017.allow,Z.BD.017.allow,Group of people allowed to see the specific project data,not in use
+bd.018.deny,Z.BD.018.deny,Group of people NOT allowed to see this project data,not in use
+bd.020.deny,Z.BD.020.deny,Group of people NOT allowed to see this project data,not in use
+bd.008.deny,Z.BD.008.deny,Group of people NOT allowed to see this project data,Neptun
+bd.013.deny,Z.BD.013.deny,Group of people NOT allowed to see this project data,Nereus
+bd.017.deny,Z.BD.017.deny,Group of people NOT allowed to see this project data,not in use
+bd.014.deny,Z.BD.014.deny,Group of people NOT allowed to see this project data,Kobza
+bd.013.allow,Z.BD.013.allow,Group of people allowed to see the specific project data,Nereus
+bd.019.allow,Z.BD.019.allow,Group of people allowed to see the specific project data,not in use
+bd.019.deny,Z.BD.019.deny,Group of people NOT allowed to see this project data,not in use
+bd.016.deny,Z.BD.016.deny,Group of people NOT allowed to see this project data,not in use
+bd.020.allow,Z.BD.020.allow,"Group of people allowed to see the specific project data, NAMR",NAMR RO
+bd.008.allow,Z.BD.008.allow,Group of people allowed to see the specific project data,Neptun
+bd.018.allow,Z.BD.018.allow,Group of people allowed to see the specific project data,not in use
+bd.015.allow,Z.BD.015.allow,Group of people allowed to see the specific project data,Field Analysis Romania
+bd.016.allow,Z.BD.016.allow,Group of people allowed to see the specific project data,not in use
+bd.009.allow,Z.BD.009.allow,Group of people allowed to see the specific project data,Nay
+bd.014.allow,Z.BD.014.allow,Group of people allowed to see the specific project data,Kobza
+bd.011.deny,Z.BD.011.deny,Group of people NOT allowed to see this project data,PEC Timis Pr - Divestments round 3 and 4 
+bd.010.allow,Z.BD.010.allow,Group of people allowed to see the specific project data,Sitar + Cajon
+bd.015.deny,Z.BD.015.deny,Group of people NOT allowed to see this project data,Field Analysis Romania
+profile.Portfolio.Light,A06.profile.FIN.ECO.PORT.Light,"Portfolio, Economics, Financials light user (readonly access) DF plus PSE/F/P",MODIFICATION and EXTENSION of Portfolio Light to FIN/ECO light users
+profile.Portfolio.Power,profile.Portfolio.Power.OLD,Portfolio user (power access),
+temp.calc.deny,T.PRMS.calc.deny,DF Calculation Tab DENY access,
+temp.quicklook,T.PRMS.quicklook,DF Quicklook Tab FULL access,
+temp.quicklook.readonly,T.PRMS.quicklook.readonly,DF Quicklook Tab READ access,
+temp.quicklook.deny,T.PRMS.quicklook.deny,DF Quicklook Tab DENY access,
+temp.calc,T.PRMS.calc,DF Calculation Tab FULL access,DF Templates: Calculation Tab full access
+temp.calc.readonly,T.PRMS.calc.readonly,DF Calculation Tab READ access,
+profile.Projectmanager.RO,A07.profile.Projectmanager.Light,Read only Project Manager with Input.Confirm tag rights,NEW. First tier for project managers using Dataflow.  Tagging.  Requested for Petrom Project Managers

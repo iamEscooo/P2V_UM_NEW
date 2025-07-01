@@ -1,0 +1,11 @@
+allow,readonly,deny
+temp.economics,temp.economics.readonly,temp.economics.deny
+temp.ecoresults,temp.ecoresults.readonly,temp.ecoresults.deny
+temp.admin,temp.admin.readonly,temp.admin.deny
+temp.financials,temp.financials.readonly,temp.financials.deny
+temp.input,temp.input.readonly,temp.input.deny
+temp.adjust.eco,temp.adjust.eco.readonly,temp.adjust.eco.deny
+temp.adjust.admin,temp.adjust.admin.readonly,temp.adjust.admin.deny
+temp.adjust.fin,temp.adjust.fin.readonly,temp.adjust.fin.deny
+temp.adjust.input,temp.adjust.input.readonly,temp.adjust.input.deny
+temp.adjust.ecoresults,temp.adjust.ecoresults.readonly,temp.adjust.ecoresults.deny

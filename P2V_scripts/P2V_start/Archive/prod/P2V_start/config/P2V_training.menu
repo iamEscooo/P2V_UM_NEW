@@ -1,0 +1,6 @@
+Section,Method,Command,Arguments,Name,Description
+PS 20.4 TEST,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,-app=https://ips20-test.ww.omv.com/TRAINING,Web PS 20.4 TRAINING,PS 20.4 web  tenant: [TRAINING] 
+PS 20.4 TEST,cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-test.ww.omv.com/TRAINING,Desktop PS 20.4 TRAINING,PS 20.4 client  tenant: [TRAINING] 
+PS 16.5,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe,/tenanturl=https://ips-test.ww.omv.com/P2V_TRAINING,Planningspace TRAINING,Trainingsystem Planningspace: [P2V_TRAINING]
+EXIT,exit,exit,,EXIT,exit menu
+EXIT,cmd,logoff,,EXIT,closes all TRAINING/TEST P2V sessions and logoff from CITRIX

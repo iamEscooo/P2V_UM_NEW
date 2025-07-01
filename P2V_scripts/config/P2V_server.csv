@@ -1,0 +1,49 @@
+servername,description,system,type
+somvat422034.ww.omv.com,CITRIX PROD 1,PROD,CITRIX
+somvat422035.ww.omv.com,CITRIX PROD 2,PROD,CITRIX
+somvat422036.ww.omv.com,CITRIX PROD 3,PROD,CITRIX
+somvat422037.ww.omv.com,CITRIX PROD 4,PROD,CITRIX
+somvat422038.ww.omv.com,CITRIX PROD 5,PROD,CITRIX
+somvat422039.ww.omv.com,CITRIX PROD 6,PROD,CITRIX
+somvat422040.ww.omv.com,CITRIX UPDATE,UPDATE,CITRIX
+somvat502603.ww.omv.com,MS SQL DB 1,PROD,DB
+somvat502614.ww.omv.com,MS SQL DB 2,PROD,DB
+somvat502671.ww.omv.com,golden image PROD,IMAGE,MCS
+somvat502672.ww.omv.com,IPS PROD 1,PROD,IPS
+somvat502673.ww.omv.com,IPS PROD 2,PROD,IPS
+somvat502674.ww.omv.com,Reserves PROD,PROD,RESERVES
+somvat502675.ww.omv.com,IPS PROD 3,PROD,IPS
+somvat502676.ww.omv.com,Admin-station,PROD,ADMIN
+somvat503155.ww.omv.com,Reserves PROD new,PROD,RESERVES
+somvat503167.ww.omv.com,IPS 20.x 1,PROD,IPS
+somvat503168.ww.omv.com,Portfolio,PROD,Port
+somvat503170.ww.omv.com,IPS 20.x 2,PROD,IPS
+somvat503171.ww.omv.com,IPS 20.x 3,PROD,IPS
+somvat503172.ww.omv.com,IPS 20.x 4,PROD,IPS
+tsomvat423001.ww.omv.com,CITRIX   DEV/TEST 3,TEST,CITRIX
+tsomvat423002.ww.omv.com,CITRIX   DEV/TEST 4,TEST,CITRIX
+tsomvat502033.ww.omv.com,Reserves UPDATE,UPDATE,RESERVES
+tsomvat502060.ww.omv.com,IPS UPDATE 2,UPDATE,IPS
+tsomvat502101.ww.omv.com,IPS TEST  1,TEST,IPS
+tsomvat502102.ww.omv.com,IPS TEST  2,TEST,IPS
+tsomvat502103.ww.omv.com,Reserves TEST ,TEST,RESERVES
+tsomvat502104.ww.omv.com,IPS UPDATE 1,UPDATE,IPS
+tsomvat502895.ww.omv.com,golden image TEST,IMAGE,MCS
+tsomvat503009.ww.omv.com,IPS UPDATE 1x,UPDATE,IPS
+tsomvat503010.ww.omv.com,IPS UPDATE 2x,UPDATE,IPS
+tsomvat503127.ww.omv.com,IPS 20.x 1,TEST,IPS
+tsomvat503128.ww.omv.com,IPS 20.x 2,TEST,IPS
+tsomvat503129.ww.omv.com,Reserves TEST new,TEST,RESERVES
+tsomvat503135.ww.omv.com,Portfolio,TEST,Port
+tsomvat503136.ww.omv.com,Reserves,UPDATE,RESERVES
+tsomvat503137.ww.omv.com,IPS 20.x 1,UPDATE,IPS
+tsomvat503138.ww.omv.com,IPS 20.x 2,UPDATE,IPS
+somvat503176.ww.omv.com,MSSQL 2022 DB1,PROD,DB
+somvat503177.ww.omv.com,MSSQL 2022 DB2,PROD,DB
+somvat422012.ww.omv.com,CITRIX PROD 1,PROD,CITRIX
+somvat422013.ww.omv.com,CITRIX PROD 2,PROD,CITRIX
+somvat422014.ww.omv.com,CITRIX PROD 3,PROD,CITRIX
+somvat422017.ww.omv.com,CITRIX PROD 4,PROD,CITRIX
+somvat422018.ww.omv.com,CITRIX TEST 1,TEST,CITRIX
+somvat422019.ww.omv.com,CITRIX TEST 2,TEST,CITRIX
+somvat422020.ww.omv.com,CITRIX TEST 3,TEST,CITRIX

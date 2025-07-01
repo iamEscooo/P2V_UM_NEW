@@ -1,0 +1,12 @@
+Section,Method,Command,Arguments,Name,Description
+DEVELOPMENT Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502898.ww.omv.com/PPS_DEV,PPS_DEV,Development tenant (Aucerna only)
+DEVELOPMENT Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502898.ww.omv.com/PPS_DEV_PRODCOPY,PPS_DEV_PRODCOPY,Copy od productive CASH (only for migration purposes)
+DEVELOPMENT Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502898.ww.omv.com/P2V_DEV_2,P2V_DEV_2,Development2 system (for merging)
+TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TEST,P2V_TEST,TEST -tenant
+TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_PRODTEST,P2V_PRODTEST,PRODTEST (security test)
+TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_DEMO,P2V_DEMO,DEMO tenant
+TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TRAINING,P2V_TRAINING,used for Trainings
+TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_BENCHMARK,P2V_BENCHMARK,Tenant used for benchmarking (Economics only)
+TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/PETROVR,PETROVR,dedicated tenant for PetroVR Economics as a service
+UPDATE Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://tsomvat502104.ww.omv.com/P2V_UPDATE,P2V_UPDATE,Version upgrades to be tested here
+PRODUCTION Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=http://ips-prod.ww.omv.com/P2V-PROD,P2V-PROD,!! PRODUCTION !!

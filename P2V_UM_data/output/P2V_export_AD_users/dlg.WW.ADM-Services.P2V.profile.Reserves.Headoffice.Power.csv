@@ -1,0 +1,5 @@
+﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
+Burchisis Alexandru-Mihai,ALEXANDRU170,SAML2,,AlexandruMihai.Burchisis@omv.com,AlexandruMihai.Burchisis@omv.com,EO-X Reserves & Resources,,FALSE,
+Volker Lukas Johannes,LUKAS80,SAML2,,Lukas.Volker@omv.com,Lukas.Volker@omv.com,PEODP-H Production Sys Optimization HUB,,FALSE,
+Ivanciu Adrian-Mihail,ADRIAN75,SAML2,,AdrianMihail.Ivanciu@petrom.com,AdrianMihail.Ivanciu@petrom.com,EETEEP-P Platforms,,FALSE,
+Kufner Martin,X449222,SAML2,,Martin.Kufner@omv.com,Martin.Kufner@omv.com,EIE-P Petrotechnical AppStore,,FALSE,

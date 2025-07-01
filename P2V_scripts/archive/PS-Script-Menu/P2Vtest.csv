@@ -1,0 +1,12 @@
+Section,Method,Command,Arguments,Name,Description
+Plan2Value TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TEST,P2V_TEST,TEST -tenant
+Plan2Value TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_PRODTEST,P2V_PRODTEST,PRODTEST (security test)
+Plan2Value TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_DEMO,P2V_DEMO,DEMO tenant
+Plan2Value TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TRAINING,P2V_TRAINING,used for Trainings
+Plan2Value TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_BENCHMARK,P2V_BENCHMARK,Tenant used for benchmarking (Economics only)
+Plan2Value TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/PETROVR,PETROVR,dedicated tenant for PetroVR Economics as a service
+Less old,powershell_inline,Exit,,EXIT,quit
+Less old,powershell_inline,$PSVersionTable, -NoExit -WindowStyle Maximized,Example 6:<LineBreak />powershell_inline,Additional powershell.exe arguments
+The future,pwsh_file,.\example_target.ps1,,Example 7:<LineBreak />pwsh_file,.ps1 file called with pwsh.exe
+The future,pwsh_inline,"""Inline script"";$PSVersionTable;Read-Host ""Press Enter to continue""",,Example 8:<LineBreak />pwsh_inline,Inline script called with pwsh.exe
+The future,pwsh_inline,"& .\example_target.ps1 -Message ""passed in via param""",,Example 9:<LineBreak />pwsh_inline,.ps1 file called with parameter

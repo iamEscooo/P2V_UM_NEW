@@ -1,0 +1,8 @@
+app,severity,msgfile,action
+DEV,information,welcome_DEV.txt,CONT
+PROD,information,welcome_PROD.txt,CONT
+TEST,information,welcome_TEST.txt,CONT
+TRAINING,information,welcome_TRAINING.txt,CONT
+UPDATE,information,welcome_UPDATE.txt,CONT
+PROD,information,AppMW.txt,CONT
+DEV,information,IT_MW.txt,CONT

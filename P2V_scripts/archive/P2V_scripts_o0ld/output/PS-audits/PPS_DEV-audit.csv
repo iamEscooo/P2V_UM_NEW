@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"72839","PlanningSpace Economics","Updated regime <OMV Iraq Kurdistan SC 0>.","OMV Iraq Kurdistan SC 0","Regime","Updated","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-07-10T10:54:19.217Z"
+"72838","PlanningSpace Economics","Updated report <OMV Iraq Kurdistan SC Service Fees>.","OMV Iraq Kurdistan SC Service Fees","Report Template","Updated","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-07-10T10:46:02.943Z"
+"72837","PlanningSpace Economics","Updated report <OMV Iraq Kurdistan SC Service Fees>.","OMV Iraq Kurdistan SC Service Fees","Report Template","Updated","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-07-10T10:45:19.193Z"
+"72836","PlanningSpace Economics","Updated regime <OMV Iraq Kurdistan SC 0>.","OMV Iraq Kurdistan SC 0","Regime","Updated","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-07-10T10:45:10.537Z"
+"72835","PlanningSpace Economics","Updated report <OMV Iraq Kurdistan SC Service Fees>.","OMV Iraq Kurdistan SC Service Fees","Report Template","Updated","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-07-10T10:44:39.583Z"
+"72834","PlanningSpace Economics","Updated report <OMV Iraq Kurdistan SC Service Fees>.","OMV Iraq Kurdistan SC Service Fees","Report Template","Updated","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-07-10T10:39:51.090Z"
+"72833","PlanningSpace Economics","Updated project <CC Development phase 1>.","CC Development phase 1","Project","Updated","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-07-10T10:37:31.760Z"
+"72832","PlanningSpace Economics","Updated report <OMV Iraq Kurdistan SC Service Fees>.","OMV Iraq Kurdistan SC Service Fees","Report Template","Updated","ALEXEY6@ww.omv.com","TSOMVAT423002","2020-07-10T10:37:25.713Z"
+"72831","PlanningSpace Economics","The user <Daniel263> has logged in. ","Daniel263","User","Login","Daniel263","TSOMVAT423003","2020-07-10T10:33:37.223Z"
+"72830","PlanningSpace Dataflow","The user <Daniel263> has logged in. ","Daniel263","User","Login","Daniel263","TSOMVAT423003","2020-07-10T10:32:29.753Z"

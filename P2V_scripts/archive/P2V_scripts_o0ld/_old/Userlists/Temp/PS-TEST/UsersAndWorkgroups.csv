@@ -1,0 +1,33 @@
+﻿Name,Login ID,Authentication method,Domain,Description,Deactivated,Workgroup Name,Workgroup Description,Workgroup Comment
+Aaron Johnson,AARON6,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Administrator,Administrator,LOCAL,,Administrator,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Arun Shaw,ARUN05@ww.omv.com,SAML2,,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Arun Shaw (Aucerna),adminarun05,WINDOWS_AD,ww,Arun Shaw (Aucerna),false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Arun Shaw (Aucerna),adminarun05,WINDOWS_AD,ww,Arun Shaw (Aucerna),false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Camilo Sanchez,sancheca,WINDOWS_AD,ww,core team,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Camilo Sanchez,sancheca,WINDOWS_AD,ww,core team,false,OMV_CoreTeam,,OMV Core Team Members
+Catalin Paraschiv,X01005176,WINDOWS_AD,ww,core team,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Catalin Paraschiv,X01005176,WINDOWS_AD,ww,core team,false,OMV_CoreTeam,,OMV Core Team Members
+Florian Dutzler,FLORIAN109,WINDOWS_AD,ww,core team,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Florian Dutzler,FLORIAN109,WINDOWS_AD,ww,core team,false,User_heavy,,heavy users
+Florian Dutzler,FLORIAN109,WINDOWS_AD,ww,core team,false,OMV_CoreTeam,,OMV Core Team Members
+Gael Carlier,gael04,LOCAL,,AUCERNA,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Gael Carlier,gael04,LOCAL,,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Georg Schumacher,X01schgeo,WINDOWS_AD,ww,core team,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Georg Schumacher,X01schgeo,WINDOWS_AD,ww,core team,false,OMV_CoreTeam,,OMV Core Team Members
+Ioan Alexandru Tataru (Admin),admintataruioa@ww.omv.com,SAML2,,Ioan Alexandru Tataru (Admin),false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Ioan Alexandru Tataru (Admin),admintataruioa@ww.omv.com,SAML2,,Ioan Alexandru Tataru (Admin),false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Kevin Rooney,KEVIN32,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Markus Nuesslein,X450313,LOCAL,,core team,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Markus Nuesslein,X450313,LOCAL,,core team,false,OMV_CoreTeam,,OMV Core Team Members
+Martin Kufner,X449222,WINDOWS_AD,ww,MKR,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Martin Kufner,X449222,WINDOWS_AD,ww,MKR,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Martin Kufner,X449222,WINDOWS_AD,ww,MKR,false,User_heavy,,heavy users
+Martin Kufner,X449222,WINDOWS_AD,ww,MKR,false,OMV_CoreTeam,,OMV Core Team Members
+Martin Kufner (Admin),adminx449222@ww.omv.com,SAML2,,Martin Kufner (Admin),false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Martin Kufner (Admin),adminx449222@ww.omv.com,SAML2,,Martin Kufner (Admin),false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Shilpa  Taylor,SHILPA1,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Stanislav Kozlov,STANISLAV7,WINDOWS_AD,ww,AUCERNA,false,Administrators,This group consists all the permissions on the engine.,Default Admin workgroup.
+Stanislav Kozlov,STANISLAV7,WINDOWS_AD,ww,AUCERNA,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Susan Ellis,SUSAN2,WINDOWS_AD,ww,core team,false,Everyone,This group consists only public permission on the engine.,Default workgroup.
+Susan Ellis,SUSAN2,WINDOWS_AD,ww,core team,false,OMV_CoreTeam,,OMV Core Team Members

@@ -1,0 +1,62 @@
+﻿[2024-06-17 11:14:33] - [INFO] [WW/adminx449222] started check_userprofile -xkey X450766
+[2024-06-17 11:14:33] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-06-17 11:15:48] - [INFO] [WW/adminx449222] started P2V_activate_user -xkey X450766
+[2024-06-17 11:15:55] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-17 11:16:04] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-17 11:16:12] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-17 11:16:21] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-17 11:16:31] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-17 11:16:40] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-17 11:16:47] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-17 11:33:10] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey X450766
+[2024-06-17 11:33:19] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-17 11:33:30] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-17 11:33:39] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-17 11:33:47] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-17 11:33:55] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-17 11:34:04] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-17 11:34:12] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-17 11:51:49] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-06-17 11:51:50] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-06-17 11:58:43] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-06-17 12:01:11] - [INFO] [P2V_PRODTEST]-[Z.BD.022.deny] : remove Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:01:12] - [INFO] [P2V_PRODTEST]-[Z.BD.022.allow] : add Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:01:13] - [INFO] [P2V_PRODTEST]-[Z.BD.021.deny] : remove remove Kotsiopoulou Georgia (GEORGIA1) Torres Jauregui Pablo Antonio (X450766) - done
+[2024-06-17 12:01:14] - [INFO] [P2V_PRODTEST]-[bd.base] : add add Kotsiopoulou Georgia (GEORGIA1) Torres Jauregui Pablo Antonio (X450766) - done
+[2024-06-17 12:01:15] - [INFO] [P2V_PRODTEST]-[Z.BD.021.allow] : add add Kotsiopoulou Georgia (GEORGIA1) Torres Jauregui Pablo Antonio (X450766) - done
+[2024-06-17 12:01:15] - [INFO] loading userlist from tenant P2V-PROD
+[2024-06-17 12:02:38] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:02:39] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:02:40] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove remove Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:02:40] - [INFO] [P2V-PROD]-[bd.base] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:02:41] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:02:41] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-06-17 12:03:25] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.deny] : remove Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:03:26] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.allow] : add Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:03:27] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.deny] : remove remove Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:03:27] - [INFO] [P2V_BENCHMARK]-[bd.base] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:03:28] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.allow] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:03:28] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-06-17 12:04:21] - [INFO] [P2V_DEMO]-[Z.BD.022.deny] : remove Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:04:22] - [INFO] [P2V_DEMO]-[Z.BD.022.allow] : add Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:04:23] - [INFO] [P2V_DEMO]-[Z.BD.021.deny] : remove remove Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:04:24] - [INFO] [P2V_DEMO]-[bd.base] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:04:25] - [INFO] [P2V_DEMO]-[Z.BD.021.allow] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:04:25] - [INFO] loading userlist from tenant P2V_TEST
+[2024-06-17 12:05:25] - [INFO] [P2V_TEST]-[Z.BD.022.deny] : remove Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:05:26] - [INFO] [P2V_TEST]-[Z.BD.022.allow] : add Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:05:27] - [INFO] [P2V_TEST]-[Z.BD.021.deny] : remove remove Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:05:28] - [INFO] [P2V_TEST]-[bd.base] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:05:29] - [INFO] [P2V_TEST]-[Z.BD.021.allow] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:05:29] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-06-17 12:06:21] - [INFO] [P2V_UPDATE]-[Z.BD.022.deny] : remove Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:06:22] - [INFO] [P2V_UPDATE]-[Z.BD.022.allow] : add Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:06:23] - [INFO] [P2V_UPDATE]-[Z.BD.021.deny] : remove remove Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:06:23] - [INFO] [P2V_UPDATE]-[bd.base] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:06:24] - [INFO] [P2V_UPDATE]-[Z.BD.021.allow] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:06:24] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-06-17 12:07:28] - [INFO] [P2V_TRAINING]-[Z.BD.022.deny] : remove Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:07:28] - [INFO] [P2V_TRAINING]-[Z.BD.022.allow] : add Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:07:29] - [INFO] [P2V_TRAINING]-[Z.BD.021.deny] : remove remove Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:07:30] - [INFO] [P2V_TRAINING]-[bd.base] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done
+[2024-06-17 12:07:31] - [INFO] [P2V_TRAINING]-[Z.BD.021.allow] : add add Torres Jauregui Pablo Antonio (X450766) Kotsiopoulou Georgia (GEORGIA1) - done

@@ -1,0 +1,60 @@
+﻿[2024-07-31 09:37:15] - [INFO] [WW/adminx449222] started check_userprofile -xkey XASSAID
+[2024-07-31 09:37:15] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-07-31 10:59:08] - [INFO] [WW/adminx449222] started check_userprofile -xkey XASSAID
+[2024-07-31 10:59:08] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-07-31 12:51:34] - [INFO] [WW/adminx449222] started check_userprofile -xkey XASSAID
+[2024-07-31 12:51:34] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-07-31 12:51:47] - [INFO] [WW/adminx449222] started check_userprofile -xkey XASSAID
+[2024-07-31 12:51:47] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2024-07-31 12:51:59] - [INFO] [WW/adminx449222] started P2V_sync_user -xkey XASSAID
+[2024-07-31 12:52:03] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-07-31 12:52:16] - [INFO] loading userlist from tenant P2V-PROD
+[2024-07-31 12:52:24] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-07-31 12:52:32] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-07-31 12:52:40] - [INFO] loading userlist from tenant P2V_TEST
+[2024-07-31 12:52:47] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-07-31 12:53:06] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-07-31 12:53:55] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2024-07-31 12:53:55] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2024-07-31 12:54:33] - [INFO] loading userlist from tenant P2V_PRODTEST
+[2024-07-31 12:55:16] - [INFO] [P2V_PRODTEST]-[bd.base] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:55:16] - [INFO] [P2V_PRODTEST]-[Z.BD.021.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:55:17] - [INFO] [P2V_PRODTEST]-[Z.BD.021.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:55:18] - [INFO] [P2V_PRODTEST]-[Z.BD.022.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:55:19] - [INFO] [P2V_PRODTEST]-[Z.BD.022.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:55:19] - [INFO] loading userlist from tenant P2V-PROD
+[2024-07-31 12:57:02] - [INFO] [P2V-PROD]-[bd.base] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:57:03] - [INFO] [P2V-PROD]-[Z.BD.021.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:57:04] - [INFO] [P2V-PROD]-[Z.BD.021.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:57:04] - [INFO] [P2V-PROD]-[Z.BD.022.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:57:05] - [INFO] [P2V-PROD]-[Z.BD.022.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:57:05] - [INFO] loading userlist from tenant P2V_BENCHMARK
+[2024-07-31 12:57:37] - [INFO] [P2V_BENCHMARK]-[bd.base] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:57:37] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:57:38] - [INFO] [P2V_BENCHMARK]-[Z.BD.021.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:57:39] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:57:39] - [INFO] [P2V_BENCHMARK]-[Z.BD.022.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:57:39] - [INFO] loading userlist from tenant P2V_DEMO
+[2024-07-31 12:59:09] - [INFO] [P2V_DEMO]-[bd.base] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:59:10] - [INFO] [P2V_DEMO]-[Z.BD.021.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:59:10] - [INFO] [P2V_DEMO]-[Z.BD.021.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:59:11] - [INFO] [P2V_DEMO]-[Z.BD.022.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:59:12] - [INFO] [P2V_DEMO]-[Z.BD.022.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:59:12] - [INFO] loading userlist from tenant P2V_TEST
+[2024-07-31 12:59:45] - [INFO] [P2V_TEST]-[bd.base] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:59:45] - [INFO] [P2V_TEST]-[Z.BD.021.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:59:46] - [INFO] [P2V_TEST]-[Z.BD.021.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:59:47] - [INFO] [P2V_TEST]-[Z.BD.022.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:59:47] - [INFO] [P2V_TEST]-[Z.BD.022.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 12:59:48] - [INFO] loading userlist from tenant P2V_UPDATE
+[2024-07-31 13:01:06] - [INFO] [P2V_UPDATE]-[bd.base] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 13:01:07] - [INFO] [P2V_UPDATE]-[Z.BD.021.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 13:01:09] - [INFO] [P2V_UPDATE]-[Z.BD.021.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 13:01:11] - [INFO] [P2V_UPDATE]-[Z.BD.022.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 13:01:13] - [INFO] [P2V_UPDATE]-[Z.BD.022.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 13:01:13] - [INFO] loading userlist from tenant P2V_TRAINING
+[2024-07-31 13:01:43] - [INFO] [P2V_TRAINING]-[bd.base] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 13:01:44] - [INFO] [P2V_TRAINING]-[Z.BD.021.allow] : add Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 13:01:45] - [INFO] [P2V_TRAINING]-[Z.BD.021.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 13:01:46] - [INFO] [P2V_TRAINING]-[Z.BD.022.deny] : remove Mohamed Assaid Ali (XASSAID) - done
+[2024-07-31 13:01:46] - [INFO] [P2V_TRAINING]-[Z.BD.022.allow] : add Mohamed Assaid Ali (XASSAID) - done

@@ -1,0 +1,13 @@
+﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
+Dinescu Anca-Ica,ANCA10,SAML2,,AncaIca.Dinescu@omv.com,AncaIca.Dinescu@omv.com,FEF-M Finance MEA,,FALSE,
+Ho Ik Sing Francis,X01020712,SAML2,,Francis.Ho@omv.com,Francis.Ho@omv.com,PEDE-B Black Sea Opportunities,,FALSE,
+Schumacher Georg,X01SCHGEO,SAML2,,Georg.Schumacher@petrom.com,Georg.Schumacher@petrom.com,FEE-V Venture Economics & Planning,,FALSE,
+Hasan Khwajah Basem,XBASEMKH,SAML2,,khwajah.basem@omv.com,khwajah.basem@omv.com,FEE-V Venture Economics & Planning,,FALSE,
+Glück Robert,ROBERT20,SAML2,,Robert.Glueck@omv.com,Robert.Glueck@omv.com,ES-R Renewable Energy Technical Dev.,,FALSE,
+Toma Nicoleta-Adriana,X01026454,SAML2,,NicoletaAdriana.Toma@omv.com,NicoletaAdriana.Toma@omv.com,EOM-V Asset Management MEA,,FALSE,
+Jafari Gol Farzad,FARZAD1,SAML2,,Farzad.JafariGol@omv.com,Farzad.JafariGol@omv.com,FEC-F Performance,,FALSE,
+Cantarella Giuseppe,X452241,SAML2,,Giuseppe.Cantarella@omv.com,Giuseppe.Cantarella@omv.com,EDE-G Exploration Global,,FALSE,
+Maknine Yosri,XMAKNINYO,SAML2,,Yosri.Maknine@omv.com,Yosri.Maknine@omv.com,FE-C Energy Controlling & Performance Mgmt.,,FALSE,
+Khalifa Mohammad,X01022534,SAML2,,Mohammad.Khalifa@petrom.com,Mohammad.Khalifa@petrom.com,PEO-10 Asset Petromar,,FALSE,
+Fisher Samuel,XFISHERSA,SAML2,,Sam.Fisher@omv.com,Sam.Fisher@omv.com,FEE-V Venture Economics & Planning,,FALSE,
+Hendizadeh Hadi,X450133,SAML2,,Hadi.Hendizadeh@omv.com,Hadi.Hendizadeh@omv.com,EOM-V Asset Management MEA,,FALSE,

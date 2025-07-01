@@ -1,0 +1,13 @@
+               >>>>>     WARNING     <<<<<
+
+We will start the announced PLAN2VALUE maintenance work NOW.
+
+Plan2Value will be stopped and all sessions will be automatically killed.
+
+Start of maintenance :   19.12.2023   18:00 CET
+End of maintenance:      19.12.2023   21:00 CET
+
+
+Thanks for you understanding
+
+Your P2V team

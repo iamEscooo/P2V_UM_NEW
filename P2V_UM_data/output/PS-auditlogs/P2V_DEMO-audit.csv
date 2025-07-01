@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"172138","PlanningSpace Dataflow","The user <Andreas.Stockinger@omv.com> has logged out.","Andreas.Stockinger@omv.com","User","Logout","Andreas.Stockinger@omv.com","TSOMVAT423003","2020-11-16T19:22:55.557Z"
+"172137","PlanningSpace Dataflow","The user <Andreas.Stockinger@omv.com> has logged in. ","Andreas.Stockinger@omv.com","User","Login","Andreas.Stockinger@omv.com","TSOMVAT423003","2020-11-16T19:21:35.690Z"
+"172136","PlanningSpace","The user [Andreas.Stockinger@omv.com] has logged in.","Andreas.Stockinger@omv.com","User","Login","Andreas.Stockinger@omv.com","10.12.205.20","2020-11-16T19:21:29.127Z"
+"172135","PlanningSpace","The user [JENNIFER11@ww.omv.com] has logged in.","JENNIFER11@ww.omv.com","User","Login","JENNIFER11@ww.omv.com","10.12.205.19","2020-11-16T18:53:12.290Z"
+"172134","PlanningSpace","The user [Hamish.Bracegirdle@omv.com] has logged in.","Hamish.Bracegirdle@omv.com","User","Login","Hamish.Bracegirdle@omv.com","10.12.205.21","2020-11-16T18:34:45.323Z"
+"172133","PlanningSpace","The user [Hamish.Bracegirdle@omv.com] has logged in.","Hamish.Bracegirdle@omv.com","User","Login","Hamish.Bracegirdle@omv.com","10.12.205.20","2020-11-16T18:18:45.910Z"
+"172132","PlanningSpace Economics","The user <Rade.Kalas@omv.com> has logged out.","Rade.Kalas@omv.com","User","Logout","Rade.Kalas@omv.com","TSOMVAT423003","2020-11-16T17:25:51.083Z"
+"172131","PlanningSpace Dataflow","The user <Rade.Kalas@omv.com> has logged out.","Rade.Kalas@omv.com","User","Logout","Rade.Kalas@omv.com","TSOMVAT423003","2020-11-16T17:25:51.060Z"
+"172130","PlanningSpace Economics","The user <Rade.Kalas@omv.com> has logged in. ","Rade.Kalas@omv.com","User","Login","Rade.Kalas@omv.com","TSOMVAT423003","2020-11-16T17:23:45.823Z"
+"172129","PlanningSpace Dataflow","The user <Rade.Kalas@omv.com> has logged in. ","Rade.Kalas@omv.com","User","Login","Rade.Kalas@omv.com","TSOMVAT423003","2020-11-16T17:23:38.633Z"

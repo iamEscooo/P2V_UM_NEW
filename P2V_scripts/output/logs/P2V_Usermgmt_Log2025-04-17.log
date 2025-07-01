@@ -1,0 +1,7 @@
+﻿[2025-04-17 12:22:40] - [INFO] [WW/adminx449222] started P2V_export_users
+[2025-04-17 12:22:41] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_export_users]
+[2025-04-17 12:22:41] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\dashboard\all_users.csv] deleted
+[2025-04-17 12:22:41] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\dashboard\all_groups.csv] deleted
+[2025-04-17 12:22:41] - [INFO] [\\somvat202005\PPS_share\P2V_scripts\output\dashboard\all_user_groups.csv] deleted
+[2025-04-17 12:24:05] - [INFO] [PROD] , [] , [04/17/2025 12:24:05] , [] 
+[2025-04-17 12:24:13] - [INFO] loading userlist from tenant PROD  [7.9457747 s]

@@ -1,0 +1,9 @@
+Section,Method,Command,Arguments,Name,Description
+MKR-Tests,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TEST,Planningspace TEST,Planningspace tenant: P2V_TEST
+MKR-Tests,cmd,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe ,-app=https://tsomvat502103.ww.omv.com/OMVTEST,Reserves TEST,Reserves tenant: OMVTEST
+MKR-Tests,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_DEMO,Planningspace DEMO,Planningspace tenant: P2V_DEMO
+MKR-Tests,cmd,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe ,-app=https://tsomvat502103.ww.omv.com/OMVDEMO,Reserves DEMO,Reserves tenant: OMVDEMO
+MKR-Tests,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TRAINING,Planningspace TRAINING,Trainingsystem Planningspace: P2V_TRAINING
+MKR-Tests,cmd,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe ,-app=https://tsomvat502103.ww.omv.com/OMVTRAINING,Reserves TRAINING,Trainingsystem Reserves: OMVTRAINING
+MKR-Tests,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_PRODTEST,Planningspace PRODTEST,Planningspace tenant: P2V_PRODTEST (security tests)
+EXIT,cmd,logoff,,EXIT,closes all P2V sessions and exit

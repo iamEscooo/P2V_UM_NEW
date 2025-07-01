@@ -1,0 +1,4 @@
+Section,Method,Command,Arguments,Name,Description
+PetroVR,cmd,"C:\Program Files (x86)\Aucerna\PetroVR\PetroVR.exe", ,PetroVR, PetroVR V. 16.022
+PetroVR,cmd,"C:\Program Files\Quorum\PetroVR64\PetroVR.exe", ,PetroVR 64bit, PetroVR V. 16.107
+EXIT,exit,exit,,EXIT,exit this menu

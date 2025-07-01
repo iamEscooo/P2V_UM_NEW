@@ -1,0 +1,12 @@
+﻿[2023-10-18 13:21:59] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_update_groups.ps1]
+[2023-10-18 13:23:07] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_update_groups.ps1]
+[2023-10-18 13:29:44] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-10-18 13:32:10] - [INFO] [P2V_DEMO]-[Z.BD.036.deny] : add remove remove remove remove remove add remove Baily Heather (HEATHER4) Bulgariu Razvan (X01001805) Fisher Samuel (XFISHERSA) Hlavacek Josef (X450149) Hussain Fida (XHUSSAIFI) Kufner Martin (X449222) Kwiecinski Edward (X451861) Qureshi Waqas (XQURESHWA) - done
+[2023-10-18 13:32:16] - [INFO] [P2V_DEMO]-[Z.BD.036.allow] : add add add add add add Bulgariu Razvan (X01001805) Fisher Samuel (XFISHERSA) Hlavacek Josef (X450149) Hussain Fida (XHUSSAIFI) Kufner Martin (X449222) Qureshi Waqas (XQURESHWA) - done
+[2023-10-18 13:32:29] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-10-18 13:34:35] - [INFO] [P2V-PROD]-[Z.BD.036.deny] : add remove remove remove remove remove add remove Baily Heather (HEATHER4) Bulgariu Razvan (X01001805) Fisher Samuel (XFISHERSA) Hlavacek Josef (X450149) Hussain Fida (XHUSSAIFI) Kufner Martin (X449222) Kwiecinski Edward (X451861) Qureshi Waqas (XQURESHWA) - done
+[2023-10-18 13:34:45] - [INFO] [P2V-PROD]-[Z.BD.036.allow] : add add add add add add Bulgariu Razvan (X01001805) Fisher Samuel (XFISHERSA) Hlavacek Josef (X450149) Hussain Fida (XHUSSAIFI) Kufner Martin (X449222) Qureshi Waqas (XQURESHWA) - done
+[2023-10-19 18:53:09] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_userprofile]
+[2023-10-19 18:53:30] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-10-19 18:56:42] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [check_P2V_user]
+[2023-10-19 19:22:09] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync-SEC2.ps1]

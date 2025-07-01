@@ -1,0 +1,5 @@
+Section,Method,Command,Arguments,Name,Description
+Plan2Value TRAINING Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_TRAINING,Planningspace TRAINING,Trainingsystem Planningspace: P2V_TRAINING
+Plan2Value TRAINING Environment,cmd,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe ,-app=https://tsomvat502103.ww.omv.com/OMVTRAINING,Reserves TRAINING,Trainingsystem Reserves: OMVTRAINING
+Plan2Value TEST Environment,cmd,C:\Program Files\Palantir\PlanningSpace 16.5\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips-test.ww.omv.com/P2V_PRODTEST,Planningspace PRODTEST,Planningspace tenant: P2V_PRODTEST (security tests)
+EXIT,cmd,logoff,,EXIT,closes all TEST P2V sessions and exit

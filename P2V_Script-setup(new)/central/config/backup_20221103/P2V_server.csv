@@ -1,0 +1,23 @@
+servername,description,system,type
+somvat422001.ww.omv.com,CITRIX PROD 1,PROD,CITRIX
+somvat422003.ww.omv.com,CITRIX PROD 2,PROD,CITRIX
+somvat422008.ww.omv.com,CITRIX PROD 3,PROD,CITRIX
+somvat422009.ww.omv.com,CITRIX PROD 4,PROD,CITRIX
+somvat422017.ww.omv.com,CITRIX PROD 5,PROD,CITRIX
+somvat422018.ww.omv.com,CITRIX PROD 6,PROD,CITRIX
+somvat502671.ww.omv.com,golden image PROD,IMAGE,MCS
+somvat502672.ww.omv.com,IPS PROD 1,PROD,IPS
+somvat502673.ww.omv.com,IPS PROD 2,PROD,IPS
+somvat502674.ww.omv.com,Reserves PROD,PROD,RESERVES
+somvat502675.ww.omv.com,IPS PROD 3,PROD,IPS
+somvat502676.ww.omv.com,Admin-station,PROD,ADMIN
+tsomvat422010.ww.omv.com,CITRIX UPDATE,UPDATE,CITRIX
+tsomvat423005.ww.omv.com,CITRIX   DEV/TEST 3,TEST,CITRIX
+tsomvat423006.ww.omv.com,CITRIX   DEV/TEST 4,TEST,CITRIX
+tsomvat502033.ww.omv.com,Reserves UPDATE,UPDATE,RESERVES
+tsomvat502060.ww.omv.com,IPS UPDATE 2,UPDATE,IPS
+tsomvat502101.ww.omv.com,IPS TEST  1,TEST,IPS
+tsomvat502102.ww.omv.com,IPS TEST  2,TEST,IPS
+tsomvat502103.ww.omv.com,Reserves TEST ,TEST,RESERVES
+tsomvat502104.ww.omv.com,IPS UPDATE 1,UPDATE,IPS
+tsomvat502895.ww.omv.com,golden image TEST,IMAGE,MCS

@@ -1,0 +1,129 @@
+Workgroup Name	Workgroup Description	Entity Type Application	Entity Name	Read	Create	Update	Delete	Assign
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Adjustment	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Adjustment	Allow	Allow	Allow	Allow	Allow
+DataFlow.key	Dataflow Key user 	PlanningSpace Dataflow	Adjustment	Allow	Allow	Allow	Allow	NULL
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Adjustment	Allow	NULL	Allow	NULL	NULL
+Economics.key	Economics key user 	PlanningSpace Dataflow	Adjustment	Allow	NULL	Allow	NULL	NULL
+Economics.power	Economics power user	PlanningSpace Dataflow	Adjustment	Allow	NULL	Allow	NULL	NULL
+Financials.key	Financials key user	PlanningSpace Dataflow	Adjustment	Allow	NULL	NULL	NULL	NULL
+Financials.power	Financials power user HO	PlanningSpace Dataflow	Adjustment	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Adjustment	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Adjustment	Allow	Allow	Allow	Allow	Allow
+User.admin	User for useradministration	PlanningSpace Dataflow	Adjustment	Allow	NULL	NULL	NULL	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Asset	Allow	NULL	NULL	NULL	NULL
+DataFlow.key	Dataflow Key user 	PlanningSpace Dataflow	Asset	Allow	Allow	Allow	Allow	NULL
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Asset	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Asset	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Asset	Allow	Allow	Allow	Allow	Allow
+P2V.base	P2V base access	PlanningSpace Dataflow	Asset	Allow	NULL	NULL	NULL	NULL
+User.admin	User for useradministration	PlanningSpace Dataflow	Asset	Allow	NULL	NULL	NULL	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Contract Area	Allow	NULL	NULL	NULL	NULL
+DataFlow.key	Dataflow Key user 	PlanningSpace Dataflow	Contract Area	Allow	Allow	Allow	Allow	NULL
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Contract Area	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Contract Area	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Contract Area	Allow	Allow	Allow	Allow	Allow
+P2V.base	P2V base access	PlanningSpace Dataflow	Contract Area	Allow	NULL	NULL	NULL	NULL
+User.admin	User for useradministration	PlanningSpace Dataflow	Contract Area	Allow	NULL	NULL	NULL	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Country	Allow	NULL	NULL	NULL	NULL
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Country	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Country	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Country	Allow	Allow	Allow	Allow	Allow
+User.admin	User for useradministration	PlanningSpace Dataflow	Country	Allow	NULL	NULL	NULL	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Legal Entity	Allow	NULL	NULL	NULL	NULL
+DataFlow.key	Dataflow Key user 	PlanningSpace Dataflow	Legal Entity	Allow	Allow	Allow	Allow	NULL
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Legal Entity	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Legal Entity	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Legal Entity	Allow	Allow	Allow	Allow	Allow
+P2V.base	P2V base access	PlanningSpace Dataflow	Legal Entity	Allow	NULL	NULL	NULL	NULL
+User.admin	User for useradministration	PlanningSpace Dataflow	Legal Entity	Allow	NULL	NULL	NULL	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Organization	Allow	NULL	NULL	NULL	NULL
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Organization	Allow	NULL	Allow	NULL	NULL
+Everyone	Default workgroup.	PlanningSpace Dataflow	Organization	Allow	NULL	NULL	NULL	NULL
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Organization	Allow	Allow	Allow	Allow	Allow
+data.ArabEmirates	Data access to country ArabEmirates	PlanningSpace Dataflow	Project ARE (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.ArabEmirates.key	Data access to country ArabEmirates (full access)	PlanningSpace Dataflow	Project ARE (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project ARE (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project ARE (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Australia	Data access to country Australia	PlanningSpace Dataflow	Project AUS (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Australia.key	Data access to country Australia (full access)	PlanningSpace Dataflow	Project AUS (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project AUS (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project AUS (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Austria	Data access to country Austria	PlanningSpace Dataflow	Project AUT (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Austria.Key	Data access to country Austria (full access)	PlanningSpace Dataflow	Project AUT (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project AUT (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project AUT (PRMS)	Allow	Allow	Allow	Allow	Allow
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Project AUT (PRMS)	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Project AUT (PRMS)	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Project AUT (PRMS)	Allow	Allow	Allow	Allow	Allow
+User.admin	User for useradministration	PlanningSpace Dataflow	Project AUT (PRMS)	Allow	NULL	NULL	NULL	Allow
+data.Bulgaria	Data access to country Bulgaria	PlanningSpace Dataflow	Project BGR (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Bulgaria.key	Data access to country Bulgaria (full access)	PlanningSpace Dataflow	Project BGR (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project BGR (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project BGR (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project GEO (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project GEO (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Georgia	Data access to country Georgia	PlanningSpace Dataflow	Project GEO (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Georgia.key	Data access to country Georgia (full access)	PlanningSpace Dataflow	Project GEO (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project KRI (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project KRI (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Kurdistan	Data access to country Kurdistan	PlanningSpace Dataflow	Project KRI (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Kurdistan.key	Data access to country Kurdistan (full access)	PlanningSpace Dataflow	Project KRI (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project LBY (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project LBY (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Libya	Data access to country Libya	PlanningSpace Dataflow	Project LBY (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Libya.key	Data access to country Libya (full access)	PlanningSpace Dataflow	Project LBY (PRMS)	Allow	Allow	Allow	Allow	Allow
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Project LBY (PRMS)	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Project LBY (PRMS)	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Project LBY (PRMS)	Allow	Allow	Allow	Allow	Allow
+User.admin	User for useradministration	PlanningSpace Dataflow	Project LBY (PRMS)	Allow	NULL	NULL	NULL	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project MEX (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project MEX (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Mexico	Data access to country Mexico	PlanningSpace Dataflow	Project MEX (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Mexico.key	Data access to country Mexico (full access)	PlanningSpace Dataflow	Project MEX (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project MYS (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project MYS (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Malaysia	Data access to country Malaysia	PlanningSpace Dataflow	Project MYS (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Malaysia.key	Data access to country Malaysia (full access)	PlanningSpace Dataflow	Project MYS (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project NOR (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project NOR (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Norway	Data access to country Norway	PlanningSpace Dataflow	Project NOR (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Norway.Key	Data access to country Norway (full access)	PlanningSpace Dataflow	Project NOR (PRMS)	Allow	Allow	Allow	Allow	Allow
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Project NOR (PRMS)	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Project NOR (PRMS)	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Project NOR (PRMS)	Allow	Allow	Allow	Allow	Allow
+User.admin	User for useradministration	PlanningSpace Dataflow	Project NOR (PRMS)	Allow	NULL	NULL	NULL	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project NZL (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project NZL (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.NewZealand	Data access to country NewZealand	PlanningSpace Dataflow	Project NZL (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.NewZealand.key	Data access to country NewZealand (full access)	PlanningSpace Dataflow	Project NZL (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project ROU (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project ROU (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Romania	Data access to country Romania	PlanningSpace Dataflow	Project ROU (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Romania.key	Data access to country Romania (full access)	PlanningSpace Dataflow	Project ROU (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project RUS (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project RUS (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Russia	Data access to country Russia	PlanningSpace Dataflow	Project RUS (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Russia.Key	Data access to country Russia (full access)	PlanningSpace Dataflow	Project RUS (PRMS)	Allow	Allow	Allow	Allow	Allow
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Project RUS (PRMS)	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Project RUS (PRMS)	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Project RUS (PRMS)	Allow	Allow	Allow	Allow	Allow
+User.admin	User for useradministration	PlanningSpace Dataflow	Project RUS (PRMS)	Allow	NULL	NULL	NULL	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project TUN (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project TUN (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Tunisia	Data access to country Tunisia	PlanningSpace Dataflow	Project TUN (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Tunisia.Key	Data access to country Tunisia (full access)	PlanningSpace Dataflow	Project TUN (PRMS)	Allow	Allow	Allow	Allow	Allow
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Project TUN (PRMS)	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Project TUN (PRMS)	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Project TUN (PRMS)	Allow	Allow	Allow	Allow	Allow
+User.admin	User for useradministration	PlanningSpace Dataflow	Project TUN (PRMS)	Allow	NULL	NULL	NULL	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Project YEM (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Corporate.key	Data access to ALL countries (full access)	PlanningSpace Dataflow	Project YEM (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Yemen	Data access to country Yemen	PlanningSpace Dataflow	Project YEM (PRMS)	Allow	NULL	Allow	NULL	NULL
+data.Yemen.key	Data access to country Yemen (full access)	PlanningSpace Dataflow	Project YEM (PRMS)	Allow	Allow	Allow	Allow	Allow
+data.Corporate	Data access to ALL countries	PlanningSpace Dataflow	Reservoir Group	Allow	NULL	NULL	NULL	NULL
+DataFlow.key	Dataflow Key user 	PlanningSpace Dataflow	Reservoir Group	Allow	Allow	Allow	Allow	NULL
+DataFlow.power	Dataflow Power user	PlanningSpace Dataflow	Reservoir Group	Allow	NULL	Allow	NULL	NULL
+OMV_CoreTeam	OMV Core Team Members	PlanningSpace Dataflow	Reservoir Group	Allow	Allow	Allow	Allow	Allow
+P2V.admin	Plan2Value administrators	PlanningSpace Dataflow	Reservoir Group	Allow	Allow	Allow	Allow	Allow
+P2V.base	P2V base access	PlanningSpace Dataflow	Reservoir Group	Allow	NULL	NULL	NULL	NULL
+User.admin	User for useradministration	PlanningSpace Dataflow	Reservoir Group	Allow	NULL	NULL	NULL	Allow

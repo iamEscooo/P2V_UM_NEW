@@ -1,0 +1,5 @@
+ADgroup,category,PSgroup,xkey,LogonId,DisplayName,Description,EmailAddress,UPN
+dlg.WW.ADM-Services.P2V.useradmin,EXTRA,User.admin,EMANUEL15,Emanuel.Tenghea@omv.com,Tenghea Emanuel (EMANUEL15),EETE-P Petrotechnical AppStore,Emanuel.Tenghea@omv.com,Emanuel.Tenghea@omv.com
+dlg.WW.ADM-Services.P2V.useradmin,EXTRA,User.admin,ADRIAN75,AdrianMihail.Ivanciu@petrom.com,Ivanciu Adrian-Mihail (ADRIAN75),EETEU-U Surface DDAM,AdrianMihail.Ivanciu@petrom.com,AdrianMihail.Ivanciu@petrom.com
+dlg.WW.ADM-Services.P2V.useradmin,EXTRA,User.admin,X01SCHGEO,Georg.Schumacher@petrom.com,Schumacher Georg (X01SCHGEO),FEE-O Economics & Planning - Ops.,Georg.Schumacher@petrom.com,Georg.Schumacher@petrom.com
+dlg.WW.ADM-Services.P2V.useradmin,EXTRA,User.admin,X449222,Martin.Kufner@omv.com,Kufner Martin (X449222),EETE-P Petrotechnical AppStore,Martin.Kufner@omv.com,Martin.Kufner@omv.com

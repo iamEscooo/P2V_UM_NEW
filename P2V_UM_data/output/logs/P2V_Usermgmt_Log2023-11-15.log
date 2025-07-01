@@ -1,0 +1,70 @@
+﻿[2023-11-15 13:25:23] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-15 13:25:23] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-15 14:25:31] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-15 14:25:32] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-15 14:28:42] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-15 14:28:42] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-15 14:48:06] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-15 14:48:07] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-15 14:49:57] - [INFO] [P2V_TEST]-[Z.BD.016.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:04:02] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-15 15:04:02] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-15 15:06:15] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-15 15:06:15] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-15 15:08:25] - [INFO] [P2V_TEST]-[Z.BD.016.allow] : add add remove Baumgartner Tanja Maria (X451558) Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) - done
+[2023-11-15 15:08:26] - [INFO] [P2V_TEST]-[Z.BD.016.deny] : remove remove Baumgartner Tanja Maria (X451558) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:27] - [INFO] [P2V_TEST]-[Z.BD.031.allow] : add remove add Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:28] - [INFO] [P2V_TEST]-[Z.BD.035.allow] : add remove add Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:29] - [INFO] [P2V_TEST]-[Z.BD.029.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:30] - [INFO] [P2V_TEST]-[Z.BD.028.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:31] - [INFO] [P2V_TEST]-[Z.BD.030.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:32] - [INFO] [P2V_TEST]-[Z.BD.030.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:32] - [INFO] [P2V_TEST]-[Z.BD.029.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:33] - [INFO] [P2V_TEST]-[bd.base] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:34] - [INFO] [P2V_TEST]-[Z.BD.031.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:35] - [INFO] [P2V_TEST]-[Z.BD.027.allow] : add add remove add Baumgartner Tanja Maria (X451558) Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:36] - [INFO] [P2V_TEST]-[Z.BD.035.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:37] - [INFO] [P2V_TEST]-[Z.BD.032.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:38] - [INFO] [P2V_TEST]-[Z.BD.027.deny] : remove remove Baumgartner Tanja Maria (X451558) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:39] - [INFO] [P2V_TEST]-[Z.BD.032.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:40] - [INFO] [P2V_TEST]-[Z.BD.028.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:08:52] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-15 15:08:52] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-15 15:10:54] - [INFO] [P2V_TRAINING]-[Z.BD.016.allow] : add add remove add Baumgartner Tanja Maria (X451558) Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:10:55] - [INFO] [P2V_TRAINING]-[Z.BD.031.deny] : remove add remove Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:10:56] - [INFO] [P2V_TRAINING]-[Z.BD.016.deny] : remove remove add remove Baumgartner Tanja Maria (X451558) Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:10:57] - [INFO] [P2V_TRAINING]-[Z.BD.031.allow] : add remove add Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:10:57] - [INFO] [P2V_TRAINING]-[Z.BD.035.allow] : add remove add Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:10:58] - [INFO] [P2V_TRAINING]-[Z.BD.029.deny] : remove remove Haberfehlner Stephanie (STEPHANIE3) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:10:59] - [INFO] [P2V_TRAINING]-[Z.BD.028.deny] : remove remove Haberfehlner Stephanie (STEPHANIE3) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:11:00] - [INFO] [P2V_TRAINING]-[Z.BD.030.allow] : add add Haberfehlner Stephanie (STEPHANIE3) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:11:01] - [INFO] [P2V_TRAINING]-[Z.BD.030.deny] : remove remove Haberfehlner Stephanie (STEPHANIE3) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:11:02] - [INFO] [P2V_TRAINING]-[Z.BD.029.allow] : add add Haberfehlner Stephanie (STEPHANIE3) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:11:03] - [INFO] [P2V_TRAINING]-[Z.BD.028.allow] : add add Haberfehlner Stephanie (STEPHANIE3) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:11:04] - [INFO] [P2V_TRAINING]-[Z.BD.027.deny] : remove remove add remove Baumgartner Tanja Maria (X451558) Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:11:05] - [INFO] [P2V_TRAINING]-[Z.BD.027.allow] : add add remove add Baumgartner Tanja Maria (X451558) Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:11:06] - [INFO] [P2V_TRAINING]-[Z.BD.035.deny] : remove add remove Haberfehlner Stephanie (STEPHANIE3) Balomiri Victor-Emanuel (VICTOR8) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:11:07] - [INFO] [P2V_TRAINING]-[Z.BD.032.deny] : remove remove Haberfehlner Stephanie (STEPHANIE3) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:11:08] - [INFO] [P2V_TRAINING]-[Z.BD.032.allow] : add add Haberfehlner Stephanie (STEPHANIE3) Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:11:09] - [INFO] [P2V_TRAINING]-[bd.base] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:17:59] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_super_sync-SEC2.ps1]
+[2023-11-15 15:20:32] - [INFO] user=WW/adminx449222,script=P2V_super_sync-SEC2.ps1,tenant=P2V_PRODTEST,uid=790/Sara.PonzMoreno@omv.com,gid=/userworkgroups/54 /userworkgroups/274 /userworkgroups/85 /userworkgroups/334 /userworkgroups/50 /userworkgroups/276 /userworkgroups/57 /userworkgroups/82 /userworkgroups/131 /userworkgroups/20 /userworkgroups/147 /userworkgroups/353 /userworkgroups/37 /userworkgroups/75 /userworkgroups/77 /userworkgroups/346 /userworkgroups/8 /userworkgroups/71 /userworkgroups/498 /userworkgroups/495 /userworkgroups/489 /userworkgroups/58 /userworkgroups/450 /userworkgroups/48 /userworkgroups/80 /userworkgroups/298 /userworkgroups/376 /userworkgroups/381 /userworkgroups/344 /userworkgroups/395 /userworkgroups/394 /userworkgroups/391 /userworkgroups/385 /userworkgroups/389 /userworkgroups/313 /userworkgroups/329 /userworkgroups/320 /userworkgroups/349 /userworkgroups/339 /userworkgroups/321 /userworkgroups/297 /userworkgroups/316 /userworkgroups/328 /userworkgroups/501 /userworkgroups/492 /userworkgroups/500 /userworkgroups/491 /userworkgroups/462 /userworkgroups/444 /userworkgroups/432 /userworkgroups/493 /userworkgroups/387 /userworkgroups/490 /userworkgroups/388 /userworkgroups/380 /userworkgroups/480 /userworkgroups/494 /userworkgroups/486 /userworkgroups/478 /userworkgroups/233 /userworkgroups/103 /userworkgroups/237 /userworkgroups/251 /userworkgroups/227 /userworkgroups/235 /userworkgroups/232 /userworkgroups/240 /userworkgroups/241 /userworkgroups/236 /userworkgroups/249 /userworkgroups/202 /userworkgroups/204 /userworkgroups/197 /userworkgroups/199 /userworkgroups/230 /userworkgroups/229 /userworkgroups/205 /userworkgroups/200 /userworkgroups/234,add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add,[DONE]
+[2023-11-15 15:20:44] - [INFO] [WW/adminx449222] started P2V_calculate_groups_bd 
+[2023-11-15 15:20:44] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_calculate_groups_bd]
+[2023-11-15 15:26:49] - [INFO] [P2V_PRODTEST]-[Z.BD.016.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:26:50] - [INFO] [P2V_PRODTEST]-[Z.BD.016.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:26:51] - [INFO] [P2V_PRODTEST]-[Z.BD.031.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:26:52] - [INFO] [P2V_PRODTEST]-[Z.BD.035.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:26:53] - [INFO] [P2V_PRODTEST]-[Z.BD.029.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:26:54] - [INFO] [P2V_PRODTEST]-[Z.BD.028.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:26:55] - [INFO] [P2V_PRODTEST]-[Z.BD.030.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:26:56] - [INFO] [P2V_PRODTEST]-[Z.BD.030.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:26:57] - [INFO] [P2V_PRODTEST]-[Z.BD.029.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:26:58] - [INFO] [P2V_PRODTEST]-[Z.BD.028.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:26:59] - [INFO] [P2V_PRODTEST]-[Z.BD.031.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:27:00] - [INFO] [P2V_PRODTEST]-[Z.BD.027.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:27:01] - [INFO] [P2V_PRODTEST]-[Z.BD.035.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:27:02] - [INFO] [P2V_PRODTEST]-[Z.BD.032.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:27:03] - [INFO] [P2V_PRODTEST]-[Z.BD.027.deny] : remove Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:27:04] - [INFO] [P2V_PRODTEST]-[Z.BD.032.allow] : add Ponz Moreno Sara (SARA27) - done
+[2023-11-15 15:27:04] - [INFO] [P2V_PRODTEST]-[bd.base] : add Ponz Moreno Sara (SARA27) - done

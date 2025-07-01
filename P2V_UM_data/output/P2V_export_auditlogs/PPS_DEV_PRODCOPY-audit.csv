@@ -1,0 +1,12 @@
+#TYPE System.Management.Automation.PSCustomObject
+"id","applicationName","comment","entityName","entityTypeName","action","userName","machineName","timestamp"
+"4896486","PalantirCASH","Calculation Parameter Document","MEX 2020 v02","Calculation Parameter","Updated","LOGAN1","TSOMVAT423002","2020-11-23T19:58:38.030Z"
+"4896485","PalantirCASH","Project Node","Z_EPP_2020_HUB_MLY\Corporate-Rollup\02 Aspired Portfolio\01_E&A Portfolio\2a_Mexico\MTP2020_2a submission\Test","Consolidation","Deleted","LOGAN1","TSOMVAT423002","2020-11-23T16:53:10.873Z"
+"4896484","PalantirCASH","Project Document","Z_EPP_2020_HUB_MLY\Test","Project","Deleted","LOGAN1","TSOMVAT423002","2020-11-23T16:53:10.857Z"
+"4896483","PalantirCASH","Successfully logged in","LOGAN1","User","Login","LOGAN1","TSOMVAT423002","2020-11-23T16:43:47.937Z"
+"4896482","PlanningSpace","The user [LOGAN1] has logged in.","LOGAN1","User","Login","LOGAN1","10.12.166.139","2020-11-23T16:43:44.867Z"
+"4896481","PalantirCASH","Successfully logged in","TIMOTHY5","User","Login","TIMOTHY5","TSOMVAT423006","2020-11-20T17:55:06.657Z"
+"4896480","PlanningSpace","The user [TIMOTHY5] has logged in.","TIMOTHY5","User","Login","TIMOTHY5","10.12.166.32","2020-11-20T17:55:04.450Z"
+"4896479","PalantirCASH","Successfully logged in","TIMOTHY5","User","Login","TIMOTHY5","TSOMVAT423006","2020-11-20T15:04:34.867Z"
+"4896478","PlanningSpace","The user [TIMOTHY5] has logged in.","TIMOTHY5","User","Login","TIMOTHY5","10.12.166.32","2020-11-20T15:04:32.753Z"
+"4896477","PalantirCASH","Successfully logged in","ALEXEY6","User","Login","ALEXEY6","TSOMVAT423005","2020-11-20T09:25:28.583Z"

@@ -1,0 +1,50 @@
+Name,Login ID,Authentication method,Domain,Expiry date,Deactivated,Locked,Description,Email,Last login date,Locked date,Deactivated date,Workgroups
+Aaron Johnson,AARON6,LOCAL,,,False,False,AUCERNA,aaron.johnson@aucerna.com,2019-07-04T09:49:25.780Z,,,Administrators;AUCERNA;Everyone;OMV_CoreTeam
+Administrator,Administrator,LOCAL,,,False,False,Administrator,,2019-09-27T07:28:17.043Z,,,Administrators
+Armando Carrasco,ARMANDO1,WINDOWS_AD,ww,,False,False,AUCERNA,armando.carrasco@aucerna.com,,,,Administrators;AUCERNA;Everyone
+Armando Carrasco,ARMANDO1,LOCAL,,,False,False,AUCERNA (Local),armando.carrasco@aucerna.com,2019-09-30T09:55:36.557Z,,,Administrators;AUCERNA;Everyone
+Arun Shaw,ARUN05,WINDOWS_AD,ww,,False,False,AUCERNA,arun.shaw@aucerna.com,2019-05-28T13:47:24.570Z,,,Administrators;AUCERNA;Everyone
+Arun Shaw (Admin),adminarun05,WINDOWS_AD,ww,,False,False,Arun Shaw (Aucerna),,2019-05-14T14:42:11.740Z,,,Administrators;AUCERNA;Everyone
+Bas Jacobs,X449381,WINDOWS_AD,ww,,False,False,Testuser PetroVR,,,,,Everyone;PetroVR_users
+Birgit Stoiser,X449810,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Camilo Sanchez,sancheca,WINDOWS_AD,ww,,False,False,core team,Camilo.Sanchez@omv.com,,,,Administrators;Everyone;OMV_CoreTeam
+Catalin Paraschiv,X01005176,WINDOWS_AD,ww,,False,False,core team,Catalin.Paraschiv@petrom.com,,,,Administrators;Everyone;OMV_CoreTeam
+Christian Blecha,X450582,WINDOWS_AD,ww,,False,False,OMV PPS project team,,,,,Administrators;Everyone;OMV_CoreTeam
+Christian Malle,X450118,WINDOWS_AD,ww,,False,False,Testuser PetroVR,,,,,Everyone;PetroVR_users
+Christian Scholz,CHRISTIAN130,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Christian Sledz,CHRISTIAN87,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Christina Maria Gaber,X449891,WINDOWS_AD,ww,,False,False,P2V team member,,,,,Everyone;OMV_CoreTeam
+Daniel Grogger,DANIEL279,WINDOWS_AD,ww,,False,False,Testuser PetroVR,,,,,Everyone;PetroVR_users
+Demo User 1,demo1,LOCAL,,,False,False,"Plan2Value local DEMO user for Training, Test",,,,,Everyone;OMV_CoreTeam
+Demo User 2,demo2,LOCAL,,,False,False,"Plan2Value local DEMO user for Training, Test",,2019-05-16T09:21:58.453Z,,,Everyone;OMV_CoreTeam
+Demo User 3,demo3,LOCAL,,,False,False,"Plan2Value local DEMO user for Training, Test",,,,,Administrators;Everyone;OMV_CoreTeam
+Eduard Klein,X409094,WINDOWS_AD,ww,,False,False,OMV P2V project team,,,,,Administrators;Everyone;OMV_CoreTeam
+Emma Rodgers,X449890,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Fida Hussain,xhussaifi,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Florian Dutzler,FLORIAN109,WINDOWS_AD,ww,,False,False,core team,Florian.Dutzler@omv.com,,,,Administrators;Everyone;OMV_CoreTeam
+Gael Carlier,gael04,LOCAL,,,False,False,AUCERNA,gael.carlier@aucerna.com,2019-09-30T07:35:55.647Z,,,Administrators;AUCERNA;Everyone
+Georg Schumacher,X01schgeo,WINDOWS_AD,ww,,False,False,core team,Georg.Schumacher@petrom.com,,,,Administrators;Everyone;OMV_CoreTeam
+Gerald Antes,X449077,WINDOWS_AD,ww,,False,False,Testuser PetroVR,,,,,Everyone;PetroVR_users
+Kevin Rooney,KEVIN32,WINDOWS_AD,ww,,False,False,AUCERNA,kevin.rooney@aucerna.com,,,,Administrators;AUCERNA;Everyone
+Leonardo Umani,LEONARDO1,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Madalina Coada-Petre,X01024526,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Marc Swales,MARC23,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Maria Pertl,X449156,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Mario-Luis Rodriguez Chavez,X451671,WINDOWS_AD,ww,,False,False,"Testuser P2V
+Testuser PetroVR",,,,,Administrators;Everyone;OMV_CoreTeam;PetroVR_users
+Markus Nuesslein,X450313,WINDOWS_AD,ww,,False,False,core team,,2019-05-31T11:24:16.083Z,,,Administrators;Everyone;OMV_CoreTeam
+Martin Hubbig,MARTIN26,WINDOWS_AD,ww,,False,False,OMV P2V project team,,,,,Administrators;Everyone;OMV_CoreTeam
+Martin Kufner,X449222,WINDOWS_AD,ww,,False,False,MKR,,2019-06-03T14:20:20.647Z,,,Administrators;Everyone;OMV_CoreTeam
+Martin Kufner (Admin),adminx449222@ww.omv.com,SAML2,,,False,False,Martin Kufner (Admin),,2019-06-03T08:43:55.803Z,,,Administrators;Everyone
+Michael Stefan Eichinger,MICHAEL139,WINDOWS_AD,ww,,False,False,Testuser PetroVR,,,,,Everyone;PetroVR_users
+Neil Ementon,NEIL08,WINDOWS_AD,ww,,False,False,"Testuser P2V
+Testuser PetroVR",,,,,Everyone;OMV_CoreTeam;PetroVR_users
+Paul Führmann,PAUL77,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Razvan Bulgariu,X01001805,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Sandra Culjak,SANDRA18,WINDOWS_AD,ww,,False,False,Testuser P2V,,,,,Everyone;OMV_CoreTeam
+Semra Kocyigit,SEMRA1,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Simona Lancu,Simona10,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam
+Stanislav Kozlov,STANISLAV7,LOCAL,,,False,False,AUCERNA,stanislav.kozlov@aucerna.com,2019-09-30T08:32:49.407Z,,,Administrators;AUCERNA;Everyone
+Susan Ellis,SUSAN2,WINDOWS_AD,ww,,False,False,core team,Susan.Ellis@omv.com,,,,Administrators;Everyone;OMV_CoreTeam
+User Administration,useradmin,LOCAL,,,False,False,local User for User Administration,,2019-09-30T12:23:38.043Z,,,Administrators;Everyone
+Wolfgang Posch,X449602,WINDOWS_AD,ww,,False,False,OMV Core Team,,,,,Administrators;Everyone;OMV_CoreTeam

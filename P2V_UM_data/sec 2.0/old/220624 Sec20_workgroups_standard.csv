@@ -1,0 +1,285 @@
+﻿Name,Description,Comments
+A01.profile.UltraLight,Lightest possible base profile for basic interfaces Access to API via reporting workgroup,"Lightest possible base profile on which to apply interface increments eg used as a base to apply eg CAPDAT, PetroVR interfaces. "
+A02.profile.PetroVR,PetroVR user access to PSE for Headless Calculation.  Must be combined with an appropriate base profile eg UltraLight; Light or Project Manager,
+A03.profile.CAPDAT,Profile for CAPDAT interface users., Refine definition following CAPDAT project testing
+A04.profile.Light,Readonly access DF only (light user),"PRMS (all DF tabs excl Calc & Admin); ADJUST (Overview, Eco_Results, Fin Input, QA/QC only)"
+A05.profile.Light.reserves,Reserves readonly role,
+A06.profile.FIN.ECO.PORT.Light,"Portfolio, Economics, Financials light user (readonly access) DF plus PSE/F/P",MODIFICATION and EXTENSION of Portfolio Light to FIN/ECO light users
+A07.profile.Projectmanager.PET,Read only Project Manager with Input.Confirm tag rights,NEW. First tier for project managers using Dataflow.  Tagging.  Requested for Petrom Project Managers
+A08.profile.Projectmanager.Classic,"P2V Classic Projectmanager role (data entry & ""full input"" tagging)",
+A09.profile.Projectmanager.LCB,LCB Project Manager,NEW
+A10.profile.Planning.Local,Planner (includes DF Unlock),Previously PP.Local
+A11.profile.Planning.HeadOffice,Enchanced Dataflow: (includes DF Power role; DF Tab FULL access),
+A12.profile.Auditor,Access Audit Logs,
+A13.profile.Economics.local,Base Economist (includes DF Unlock and Quicklook Admin),Roles included PSE Key; DF BasePlus; PSF Base; PSP Base.  
+A14.profile.Economics.Regimes,Economics Regime Coding,NEW.  This profile is applied to designated regime coders.  These can be located in HO or Venture.
+A15.profile.Economics.Headoffice,Base Economist enhanced with PSE Power and PSE Unlock roles,Designed for Economics Governance Team
+A16.profile.Finance.Local,Base Controller,Roles included PSF Key; DF BasePlus.  
+A17.profile.Finance.Regimes,Financial Regime Coding,This profile is applied to designated regime coders.  These can be located in HO or Venture.
+A18.profile.Finance.HeadOffice,Base Controller enhanced with PSF Power and PSF Unlock roles,Designed for Head Office Controlling
+A19.profile.Portfolio.Classic,OMV Portfolio role (standard user),
+A20.profile.Reserves.local.QRE,Branch office QRE role,17.05.22 Updated for Lukas' Changes
+A21.profile.Reserves.Headoffice,OMV Corporate reserves role (standard user),
+A22.profile.Reserves.Headoffice.Power,OMV Corporate reserves role (power user),
+A23.profile.Reserves.Headoffice.Approve,special approval role for Headoffice RESERVES ,17.05.22 Updated with changes advised by Lukas
+Administrators,Default Admin workgroup.,This group consists all the permissions on the engine.
+Auditor,Role: user can check auditlogs,permission to read and check audit-logs
+BD.base,General workgroup that has access to the BD hierarchy,
+CAPDAT,Interface: CAPDAT,
+data.ArabEmirates,Data access to country UnitedArabEmirates,[DATA] PRMS read-update
+data.ArabEmirates.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load into CAPDAT
+data.ArabEmirates.Economics,Data access to country UnitedArabEmirates (economist),[DATA] PRMS create-read-update-delete 
+data.ArabEmirates.Finance,Data access to country UnitedArabEmirates (financials),[DATA] PRMS create-read-update-delete 
+data.ArabEmirates.Planning,Data access to country UnitedArabEmirates (full access),[DATA] PRMS full access
+data.ArabEmirates.Reserves,Data access to country UnitedArabEmirates (Reserves),[DATA] PRMS create-read-update-delete 
+data.Australia,Data access to country Australia,[DATA] PRMS read-update
+data.Australia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Australia.Economics,Data access to country Australia (economist),[DATA] PRMS create-read-update-delete 
+data.Australia.Finance,Data access to country Australia (financials),[DATA] PRMS create-read-update-delete 
+data.Australia.Planning,Data access to country Australia (full access),[DATA] PRMS full access
+data.Australia.Reserves,Data access to country Australia (Reserves),[DATA] PRMS create-read-update-delete 
+data.Austria,Data access to country Austria,[DATA] PRMS read-update
+data.Austria.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Austria.Economics,Data access to country Austria (economist),[DATA] PRMS create-read-update-delete 
+data.Austria.Finance,Data access to country Austria (financials),[DATA] PRMS create-read-update-delete 
+data.Austria.Planning,Data access to country Austria (full access),[DATA] PRMS full access
+data.Austria.Reserves,Data access to country Austria (Reserves),[DATA] PRMS create-read-update-delete 
+data.Bulgaria,Data access to country Bulgaria,[DATA] PRMS read-update
+data.Bulgaria.CAPDAT,Data access to country Bulgaria (Other functions or light Economics/Finance users),"This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for ""light"" functional users"
+data.Bulgaria.Economics,Data access to country Bulgaria (economist),[DATA] PRMS create-read-update-delete 
+data.Bulgaria.Finance,Data access to country Bulgaria (financials),[DATA] PRMS create-read-update-delete 
+data.Bulgaria.Planning,Data access to country Bulgaria (full access),[DATA] PRMS full access
+data.Bulgaria.Portfolio,Data access to country Bulgaria (Portfolio),
+data.Bulgaria.Reserves,Data access to country Bulgaria (Reserves),[DATA] PRMS create-read-update-delete 
+data.Corporate,Data access to ALL countries,[DATA] PRMS read-update
+data.Corporate.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Corporate.Economics,Data access to ALL countries (economist),[DATA] PRMS create-read-update-delete 
+data.Corporate.Exploration,Data access to ALL countries (Exploration),[DATA] PRMS create-read-update
+data.Corporate.Finance,Data access to ALL countries (financials),[DATA] PRMS create-read-update-delete 
+data.Corporate.Planning,Data access to ALL countries (full access),[DATA] PRMS full access
+data.Corporate.Portfolio,Data access to ALL countries (Portfolio) - used by Portfolio to load marked resultsets,
+data.Corporate.Reserves,Data access to ALL countries (Reserves) - used by Reserves to load marked resultsets,[DATA] PRMS create-read-update-delete 
+data.Everyone.Economics,Combining all data.country.Economics and data.corporate.Economics,Combining all data.country/corporate.Economists
+data.Everyone.Finance,Combining all data.country.Finance and data.corporate.Finance,
+data.Georgia,Data access to country Georgia,[DATA] PRMS read-update
+data.Georgia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Georgia.Economics,Data access to country Georgia (economist),[DATA] PRMS create-read-update-delete 
+data.Georgia.Finance,Data access to country Georgia (financials),[DATA] PRMS create-read-update-delete 
+data.Georgia.Planning,Data access to country Georgia (full access),[DATA] PRMS full access
+data.Georgia.Portfolio,Data access to country Georgia (Portfolio),
+data.Georgia.Reserves,Data access to country Georgia (Reserves),[DATA] PRMS create-read-update-delete 
+data.Kurdistan,Data access to country Kurdistan,[DATA] PRMS read-update
+data.Kurdistan.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Kurdistan.Economics,Data access to country Kurdistan (economist),[DATA] PRMS create-read-update-delete 
+data.Kurdistan.Finance,Data access to country Kurdistan (financials),[DATA] PRMS create-read-update-delete 
+data.Kurdistan.Planning,Data access to country Kurdistan (full access),[DATA] PRMS full access
+data.Kurdistan.Reserves,Data access to country Kurdistan (Reserves),[DATA] PRMS create-read-update-delete 
+data.Libya,Data access to country Libya,[DATA] PRMS read-update
+data.Libya.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Libya.Economics,Data access to country Libya (economist),[DATA] PRMS create-read-update-delete 
+data.Libya.Finance,Data access to country Libya (financials),[DATA] PRMS create-read-update-delete 
+data.Libya.Planning,Data access to country Libya (full access),[DATA] PRMS full access
+data.Libya.Reserves,Data access to country Libya (Reserves),[DATA] PRMS create-read-update-delete 
+data.Malaysia,Data access to country Malaysia,[DATA] PRMS read-update
+data.Malaysia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Malaysia.Economics,Data access to country Malaysia (economist),[DATA] PRMS create-read-update-delete 
+data.Malaysia.Finance,Data access to country Malaysia (financials),[DATA] PRMS create-read-update-delete 
+data.Malaysia.Planning,Data access to country Malaysia (full access),[DATA] PRMS full access
+data.Malaysia.Reserves,Data access to country Malaysia (Reserves),[DATA] PRMS create-read-update-delete 
+data.Mexico,Data access to country Mexico,[DATA] PRMS read-update
+data.Mexico.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Mexico.Economics,Data access to country Mexico (economist),[DATA] PRMS create-read-update-delete 
+data.Mexico.Finance,Data access to country Mexico (financials),[DATA] PRMS create-read-update-delete 
+data.Mexico.Planning,Data access to country Mexico (full access),[DATA] PRMS full access
+data.Mexico.Reserves,Data access to country Mexico (Reserves),[DATA] PRMS create-read-update-delete 
+data.NewZealand,Data access to country NewZealand,[DATA] PRMS read-update
+data.NewZealand.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.NewZealand.Economics,Data access to country NewZealand (economist),[DATA] PRMS create-read-update-delete 
+data.NewZealand.Finance,Data access to country NewZealand (financials),[DATA] PRMS create-read-update-delete 
+data.NewZealand.Planning,Data access to country NewZealand (full access).  Dataflow Tool Support (country planners),[DATA] PRMS full access
+data.NewZealand.Reserves,Data access to country NewZealand (Reserves),[DATA] PRMS create-read-update-delete 
+data.Norway,Data access to country Norway,[DATA] PRMS read-update
+data.Norway.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Norway.Economics,Data access to country Norway (economist),[DATA] PRMS create-read-update-delete 
+data.Norway.Finance,Data access to country Norway (financials),[DATA] PRMS create-read-update-delete 
+data.Norway.Planning,Data access to country Norway (planner),[DATA] PRMS full access
+data.Norway.Reserves,Data access to country Norway (Reserves),[DATA] PRMS create-read-update-delete 
+data.OMVEP,Data access to ValueCenters,[DATA] PRMS read-update
+data.OMVEP.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.OMVEP.Economics,Data access to ValueCenters (economist),[DATA] PRMS create-read-update-delete 
+data.OMVEP.Finance,Data access to ValueCenters (financials),[DATA] PRMS create-read-update-delete 
+data.OMVEP.Planning,Data access to ValueCenters (full access),[DATA] PRMS full access
+data.OMVEP.Reserves,Data access to ValueCenters (Reserves),[DATA] PRMS create-read-update-delete 
+data.Romania,Data access to country Romania,[DATA] PRMS read-update
+data.Romania.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Romania.Economics,Data access to country Romania (economist),[DATA] PRMS create-read-update-delete 
+data.Romania.Finance,Data access to country Romania (financials),[DATA] PRMS create-read-update-delete 
+data.Romania.Planning,Data access to country Romania (full access),[DATA] PRMS full access
+data.Romania.Portfolio,Data access to country Romania (Portfolio),
+data.Romania.Reserves,Data access to country Romania (Reserves),[DATA] PRMS create-read-update-delete 
+data.Russia,Data access to country Russia,[DATA] PRMS read-update
+data.Russia.CAPDAT,Data access to country Russia (Other functions or light Economics/Finance users),"This is for anyone that is not a member of one of the other groups.  Data.Country less Data.Country.Functions (Economics, or Finance or Planning, Portfolio, Reserves ....).  Also caters for ""light"" functional users"
+data.Russia.Economics,Data access to country Russia (economist),[DATA] PRMS create-read-update-delete 
+data.Russia.Finance,Data access to country Russia (financials),[DATA] PRMS create-read-update-delete 
+data.Russia.Planning,Data access to country Russia (full access),[DATA] PRMS full access
+data.Russia.Reserves,Data access to country Russia (Reserves),[DATA] PRMS create-read-update-delete 
+data.Sapura.Australia,Data access to country  Sapura- Australia,[DATA] PRMS read-update
+data.Sapura.Australia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Sapura.Australia.Economics,Data access to country  Sapura- Australia (economist),[DATA] PRMS create-read-update-delete 
+data.Sapura.Australia.Finance,Data access to country  Sapura- Australia (financials),[DATA] PRMS create-read-update-delete 
+data.Sapura.Australia.Planning,Data access to country  Sapura- Australia (full access),[DATA] PRMS full access
+data.Sapura.Australia.Reserves,Data access to country  Sapura- Australia (Reserves),[DATA] PRMS create-read-update-delete 
+data.Sapura.NewZealand,Data access to country  Sapura- NewZealand,[DATA] PRMS read-update
+data.Sapura.NewZealand.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Sapura.NewZealand.Economics,Data access to country  Sapura- NewZealand (economist),[DATA] PRMS create-read-update-delete 
+data.Sapura.NewZealand.Finance,Data access to country  Sapura- NewZealand (financials),[DATA] PRMS create-read-update-delete 
+data.Sapura.NewZealand.Planning,Data access to country  Sapura- NewZealand (full access),[DATA] PRMS full access
+data.Sapura.NewZealand.Reserves,Data access to country  Sapura- NewZealand (Reserves),[DATA] PRMS create-read-update-delete 
+data.Tunisia,Data access to country Tunisia,[DATA] PRMS read-update
+data.Tunisia.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Tunisia.Economics,Data access to country Tunisia (economist),[DATA] PRMS create-read-update-delete 
+data.Tunisia.Finance,Data access to country Tunisia (financials),[DATA] PRMS create-read-update-delete 
+data.Tunisia.Planning,Data access to country Tunisia (full access),[DATA] PRMS full access
+data.Tunisia.Reserves,Data access to country Tunisia (Reserves),[DATA] PRMS create-read-update-delete 
+data.Yemen,Data access to country Yemen,[DATA] PRMS read-update
+data.Yemen.CAPDAT,Data access for selected PMs for loading PSE RS to CAPDAT,For nominated project managers who will load selected PSE results sets into CAPDAT
+data.Yemen.Economics,Data access to country Yemen (economist),[DATA] PRMS create-read-update-delete 
+data.Yemen.Finance,Data access to country Yemen (financials),[DATA] PRMS create-read-update-delete 
+data.Yemen.Planning,Data access to country Yemen (full access),[DATA] PRMS full access
+data.Yemen.Reserves,Data access to country Yemen (Reserves),[DATA] PRMS create-read-update-delete 
+Dataflow.base,Role: Access to Dataflow Module,
+Dataflow.baseplus,"Role: Dataflow.base plus Manage Scenarios; Hierarchy: Move, Delete, Rename",
+DataFlow.key,Role: Dataflow key user ,Dataflow Key user in Branchoffice
+DataFlow.power,Role: Dataflow power user,Dataflow Power user in Headoffice
+Dataflow.quicklook,Role: Quicklook Administrator,This venture role sets Economics Settings to facilitate quicklook calculations for users
+Dataflow.unlock,Role: Dataflow.unlock,Unlock objects in Dataflow
+Developer,internal & external developers,permissions needed for developers
+Economics.base,Role: Access to Economics Module,
+Economics.key,Role: Economics key user ,Economics user in Branchoffice
+Economics.power,Role Economics power user,Economics power user in headoffice - global settings
+Economics.regimes,Role: additional permission for Economics user to access Regime Library,
+Economics.regimes.readonly,Role: readonly access to the regimes lib,readonly access to the regimes lib
+Economics.unlock,Role Economics.unlock,unlock objects in Economics
+Everyone,Default workgroup.,This group consists only public permission on the engine.
+Financials.base,Role: Access to Financials Module,
+Financials.key,Role: Financials key user,Controlling key user in Branchoffice
+Financials.power,Role: Financials power user,Controlling power user  in Headoffice
+Financials.regimes,Role: additional permission for Financials user to access Regime Library,
+Financials.regimes.readonly,readonly access to the regimes lib,readonly access to the regimes lib
+Financials.unlock,Role: Financials.unlock,unlock objects in Financials
+Input.Approve,Tag.Input.Approve,
+Input.Confirm,Tag Input.Confirm,
+license.heavy,Heavy license users,to manage the license-requirments
+license.light,Light licences users,to manage the license-requirments
+OA.Admin,Interface: Opportunity Assessor,
+P.profile.PetroVR.DF.Loader,PetroVR user with rights to load to Dataflow,Profile will become more frequent if PetroVR more widely used
+P2V.admin,Plan2Value administrators,permissions to almost everything
+P2V.base,P2V (everyone) access.,
+P2V.developer,Group of internal/external developers,all external AUCERNA experts to support 
+PetroVR,Interface: PetroVR user,Users are allowed to use Economics as a Service via PetroVR
+Portfolio.base,Role: Access to Portfolio Tool,
+PP.profile.Exploration.Assurance,OMV Corporate Exploration Assurance user.  Previously profile.Resources.Headoffice,
+profile.Portfolio.Power.OLD,Portfolio user (power access),
+profile.PP.Headoffice.Power.OLD,OMV Corporate Planning & Portfolio role (power user),
+Reporting,Interface: External Data using Odata,permissions to use Odata as interface
+Reserves.Administrator,Reserves.Administrator,
+Reserves.Approver,Reserves.Approver,
+Reserves.Approver.bo,Reserves.Approver.bo,
+Reserves.Approver.ho,Reserves.Approver.ho,
+Reserves.base,Role: Access to Reserves Module,
+Reserves.key,Role: Reserves key user,
+Reserves.power,Reserves.power,
+Reserves.Security,Reserves.useradmin + Reserves.DataAdmin,
+Reserves.Submitter,Reserves.Submitter,
+rollover,Workgroup used to limit access during the rollover activities,
+SecurityAdministrators,Default Security Administrators,
+systemcheck,workgroup to perform functionaly tests after MW ,
+T.ADJUST.admin,DF Admin Tab FULL access,Adjustment Document only
+T.ADJUST.admin.deny,DF Admin Tab DENY access,Adjustment Document only
+T.ADJUST.admin.readonly,DF Admin Tab READ access,Adjustment Document only
+T.ADJUST.calc,DF Calculation Tab FULL access,
+T.ADJUST.calc.deny,DF Calculation Tab DENY access,
+T.ADJUST.calc.readonly,DF Calculation Tab READ access,
+T.ADJUST.economics,DF Eco Input Tab FULL access,Adjustment Document only
+T.ADJUST.economics.deny,DF Eco Input Tab DENY access,Adjustment Document only
+T.ADJUST.economics.readonly,DF Eco Input Tabs READ access,Adjustment Document only
+T.ADJUST.ecoresults,DF Eco Results Tab FULL access,Adjustment Document only
+T.ADJUST.ecoresults.deny,DF Eco Results Tab DENY access,Adjustment Document only
+T.ADJUST.ecoresults.readonly,DF Eco Results Tab READ access,Adjustment Document only
+T.ADJUST.financials,DF Fin Input Tab FULL access,Adjustment Document only
+T.ADJUST.financials.deny,DF Fin Input Tab DENY access,Adjustment Document only
+T.ADJUST.financials.readonly,DF Fin Input Tabs READ access,Adjustment Document only
+T.ADJUST.input,DF Input Tabs FULL access,Adjustment Document only
+T.ADJUST.input.deny,DF Input Tabs DENY access,Adjustment Document only
+T.ADJUST.input.readonly,DF Input Tabs READ access,Adjustment Document only
+T.ADJUST.overview,DF Overview Tab FULL access,Adjustment Document only
+T.ADJUST.overview.deny,DF Overview Tab DENY access,Adjustment Document only
+T.ADJUST.overview.readonly,DF Overview Tabs READ access,Adjustment Document only
+T.PRMS.admin,DF Admin Tab FULL access,
+T.PRMS.admin.deny,DF Admin Tab DENY access,
+T.PRMS.admin.readonly,DF Admin Tab READ access,
+T.PRMS.calc,DF Calculation Tab FULL access,DF Templates: Calculation Tab full access
+T.PRMS.calc.deny,DF Calculation Tab DENY access,
+T.PRMS.calc.readonly,DF Calculation Tab READ access,
+T.PRMS.economics,DF Eco Input Tab FULL access,
+T.PRMS.economics.deny,DF Eco Input Tab DENY access,
+T.PRMS.economics.readonly,DF Eco Input Tab READ access,
+T.PRMS.ecoresults,DF Eco Results Tab FULL access,
+T.PRMS.ecoresults.deny,DF Eco Results Tab DENY access,
+T.PRMS.ecoresults.readonly,DF Eco Results Tab READ access,
+T.PRMS.financials,DF Fin Input Tab FULL access,
+T.PRMS.financials.deny,DF Fin Input Tab DENY access,
+T.PRMS.financials.readonly,DF Fin Input Tab READ access,
+T.PRMS.input,DF Input Tabs FULL access,Overview; Production; Cap Up-Down; Capex; Opex & Other Revenue; Resources/Reserves
+T.PRMS.input.deny,DF Input Tabs DENY access,Overview; Production; Cap Up-Down; Capex; Opex & Other Revenue; Resources/Reserves
+T.PRMS.input.readonly,DF Input Tabs READ access,Overview; Production; Cap Up-Down; Capex; Opex & Other Revenue; Resources/Reserves
+T.PRMS.quicklook,DF Quicklook Tab FULL access,
+T.PRMS.quicklook.deny,DF Quicklook Tab DENY access,
+T.PRMS.quicklook.readonly,DF Quicklook Tab READ access,
+User.admin,User for useradministration,permissions to add/change user /workgroup assignments
+X.profile.Admin.Developer.OLD,Developer P2V Administrator access,Assess with ML if we need this
+X.profile.Admin.Headoffice.OLD,Headoffice P2V Administrator access,Assess with MK if we need this
+X.profile.LightUser.local.OLD,Branch Office readonly access (light user),Redundant.  All light users here should be moved to A04.profile.Light
+X.profile.Reserves.local.Approve,REDUNDANT.  Special approval role for branch offices RESERVES ,17.05.22 Redundant role.  Lukas advised that there will be no local reserves approvers only HO approval
+X.profile.Resources.local, Branch office Exporation user (ressource access).,Redundant - Same profile as a classic project manager.  This would only change if they had OA create rights which has currently been suspended
+X.profile.Student.local.OLD,Students profile (training purposes),Not needed in PROD.  Questionable in Test tenants - users should get used to their own profile.  Not one they won't have in real life
+Z.BD.001.allow,Group of people allowed to see the specific project data,NAUTILUS
+Z.BD.001.deny,Group of people NOT allowed to see this project data,NAUTILUS
+Z.BD.002.allow,Group of people allowed to see the specific project data,TANIA
+Z.BD.002.deny,Group of people NOT allowed to see this project data,TANIA
+Z.BD.003.allow,Group of people allowed to see the specific project data,LEXY
+Z.BD.003.deny,Group of people NOT allowed to see this project data,LEXY
+Z.BD.004.allow,Group of people allowed to see the specific project data,Violin
+Z.BD.004.deny,Group of people NOT allowed to see this project data,Violin
+Z.BD.005.allow,Group of people allowed to see the specific project data,Elios
+Z.BD.005.deny,Group of people NOT allowed to see this project data,Elios
+Z.BD.006.allow,Group of people allowed to see the specific project data,Alya
+Z.BD.006.deny,Group of people NOT allowed to see this project data,Alya
+Z.BD.007.allow,Group of people allowed to see the specific project data,Athena 
+Z.BD.007.deny,Group of people NOT allowed to see this project data,Athena 
+Z.BD.008.allow,Group of people allowed to see the specific project data,Neptun
+Z.BD.008.deny,Group of people NOT allowed to see this project data,Neptun
+Z.BD.009.allow,Group of people allowed to see the specific project data,Nay
+Z.BD.009.deny,Group of people NOT allowed to see this project data,Nay
+Z.BD.010.allow,Group of people allowed to see the specific project data,Sitar + Cajon
+Z.BD.010.deny,Group of people NOT allowed to see this project data,Sitar + Cajon
+Z.BD.011.allow,Group of people allowed to see the specific project data,PEC Timis Pr - Divestments round 3 and 4 
+Z.BD.011.deny,Group of people NOT allowed to see this project data,PEC Timis Pr - Divestments round 3 and 4 
+Z.BD.012.allow,Group of people allowed to see the specific project data,PEC Turnu Pr - Divestments round 3 and 4 
+Z.BD.012.deny,Group of people NOT allowed to see this project data,PEC Turnu Pr - Divestments round 3 and 4 
+Z.BD.013.allow,Group of people allowed to see the specific project data,Nereus
+Z.BD.013.deny,Group of people NOT allowed to see this project data,Nereus
+Z.BD.014.allow,Group of people allowed to see the specific project data,Kobza
+Z.BD.014.deny,Group of people NOT allowed to see this project data,Kobza
+Z.BD.015.allow,Group of people allowed to see the specific project data,Field Analysis Romania
+Z.BD.015.deny,Group of people NOT allowed to see this project data,Field Analysis Romania
+Z.BD.016.allow,Group of people allowed to see the specific project data,not in use
+Z.BD.016.deny,Group of people NOT allowed to see this project data,not in use
+Z.BD.017.allow,Group of people allowed to see the specific project data,not in use
+Z.BD.017.deny,Group of people NOT allowed to see this project data,not in use
+Z.BD.018.allow,Group of people allowed to see the specific project data,not in use
+Z.BD.018.deny,Group of people NOT allowed to see this project data,not in use
+Z.BD.019.allow,Group of people allowed to see the specific project data,not in use
+Z.BD.019.deny,Group of people NOT allowed to see this project data,not in use
+Z.BD.020.allow,"Group of people allowed to see the specific project data, NAMR",NAMR RO
+Z.BD.020.deny,Group of people NOT allowed to see this project data,not in use

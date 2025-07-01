@@ -1,0 +1,85 @@
+Name,Description,Comments
+Administrators,Default Admin workgroup.,This group consists all the permissions on the engine.
+Auditor,users can check auditlogs,permission to read and check audit-logs
+data.Austria,OMV BO Austria users,are allowed to see on data from BO Austria
+data.Austria.Key,data.Austria.Key,
+data.BD.project,Business Development project ,Business Development power user HO
+data.Corporate,OMV Headoffice users (corporate) ,are allowed to see data from all countries 
+data.Libya,data.Libya,
+data.Libya.key,data.Libya,
+data.Norway,OMV BO Norway users,are allowed to see on data from BO Norway
+data.Norway.Key,data.Norway.Key,
+data.Petrom,OMV Petrom users,are allowed to see on data from OMV Petrom
+data.Russia,OMV BO Russia users,are allowed to see on data from BO Russia
+data.Russia.Key,data.Russia.Key,
+data.Tunisia,OMV BO Tunisia users,
+data.Tunisia.Key,data.Tunisia.Key,
+DataFlow.key,Dataflow Key user ,Dataflow Key user in Branchoffice
+DataFlow.power,Dataflow Power user,Dataflow Power user in Headoffice
+Developer,internal & external developers,permissions needed for developers
+Economics.key,Economics key user ,Economics user in Branchoffice
+Economics.power,Economics power user,Economics power user in headoffice - global settings
+Economics.regimes,Economics.regimes,
+Everyone,Default workgroup.,This group consists only public permission on the engine.
+Financials.key,Financials key user,Controlling key user in Branchoffice
+Financials.power,Financials power user HO,Controlling power user  in Headoffice
+Financials.regimes,Financials.regimes,
+Input.Approve,Input.Approve,
+Input.Confirm,Input.Confirm,
+Objects.unlock,Objects.unlock,
+OMV_CoreTeam,OMV Core Team Members,temp. Group for initial project phast - should disappear at later stage
+P2V.admin,Plan2Value administrators,permissions to almost everything
+P2V.base,P2V base access,user are allowed to update their project data
+P2V.developer,Group of internal/external developers,all external AUCERNA experts to support 
+PetroVR,PetroVR user,Users are allowed to use Economics as a Service ; DataLoader
+Portfolio,Portfolio user,Portfolio power user in HO
+Reporting,External Data interface using Odata,permissions to use Odata as interface
+Reserves.Approver,Reserves.Approver,
+Reserves.base,Reserves.base,
+Reserves.DataAdmin,Reserves.DataAdmin,
+Reserves.key,Resources/Reserves key user,Reserves key user , QREs
+Reserves.power,Resources/Reserves power user HO,Reserves power user in Headoffice
+Reserves.useradmin,Reserves.useradmin,
+temp.adjust.admin,temp.adjust.admin,
+temp.adjust.admin.deny,temp.adjust.admin.deny,
+temp.adjust.admin.readonly,temp.adjust.admin.readonly,
+temp.adjust.eco,temp.adjust.eco,
+temp.adjust.eco.deny,temp.adjust.eco.deny,
+temp.adjust.eco.readonly,temp.adjust.eco.readonly,
+temp.adjust.ecoresults,temp.adjust.ecoresults,
+temp.adjust.ecoresults.deny,temp.adjust.ecoresults.deny,
+temp.adjust.ecoresults.readonly,temp.adjust.ecoresults.readonly,
+temp.adjust.fin,temp.adjust.fin,
+temp.adjust.fin.deny,temp.adjust.fin.deny,
+temp.adjust.fin.readonly,temp.adjust.fin.readonly,
+temp.adjust.input,temp.adjust.input,
+temp.adjust.input.deny,temp.adjust.input.deny,
+temp.adjust.input.readonly,temp.adjust.input.readonly,
+temp.admin,temp.admin,
+temp.admin.deny,temp.admin.deny,
+temp.admin.readonly,temp.admin.readonly,
+temp.economics,temp.economics,
+temp.economics.deny,temp.economics.deny,
+temp.economics.readonly,temp.economics.readonly,
+temp.ecoresults,temp.ecoresults,
+temp.ecoresults.deny,temp.ecoresults.deny,
+temp.ecoresults.readonly,temp.ecoresults.readonly,
+temp.financials,temp.financials,
+temp.financials.deny,temp.financials.deny,
+temp.financials.readonly,temp.financials.readonly,
+temp.input,temp.input,
+temp.input.deny,temp.input.deny,
+temp.input.readonly,temp.input.readonly,
+Useradmin,User for useradministration,permissions to add/change users, workgroups, …
+zz.BusinessDev_key,Business Development key user,Business Development key user
+zz.Exploration_key,Exploration key user,Exploration key user
+zz.Exploration_power,Exploration power user HO,Exploration power user HO
+zz.Interfaces,group for API usage,permissions used for interface APIs
+zz.OMV_ArabEmirates,OMV BO ArabEmirates users,are allowed to see on data from BO ArabEmirates
+zz.OMV_Kazakhstan,OMV BO Kazakhstan users,are allowed to see on data from BO Kazakhstan
+zz.OMV_Libya,OMV BO Libya users,are allowed to see on data from BO Libya
+zz.OMV_NewZealand,OMV BO New Zealand users,are allowed to see on data from BO New Zealand
+zz.OMV_Sapura,OMV Sapura users,are allowed to see on data from OMV Sapura
+zz.OMV_Tunisia,OMV BO Tunisia users,are allowed to see on data from BO Tunisisa
+zz.OMV_Yemen,OMV BO Yemen users,are allowed to see on data from BO Yemen
+zz.PlanPort_key,Planning & Portfolio key user,Planning & Portfolio key user

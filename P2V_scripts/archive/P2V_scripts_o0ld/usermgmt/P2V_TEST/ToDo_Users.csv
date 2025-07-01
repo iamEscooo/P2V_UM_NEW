@@ -1,0 +1,266 @@
+LogonId,DisplayName,Description,IsDeactivated,IsAccountLocked,EmailAddress,authenticationMethod
+adminarun05,Shaw Arun (Admin),AUCERNA,FALSE,FALSE,,SAML2
+adminx449222@ww.omv.com,Kufner Martin (Admin),OMV core team,FALSE,FALSE,martin.kufner@omv.com,SAML2
+Adrian.Jones@omv.com,Jones Adrian,EN-X Expl. Development & Production,FALSE,FALSE,,SAML2
+Alexander.Gerstner@omv.com,Gerstner Alexander,ETW-C Well Construction,FALSE,FALSE,,SAML2
+Alexander.Valente@omv.com,Valente Alexander Ashcroft (ALEXANDER27),ETR-R Reservoir Engineering,FALSE,FALSE,,SAML2
+AlexanderMartin.Domnanovich@omv.com,Domnanovich Alexander Martin,ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+alexandru.chiru@omv.com,Chiru Alexandru,PFE-O Upstream Controlling,FALSE,FALSE,,SAML2
+ALEXEY6@ww.omv.com,Alexey Bychkov (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+AlinaSimona.Pop@petrom.com,Pop Alina Simona,PFE-1 Finance&Controlling Asset Crisa,FALSE,FALSE,,SAML2
+Andrea.Hollerer@omv.com,Hollerer Andrea,ETRF-O Geolog.Well Delivery&Operations,FALSE,FALSE,,SAML2
+Andrea.Payer-Moser@omv.com,Payer-Moser,EP-R Reserves Assurance,FALSE,FALSE,,SAML2
+Andreea.Alexandru@omv.com,Alexandru Andreea,EF-RU Finance Russia,FALSE,FALSE,,SAML2
+Andrew.Deacon@omv.com,Deacon Andrew Charles,ED-RU Projects RU,FALSE,FALSE,,SAML2
+Andrey.Andreev@omv.com,Andreev Andrey,ETD-RU Digital Excellence RU,FALSE,FALSE,,SAML2
+Angelika.Schmid@omv.com,Schmid Angelika (X450289),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Anna.Krueger@omv.com,Krüger Anna,EFV-C Controlling A,FALSE,FALSE,,SAML2
+ARMANDO1@ww.omv.com,Carrasco Armando (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+ARUN05@ww.omv.com,Shaw Arun (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+Barbara.Male-Pirker@omv.com,Male-Pirker Barbara,ETR-R Reservoir Engineering,FALSE,FALSE,,SAML2
+Bas.Jacobs@omv.com,Jacobs Bas,ETR-R Reservoir Engineering,FALSE,FALSE,,SAML2
+Beatrice.Iovita@petrom.com,Iovita Beatrice,PEPP-A Portfolio Analysis & Planning,FALSE,FALSE,,SAML2
+Birgit.Stoiser@omv.com,Stoiser Birgit,EF-E Economics & M&A Finance,FALSE,FALSE,,SAML2
+BogdanGeorge.Davidescu@omv.com,Davidescu Bogdan-George,EATT-R Dev & Reservoir Engineering,FALSE,FALSE,,SAML2
+BogdanMarius.Dinu@omv.com,Dinu Bogdan-Marius,EF-S SAP S/4HANA Upstream,FALSE,FALSE,,SAML2
+Camilo.Sanchez@omv.com,Sanchez Camilo,PEIK-F Finance,FALSE,FALSE,,SAML2
+Carina.Dirtl@omv.com,Dirtl Carina,EP-S Performance & Services,FALSE,FALSE,,SAML2
+Catalin.Paraschiv@petrom.com,Paraschiv Catalin,EP-R Reserves Assurance,FALSE,FALSE,,SAML2
+Chloe.Asmar@omv.com,Asmar Chloe,EF-E Economics & M&A Finance,FALSE,FALSE,,SAML2
+Christian.Astl@omv.com,Astl Christian,EP-S Performance & Services,FALSE,FALSE,,SAML2
+Christian.Blecha@omv.com,Blecha Christian,EP-P Portfolio & Planning,FALSE,FALSE,,SAML2
+Christian.Enzendorfer@omv.com,Enzendorfer Christian,EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Christian.Malle@omv.com,Malle Christian,ETDA-S Subsurface DDAM,FALSE,FALSE,,SAML2
+Christian.Scholz@omv.com,Scholz Christian,EP-AT Perf. Portf. Planning & BS AUT,FALSE,FALSE,,SAML2
+Christian.Sledz@omv.com,Sledz Christian,EF-E Economics & M&A Finance,FALSE,FALSE,,SAML2
+Christian.Tauschitz@omv.com,Tauschitz Christian,PFE-O Upstream Controlling,FALSE,FALSE,,SAML2
+Christina.Gaber@omv.com,Gaber Christina Maria,EP-T Technical Assurance,FALSE,FALSE,,SAML2
+Christine.Kirchgasser@omv.com,Kirchgasser Christine,EFN-C Controlling NOS,FALSE,FALSE,,SAML2
+Christopher.Schmid@omv.com,Schmid Christopher (X450700),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Corina.Moza@omv.com,Moza Corina,EFC-O Operational Controlling,FALSE,FALSE,,SAML2
+Daniel.Kressnik@omv.com,Kressnik Daniel,EDS-C Project Controls,FALSE,FALSE,,SAML2
+DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+DanielZoltan.KovacsOskolas@external.omv.com,Kovacs-Oskolas Daniel Zoltan (DANIEL299),EF-E Economics & M&A Finance,FALSE,FALSE,,SAML2
+Darijo.Tomasevic@omv.com,Tomasevic Darijo,EFV-C Controlling A,FALSE,FALSE,,SAML2
+Dimitri.Bruns@omv.com,Bruns Dimitri,ETD-I Digital Excellence NOS,FALSE,FALSE,,SAML2
+DOUG03@ww.omv.com,MacDonald Doug (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+DOUG04@ww.omv.com,Brocklebank Doug (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+Eduard.Klein@omv.com,Klein Eduard,EP-R Reserves Assurance,TRUE,FALSE,,SAML2
+Eduard.Safiullin@omv.com,Safiullin Eduard,ERU-X Expl. Development & Production,FALSE,FALSE,,SAML2
+Ekaterina.Melnikova@omv.com,Melnikova Ekaterina,ED-RU Projects RU,FALSE,FALSE,,SAML2
+Elena.Ene@petrom.com,Ene Elena (X01022657),PFE-F Project Finance & Economics,FALSE,FALSE,,SAML2
+Elin.Skeie@omv.com,Skeie Elin,ENX-P Production & Engineering NOS,FALSE,FALSE,,SAML2
+Emma.Rodgers@omv.com,Rodgers Emma,EMY-C CEO SapuraOMV,FALSE,FALSE,,SAML2
+Ester.MartinezPorqueras@omv.com,Martinez Porqueras Ester (ESTER1),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+FABIAN37@ww.omv.com,Pinzon Fabian (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+Felix.Lipp@omv.com,Lipp Felix,EP-P Portfolio & Planning,FALSE,FALSE,,SAML2
+Fida.Hussain@omv.com,Hussain Fida,EF-E Economics & M&A Finance,FALSE,FALSE,,SAML2
+Florian.Dutzler@omv.com,Dutzler Florian,EF-S SAP S/4HANA Upstream,FALSE,FALSE,,SAML2
+Frank.Nolte@omv.com,Nolte Frank,ETR-D Development,FALSE,FALSE,,SAML2
+Franz.Bauer@omv.com,Bauer Franz,PEPP-A Portfolio Analysis & Planning,FALSE,FALSE,,SAML2
+Gabriela-Georgeta.Duta@petrom.com,Duta Gabriela-Georgeta,PFE-F Project Finance & Economics,FALSE,FALSE,,SAML2
+GAEL04@ww.omv.com,Carlier Gael (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+Georg.Schumacher@petrom.com,Schumacher Georg,E-P Perf Portf Gov & Assurance,FALSE,FALSE,,SAML2
+Georg.Seidl@omv.com,Seidl Georg,ETP-P Production Optimization,FALSE,FALSE,,SAML2
+Gerald.Antes@omv.com,Antes Gerald,ETR-D Development,FALSE,FALSE,,SAML2
+Gerasel.Toma@petrom.com,Toma Gerasel,PFE-M Finance&Controlling Asset Moldo,FALSE,FALSE,,SAML2
+Gerhard.Wiedemann@omv.com,Wiedemann Gerhard (X451148),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Gery.Verient@omv.com,Verient Gery,ETR-D Development,FALSE,FALSE,,SAML2
+GregoryJohn.Rock@omv.com,Rock Gregory John,ETXV-N Exploration&Appraisal NOS,FALSE,FALSE,,SAML2
+Hanns.Schmid@omv.com,Schmid Hanns Peter (X011444),ETX-V Exploration Ventures,FALSE,FALSE,,SAML2
+hisham.dukaly@omv.com,Dukaly Hisham (XDUKALY),EFM-L Finance LY,FALSE,FALSE,,SAML2
+Horst.Illek@omv.com,Illek Horst (X452085),ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+Horst.Ullmann@omv.com,Ullmann Horst,FTAF-C SAP Controlling & Reporting,TRUE,FALSE,,SAML2
+Ilhami.Giden@omv.com,Giden Ilhami,EATTP-T Production Technology,FALSE,FALSE,,SAML2
+Ionica.Barbu@petrom.com,Barbu Ionica,PED-R Reserves,FALSE,FALSE,,SAML2
+Irene.Dinu@petrom.com,Dinu Irene Claudia,PEPP-A Portfolio Analysis & Planning,FALSE,FALSE,,SAML2
+Iulia_Gabriela.Pasca@petrom.com,Pasca Iulia-Gabriela,EP-P Portfolio & Planning,FALSE,FALSE,,SAML2
+Ivan.Makar@omv.com,Makar Ivan,ETR-R Reservoir Engineering,FALSE,FALSE,,SAML2
+Jan.Paul@omv.com,Paul Jan,ERUR-Y Yuzhno Russkoye,FALSE,FALSE,,SAML2
+JENNIFER11@ww.omv.com,Skeete Jennifer (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+Jens.Behrend@omv.com,Behrend Jens,EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Joerg_Michael.Six@omv.com,Six Jörg,EML-X Exploration Develop. & Prod LY,FALSE,FALSE,,SAML2
+Josef.Donner@omv.com,Donner Josef,EFV-C Controlling A,FALSE,FALSE,,SAML2
+Josef.Obermaier@omv.com,Obermaier Josef (X405704),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Jost.Puettmann@omv.com,Puettmann Jost,ETR-D Development,FALSE,FALSE,,SAML2
+Karl.Berghofer@omv.com,Berghofer Karl,EMT-A Asset Gas,FALSE,FALSE,,SAML2
+KEVIN32@ww.omv.com,Rooney Kevin (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+khwajah.basem@omv.com,Hasan Khawaja Basem (XBASEMKH),EFM-E Project Finance & Economics,FALSE,FALSE,,SAML2
+Kurt.Huetter@omv.com,Hütter Kurt,ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Larissa.Wolff@omv.com,Wolff Larissa (LARISSA2),EDS-C Project Controls,FALSE,FALSE,,SAML2
+Lars.Bruset@omv.com,Bruset Lars,EF-N Finance NOS,FALSE,FALSE,,SAML2
+Lars.Drage@omv.com,Drage Lars,ERU-X Expl. Development & Production,FALSE,FALSE,,SAML2
+Lea.Fuchs@omv.com,Fuchs Lea Gertrud,EF-RU Finance Russia,FALSE,FALSE,,SAML2
+Leonardo.Umani@omv.com,Umani Leonardo,EFC-O Operational Controlling,FALSE,FALSE,,SAML2
+Leopold.Kroupa@omv.com,Kroupa Leopold (X318386),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Loredana.Bunescu@petrom.com,Bunescu Florina,PEPP-A Portfolio Analysis & Planning,FALSE,FALSE,,SAML2
+Luca.Garzonio@omv.com,Garzonio Luca,ENX-P Production & Engineering NOS,FALSE,FALSE,,SAML2
+Lucas.Hotop@omv.com,Hotop Lucas (LUCAS9),EDP-G Global Support,FALSE,FALSE,,SAML2
+Lukas.Volker@omv.com,Volker Lukas,EATTP-T Production Technology,FALSE,FALSE,,SAML2
+Madalina.CoadaPetre@omv.com,Coada-Petre Madalina,EP-N Perf. Portf. & Planning NOS,FALSE,FALSE,,SAML2
+Malek.Derbal@omv.com,Derbal Malek (MALEK3),EFMT-C Controlling,FALSE,FALSE,,SAML2
+Manfred.Leitner1@omv.com,Leitner Manfred,EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Marco.Bresciani@omv.com,Bresciani Marco,EF-N Finance NOS,FALSE,FALSE,,SAML2
+MarcSteven.Swales@omv.com,Swales Marc Steven,EF-E Economics & M&A Finance,FALSE,FALSE,,SAML2
+Maria.Pertl@omv.com,Pertl Maria,EF-C Controlling,FALSE,FALSE,,SAML2
+Mario-Luis.Rodriguez_Chavez@omv.com,Rodriguez Chavez Mario-Luis,EF-E Economics & M&A Finance,FALSE,FALSE,,SAML2
+markus.nuesslein@omv.com,Nüsslein Markus,EP-P Portfolio & Planning,FALSE,FALSE,,SAML2
+Marsel.Galyautdinov@omv.com,Galyautdinov Marsel,EF-RU Finance Russia,FALSE,FALSE,,SAML2
+Martin.Hubbig@omv.com,Hubbig Martin,EP-R Reserves Assurance,FALSE,FALSE,,SAML2
+martin.kufner@omv.com,Kufner Martin,ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+Martina.Waldner@omv.com,Waldner Martina,EF-C Controlling,FALSE,FALSE,,SAML2
+MatthewKent.Coughlin@omv.com,Coughlin Matthew Kent,EMXR-R Reservoir Engineering,FALSE,FALSE,,SAML2
+MichaelStefan.Eichinger@omv.com,Eichinger Michael Stefan,ETR-D Development,FALSE,FALSE,,SAML2
+Mihaela.Dumitriu@petrom.com,Dumitriu Mihaela,PEA7M-T Technical&Engineering Support,FALSE,FALSE,,SAML2
+MihaelaNicoleta.Dobre@petrom.com,Dobre Mihaela-Nicoleta (MIHAELA37),FGPIU-U Surface DDAM,FALSE,FALSE,,SAML2
+Neil.Ementon@omv.com,Ementon Neil,ETX-S Exploration&Appr,FALSE,FALSE,,SAML2
+Nicole.Paces@omv.com,Paces Nicole,ED-E Concept & Project Fac. Eng.,FALSE,FALSE,,SAML2
+Nicoleta.Chis@petrom.com,Chis Nicoleta-Marinela,PFE-1 Finance&Controlling Asset Crisa,FALSE,FALSE,,SAML2
+Nicoleta.Stancu@petrom.com,Stancu Nicoleta,PED-R Reserves,FALSE,FALSE,,SAML2
+Nina.Romich@omv.com,Romich Nina,EP-AT Perf. Portf. Planning & BS AUT,FALSE,FALSE,,SAML2
+Nona.Audochii@petrom.com,Audochii Nona-Alice,PFE-F Project Finance & Economics,FALSE,FALSE,,SAML2
+OscarAlberto.Perez@omv.com,Perez Oscar Alberto,EDM-L Projects LY,FALSE,FALSE,,SAML2
+Paul.Fuehrmann@omv.com,Führmann Paul,EP-P Portfolio & Planning,FALSE,FALSE,,SAML2
+Paul.Mitterlehner@omv.com,Mitterlehner Paul (X451207),EFV-C Controlling A,FALSE,FALSE,,SAML2
+Pavel.Fedorov@omv.com,Fedorov Pavel,ERU-X Expl. Development & Production,FALSE,FALSE,,SAML2
+Peter.Piller@omv.com,Piller Peter,ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Peter.Winkler@omv.com,Winkler Peter (X451821),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Rade.Kalas@omv.com,Kalas Rade,EFC-O Operational Controlling,FALSE,FALSE,,SAML2
+RaduOvidiu.Luchian@petrom.com,Luchian Radu-Ovidiu,FGPIU-S Subsurface DDAM,FALSE,FALSE,,SAML2
+Raluca.Sava@petrom.com,Sava Raluca,PEP-P Performance & Portfolio Mgmt.,FALSE,FALSE,,SAML2
+Ramona.Schlager@petrom.com,Schlager Ramona Florentina,PFE-O Upstream Controlling,FALSE,FALSE,,SAML2
+Razvan.Bulgariu@omv.com,Bulgariu Razvan,EP-P Portfolio & Planning,FALSE,FALSE,,SAML2
+Reidar.Haver@omv.com,Haver Reidar,EP-N Perf. Portf. & Planning NOS,FALSE,FALSE,,SAML2
+RICHARD44@ww.omv.com,McCurdy Richard (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+Robert.Koehazy@omv.com,Köhazy Robert (X011458),ETX-S Exploration&Appr,FALSE,FALSE,,SAML2
+Ross.Northover@omv.com,Northover Ross,ED-E Concept & Project Fac. Eng.,FALSE,FALSE,,SAML2
+Roxana.Catu-Sascioreanu@petrom.com,Catu-Sascioreanu Roxana,PFE-F Project Finance & Economics,FALSE,FALSE,,SAML2
+Samuel.Hercus@omv.com,Hercus Sam,EMX-R Development & Reservoir Eng.MEA,FALSE,FALSE,,SAML2
+Sandra.Culjak@omv.com,Culjak Sandra,EFC-O Operational Controlling,FALSE,FALSE,,SAML2
+Sasa.Blazekovic@omv.com,Blazekovic Sasa,EATT-P Prod Technology & Optimization,FALSE,FALSE,,SAML2
+SCOTT13@ww.omv.com,Busing Scott (SCOTT13),[AUCERNA] E-P Perf Portf Gov & Assurance,FALSE,FALSE,,SAML2
+Sebastian.Buha@omv.com,Buha Sebastian,EATT-P Prod Technology & Optimization,FALSE,FALSE,,SAML2
+Semra.Kocyigit@omv.com,Kocyigit Semra,EF-V Finance A & Venture Mgmt,FALSE,FALSE,,SAML2
+Sergej.Gall@omv.com,Gall Sergej,EATTP-T Production Technology,TRUE,FALSE,,SAML2
+Severin.Secklehner@omv.com,Secklehner Severin (X449657),ETR-D Development,FALSE,FALSE,,SAML2
+Simon.Rossak@omv.com,Rossak Simon,EFV-C Controlling A,FALSE,FALSE,,SAML2
+Simona.Iancu@omv.com,Iancu Simona,EP-P Portfolio & Planning,FALSE,FALSE,,SAML2
+Siri.Berge@omv.com,Berge Siri,ENX-R Development & Reservoir Eng.NOS,FALSE,FALSE,,SAML2
+Slim.Sellami@omv.com,Sellami Slim (XSELLAMSL),EFMT-C Controlling,FALSE,FALSE,,SAML2
+STANISLAV7@ww.omv.com,Kozlov Stanislav (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+Stefan.Weber@omv.com,Weber Stefan,E-BD Business Development,FALSE,FALSE,,SAML2
+Stefan.Weber1@omv.com,Weber Stefan,ETXVN-S Exploration & App. NorwegianSea,FALSE,FALSE,,SAML2
+Stephan.Staber@omv.com,Staber Stephan (X450696),ETR-D Development,FALSE,FALSE,,SAML2
+Stephanie.Huber@omv.com,Huber Stephanie (X450894),EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Stephanie.Lukesch@omv.com,Lukesch Stephanie,EP-S Performance & Services,FALSE,FALSE,,SAML2
+Susan.Ellis@omv.com,Ellis Susan,EF-E Economics & M&A Finance,FALSE,FALSE,,SAML2
+Susanne.Danek@omv.com,Danek Susanne,ETX-S Exploration&Appr,FALSE,FALSE,,SAML2
+Tanja.Weber@omv.com,Weber Tanja Maria,EP-P Portfolio & Planning,FALSE,FALSE,,SAML2
+Tatiana.Orlova@omv.com,Orlova Tatiana,EP-RU Perf. Portf. & Planning RU,FALSE,FALSE,,SAML2
+Tatiana.Prisnel@petrom.com,Prisnel Tatiana-Mirela,PFE-N Finance&Controlling Asset Munte,FALSE,FALSE,,SAML2
+Thomas.Eder@omv.com,Eder Thomas,ETX-V Exploration Ventures,FALSE,FALSE,,SAML2
+Thomas.Florian@omv.com,Florian Thomas,PEAE-M EOR&IOR Pilot and Field Project,FALSE,FALSE,,SAML2
+Thomas.Gaebler@omv.com,Gäbler Thomas,EATA-X Operations Support,FALSE,FALSE,,SAML2
+Thomas.Hummer@omv.com,Hummer Thomas (X427575),ED-E Concept & Project Fac. Eng.,FALSE,FALSE,,SAML2
+TIMOTHY5@ww.omv.com,Gaw Timothy (TIMOTHY5),[AUCERNA] E-P Perf Portf Gov & Assurance,FALSE,FALSE,,SAML2
+TREVOR4@ww.omv.com,Mann Trevor (Ext),[AUCERNA] ETDA-F Surface DDAM,FALSE,FALSE,,SAML2
+Victor.Balomiri@omv.com,Balomiri Victor-Emanuel,EP-RU Perf. Portf. & Planning RU,FALSE,FALSE,,SAML2
+Vladimir.Krcmarik@omv.com,Krcmarik Vladimir,ERU-X Expl. Development & Production,FALSE,FALSE,,SAML2
+Vladislav.Arekhov@omv.com,Arekhov Vladislav,ERU-X Expl. Development & Production,FALSE,FALSE,,SAML2
+Waqas.Qureshi@omv.com,Qureshi Waqas (XQURESHWA),EFM-C Controlling,FALSE,FALSE,,SAML2
+Wietse.Renkema@omv.com,Renkema Wietse,PED-D Development,FALSE,FALSE,,SAML2
+Wolfgang.Posch@omv.com,Posch Wolfgang,EF-E Economics & M&A Finance,FALSE,FALSE,,SAML2
+Wuilmer.Ponte@omv.com,Ponte Pineda Wuilmer Jose,ENX-R Development & Reservoir Eng.NOS,FALSE,FALSE,,SAML2
+Yosri.Maknine@omv.com,Maknine Yosri,EFC-O Operational Controlling,FALSE,FALSE,,SAML2
+Angelika.Schmid@omv.com,Schmid Angelika (X450289),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Kurt.Huetter@omv.com,Hütter Kurt (X450246),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Stefan.Massl@omv.com,Massl Stefan (X451056),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Daniel.Kressnik@omv.com,Kressnik Daniel (DANIEL51),EDS-C Project Controls,FALSE,FALSE,,SAML2
+Larissa.Wolff@omv.com,Wolff Larissa (LARISSA2),EDS-C Project Controls,FALSE,FALSE,,SAML2
+Peter.Piller@omv.com,Piller Peter (X449362),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Leopold.Kroupa@omv.com,Kroupa Leopold (X318386),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Franziska.Stadlbauer@omv.com,Stadlbauer Franziska (FRANZISKA5),GN-T NES Tech Dev & Implementation,FALSE,FALSE,,SAML2
+Paul.Mitterlehner@omv.com,Mitterlehner Paul (X451207),EFV-C Controlling A,FALSE,FALSE,,SAML2
+Josef.Donner@omv.com,Donner Josef (X451062),EFV-C Controlling A,FALSE,FALSE,,SAML2
+Anna.Krueger@omv.com,Krüger Anna (ANNA39),EFV-C Controlling A,FALSE,FALSE,,SAML2
+Darijo.Tomasevic@omv.com,Tomasevic Darijo (DARIJO1),EFV-C Controlling A,FALSE,FALSE,,SAML2
+Semra.Kocyigit@omv.com,Kocyigit Semra (SEMRA1),EF-V Finance A & Venture Mgmt,FALSE,FALSE,,SAML2
+Christian.Scholz@omv.com,Scholz Christian (CHRISTIAN130),EP-AT Perf. Portf. Planning & BS AUT,FALSE,FALSE,,SAML2
+Nina.Romich@omv.com,Romich Nina (NINA35),EP-AT Perf. Portf. Planning & BS AUT,FALSE,FALSE,,SAML2
+Stephanie.Huber@omv.com,Huber Stephanie (X450894),EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Thomas.Gaebler@omv.com,Gäbler Thomas (X448827),EATA-X Operations Support,FALSE,FALSE,,SAML2
+Alexander.Gerstner@omv.com,Gerstner Alexander (X449282),ETW-C Well Construction,FALSE,FALSE,,SAML2
+Lukas.Volker@omv.com,Volker Lukas Johannes (LUKAS80),EATTP-T Production Technology,FALSE,FALSE,,SAML2
+Andrea.Hollerer@omv.com,Hollerer Andrea (X449596),ETRF-O Geolog.Well Delivery&Operations,FALSE,FALSE,,SAML2
+BogdanGeorge.Davidescu@omv.com,Davidescu Bogdan-George (X01026000),EATT-R Dev & Reservoir Engineering,FALSE,FALSE,,SAML2
+August_Christian.Baldassari@omv.com,Baldassari August Christian (X451760),EDS-C Project Controls,FALSE,FALSE,,SAML2
+AlexanderMartin.Domnanovich@omv.com,Domnanovich Alexander Martin (ALEXANDER47),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Gerhard.Wiedemann@omv.com,Wiedemann Gerhard (X451148),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Peter.Winkler@omv.com,Winkler Peter (X451821),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Lucas.Hotop@omv.com,Hotop Lucas (LUCAS9),EDP-G Global Support,FALSE,FALSE,,SAML2
+Josef.Obermaier@omv.com,Obermaier Josef (X405704),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Christopher.Schmid@omv.com,Schmid Christopher (X450700),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+David.List@omv.com,List David (DAVID77),ET-C Capability & Skillpool Mmgt.,FALSE,FALSE,,SAML2
+Claudia.Schattovich@omv.com,Schattovich Claudia (X448463),EATT-P Prod Technology & Optimization,FALSE,FALSE,,SAML2
+Manuela.Goessnitzer@omv.com,Gößnitzer Manuela (X423442),EATT-P Prod Technology & Optimization,FALSE,FALSE,,SAML2
+Sasa.Blazekovic@omv.com,Blazekovic Sasa (X011451),EATT-P Prod Technology & Optimization,FALSE,FALSE,,SAML2
+Sebastian.Buha@omv.com,Buha Sebastian (SEBASTIAN15),EATT-P Prod Technology & Optimization,FALSE,FALSE,,SAML2
+Jens.Behrend@omv.com,Behrend Jens (X011450),EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Manfred.Leitner1@omv.com,Leitner Manfred (MANFRED5),EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Hanns.Schmid@omv.com,Schmid Hanns Peter (X011444),ETX-V Exploration Ventures,FALSE,FALSE,,SAML2
+Ulrich.Winter@omv.com,Winter Ulrich (X431908),EAT-A Assets,FALSE,FALSE,,SAML2
+Andrea.HaenslerIro@omv.com,Hänsler-Iro Andrea (X449772),EP-AT Perf. Portf. Planning & BS AUT,FALSE,FALSE,,SAML2
+Franz.Goessnitzer@omv.com,Gößnitzer Franz (X425694),EATA-G Production Gas,FALSE,FALSE,,SAML2
+Markus.Doschek@omv.com,Doschek Markus (X011441),ETW-C Well Construction,FALSE,FALSE,,SAML2
+Reinhard.Oswald@omv.com,Oswald Reinhard (X01001953),E-AT Austria Hub,FALSE,FALSE,,SAML2
+Georg.Bichler@omv.com,Bichler Georg (X431197),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Wolfgang.Hirsch@omv.com,Hirsch Wolfgang (X012629),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Martin.Siencnik@omv.com,Siencnik Martin (X429647),EF-V Finance A & Venture Mgmt,FALSE,FALSE,,SAML2
+Christian.Enzendorfer@omv.com,Enzendorfer Christian (X437426),EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Angelika.Schmid@omv.com,Schmid Angelika (X450289),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Kurt.Huetter@omv.com,Hütter Kurt (X450246),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Stefan.Massl@omv.com,Massl Stefan (X451056),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+DanielAlexander.Kovacs@omv.com,Kovacs Daniel Alexander (DANIEL63),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Daniel.Kressnik@omv.com,Kressnik Daniel (DANIEL51),EDS-C Project Controls,FALSE,FALSE,,SAML2
+Larissa.Wolff@omv.com,Wolff Larissa (LARISSA2),EDS-C Project Controls,FALSE,FALSE,,SAML2
+Peter.Piller@omv.com,Piller Peter (X449362),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Leopold.Kroupa@omv.com,Kroupa Leopold (X318386),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Franziska.Stadlbauer@omv.com,Stadlbauer Franziska (FRANZISKA5),GN-T NES Tech Dev & Implementation,FALSE,FALSE,,SAML2
+Paul.Mitterlehner@omv.com,Mitterlehner Paul (X451207),EFV-C Controlling A,FALSE,FALSE,,SAML2
+Josef.Donner@omv.com,Donner Josef (X451062),EFV-C Controlling A,FALSE,FALSE,,SAML2
+Anna.Krueger@omv.com,Krüger Anna (ANNA39),EFV-C Controlling A,FALSE,FALSE,,SAML2
+Darijo.Tomasevic@omv.com,Tomasevic Darijo (DARIJO1),EFV-C Controlling A,FALSE,FALSE,,SAML2
+Semra.Kocyigit@omv.com,Kocyigit Semra (SEMRA1),EF-V Finance A & Venture Mgmt,FALSE,FALSE,,SAML2
+Christian.Scholz@omv.com,Scholz Christian (CHRISTIAN130),EP-AT Perf. Portf. Planning & BS AUT,FALSE,FALSE,,SAML2
+Nina.Romich@omv.com,Romich Nina (NINA35),EP-AT Perf. Portf. Planning & BS AUT,FALSE,FALSE,,SAML2
+Stephanie.Huber@omv.com,Huber Stephanie (X450894),EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Thomas.Gaebler@omv.com,Gäbler Thomas (X448827),EATA-X Operations Support,FALSE,FALSE,,SAML2
+Alexander.Gerstner@omv.com,Gerstner Alexander (X449282),ETW-C Well Construction,FALSE,FALSE,,SAML2
+Lukas.Volker@omv.com,Volker Lukas Johannes (LUKAS80),EATTP-T Production Technology,FALSE,FALSE,,SAML2
+Andrea.Hollerer@omv.com,Hollerer Andrea (X449596),ETRF-O Geolog.Well Delivery&Operations,FALSE,FALSE,,SAML2
+BogdanGeorge.Davidescu@omv.com,Davidescu Bogdan-George (X01026000),EATT-R Dev & Reservoir Engineering,FALSE,FALSE,,SAML2
+August_Christian.Baldassari@omv.com,Baldassari August Christian (X451760),EDS-C Project Controls,FALSE,FALSE,,SAML2
+AlexanderMartin.Domnanovich@omv.com,Domnanovich Alexander Martin (ALEXANDER47),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Gerhard.Wiedemann@omv.com,Wiedemann Gerhard (X451148),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Peter.Winkler@omv.com,Winkler Peter (X451821),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Lucas.Hotop@omv.com,Hotop Lucas (LUCAS9),EDP-G Global Support,FALSE,FALSE,,SAML2
+Josef.Obermaier@omv.com,Obermaier Josef (X405704),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Christopher.Schmid@omv.com,Schmid Christopher (X450700),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+David.List@omv.com,List David (DAVID77),ET-C Capability & Skillpool Mmgt.,FALSE,FALSE,,SAML2
+Claudia.Schattovich@omv.com,Schattovich Claudia (X448463),EATT-P Prod Technology & Optimization,FALSE,FALSE,,SAML2
+Manuela.Goessnitzer@omv.com,Gößnitzer Manuela (X423442),EATT-P Prod Technology & Optimization,FALSE,FALSE,,SAML2
+Sasa.Blazekovic@omv.com,Blazekovic Sasa (X011451),EATT-P Prod Technology & Optimization,FALSE,FALSE,,SAML2
+Sebastian.Buha@omv.com,Buha Sebastian (SEBASTIAN15),EATT-P Prod Technology & Optimization,FALSE,FALSE,,SAML2
+Jens.Behrend@omv.com,Behrend Jens (X011450),EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Manfred.Leitner1@omv.com,Leitner Manfred (MANFRED5),EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2
+Hanns.Schmid@omv.com,Schmid Hanns Peter (X011444),ETX-V Exploration Ventures,FALSE,FALSE,,SAML2
+Ulrich.Winter@omv.com,Winter Ulrich (X431908),EAT-A Assets,FALSE,FALSE,,SAML2
+Andrea.HaenslerIro@omv.com,Hänsler-Iro Andrea (X449772),EP-AT Perf. Portf. Planning & BS AUT,FALSE,FALSE,,SAML2
+Franz.Goessnitzer@omv.com,Gößnitzer Franz (X425694),EATA-G Production Gas,FALSE,FALSE,,SAML2
+Markus.Doschek@omv.com,Doschek Markus (X011441),ETW-C Well Construction,FALSE,FALSE,,SAML2
+Reinhard.Oswald@omv.com,Oswald Reinhard (X01001953),E-AT Austria Hub,FALSE,FALSE,,SAML2
+Georg.Bichler@omv.com,Bichler Georg (X431197),EDP-R Running Business Projects,FALSE,FALSE,,SAML2
+Wolfgang.Hirsch@omv.com,Hirsch Wolfgang (X012629),ED-P Project Mgmt. & Growth Project,FALSE,FALSE,,SAML2
+Martin.Siencnik@omv.com,Siencnik Martin (X429647),EF-V Finance A & Venture Mgmt,FALSE,FALSE,,SAML2
+Christian.Enzendorfer@omv.com,Enzendorfer Christian (X437426),EAT-T Expl. Development & Production,FALSE,FALSE,,SAML2

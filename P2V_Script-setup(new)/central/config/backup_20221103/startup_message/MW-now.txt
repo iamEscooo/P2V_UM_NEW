@@ -1,0 +1,9 @@
+               >>>>>     WARNING     <<<<<
+A maintenance window for the Plan2Value production system will start NOW.
+
+System will be stoppen and all any pendings session will be automatically closed.
+
+
+Thanks for you understanding
+
+Your P2V team
