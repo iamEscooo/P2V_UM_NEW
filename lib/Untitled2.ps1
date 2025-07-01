@@ -1,4 +1,4 @@
-﻿$folder="\\somvat202005\PPS_share\P2V_UM_data\output\P2V_export_AD_users"
+$folder = Join-Path $PSScriptRoot "..\P2V_UM_data\output\P2V_export_AD_users"
 
 $age=10
 

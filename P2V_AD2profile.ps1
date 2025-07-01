@@ -1,7 +1,7 @@
 ﻿
 param (
-  $config = "\\somvat202005\PPS_share\P2V_UM_data\sec 2.0\P2V_adgroups.csv",
-  $output = "\\somvat202005\PPS_share\P2V_scripts\TEMP\P2V_ADgroups.csv"
+  $config = Join-Path $PSScriptRoot "P2V_UM_data\sec 2.0\P2V_adgroups.csv",
+  $output = Join-Path $PSScriptRoot "P2V_scripts\TEMP\P2V_ADgroups.csv"
 )
 # set input file  (match AD-group <-> P2V profile)
 $ad_group_file= $config

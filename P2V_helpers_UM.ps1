@@ -1,6 +1,6 @@
 #region Setup
 param(
-  [string]$csvpath="\\somvat202005\PPS_share\P2V_scripts\NEW\P2V_helpers_UM.csv"
+  [string]$csvpath=Join-Path $PSScriptRoot "P2V_scripts\NEW\P2V_helpers_UM.csv"
 )
   
 import-module -name "$PSScriptRoot\P2V_config.psd1" -verbose

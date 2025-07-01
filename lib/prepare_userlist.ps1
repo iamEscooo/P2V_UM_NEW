@@ -1,6 +1,6 @@
 param(
-  [string]$ufile="\\SOMVAT202005\PPS_share\P2V_UM_data\GoLivePrep\user-masterlist_final.csv",
-  [string]$pfile="\\SOMVAT202005\PPS_share\P2V_UM_data\GoLivePrep\SNOW-profiles.csv",
+  [string]$ufile = Join-Path $PSScriptRoot "..\P2V_UM_data\GoLivePrep\user-masterlist_final.csv",
+  [string]$pfile = Join-Path $PSScriptRoot "..\P2V_UM_data\GoLivePrep\SNOW-profiles.csv",
   [bool]$deactivate=$False,
   [bool]$checkOnly = $False
 )

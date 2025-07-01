@@ -39,7 +39,7 @@ Function P2V_export_AD_users
 
 #-------------------------------------------------
 #  Set config variables
-$output_path_base = "\\somvat202005\PPS_share\P2V_UM_data\output"
+$output_path_base = Join-Path $PSScriptRoot "..\P2V_UM_data\output"
 $output_path = $output_path_base + "\$My_name"
 
 $u_w_file    = $output_path + "\Myuserworkgroup.csv"
