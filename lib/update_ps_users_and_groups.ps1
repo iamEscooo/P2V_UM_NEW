@@ -1,6 +1,6 @@
 ﻿param(
     [string]$tenantUrl = "https://ips-test.ww.omv.com/P2V_TRAINING",
-    [string]$workingDir = "\\somvat202005\PPS_share\P2V_UM_data\output\AUCERNAusermgmt\P2V_TRAINING",
+    [string]$workingDir = Join-Path $PSScriptRoot "..\P2V_UM_data\output\AUCERNAusermgmt\P2V_TRAINING",
     [bool]$analyzeOnly = $False
 )
 #-------------------------------------------------

@@ -12,6 +12,6 @@ Function Get-FileName($initialDirectory)
 }
 
 
-$FileBrowser = Get-FileName ("\\somvat202005\PPS_share\P2V_scripts")
+$FileBrowser = Get-FileName (Join-Path $PSScriptRoot "..\P2V_scripts")
 "--"
 $FileBrowser

@@ -78,13 +78,13 @@ $client=$env:ComputerName
 $workdir="DIR_NOT_SET"
 
 $filedate = get-date -format "yyyy-MM-dd"   # used for log-filename
-$output_path_base = "\\somvat202005\PPS_share\P2V_scripts\output"
+$output_path_base = Join-Path $workdir "P2V_scripts\output"
 $dashboard_path   = $output_path_base + "\dashboard"
 $log_path         = $output_path_base + "\logs"
 $logfile 	      = $log_path +("\P2V_Usermgmt_Log" + $filedate + ".log")
 
 #$config_path = "\\somvat202005\PPS_share\P2V_Script-setup(new)\central\config"
-$config_path = "\\somvat202005\PPS_share\P2V_scripts\config"
+$config_path = Join-Path $workdir "P2V_scripts\config"
 
 $adgroupfile     = $config_path + "\P2V_adgroups.csv"
 $tenantfile      = $config_path + "\P2V_tenants.csv"
@@ -199,5 +199,9 @@ Export-ModuleMember -Variable @('date','output_path_base','dashboard_path','log_
 
 Export-ModuleMember -Variable @('workdir','spec_accounts')
 Export-ModuleMember -Function * -Alias *
+
+if ($workdir -eq 'DIR_NOT_SET') {
+    P2V_init -root $PSScriptRoot
+}
 
 

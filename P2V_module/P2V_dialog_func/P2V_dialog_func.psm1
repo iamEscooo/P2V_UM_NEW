@@ -42,7 +42,7 @@
 #>
 # central configurations
 # layouts           
-# test line --       |  load profile definitions \\somvat202005\PPS_share\P2V Script-setup(new)\central\config\P2V_profiles.csv [DONE]        |
+# test line --       |  load profile definitions .\P2V_scripts\config\P2V_profiles.csv [DONE]        |
 #                    12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 #                   0         1         2         3         4         5         6         7         8         9        10        11        12        13        14 
 #   130 characters per line

@@ -1,6 +1,6 @@
 ﻿param(
     [string]$tenantUrl = "https://ips-test.ww.omv.com/P2V_TRAINING",
-    [string]$workingDir = "\\somvat202005\PPS_share\P2V_UM_data\output\AUCERNAusermgmt\P2V_TRAINING",
+    [string]$workingDir = Join-Path $PSScriptRoot "..\P2V_UM_data\output\AUCERNAusermgmt\P2V_TRAINING",
     [string]$workgroupsFile = "",
 	[string]$usersFile = "",
     [string]$userWorkgroupsFile = "",
@@ -448,7 +448,7 @@ Write-Output "Please note that this script will only warn on workgroups and user
 # $usersFile = $workingDir +"\P2V_Users.csv"
 # $userWorkgroupsFile = $workingDir + "\P2V_UserWorkgroups.csv"
 
-$workingDir="\\somvat202005\PPS_share\P2V_UM_data\GoLivePrep"
+$workingDir = Join-Path $PSScriptRoot "..\P2V_UM_data\GoLivePrep"
 
 do{ #select files to load
 write-host -nonewline "select User file:                      "
