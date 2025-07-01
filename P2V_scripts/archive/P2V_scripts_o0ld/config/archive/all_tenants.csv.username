@@ -1,6 +1,0 @@
-ServerURL,tenant,Resource,usern,passw
-https://tsomvat502898.ww.omv.com,PPS_DEV,Planningspace,useradmin,aucerna4me
-https://ips-test.ww.omv.com,P2V_TEST,Planningspace,useradmin,aucerna4me
-https://ips-test.ww.omv.com,P2V_DEMO,Planningspace,useradmin,aucerna4me
-https://ips-test.ww.omv.com,P2V_TRAINING,Planningspace,useradmin,aucerna4me
-https://ips-prod.ww.omv.com,P2V-PROD,Planningspace,useradmin,aucerna4me
