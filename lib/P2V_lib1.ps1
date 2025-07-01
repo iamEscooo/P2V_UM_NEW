@@ -12,7 +12,7 @@
 #===================================================
 
 # global variables
-$global:output_path_base = "\\somvat202005\PPS_share\P2V_UM_data\output"
+$global:output_path_base = Join-Path $workdir "P2V_UM_data\output"
 $global:dashboard_path = $output_path_base + "\dashboard"
 $global:log_path    = $output_path_base + "\logs"
 
@@ -24,7 +24,7 @@ createdir_ifnotexists ($log_path)
 
 $global:lib_path    = $workdir + "\lib"
 
-$global:config_path = "\\somvat202005\PPS_share\P2V Script-setup(new)\central\config"
+$global:config_path = Join-Path $workdir "P2V_scripts\config"
 $global:adgroupfile = $config_path + "\P2V_adgroups.csv"
 $global:tenantfile  = $config_path + "\P2V_tenants.csv"
 $global:profile_file= $config_path + "\P2V_profiles.csv"

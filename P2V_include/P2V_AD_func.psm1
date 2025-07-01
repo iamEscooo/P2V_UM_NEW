@@ -415,7 +415,7 @@ Function P2V_export_AD_users
 .NOTES
   
 #>
-$output_path = "\\somvat202005\PPS_share\P2V_UM_data\sec 2.0"
+$output_path = Join-Path $workdir "P2V_UM_data\sec 2.0"
 $outfile= $output_path+"P2V_SAMLusers_profiles_AUTO.csv"
 P2V_header -app $MyInvocation.MyCommand -path $My_path 
 createdir_ifnotexists -check_path $output_path  -verbose $true

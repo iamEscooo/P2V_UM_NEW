@@ -1,5 +1,6 @@
 
 
+# Example of loading the module from a network share (legacy path)
 # import-module "\\somvat202005\PPS_share\P2V_scripts\GITHUB\P2V_module"
 import-module "$PSScriptRoot\p2v_mod.psd1"
 

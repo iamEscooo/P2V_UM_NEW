@@ -1,6 +1,6 @@
 ﻿param(
     [string]$tenantUrl = "https://ips-test.ww.omv.com/P2V_DEMO",
-    [string]$workingDir = "\\somvat202005\PPS_Share\P2V_scripts\output\TrainingGAE"
+    [string]$workingDir = Join-Path $PSScriptRoot "..\P2V_scripts\output\TrainingGAE"
     )
 	
 #-------------------------------------------------

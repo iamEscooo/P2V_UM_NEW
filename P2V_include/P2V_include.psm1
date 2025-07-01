@@ -533,7 +533,7 @@ Function P2V_check_data_access
 	#$debug          = $true
 	
 	
-	$input_file= "\\somvat202005\pps_share\P2V_Script-setup(new)\central\config\P2V_BD_ADgroup.csv"
+        $input_file = Join-Path $config_path "P2V_BD_ADgroup.csv"
 	write-output ($form1 -f   "loading $input_file")
 	
 	$AD_list= import-csv $input_file
