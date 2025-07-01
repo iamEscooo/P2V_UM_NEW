@@ -1,5 +1,0 @@
-Section,Method,Command,Arguments,Name,Description
-(future) PS 20.4 PROD,cmd,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe ,-app=https://ips20-prod.ww.omv.com/PROD,Web PS 20.4 Future PROD,Quorum Planningspace  Future PROD (only testing)
-(future) PS 20.4 PROD,cmd,C:\Program Files\Palantir\PalantirIPS 20.4\PlanningSpace\PlanningSpace.exe ,/tenanturl=https://ips20-prod.ww.omv.com/PROD,Planningspace Future PROD,Quorum Planningspace(only testing)
-EXIT,exit,exit,,EXIT,exit this menu
-EXIT,cmd,logoff,,EXIT,closes all PROD P2V sessions and exit
