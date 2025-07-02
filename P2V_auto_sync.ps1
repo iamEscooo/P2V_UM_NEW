@@ -1,6 +1,7 @@
 # P2V_auto_sync.ps1
 # Non-interactive script to synchronize AD users with Plan2Value tenants
 param(
+    [string]$User,
     [string[]]$TenantFilter,
     [switch]$IncludeInactive,
     [switch]$WhatIf,
@@ -115,6 +116,46 @@ $tenants = Get-PSConfiguredTenants -Filter $TenantFilter
 $profileMap = GetProfileGroupMap
 $summary = @()
 
+#--- select user -------------------------------------------------------------
+if (-not $User) { $User = Read-Host 'Enter user x-key or search string' }
+$adUser = get_AD_user -xkey $User
+if (-not $adUser) { Write-Error 'User not found in AD'; exit }
+Write-Output "User: $($adUser.displayName) [$($adUser.UserPrincipalName)]"
+
+#--- derive profiles and workgroups ----------------------------------------
+$profiles = GetProfileFromAD -XKey $adUser.SamAccountName
+if (-not $profiles) { Write-Error 'No profile detected from AD groups'; exit }
+Write-Output 'Detected profiles:'
+$profiles | ForEach-Object { Write-Output " - $_" }
+
+$workgroups = @()
+foreach ($p in $profiles) { $workgroups += $profileMap[$p] }
+$workgroups = $workgroups | Sort-Object -Unique
+
+Write-Output 'Workgroups to be assigned:'
+$workgroups | ForEach-Object { Write-Output " - $_" }
+
+$cont = Read-Host 'Proceed with these workgroups? (y/N)'
+if ($cont -notlike 'y*') { Write-Warning 'Aborted'; P2V_footer -app $MyInvocation.MyCommand; return }
+
+#--- tenant selection -------------------------------------------------------
+Write-Output 'Available tenants:'
+$tenants.Keys | ForEach-Object { Write-Output " - $_" }
+$sel = Read-Host 'Tenant(s) to sync (comma separated, blank=all)'
+if ($sel) {
+    $names = $sel -split ',' | ForEach-Object { $_.Trim() }
+    $tenants = $tenants.GetEnumerator() | Where-Object { $names -contains $_.Key } | ForEach-Object { $ten = $_.Value; @{ ($_.Key) = $ten } } | ForEach-Object { $_ }
+    $temp = @{}
+    foreach ($h in $tenants) { $key = $h.Keys[0]; $temp[$key] = $h[$key] }
+    $tenants = $temp
+}
+
+#--- sync -------------------------------------------------------------------
+$res = Sync-UserProfile -ADUser $adUser -Tenants $tenants -ProfileMap $profileMap -WhatIf:$WhatIf
+foreach ($r in $res) {
+    $summary += $r
+    Write-Log "[$($r.tenant)] $($r.username) -> $($r.status)"
+=======
 $groups = Get-ADGroup -Filter 'Name -like "DLG.P2V.*"'
 $members = $groups | ForEach-Object { Get-ADGroupMember $_ -Recursive } | Where-Object { $_.objectClass -eq 'user' } | Sort-Object -Property SamAccountName -Unique
 

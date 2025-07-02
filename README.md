@@ -26,7 +26,6 @@ Start a PowerShell console, change to this directory and run:
 ```powershell
 .\P2V_UserMgmt_20.ps1
 ```
-
 The form offers actions like:
 
 - Searching AD users and checking their P2V accounts.
@@ -36,6 +35,11 @@ The form offers actions like:
 
 ### Automated sync
 
+For command line usage a helper `P2V_auto_sync.ps1` is provided.  The script
+prompts for an AD user, resolves the profiles from the configured
+`DLG.P2V.*` groups and shows the workgroups that would be synchronised.  After
+confirming the selection you choose the tenant(s) to update.  Example usage:
+
 For scheduled environments a non-interactive helper `P2V_auto_sync.ps1` is
 provided.  It scans AD for `DLG.P2V.*` groups and applies the matching profile
 permissions across all configured tenants.  Example usage:
@@ -44,6 +48,11 @@ permissions across all configured tenants.  Example usage:
 ./P2V_auto_sync.ps1 -Verbose
 ```
 
+Optional parameters include `-TenantFilter` to limit the tenants processed,
+`-User` to preselect the AD account, and `-WhatIf` to preview the changes
+without sending them to the API. Use `-IncludeInactive` to also process
+disabled AD accounts.
+
 Optional parameters include `-TenantFilter` to limit the tenants processed and
 `-WhatIf` to preview the changes without sending them to the API. Use
 `-IncludeInactive` to also process disabled AD accounts.
@@ -51,8 +60,9 @@ Optional parameters include `-TenantFilter` to limit the tenants processed and
 The script reads the AD group to profile mapping and profile-to-workgroup rules
 directly from the CSV files in `P2V_scripts/config`, so no manual file selection
 is required.
-=======
+
 `-WhatIf` to preview the changes without sending them to the API.
+
 `P2V_init` automatically sets `$workdir` based on the script location so no additional configuration is required.
 
 ## Suggested enhancements
