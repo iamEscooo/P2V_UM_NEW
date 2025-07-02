@@ -155,6 +155,18 @@ $res = Sync-UserProfile -ADUser $adUser -Tenants $tenants -ProfileMap $profileMa
 foreach ($r in $res) {
     $summary += $r
     Write-Log "[$($r.tenant)] $($r.username) -> $($r.status)"
+=======
+$groups = Get-ADGroup -Filter 'Name -like "DLG.P2V.*"'
+$members = $groups | ForEach-Object { Get-ADGroupMember $_ -Recursive } | Where-Object { $_.objectClass -eq 'user' } | Sort-Object -Property SamAccountName -Unique
+
+foreach ($m in $members) {
+    $adUser = Get-ADUser -Identity $m.SamAccountName -Properties EmailAddress,Enabled,UserPrincipalName
+    if(!$IncludeInactive -and -not $adUser.Enabled) { continue }
+    $res = Sync-UserProfile -ADUser $adUser -Tenants $tenants -ProfileMap $profileMap -WhatIf:$WhatIf
+    foreach ($r in $res) {
+        $summary += $r
+        Write-Log "[$($r.tenant)] $($r.username) -> $($r.status)"
+    }
 }
 
 $summaryFile = Join-Path $output_path_base ("sync_summary_{0:yyyyMMdd_HHmm}.csv" -f (Get-Date))
