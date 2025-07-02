@@ -1,138 +1,144 @@
-# P2V User Management
-
-## Overview
-
-**P2V_UserMgmt_20** is a comprehensive PowerShell toolkit for managing users and permissions in complex enterprise environments. It provides a Windows Forms GUI for both Active Directory operations and seamless integration with the Plan2Value (P2V) REST API, supporting bulk operations, profile synchronization, group mapping, and more.
-
-This project is modular, highly configurable via CSV files, and suitable for multi-tenant scenarios.
+Perfect! Here’s a **polished, modern README.md draft** for your repo, styled for public/open GitHub use.
+I’ll base it on your structure, module layout, and audience (PowerShell/IT admins, likely in a corporate/enterprise AD environment).
 
 ---
 
-## Features
+```markdown
+# P2V User Management Suite
 
-- **Windows Forms GUI** for intuitive user and group management.
-- **Active Directory Integration:**  
-  - Query users, groups, and memberships  
-  - Export user lists  
-  - Interactive selection dialogs
-- **P2V REST API Integration:**  
-  - Sync users and group memberships  
-  - Activate, deactivate, lock, unlock users  
-  - Patch and update user profiles, workgroups, and access rights
-- **Bulk Operations:**  
-  - Execute batch jobs via scripts in `lib/`
-  - Automate group and profile assignments
-- **Configurable:**  
-  - All tenants, groups, and profiles defined in CSV files (under `P2V_scripts/config/`)
-- **Logging:**  
-  - Detailed logs written per session in `P2V_UM_data/output/logs/`
-- **Extensible:**  
-  - Modular design with self-contained PowerShell modules
-- **Multi-tenant aware:**  
-  - Designed for environments with multiple AD domains and P2V tenants
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-Custom-lightgrey)
+
+> **Enterprise PowerShell GUI for AD & P2V REST-based user management**  
+> _Seamless Active Directory & multi-tenant user operations from a single pane._
 
 ---
 
-## Repository Layout
+## ✨ Features
 
-```plaintext
-P2V_UserMgmt_20.ps1         # Main script (launches the GUI and imports all modules)
-P2V_module/                 # Module manifests (.psd1)
-    P2V_config.psd1
-    P2V_dialog_func.psd1
-    P2V_AD_func.psd1
-    P2V_PS_func.psd1
-    P2V_include.psd1
-P2V_include/                # Actual module implementations (.psm1)
-    P2V_config.psm1
-    P2V_dialog_func.psm1
-    P2V_AD_func.psm1
-    P2V_PS_func.psm1
-    P2V_include.psm1
-lib/                        # Stand-alone/bulk PowerShell scripts
-P2V_scripts/
-    config/                 # Configuration CSV files (tenants, groups, profiles, etc.)
-P2V_UM_data/                # Output directory (logs, dashboards, data exports)
-Getting Started
-Prerequisites
-PowerShell 5.1 (Windows PowerShell)
+- **User-friendly Windows Forms GUI**  
+  Manage AD users, group assignments, and P2V tenant permissions
+- **Bulk operations** for users, groups, and profiles (import/export, sync, audit)
+- **REST API integration** with multiple P2V tenants
+- **Configurable**: Easy module-based architecture with CSV-based configuration
+- **Automated logging** and reporting
+- **Enterprise-ready**: Designed for secure, auditable operations
 
-Active Directory Module
-(Install via RSAT or Install-WindowsFeature -Name "RSAT-AD-PowerShell")
+---
 
-Network connectivity to your AD and P2V REST API endpoints
+## 🗂️ Repository Layout
 
-Properly configured CSV files in P2V_scripts/config/ (see below)
+```
 
-Installation
-Clone the repository:
+P2V\_UserMgmt\_20.ps1        # Main GUI entry point
+P2V\_module/                # Module manifests + core include folder
+└─ P2V\_include/
+P2V\_config.psm1      # Global variables, directory setup
+P2V\_dialog\_func.psm1 # Dialog utilities, confirmation prompts
+P2V\_AD\_func.psm1     # AD query helpers
+P2V\_PS\_func.psm1     # REST API calls, tenant ops
+P2V\_scripts/lib/           # Bulk operation scripts (export, group calc, etc)
+P2V\_scripts/config/        # CSV configs for tenants, groups, profiles
+P2V\_UM\_data/               # Output/log directory (auto-created)
 
-sh
-Copy
-Edit
-git clone https://github.com/<your-org>/P2V_UserMgmt_20.git
-Adjust configuration:
+````
 
-Edit CSV files in P2V_scripts/config/ for tenants, AD groups, profiles, etc.
+---
 
-Launch the GUI:
+## 🚦 Quick Start
 
-sh
-Copy
-Edit
-powershell -ExecutionPolicy Bypass -File .\P2V_UserMgmt_20.ps1
-Configuration
-All tenant, group, and profile definitions are managed via CSV files in P2V_scripts/config/:
+1. **Clone this repository**
 
-File	Purpose
-P2V_tenants.csv	List of tenants, API endpoints, etc.
-P2V_adgroups.csv	Mapping of AD groups to P2V profiles
-P2V_profiles.csv	Profile definitions
-data_groups.csv	Data group mappings
-TAG_config.csv	Tagging and metadata settings
-P2V_BD.csv	Business Domain group mapping
-P2V_BD_projects.csv	Project-specific group mapping
-P2V_menu.csv	Customization of the GUI menu
+    ```powershell
+    git clone https://github.com/your-org/P2V_UserMgmt_20.git
+    cd P2V_UserMgmt_20
+    ```
 
-Sample templates are provided in the repo. Ensure you update these to reflect your environment.
+2. **Prepare configuration files**  
+   _Edit the CSVs in `P2V_scripts/config/` to match your environment._
 
-Module Breakdown
-Each module is defined by a manifest (.psd1) and implemented in a .psm1 file under P2V_include/:
+3. **Run the main script**
 
-Module	Purpose
-P2V_config	Global variables, directory paths, init functions
-P2V_dialog_func	Windows Forms dialogs, user prompts, confirmations
-P2V_AD_func	Active Directory queries, user/group lookups
-P2V_PS_func	REST API (P2V) interactions and user management
-P2V_include	Utility functions, logging, orchestration, glue code
+    ```powershell
+    .\P2V_UserMgmt_20.ps1
+    ```
 
-Usage
-General workflow:
+4. **Start managing users!**
 
-Launch the main script (P2V_UserMgmt_20.ps1)
+---
 
-Use the GUI to:
+## 💡 Example: Bulk Export of AD Users
 
-Query and manage AD users/groups
+```powershell
+Import-Module .\P2V_module\P2V_AD_func.psd1
+P2V_export_AD_users -GroupName "Your-AD-Group" -OutputPath "C:\Exports\users.csv"
+````
 
-Sync users between AD and P2V tenants
+---
 
-Patch, activate, deactivate, lock, or unlock users
+## 📖 Documentation
 
-Run bulk operations from the "lib" menu
+* **[Configuration Guide](docs/configuration.md)**
+* **[User Guide](docs/user_guide.md)**
+* **[Advanced Usage & Troubleshooting](docs/troubleshooting.md)**
+* **Example configs and more inside `P2V_scripts/config/`**
 
-All changes and errors are logged under P2V_UM_data/output/logs/
+---
 
-Development & Contribution
-All code is PowerShell 5.1 compatible.
+## 🛠️ Module Overview
 
-Module loading and variable exporting follow PowerShell best practices.
+| Module                 | Purpose                              |
+| ---------------------- | ------------------------------------ |
+| P2V\_config.psm1       | Global variables, paths, and setup   |
+| P2V\_dialog\_func.psm1 | Dialog/confirmation UI utilities     |
+| P2V\_AD\_func.psm1     | Active Directory queries/helpers     |
+| P2V\_PS\_func.psm1     | REST API, P2V tenant ops             |
+| lib/                   | Stand-alone scripts for bulk actions |
 
-PRs welcome! Please submit issues for bugs or enhancement requests.
+---
 
-License
-MIT License (or your actual license here)
+## 📷 Screenshots
 
-Author
-Martin Kufner
-with enhancements and maintenance by [your name or GitHub handle]
+> *Add your own!*
+
+<img src="docs/img/main_gui.png" width="600" alt="Main GUI" />
+
+---
+
+## 🤝 Contributing
+
+* PRs, issues, and feedback are welcome!
+* See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## ⚠️ License
+
+This project uses a custom or internal license. See [LICENSE](LICENSE) or contact the author for details.
+
+---
+
+## 🙏 Credits
+
+* Main author: Martin Kufner
+* Enterprise support by OMV Group
+* Special thanks to all testers and contributors
+
+---
+
+```
+
+---
+
+**Tips:**
+- Add a screenshot of the GUI (e.g., to `docs/img/main_gui.png`)
+- Fill in your GitHub org/repo link and license details
+- Optionally, add FAQ, changelog, or more detailed docs as your project grows
+
+---
+
+Want this as a file, or should I tailor for private/internal use?  
+If you give me a screenshot (or mockup), I’ll add it!
+```
