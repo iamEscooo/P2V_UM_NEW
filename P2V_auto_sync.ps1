@@ -40,6 +40,8 @@ function Get-PSGroupList {
 
 function GetProfileFromAD {
     param([string]$XKey)
+    # Translate AD group memberships to P2V profile names.  The mapping is read
+    # from $adgroupfile automatically, no manual selection required.
     $adGroups = Get-ADPrincipalGroupMembership -Identity $XKey | Select-Object -ExpandProperty Name
     $map      = Import-Csv $adgroupfile | Where-Object { $_.category -eq 'PROFILE' }
     $profiles = foreach ($g in $adGroups) {

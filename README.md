@@ -45,8 +45,14 @@ permissions across all configured tenants.  Example usage:
 ```
 
 Optional parameters include `-TenantFilter` to limit the tenants processed and
-`-WhatIf` to preview the changes without sending them to the API.
+`-WhatIf` to preview the changes without sending them to the API. Use
+`-IncludeInactive` to also process disabled AD accounts.
 
+The script reads the AD group to profile mapping and profile-to-workgroup rules
+directly from the CSV files in `P2V_scripts/config`, so no manual file selection
+is required.
+=======
+`-WhatIf` to preview the changes without sending them to the API.
 `P2V_init` automatically sets `$workdir` based on the script location so no additional configuration is required.
 
 ## Suggested enhancements
