@@ -34,6 +34,26 @@ The form offers actions like:
 - Synchronising AD group memberships with P2V profiles.
 - Exporting user and group information for reporting.
 
+### Automated sync
+
+For command line usage a helper `P2V_auto_sync.ps1` is provided.  The script
+prompts for an AD user, resolves the profiles from the configured
+`DLG.P2V.*` groups and shows the workgroups that would be synchronised.  After
+confirming the selection you choose the tenant(s) to update.  Example usage:
+
+```powershell
+./P2V_auto_sync.ps1 -Verbose
+```
+
+Optional parameters include `-TenantFilter` to limit the tenants processed,
+`-User` to preselect the AD account, and `-WhatIf` to preview the changes
+without sending them to the API. Use `-IncludeInactive` to also process
+disabled AD accounts.
+
+The script reads the AD group to profile mapping and profile-to-workgroup rules
+directly from the CSV files in `P2V_scripts/config`, so no manual file selection
+is required.
+
 `P2V_init` automatically sets `$workdir` based on the script location so no additional configuration is required.
 
 ## Suggested enhancements
