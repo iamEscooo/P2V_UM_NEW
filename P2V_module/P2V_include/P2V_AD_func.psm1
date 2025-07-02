@@ -379,9 +379,10 @@ Function get_AD_user_GUI
   $Readuser.Acceptbutton = $u_search_button
   $Readuser.Cancelbutton = $cancelbutton
   $Readuser.controls.AddRange(@($u_label,$u_input,$u_search_button,$okbutton,$cancelbutton,$UserInfo))
-  $Readuser.ShowDialog()
-   
-  #return  $script:rc
+  $result = $Readuser.ShowDialog()
+
+  # ensure a simple string is returned so callers can compare to 'OK'
+  return $result.ToString()
  }
  
 #---------------------------------------------------
