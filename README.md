@@ -1,77 +1,138 @@
 # P2V User Management
 
-This repository hosts the PowerShell implementation used to manage users and permissions in the **Plan2Value** (P2V) environment. The primary entry point is `P2V_UserMgmt_20.ps1` which launches a Windows Forms interface for Active Directory lookups and for interacting with multiple P2V tenants via REST APIs.
+## Overview
 
-## Repository layout
+**P2V_UserMgmt_20** is a comprehensive PowerShell toolkit for managing users and permissions in complex enterprise environments. It provides a Windows Forms GUI for both Active Directory operations and seamless integration with the Plan2Value (P2V) REST API, supporting bulk operations, profile synchronization, group mapping, and more.
 
-- **P2V_UserMgmt_20.ps1** – GUI script that imports all modules and provides buttons for the common tasks.
-- **P2V_module/** – manifest files plus the `P2V_include` folder containing the actual modules:
-  - `P2V_config.psm1` – defines global variables and helper `P2V_init`.
-  - `P2V_dialog_func.psm1` – small dialog utilities like `ask_continue`.
-  - `P2V_AD_func.psm1` – functions for querying Active Directory.
-  - `P2V_PS_func.psm1` – functions that call the P2V REST API.
-- **lib/** – stand‑alone scripts for bulk operations such as exporting users, setting profiles or calculating group assignments.
-- **P2V_scripts/config/** – configuration CSV files for tenants, groups and profiles.
-- **P2V_UM_data/** – output directory where logs and exports are written.
+This project is modular, highly configurable via CSV files, and suitable for multi-tenant scenarios.
 
-## Prerequisites
+---
 
-- **PowerShell 5.1** or later on Windows (the GUI relies on `System.Windows.Forms`).
-- Network access to the P2V tenants and Active Directory.
+## Features
 
-## Usage
+- **Windows Forms GUI** for intuitive user and group management.
+- **Active Directory Integration:**  
+  - Query users, groups, and memberships  
+  - Export user lists  
+  - Interactive selection dialogs
+- **P2V REST API Integration:**  
+  - Sync users and group memberships  
+  - Activate, deactivate, lock, unlock users  
+  - Patch and update user profiles, workgroups, and access rights
+- **Bulk Operations:**  
+  - Execute batch jobs via scripts in `lib/`
+  - Automate group and profile assignments
+- **Configurable:**  
+  - All tenants, groups, and profiles defined in CSV files (under `P2V_scripts/config/`)
+- **Logging:**  
+  - Detailed logs written per session in `P2V_UM_data/output/logs/`
+- **Extensible:**  
+  - Modular design with self-contained PowerShell modules
+- **Multi-tenant aware:**  
+  - Designed for environments with multiple AD domains and P2V tenants
 
-Start a PowerShell console, change to this directory and run:
+---
 
-```powershell
-.\P2V_UserMgmt_20.ps1
-```
-The form offers actions like:
+## Repository Layout
 
-- Searching AD users and checking their P2V accounts.
-- Locking/unlocking or activating/deactivating users across tenants.
-- Synchronising AD group memberships with P2V profiles.
-- Exporting user and group information for reporting.
+```plaintext
+P2V_UserMgmt_20.ps1         # Main script (launches the GUI and imports all modules)
+P2V_module/                 # Module manifests (.psd1)
+    P2V_config.psd1
+    P2V_dialog_func.psd1
+    P2V_AD_func.psd1
+    P2V_PS_func.psd1
+    P2V_include.psd1
+P2V_include/                # Actual module implementations (.psm1)
+    P2V_config.psm1
+    P2V_dialog_func.psm1
+    P2V_AD_func.psm1
+    P2V_PS_func.psm1
+    P2V_include.psm1
+lib/                        # Stand-alone/bulk PowerShell scripts
+P2V_scripts/
+    config/                 # Configuration CSV files (tenants, groups, profiles, etc.)
+P2V_UM_data/                # Output directory (logs, dashboards, data exports)
+Getting Started
+Prerequisites
+PowerShell 5.1 (Windows PowerShell)
 
-### Automated sync
+Active Directory Module
+(Install via RSAT or Install-WindowsFeature -Name "RSAT-AD-PowerShell")
 
-For command line usage a helper `P2V_auto_sync.ps1` is provided.  The script
-prompts for an AD user, resolves the profiles from the configured
-`DLG.P2V.*` groups and shows the workgroups that would be synchronised.  After
-confirming the selection you choose the tenant(s) to update.  Example usage:
+Network connectivity to your AD and P2V REST API endpoints
 
-For scheduled environments a non-interactive helper `P2V_auto_sync.ps1` is
-provided.  It scans AD for `DLG.P2V.*` groups and applies the matching profile
-permissions across all configured tenants.  Example usage:
+Properly configured CSV files in P2V_scripts/config/ (see below)
 
-```powershell
-./P2V_auto_sync.ps1 -Verbose
-```
+Installation
+Clone the repository:
 
-Optional parameters include `-TenantFilter` to limit the tenants processed,
-`-User` to preselect the AD account, and `-WhatIf` to preview the changes
-without sending them to the API. Use `-IncludeInactive` to also process
-disabled AD accounts.
+sh
+Copy
+Edit
+git clone https://github.com/<your-org>/P2V_UserMgmt_20.git
+Adjust configuration:
 
-Optional parameters include `-TenantFilter` to limit the tenants processed and
-`-WhatIf` to preview the changes without sending them to the API. Use
-`-IncludeInactive` to also process disabled AD accounts.
+Edit CSV files in P2V_scripts/config/ for tenants, AD groups, profiles, etc.
 
-The script reads the AD group to profile mapping and profile-to-workgroup rules
-directly from the CSV files in `P2V_scripts/config`, so no manual file selection
-is required.
+Launch the GUI:
 
-`-WhatIf` to preview the changes without sending them to the API.
+sh
+Copy
+Edit
+powershell -ExecutionPolicy Bypass -File .\P2V_UserMgmt_20.ps1
+Configuration
+All tenant, group, and profile definitions are managed via CSV files in P2V_scripts/config/:
 
-`P2V_init` automatically sets `$workdir` based on the script location so no additional configuration is required.
+File	Purpose
+P2V_tenants.csv	List of tenants, API endpoints, etc.
+P2V_adgroups.csv	Mapping of AD groups to P2V profiles
+P2V_profiles.csv	Profile definitions
+data_groups.csv	Data group mappings
+TAG_config.csv	Tagging and metadata settings
+P2V_BD.csv	Business Domain group mapping
+P2V_BD_projects.csv	Project-specific group mapping
+P2V_menu.csv	Customization of the GUI menu
 
-## Suggested enhancements
+Sample templates are provided in the repo. Ensure you update these to reflect your environment.
 
-- **Module refactor** – combining the individual `*.psm1` files into a proper PowerShell module would simplify deployment and allow versioning.
-- **Automated tests** – unit tests for the helper functions (e.g. in `P2V_AD_func.psm1`) would improve reliability.
-- **Non‑interactive mode** – exposing core functionality as cmdlets would enable automation without the GUI.
-- **Configuration** – consider migrating the CSV configuration files to a structured format such as JSON for easier validation.
+Module Breakdown
+Each module is defined by a manifest (.psd1) and implemented in a .psm1 file under P2V_include/:
 
-## License
+Module	Purpose
+P2V_config	Global variables, directory paths, init functions
+P2V_dialog_func	Windows Forms dialogs, user prompts, confirmations
+P2V_AD_func	Active Directory queries, user/group lookups
+P2V_PS_func	REST API (P2V) interactions and user management
+P2V_include	Utility functions, logging, orchestration, glue code
 
-This project currently has no explicit license. Add one if distribution is intended.
+Usage
+General workflow:
+
+Launch the main script (P2V_UserMgmt_20.ps1)
+
+Use the GUI to:
+
+Query and manage AD users/groups
+
+Sync users between AD and P2V tenants
+
+Patch, activate, deactivate, lock, or unlock users
+
+Run bulk operations from the "lib" menu
+
+All changes and errors are logged under P2V_UM_data/output/logs/
+
+Development & Contribution
+All code is PowerShell 5.1 compatible.
+
+Module loading and variable exporting follow PowerShell best practices.
+
+PRs welcome! Please submit issues for bugs or enhancement requests.
+
+License
+MIT License (or your actual license here)
+
+Author
+Martin Kufner
+with enhancements and maintenance by [your name or GitHub handle]
