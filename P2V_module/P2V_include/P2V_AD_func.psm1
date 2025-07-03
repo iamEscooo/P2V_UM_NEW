@@ -351,10 +351,14 @@ $okbutton.Add_Click({
         $script:rc = $True
         $Readuser.Close()
     } else {
-        [System.Windows.Forms.MessageBox]::Show("No user selected. Please search and select a user before continuing.","No User Selected",[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning)
+        [System.Windows.Forms.MessageBox]::Show(
+            "No user selected. Please search and select a user before continuing.",
+            "No User Selected",
+            [System.Windows.Forms.MessageBoxButtons]::OK,
+            [System.Windows.Forms.MessageBoxIcon]::Warning
+        )
     }
 })
-
   $cancelbutton = New-Object system.Windows.Forms.Button
   $cancelbutton.width = 140	
   $cancelbutton.height = 25
