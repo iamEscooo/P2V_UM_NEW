@@ -160,6 +160,79 @@ function Paint_FocusBorder([System.Windows.Forms.Control]$control) {
     $rect.Inflate(1,1)
     $parent.CreateGraphics().DrawRectangle($pen, $rect)
 }
+##### to be moved to a module
+function Assign-P2VProfile {
+    param (
+        [Parameter(Mandatory=$true)]
+        [object]$User
+    )
+    $xkey = $User.SamAccountName
+    $upn  = $User.UserPrincipalName
+
+    function GetProfileFromAD {
+        param([string]$xkey)
+        $profiles   = @()
+        $adGroups   = Get-ADPrincipalGroupMembership -Identity $xkey | Select -ExpandProperty Name
+        $map        = Import-Csv $adgroupfile | Where-Object { $_.category -eq 'PROFILE' }
+        foreach ($g in $adGroups) {
+            $hit = $map | Where-Object { $_.ADgroup -eq $g }
+            if ($hit) { $profiles += $hit.PSgroup }
+        }
+        $profiles | Select -Unique
+    }
+
+    #---- determine profile from AD
+    $profiles = GetProfileFromAD -xkey $xkey
+    if (!$profiles) {
+        [System.Windows.Forms.MessageBox]::Show("No profile detected from AD. Please select manually.","No Profile Detected",[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning)
+        $all = Import-Csv "$config_path/SEC20_profiles_workgroups.csv" | Select -ExpandProperty profile -Unique
+        $sel = $all | Out-GridView -Title 'Select profile' -OutputMode Single
+        if ($sel) { $profiles = @($sel) } else { return }
+    }
+
+    #---- build profile to group mapping
+    $profileGroups = @{}
+    Import-Csv "$config_path/SEC20_profiles_workgroups.csv" | ForEach-Object {
+        $profileGroups[$_.profile] += @($_.groups)
+    }
+
+    #---- select tenants
+    $tenants = select_PS_tenants -multiple $true -all $false
+    foreach ($key in $tenants.Keys) {
+        $t = $tenants[$key]
+        $userEntry = P2V_get_userlist -tenant $t | Where-Object { $_.logOnId -eq $upn }
+        if (!$userEntry) {
+            [System.Windows.Forms.MessageBox]::Show("$upn not found in tenant $($t.tenant)","User Not Found",[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning)
+            continue
+        }
+
+        $groups  = Get-PSGroupList -tenant $t
+        $gIndex  = @{}
+        $groups  | ForEach-Object { $gIndex[$_.name] = $_.id }
+
+        $update  = @{}
+        foreach ($p in $profiles) {
+            foreach ($wg in $profileGroups[$p]) {
+                $gid = $gIndex[$wg]
+                if ($gid) {
+                    if (-not $update.ContainsKey($gid)) { $update[$gid] = @() }
+                    $update[$gid] += [PSCustomObject]@{ op='add'; path="/users/$($userEntry.id)"; value='' }
+                }
+            }
+        }
+
+        if ($update.Count -gt 0) {
+            $body = $update | ConvertTo-Json
+            if ($update.Count -eq 1) { $body = "[ $body ]" }
+            $body = [System.Text.Encoding]::UTF8.GetBytes($body)
+            $apiUrl = "$($t.ServerURL)/$($t.tenant)/planningspace/api/v1/workgroups/bulk"
+            Invoke-RestMethod -Uri $apiUrl -Method Patch -Headers @{Authorization="Basic $($t.base64AuthInfo)"} -Body $body -ContentType 'application/json'
+            [System.Windows.Forms.MessageBox]::Show("Updated tenant $($t.tenant)","Success",[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Information)
+        } else {
+            [System.Windows.Forms.MessageBox]::Show("No groups to update for tenant $($t.tenant)","Info",[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Information)
+        }
+    }
+}
 #-------------------------------------------------
 #---- Usageinfo
 
