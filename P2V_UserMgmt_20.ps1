@@ -162,12 +162,11 @@ function Paint_FocusBorder([System.Windows.Forms.Control]$control) {
 }
 ##### to be moved to a module
 function Assign-P2VProfile {
-    param (
-        [Parameter(Mandatory=$true)]
-        [object]$User
-    )
+    param ([object]$User)
+    Write-P2VDebug "Assign-P2VProfile started for $($User.SamAccountName)"
     $xkey = $User.SamAccountName
     $upn  = $User.UserPrincipalName
+    Write-P2VDebug "xkey: $xkey, upn: $upn"
 
     function GetProfileFromAD {
         param([string]$xkey)
@@ -1061,15 +1060,16 @@ $ButtonAssignProfile.Add_Click({
         $statusfield.backcolor = "0,192,0"
         $statusfield.text = "finished !"
         $Form.Refresh()
-    } catch {
-        $TextBox1.AppendText("Error: $_`r`n")
-        $TextBox1.Select($TextBox1.Text.Length, 0)
-        $TextBox1.ScrollToCaret()
-        $ProgressBar1.Value = 100
-        $statusfield.backcolor = "Red"
-        $statusfield.text = "error !"
-        $Form.Refresh()
-    }
+catch {
+    $TextBox1.AppendText("Error: $($_ | Out-String)`r`n")
+    Write-P2VDebug "ERROR Exception: $($_ | Out-String)"
+    $TextBox1.Select($TextBox1.Text.Length, 0)
+    $TextBox1.ScrollToCaret()
+    $ProgressBar1.Value = 100
+    $statusfield.backcolor = "Red"
+    $statusfield.text = "error !"
+    $Form.Refresh()
+}
 })
 
 $Form.Controls.Add($ButtonAssignProfile)
