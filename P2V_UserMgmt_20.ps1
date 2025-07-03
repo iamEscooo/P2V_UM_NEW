@@ -171,7 +171,23 @@ function Assign-P2VProfile {
     function GetProfileFromAD {
         param([string]$xkey)
         $profiles   = @()
-        $adGroups   = Get-ADPrincipalGroupMembership -Identity $xkey | Select -ExpandProperty Name
+try {
+            $adGroups = Get-ADPrincipalGroupMembership -Identity $xkey | Select -ExpandProperty Name
+        } catch {
+            Write-P2VDebug "Get-ADPrincipalGroupMembership failed: $($_ | Out-String)"
+            # Fallback: enumerate group membership manually
+            $adGroups = Get-ADUser $xkey -Properties MemberOf | Select-Object -ExpandProperty MemberOf |
+                ForEach-Object {
+                    ($_ -split ',')[0] -replace '^CN='
+                }
+        }
+        $map        = Import-Csv $adgroupfile | Where-Object { $_.category -eq 'PROFILE' }
+        foreach ($g in $adGroups) {
+            $hit = $map | Where-Object { $_.ADgroup -eq $g }
+            if ($hit) { $profiles += $hit.PSgroup }
+        }
+        $profiles | Select -Unique
+    }
         $map        = Import-Csv $adgroupfile | Where-Object { $_.category -eq 'PROFILE' }
         foreach ($g in $adGroups) {
             $hit = $map | Where-Object { $_.ADgroup -eq $g }
