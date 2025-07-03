@@ -1060,16 +1060,17 @@ $ButtonAssignProfile.Add_Click({
         $statusfield.backcolor = "0,192,0"
         $statusfield.text = "finished !"
         $Form.Refresh()
-catch {
-    $TextBox1.AppendText("Error: $($_ | Out-String)`r`n")
-    Write-P2VDebug "ERROR Exception: $($_ | Out-String)"
-    $TextBox1.Select($TextBox1.Text.Length, 0)
-    $TextBox1.ScrollToCaret()
-    $ProgressBar1.Value = 100
-    $statusfield.backcolor = "Red"
-    $statusfield.text = "error !"
-    $Form.Refresh()
-}
+    }
+    catch {
+        $TextBox1.AppendText("Error: $($_ | Out-String)`r`n")
+        Write-P2VDebug "ERROR Exception: $($_ | Out-String)"
+        $TextBox1.Select($TextBox1.Text.Length, 0)
+        $TextBox1.ScrollToCaret()
+        $ProgressBar1.Value = 100
+        $statusfield.backcolor = "Red"
+        $statusfield.text = "error !"
+        $Form.Refresh()
+    }
 })
 
 $Form.Controls.Add($ButtonAssignProfile)
