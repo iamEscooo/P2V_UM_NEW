@@ -1,8 +1,0 @@
-﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
-Stürzenbecher Sascha,SASCHA15,SAML2,,sascha.stuerzenbecher@omv.com,sascha.stuerzenbecher@omv.com,FEF-G Governance & Accounting,,FALSE,
-Tenghea Emanuel,EMANUEL15,SAML2,,Emanuel.Tenghea@omv.com,Emanuel.Tenghea@omv.com,EETE-P Petrotechnical AppStore,,FALSE,
-Traistaru Lucica-Tuti,X01000929,SAML2,,Lucica-Tuti.Traistaru@omv.com,Lucica-Tuti.Traistaru@omv.com,PED-R Reserves,,FALSE,
-Alexandrescu Octavian,X01024487,SAML2,,Octavian.Alexandrescu@petrom.com,Octavian.Alexandrescu@petrom.com,PED-R Reserves,,FALSE,
-Kufner Martin,X449222,SAML2,,Martin.Kufner@omv.com,Martin.Kufner@omv.com,EETE-P Petrotechnical AppStore,,FALSE,
-Obreajan Mihai,X01000954,SAML2,,Mihai.Obreajan@petrom.com,Mihai.Obreajan@petrom.com,PED-R Reserves,,FALSE,
-Pop Anca-Mariana,X01000877,SAML2,,Anca-Mariana.Pop@petrom.com,Anca-Mariana.Pop@petrom.com,PED-R Reserves,,FALSE,

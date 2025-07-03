@@ -1,7 +1,0 @@
-﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
-Armitage-Hobbs Simon,SIMON41,SAML2,,Simon.Hobbs@omv.com,Simon.Hobbs@omv.com,EDPS-S Surface Technical Services,,FALSE,
-Ementon Neil Andrew,NEIL08,SAML2,,Neil.Ementon@omv.com,Neil.Ementon@omv.com,EE-A Value Assurance,,FALSE,
-Mallinson Ian,IAN006,SAML2,,Ian.Mallinson@omv.com,Ian.Mallinson@omv.com,EMYO-X Exploration & Appraisal,,FALSE,
-Bieg Ulrich,ULRICH2,SAML2,,Ulrich.Bieg@omv.com,Ulrich.Bieg@omv.com,ED-E Exploration,,FALSE,
-Bulgariu Razvan,X01001805,SAML2,,Razvan.Bulgariu@omv.com,Razvan.Bulgariu@omv.com,FE-E Economics & Planning,,FALSE,
-Köhazy Robert,X011458,SAML2,,Robert.Koehazy@omv.com,Robert.Koehazy@omv.com,EDES-O Exploration Operations,,FALSE,

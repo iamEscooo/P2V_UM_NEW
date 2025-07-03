@@ -1,7 +1,0 @@
-﻿[2021-12-03 11:23:10] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [get_ps_users_and_groups]
-[2021-12-03 11:26:59] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [update_ps_users_and_groups.ps1]
-[2021-12-03 11:27:49] - [INFO]  Workgroup bd.020.deny exists in PlanningSpace but not in the workgroups CSV file. Please check if this workgroup needs to be removed. 1
-[2021-12-03 11:27:49] - [INFO]  Workgroup bd.020.allow exists in PlanningSpace but not in the workgroups CSV file. Please check if this workgroup needs to be removed. 1
-[2021-12-03 11:47:30] - [INFO] directory  created
-[2021-12-03 11:47:31] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_sync_user_new]
-[2021-12-03 11:48:02] - [INFO] [WW/adminx449222] on [SOMVAT502676] started [P2V_sync_user]

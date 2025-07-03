@@ -1,4 +1,0 @@
-﻿Name,Login ID,Authentication method,Domain,UPN,Email,Description,Expiry date,Locked
- ,svc.ww.at.p2vmonitoring,SAML2,,svc.ww.at.p2vmonitoring@ww.omv.com,,,,FALSE,
-Kufner Martin,s.ww.adminx449222,SAML2,,adminx449222@ww.omv.com,,EIE-P Petrotechnical AppStore,,FALSE,
-Ivanciu Adrian-Mihail,s.ww.adminadrian75,SAML2,,adminadrian75@ww.omv.com,,EETEEP-P Platforms,,FALSE,
