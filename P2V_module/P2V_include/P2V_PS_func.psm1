@@ -391,7 +391,7 @@ Function NEW_P2V_super_sync
 	
 	
 }
-
+#-----------------------------------------------------------------
 <#  documentation
 .SYNOPSIS
 	short  BLABLA
@@ -435,7 +435,21 @@ param(
   [bool]$debug = $false
   
 )
+#-----------------------------------------------------------------
+function Get-UserADGroups {
+    param([string]$SamAccountName)
+    try {
+        Get-ADPrincipalGroupMembership -Identity $SamAccountName | Select -ExpandProperty Name
+    } catch {
+        Write-P2VDebug "Get-ADPrincipalGroupMembership failed for $SamAccountName: $($_ | Out-String)"
+        # Fallback: enumerate group membership manually
+        Get-ADUser $SamAccountName -Properties MemberOf | Select-Object -ExpandProperty MemberOf |
+            ForEach-Object { ($_ -split ',')[0] -replace '^CN=' }
+    }
+}
+Export-ModuleMember -Function Get-UserADGroups
 
+#-----------------------------------------------------------------
 #----- Set config variables
 
 $output_path = $output_path_base + "\$My_name"
@@ -864,7 +878,6 @@ foreach ($ts in $tenants.keys)
  P2V_footer -app $MyInvocation.MyCommand
 }
 #
-
 
 
 #=================================================================
