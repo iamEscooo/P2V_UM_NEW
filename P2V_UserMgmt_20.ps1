@@ -1020,7 +1020,21 @@ $Button14.Add_Click({
 })
 
 #-------------------------------------------------
-#--  Assign Profile Button
+# --- Debugging setup ---
+$global:P2V_Debug = $true # Set to $false to turn off debug globally
+
+function Write-P2VDebug {
+    param([string]$msg)
+    if ($global:P2V_Debug) {
+        if ($TextBox1) {
+            $TextBox1.AppendText("DEBUG: $msg`r`n")
+        } else {
+            Write-Host "DEBUG: $msg"
+        }
+    }
+}
+
+# --- Assign Profile Button ---
 $ButtonAssignProfile = New-Object System.Windows.Forms.Button
 $ButtonAssignProfile.text = "Assign Profile"
 $ButtonAssignProfile.Enabled = $true
@@ -1036,19 +1050,20 @@ $ButtonAssignProfile.Add_Click({
     $statusfield.text = "running ..."
     $Form.Refresh()
 
-    # Use the same user check as other buttons
+    Write-P2VDebug "Assign Profile button clicked"
+    Write-P2VDebug "usr_xkey = $usr_xkey"
+    Write-P2VDebug "global:usr_sel = $($global:usr_sel | Out-String)"
+
     if (!$usr_xkey) {
         ask_continue -title "missing user" -msg "Please select user first" -button 0 -icon 48
         $statusfield.text = "aborted !"
         $Form.Refresh()
+        Write-P2VDebug "No user selected, aborting."
         return
     }
 
     try {
-        # Show a message or ask_continue if you need confirmation
-        # ask_continue -title "Assign Profile" -msg "Are you sure?" -button 0 -icon 64
-
-        # Capture output from the profile assignment
+        Write-P2VDebug "Calling Assign-P2VProfile"
         Assign-P2VProfile -User $global:usr_sel | Out-String -Stream | ForEach-Object {
             $TextBox1.AppendText("$_`r`n")
             $TextBox1.Select($TextBox1.Text.Length, 0)
@@ -1056,6 +1071,7 @@ $ButtonAssignProfile.Add_Click({
             $ProgressBar1.Value = ($ProgressBar1.Value + 2 ) % 100
             $Form.Refresh()
         }
+        Write-P2VDebug "Assign-P2VProfile completed"
         $ProgressBar1.Value = 100
         $statusfield.backcolor = "0,192,0"
         $statusfield.text = "finished !"
