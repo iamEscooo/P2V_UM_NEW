@@ -247,7 +247,7 @@ try {
             [System.Windows.Forms.MessageBox]::Show("No groups to update for tenant $($t.tenant)","Info",[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Information)
         }
     }
-}
+
 #-------------------------------------------------
 #---- Usageinfo
 
