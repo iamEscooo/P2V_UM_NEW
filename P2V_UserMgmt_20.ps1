@@ -161,40 +161,33 @@ function Paint_FocusBorder([System.Windows.Forms.Control]$control) {
     $parent.CreateGraphics().DrawRectangle($pen, $rect)
 }
 ##### to be moved to a module
+function GetProfileFromAD {
+    param([string]$xkey)
+    $profiles = @()
+    try {
+        $adGroups = Get-ADPrincipalGroupMembership -Identity $xkey | Select -ExpandProperty Name
+    } catch {
+        Write-P2VDebug "Get-ADPrincipalGroupMembership failed: $($_ | Out-String)"
+        # Fallback: enumerate group membership manually
+        $adGroups = Get-ADUser $xkey -Properties MemberOf | Select-Object -ExpandProperty MemberOf |
+            ForEach-Object {
+                ($_ -split ',')[0] -replace '^CN='
+            }
+    }
+    $map = Import-Csv $adgroupfile | Where-Object { $_.category -eq 'PROFILE' }
+    foreach ($g in $adGroups) {
+        $hit = $map | Where-Object { $_.ADgroup -eq $g }
+        if ($hit) { $profiles += $hit.PSgroup }
+    }
+    $profiles | Select -Unique
+}
+
 function Assign-P2VProfile {
     param ([object]$User)
     Write-P2VDebug "Assign-P2VProfile started for $($User.SamAccountName)"
     $xkey = $User.SamAccountName
     $upn  = $User.UserPrincipalName
     Write-P2VDebug "xkey: $xkey, upn: $upn"
-
-    function GetProfileFromAD {
-        param([string]$xkey)
-        $profiles   = @()
-try {
-            $adGroups = Get-ADPrincipalGroupMembership -Identity $xkey | Select -ExpandProperty Name
-        } catch {
-            Write-P2VDebug "Get-ADPrincipalGroupMembership failed: $($_ | Out-String)"
-            # Fallback: enumerate group membership manually
-            $adGroups = Get-ADUser $xkey -Properties MemberOf | Select-Object -ExpandProperty MemberOf |
-                ForEach-Object {
-                    ($_ -split ',')[0] -replace '^CN='
-                }
-        }
-        $map        = Import-Csv $adgroupfile | Where-Object { $_.category -eq 'PROFILE' }
-        foreach ($g in $adGroups) {
-            $hit = $map | Where-Object { $_.ADgroup -eq $g }
-            if ($hit) { $profiles += $hit.PSgroup }
-        }
-        $profiles | Select -Unique
-    }
-        $map        = Import-Csv $adgroupfile | Where-Object { $_.category -eq 'PROFILE' }
-        foreach ($g in $adGroups) {
-            $hit = $map | Where-Object { $_.ADgroup -eq $g }
-            if ($hit) { $profiles += $hit.PSgroup }
-        }
-        $profiles | Select -Unique
-    }
 
     #---- determine profile from AD
     $profiles = GetProfileFromAD -xkey $xkey
@@ -247,6 +240,7 @@ try {
             [System.Windows.Forms.MessageBox]::Show("No groups to update for tenant $($t.tenant)","Info",[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Information)
         }
     }
+}
 
 #-------------------------------------------------
 #---- Usageinfo
