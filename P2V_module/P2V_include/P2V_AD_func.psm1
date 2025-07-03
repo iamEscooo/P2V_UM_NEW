@@ -346,14 +346,14 @@ Function get_AD_user_GUI
   $okbutton.Anchor= "Top,Bottom, Left, Right"
   $okbutton.Text = "continue"
   $okbutton.DialogResult = [System.Windows.Forms.DialogResult]::OK
-  $okbutton.Add_Click({
+$okbutton.Add_Click({
     if ($global:usr_sel) {
         $script:rc = $True
         $Readuser.Close()
     } else {
         [System.Windows.Forms.MessageBox]::Show("No user selected. Please search and select a user before continuing.","No User Selected",[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning)
-        }
-  })
+    }
+})
 
   $cancelbutton = New-Object system.Windows.Forms.Button
   $cancelbutton.width = 140	
