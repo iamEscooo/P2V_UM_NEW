@@ -38,10 +38,21 @@ if (get_AD_user_GUI -title 'Select AD user' -ne 'OK') {
     Write-Warning 'No user selected.'
     return
 }
+$guiResult = get_AD_user_GUI -title 'Select AD user'
+Write-Host "get_AD_user_GUI returned: $guiResult"
+Write-Host "`$global:usr_sel is: $($global:usr_sel | Out-String)"
+
+if ($guiResult -ne 'OK') {
+    Write-Warning 'No user selected.'
+    return
+}
+
 $user = $global:usr_sel
-$xkey = $user.SamAccountName
-$upn  = $user.UserPrincipalName
-Write-Output "User: $($user.displayName) ($xkey)"
+if (-not $user) {
+    Write-Warning "No user object found in `$global:usr_sel"
+    return
+}
+Write-Host "Selected user object: $($user | Out-String)"
 
 #---- determine profile from AD
 $profiles = GetProfileFromAD -xkey $xkey
