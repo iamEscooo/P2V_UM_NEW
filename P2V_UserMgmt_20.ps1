@@ -1020,6 +1020,55 @@ $Button14.Add_Click({
 	
 })
 
+#-------------------------------------------------
+#--  Assign Profile Button
+$ButtonAssignProfile = New-Object System.Windows.Forms.Button
+$ButtonAssignProfile.text = "Assign Profile"
+$ButtonAssignProfile.Enabled = $true
+$ButtonAssignProfile.width = 140
+$ButtonAssignProfile.height = 25
+$ButtonAssignProfile.location = New-Object System.Drawing.Point(15, 685)  # adjust as needed
+$ButtonAssignProfile.Font = 'Microsoft Sans Serif, 8.25pt'
+
+$ButtonAssignProfile.Add_Click({
+    $TextBox1.lines = $ButtonAssignProfile.text
+    $ProgressBar1.Value = 0
+    $statusfield.backcolor = "Control"
+    $statusfield.text = "running ..."
+    $Form.Refresh()
+
+    if (-not $global:usr_sel) {
+        [System.Windows.Forms.MessageBox]::Show("Please select a user first.", "No User Selected", [System.Windows.Forms.MessageBoxButtons]::OK, [System.Windows.Forms.MessageBoxIcon]::Warning)
+        $statusfield.text = "aborted !"
+        $Form.Refresh()
+        return
+    }
+
+    try {
+        # Capture output from the profile assignment
+        Assign-P2VProfile -User $global:usr_sel | Out-String -Stream | ForEach-Object {
+            $TextBox1.lines = $TextBox1.lines + $_
+            $TextBox1.Select($TextBox1.Text.Length, 0)
+            $TextBox1.ScrollToCaret()
+            $ProgressBar1.Value = ($ProgressBar1.Value + 5) % 100
+            $Form.Refresh()
+        }
+        $ProgressBar1.Value = 100
+        $statusfield.backcolor = "0,192,0"
+        $statusfield.text = "finished !"
+        $Form.Refresh()
+    } catch {
+        $TextBox1.lines = $TextBox1.lines + "Error: $_"
+        $TextBox1.Select($TextBox1.Text.Length, 0)
+        $TextBox1.ScrollToCaret()
+        $ProgressBar1.Value = 100
+        $statusfield.backcolor = "Red"
+        $statusfield.text = "error !"
+        $Form.Refresh()
+    }
+})
+
+$Form.Controls.Add($ButtonAssignProfile)
 
 #-------------------------------------------------
 #--  Exitbutton
