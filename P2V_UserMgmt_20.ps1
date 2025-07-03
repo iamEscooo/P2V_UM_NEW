@@ -161,6 +161,17 @@ function Paint_FocusBorder([System.Windows.Forms.Control]$control) {
     $parent.CreateGraphics().DrawRectangle($pen, $rect)
 }
 ##### to be moved to a module
+function Write-P2VDebug {
+    param([string]$msg)
+    if ($global:P2V_Debug) {
+        if ($TextBox1) {
+            $TextBox1.AppendText("DEBUG: $msg`r`n")
+        } else {
+            Write-Host "DEBUG: $msg"
+        }
+    }
+}
+
 function GetProfileFromAD {
     param([string]$xkey)
     $profiles = @()
@@ -174,12 +185,17 @@ function GetProfileFromAD {
                 ($_ -split ',')[0] -replace '^CN='
             }
     }
+    # Only proceed if $adgroupfile is set and not empty
+    if (-not $adgroupfile -or !(Test-Path $adgroupfile)) {
+        Write-P2VDebug "adgroupfile not set or does not exist: $adgroupfile"
+        return @()
+    }
     $map = Import-Csv $adgroupfile | Where-Object { $_.category -eq 'PROFILE' }
     foreach ($g in $adGroups) {
         $hit = $map | Where-Object { $_.ADgroup -eq $g }
         if ($hit) { $profiles += $hit.PSgroup }
     }
-    $profiles | Select -Unique
+    $profiles | Select-Object -Unique
 }
 
 function Assign-P2VProfile {
@@ -216,7 +232,11 @@ function Assign-P2VProfile {
 
         $groups  = Get-PSGroupList -tenant $t
         $gIndex  = @{}
-        $groups  | ForEach-Object { $gIndex[$_.name] = $_.id }
+        if ($groups) {
+            $groups | ForEach-Object { $gIndex[$_.name] = $_.id }
+        } else {
+            Write-P2VDebug "No groups returned for tenant $($t.tenant)"
+        }
 
         $update  = @{}
         foreach ($p in $profiles) {
