@@ -34,7 +34,7 @@ function GetProfileFromAD {
 }
 
 #---- select AD user
-if (get_AD_user_GUI -title 'Select AD user' -ne 'OK') {
+if ((get_AD_user_GUI -title 'Select AD user' -ne 'OK') -or (-not $global:usr_sel)) {
     Write-Warning 'No user selected.'
     return
 }
