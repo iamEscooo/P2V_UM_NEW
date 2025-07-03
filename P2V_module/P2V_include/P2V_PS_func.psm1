@@ -114,7 +114,7 @@ Function P2V_get_userlist($tenant)
    $user_list       = @{}
    
    write-log 
-   write-output ($form3 -f  $t ,$($P2V_userlist[$t].createdate))
+   write-output ($form3 -f $t, $($P2V_userlist[$t].createdate), $($P2V_userlist[$t].count))
    if ($P2V_userlist[$t])
    {
 	   write-output ($form3 -f  $t  ,$($P2V_userlist[$t].createdate))
