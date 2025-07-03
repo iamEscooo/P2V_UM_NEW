@@ -39,6 +39,7 @@ if ((get_AD_user_GUI -title 'Select AD user' -ne 'OK') -or (-not $global:usr_sel
     return
 }
 $user = $global:usr_sel
+$user = $global:usr_sel
 $guiResult = get_AD_user_GUI -title 'Select AD user'
 Write-Host "get_AD_user_GUI returned: $guiResult"
 Write-Host "`$global:usr_sel is: $($global:usr_sel | Out-String)"
