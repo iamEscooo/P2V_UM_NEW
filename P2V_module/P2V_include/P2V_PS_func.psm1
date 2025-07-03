@@ -435,21 +435,6 @@ param(
   [bool]$debug = $false
   
 )
-#-----------------------------------------------------------------
-function Get-UserADGroups {
-    param([string]$SamAccountName)
-    try {
-        Get-ADPrincipalGroupMembership -Identity $SamAccountName | Select -ExpandProperty Name
-    } catch {
-        Write-P2VDebug "Get-ADPrincipalGroupMembership failed for $SamAccountName: $($_ | Out-String)"
-        # Fallback: enumerate group membership manually
-        Get-ADUser $SamAccountName -Properties MemberOf | Select-Object -ExpandProperty MemberOf |
-            ForEach-Object { ($_ -split ',')[0] -replace '^CN=' }
-    }
-}
-Export-ModuleMember -Function Get-UserADGroups
-
-#-----------------------------------------------------------------
 #----- Set config variables
 
 $output_path = $output_path_base + "\$My_name"
@@ -879,6 +864,36 @@ foreach ($ts in $tenants.keys)
 }
 #
 
+#=================================================================
+# NEW: Utility - Get all AD groups for a user
+#=================================================================
+<#
+.SYNOPSIS
+    Returns all Active Directory groups a user is a member of.
+
+.DESCRIPTION
+    Uses Get-ADPrincipalGroupMembership to retrieve group names for a user.
+    Falls back to parsing the MemberOf property if the primary method fails.
+
+.PARAMETER SamAccountName
+    The sAMAccountName (username) of the user whose group memberships are to be retrieved.
+
+.EXAMPLE
+    Get-UserADGroups -SamAccountName 'jdoe'
+#>
+function Get-UserADGroups {
+    param([string]$SamAccountName)
+    try {
+        Get-ADPrincipalGroupMembership -Identity $SamAccountName | Select -ExpandProperty Name
+    } catch {
+        Write-P2VDebug "Get-ADPrincipalGroupMembership failed for $SamAccountName: $($_ | Out-String)"
+        # Fallback: enumerate group membership manually
+        Get-ADUser $SamAccountName -Properties MemberOf | Select-Object -ExpandProperty MemberOf |
+            ForEach-Object { ($_ -split ',')[0] -replace '^CN=' }
+    }
+}
+
+Export-ModuleMember -Function Get-UserADGroups
 
 #=================================================================
 # Exports
