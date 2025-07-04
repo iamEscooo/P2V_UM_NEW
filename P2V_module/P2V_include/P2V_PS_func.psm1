@@ -884,9 +884,9 @@ foreach ($ts in $tenants.keys)
 function Get-UserADGroups {
     param([string]$SamAccountName)
     try {
-        Get-ADPrincipalGroupMembership -Identity $SamAccountName | Select -ExpandProperty Name
+        Get-ADPrincipalGroupMembership -Identity ${SamAccountName} | Select -ExpandProperty Name
     } catch {
-        Write-P2VDebug "Get-ADPrincipalGroupMembership failed for $SamAccountName: $($_ | Out-String)"
+        Write-P2VDebug "Get-ADPrincipalGroupMembership failed for ${SamAccountName}: $($_ | Out-String)"
         # Fallback: enumerate group membership manually
         Get-ADUser $SamAccountName -Properties MemberOf | Select-Object -ExpandProperty MemberOf |
             ForEach-Object { ($_ -split ',')[0] -replace '^CN=' }
